@@ -32,7 +32,7 @@ For the required models, we provide their download URLs. The list of models:
 * BGE: (en) https://huggingface.co/BAAI/bge-base-en-v1.5 (zh) https://huggingface.co/BAAI/bge-base-zh-v1.5
 * mBART: https://huggingface.co/facebook/mbart-large-50-many-to-many-mmt
 
-Please put the downloaded model into the folder `models`
+Please put the downloaded model into the folder in the root directory `models`
 
 ## Proprecess
 First, we need to construct term dictionary and annotate sentences. Enter the folder `preprocess-1-sth` and run:
