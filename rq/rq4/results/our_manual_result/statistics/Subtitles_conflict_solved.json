@@ -1,0 +1,5302 @@
+{
+   "It's a powerful way of solving intractable problems using natural selection.": {
+      "序号": 0,
+      "原句": "It's a powerful way of solving intractable problems using natural selection.",
+      "术语": "natural selection",
+      "原句翻译": "这是利用自然选择解决棘手问题的有效方法。",
+      "原句术语翻译": [
+         "自然选择。"
+      ],
+      "insert变异": "It's a powerful way of solving intractable problems using natural selection (a process by which heritable traits conferring survival and reproductive advantage to individuals, or related individuals, tend to be passed on to succeeding generations and become more frequent in a population, whereas other less favourable traits tend to become eliminated; the differential survival and reproduction of phenotypes).",
+      "insert变异翻译": "它是利用自然选择（赋予个体或相关个体生存和繁殖优势的遗传特征往往会传递给后代并在种群中变得更加频繁，而其他不太有利的特征往往会被消除；表型的差异生存和繁殖）解决棘手问题的有效方法。",
+      "insert术语翻译": [
+         "自然选择。"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.000000238418579
+      ],
+      "insert变异翻译去括号": "它是利用自然选择解决棘手问题的有效方法。",
+      "原句翻译去括号": "这是利用自然选择解决棘手问题的有效方法。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9833930730819702
+      ],
+      "替换变异": [
+         "It's a powerful way of solving intractable problems using natural language.",
+         "It's a powerful way of solving intractable problems using natural means."
+      ],
+      "替换术语": [
+         "natural language",
+         "natural means"
+      ],
+      "替换翻译": [
+         "这是使用自然语言解决棘手问题的有效方法。",
+         "这是使用自然手段解决棘手问题的有效方法。"
+      ],
+      "替换术语翻译": [
+         "自然语言。",
+         "自然手段。"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7334887385368347,
+         0.7981662750244141
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "I have diplomatic immunity in 46 countries.": {
+      "序号": 1,
+      "原句": "I have diplomatic immunity in 46 countries.",
+      "术语": "diplomatic immunity",
+      "原句翻译": "我在 46 个国家享有外交豁免权。",
+      "原句术语翻译": [
+         "外交豁免权"
+      ],
+      "insert变异": "I have diplomatic immunity (a diplomat's immunity to prosecution and/or litigation under local law) in 46 countries.",
+      "insert变异翻译": "我在 46 个国家/地区拥有外交豁免权（外交官根据当地法律享有免于起诉和/或诉讼的豁免权）。",
+      "insert术语翻译": [
+         "外交豁免权"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "我在 46 个国家/地区拥有外交豁免权。",
+      "原句翻译去括号": "我在 46 个国家享有外交豁免权。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9867970943450928
+      ],
+      "替换变异": [
+         "I have diplomatic relations in 46 countries.",
+         "I have diplomatic representation in 46 countries."
+      ],
+      "替换术语": [
+         "diplomatic relations",
+         "diplomatic representation"
+      ],
+      "替换翻译": [
+         "我与46个国家有外交关系。",
+         "我在 46 个国家设有外交代表处。"
+      ],
+      "替换术语翻译": [
+         "外交关系",
+         "外交代表处"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.6451598405838013,
+         0.6109657287597656
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "and they get absorbed quickly so your blood sugar zooms up.": {
+      "序号": 2,
+      "原句": "and they get absorbed quickly so your blood sugar zooms up.",
+      "术语": "blood sugar",
+      "原句翻译": "它们会很快被吸收，因此你的血糖会升高。",
+      "原句术语翻译": [
+         "血糖"
+      ],
+      "insert变异": "and they get absorbed quickly so your blood sugar (glucose in the blood) zooms up.",
+      "insert变异翻译": "它们会很快被吸收，因此您的血糖（血液中的葡萄糖）会升高。",
+      "insert术语翻译": [
+         "血糖"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "它们会很快被吸收，因此您的血糖会升高。",
+      "原句翻译去括号": "它们会很快被吸收，因此你的血糖会升高。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9759947657585144
+      ],
+      "替换变异": [
+         "and they get absorbed quickly so your blood pressure zooms up."
+      ],
+      "替换术语": [
+         "blood pressure"
+      ],
+      "替换翻译": [
+         "它们会很快被吸收，因此你的血压会升高。"
+      ],
+      "替换术语翻译": [
+         "血压"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.6748608350753784
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "But you can't say these things, and you can't use body language on the phone.": {
+      "序号": 3,
+      "原句": "But you can't say these things, and you can't use body language on the phone.",
+      "术语": "body language",
+      "原句翻译": "但你不能说这些话，也不能在电话里使用肢体语言。",
+      "原句术语翻译": [
+         "肢体语言"
+      ],
+      "insert变异": "But you can't say these things, and you can't use body language (nonverbal communication by means of facial expressions, eye behavior, gestures, posture, and the like; often thought to be involuntary) on the phone.",
+      "insert变异翻译": "但你不能说这些话，也不能在电话中使用肢体语言（通过面部表情、眼神行为、手势、姿势等进行的非语言交流；通常被认为是非自愿的）。",
+      "insert术语翻译": [
+         "肢体语言"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0000001192092896
+      ],
+      "insert变异翻译去括号": "但你不能说这些话，也不能在电话中使用肢体语言。",
+      "原句翻译去括号": "但你不能说这些话，也不能在电话里使用肢体语言。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9971124529838562
+      ],
+      "替换变异": [
+         "But you can't say these things, and you can't use sign language on the phone."
+      ],
+      "替换术语": [
+         "sign language"
+      ],
+      "替换翻译": [
+         "但你不能说这些话，也不能在电话里使用手语。"
+      ],
+      "替换术语翻译": [
+         "手语"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.5916734933853149
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "I saw you at the travel agency, where are you going?": {
+      "序号": 4,
+      "原句": "I saw you at the travel agency, where are you going?",
+      "术语": "travel agency",
+      "原句翻译": "我在旅行社看到你了，你要去哪里？",
+      "原句术语翻译": [
+         "旅行社，"
+      ],
+      "insert变异": "I saw you at the travel agency (a company that arranges travel and accommodation for travellers), where are you going?",
+      "insert变异翻译": "我在旅行社（为旅行者安排旅行和住宿的公司）看到了你，你要去哪里？",
+      "insert术语翻译": [
+         "旅行社，"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0000001192092896
+      ],
+      "insert变异翻译去括号": "我在旅行社看到了你，你要去哪里？",
+      "原句翻译去括号": "我在旅行社看到你了，你要去哪里？",
+      "insert和原句翻译去括号部分相似度": [
+         0.9937229752540588
+      ],
+      "替换变异": [
+         "I saw you at the news agency, where are you going?",
+         "I saw you at the adoption agency, where are you going?",
+         "I saw you at the employment agency, where are you going?",
+         "I saw you at the rental agency, where are you going?",
+         "I saw you at the travel office, where are you going?",
+         "I saw you at the travel center, where are you going?"
+      ],
+      "替换术语": [
+         "news agency",
+         "adoption agency",
+         "employment agency",
+         "rental agency",
+         "travel office",
+         "travel center"
+      ],
+      "替换翻译": [
+         "我在新闻社看到你了，你要去哪里？",
+         "我在收养机构看到你了，你要去哪里？",
+         "我在职业介绍所看到你了，你要去哪里？",
+         "我在租赁公司看到你了，你要去哪里？",
+         "我在旅游局看到你了，你要去哪里？",
+         "我在旅游中心看到你了，你要去哪里？"
+      ],
+      "替换术语翻译": [
+         "新闻社，",
+         "收养机构，",
+         "职业介绍所，",
+         "租赁公司，",
+         "旅游局，",
+         "旅游中心，"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.6184325814247131,
+         0.5021989941596985,
+         0.5079300999641418,
+         0.5342108011245728,
+         0.8153576850891113,
+         0.7491617798805237
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "that gobble up the iron oxide on the surface of Mars and spit out the oxygen.": {
+      "序号": 5,
+      "原句": "that gobble up the iron oxide on the surface of Mars and spit out the oxygen.",
+      "术语": "iron oxide",
+      "原句翻译": "吞噬火星表面的氧化铁并吐出氧气。",
+      "原句术语翻译": [
+         "氧化铁"
+      ],
+      "insert变异": "that gobble up the iron oxide (the compound obtained by the reaction of oxygen on iron. Either iron(II) oxide (old term ferrous oxide, chemical formula FeO) or iron(III) oxide (old term ferric oxide, chemical formula Fe2O3). Generally known as rust when hydrated) on the surface of Mars and spit out the oxygen.",
+      "insert变异翻译": "吞噬氧化铁（通过氧与铁反应获得的化合物。氧化铁（II）（旧术语氧化亚铁，化学式 FeO）或氧化铁（III）（旧术语三氧化二铁，化学式 Fe2O3）水合时一般称为铁锈）在火星表面并吐出氧气。",
+      "insert术语翻译": [
+         "氧化铁"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "吞噬氧化铁在火星表面并吐出氧气。",
+      "原句翻译去括号": "吞噬火星表面的氧化铁并吐出氧气。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9869674444198608
+      ],
+      "替换变异": [
+         "that gobble up the nitrogen oxide on the surface of Mars and spit out the oxygen.",
+         "that gobble up the hydrogen oxide on the surface of Mars and spit out the oxygen.",
+         "that gobble up the iron ore on the surface of Mars and spit out the oxygen.",
+         "that gobble up the iron crust on the surface of Mars and spit out the oxygen."
+      ],
+      "替换术语": [
+         "nitrogen oxide",
+         "hydrogen oxide",
+         "iron ore",
+         "iron crust"
+      ],
+      "替换翻译": [
+         "吞噬火星表面的氮氧化物并吐出氧气。",
+         "吞噬火星表面的氧化氢并吐出氧气。",
+         "它们吞噬火星表面的铁矿石并吐出氧气。",
+         "它们吞噬火星表面的铁壳并吐出氧气。"
+      ],
+      "替换术语翻译": [
+         "氮氧化物",
+         "氧化氢",
+         "铁矿石",
+         "铁壳"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.5992371439933777,
+         0.6743450164794922,
+         0.6421727538108826,
+         0.5572706460952759
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "You can run this simulation in real time, in front of your eyes,": {
+      "序号": 6,
+      "原句": "You can run this simulation in real time, in front of your eyes,",
+      "术语": "real time",
+      "原句翻译": "你可以在你眼前实时运行这个模拟，",
+      "原句术语翻译": [
+         "实时"
+      ],
+      "insert变异": "You can run this simulation in real time (see: real, time), in front of your eyes,",
+      "insert变异翻译": "您可以在您眼前实时运行此模拟（参见：实时），",
+      "insert术语翻译": [
+         "实时"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "您可以在您眼前实时运行此模拟，",
+      "原句翻译去括号": "你可以在你眼前实时运行这个模拟，",
+      "insert和原句翻译去括号部分相似度": [
+         0.9390600919723511
+      ],
+      "替换变异": [
+         "You can run this simulation in real life, in front of your eyes,"
+      ],
+      "替换术语": [
+         "real life"
+      ],
+      "替换翻译": [
+         "你可以在现实生活中，在你眼前运行这个模拟，"
+      ],
+      "替换术语翻译": [
+         "现实生活，"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.5698961019515991
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "Now, her mother's wedding dress Fit like a glove": {
+      "序号": 7,
+      "原句": "Now, her mother's wedding dress Fit like a glove",
+      "术语": "wedding dress",
+      "原句翻译": "现在，她母亲的婚纱像手套一样合身",
+      "原句术语翻译": [
+         "婚纱"
+      ],
+      "insert变异": "Now, her mother's wedding dress (the dress worn by a bride during a wedding ceremony, in Western culture traditionally white with a long train) Fit like a glove",
+      "insert变异翻译": "现在，她母亲的婚纱（新娘在婚礼上穿的衣服，在西方文化中传统上是白色的，带有长裙裾）像手套一样合身",
+      "insert术语翻译": [
+         "婚纱"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "现在，她母亲的婚纱像手套一样合身",
+      "原句翻译去括号": "现在，她母亲的婚纱像手套一样合身",
+      "insert和原句翻译去括号部分相似度": [
+         1.0000001192092896
+      ],
+      "替换变异": [
+         "Now, her mother's blue dress Fit like a glove",
+         "Now, her mother's favorite dress Fit like a glove"
+      ],
+      "替换术语": [
+         "blue dress",
+         "favorite dress"
+      ],
+      "替换翻译": [
+         "现在，她妈妈的蓝色裙子像手套一样合身",
+         "现在，她妈妈最喜欢的衣服像手套一样合身"
+      ],
+      "替换术语翻译": [
+         "蓝色裙子",
+         "喜欢衣服"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.4612346291542053,
+         0.4914033114910126
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "I'm working on a project that may take me up on the next space shuttle.": {
+      "序号": 8,
+      "原句": "I'm working on a project that may take me up on the next space shuttle.",
+      "术语": "space shuttle",
+      "原句翻译": "我正在开展一个项目，可能会带我登上下一艘航天飞机。",
+      "原句术语翻译": [
+         "航天飞机。"
+      ],
+      "insert变异": "I'm working on a project that may take me up on the next space shuttle (any vehicle capable of repeatedly travelling between destinations in outer space carrying people or cargo).",
+      "insert变异翻译": "我正在开展一个项目，可能会带我乘坐下一个航天飞机（任何能够在外太空目的地之间反复旅行的运载人员或货物的车辆）。",
+      "insert术语翻译": [
+         "航天飞机。"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "我正在开展一个项目，可能会带我乘坐下一个航天飞机。",
+      "原句翻译去括号": "我正在开展一个项目，可能会带我登上下一艘航天飞机。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9706596732139587
+      ],
+      "替换变异": [
+         "I'm working on a project that may take me up on the next space station.",
+         "I'm working on a project that may take me up on the next space flight.",
+         "I'm working on a project that may take me up on the next space ship."
+      ],
+      "替换术语": [
+         "space station",
+         "space flight",
+         "space ship"
+      ],
+      "替换翻译": [
+         "我正在做一个项目，可能会带我去下一个空间站。",
+         "我正在开展一个项目，可能会带我进行下一次太空飞行。",
+         "我正在做一个项目，可能会带我登上下一艘太空飞船。"
+      ],
+      "替换术语翻译": [
+         "空间站。",
+         "太空飞行。",
+         "太空飞船。"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7345376014709473,
+         0.8475633263587952,
+         0.8729985356330872
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "I'm workin' the night shift and I got a bottle of gin stashed away.": {
+      "序号": 9,
+      "原句": "I'm workin' the night shift and I got a bottle of gin stashed away.",
+      "术语": "night shift",
+      "原句翻译": "我正在上夜班，我藏了一瓶杜松子酒。",
+      "原句术语翻译": [
+         "夜班"
+      ],
+      "insert变异": "I'm workin' the night shift (a group of workers who work during the night) and I got a bottle of gin stashed away.",
+      "insert变异翻译": "我正在上夜班（一群在夜间工作的工人），我藏了一瓶杜松子酒。",
+      "insert术语翻译": [
+         "夜班"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "我正在上夜班，我藏了一瓶杜松子酒。",
+      "原句翻译去括号": "我正在上夜班，我藏了一瓶杜松子酒。",
+      "insert和原句翻译去括号部分相似度": [
+         1.0000001192092896
+      ],
+      "替换变异": [
+         "I'm workin' the morning shift and I got a bottle of gin stashed away.",
+         "I'm workin' the evening shift and I got a bottle of gin stashed away.",
+         "I'm workin' the day shift and I got a bottle of gin stashed away."
+      ],
+      "替换术语": [
+         "morning shift",
+         "evening shift",
+         "day shift"
+      ],
+      "替换翻译": [
+         "我正在上早班，我藏了一瓶杜松子酒。",
+         "我正在上晚班，藏了一瓶杜松子酒。",
+         "我正在上白班，我藏了一瓶杜松子酒。"
+      ],
+      "替换术语翻译": [
+         "早班",
+         "晚班",
+         "白班"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.726270854473114,
+         0.8864870071411133,
+         0.6842264533042908
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "My cousin Linda fell off the cruise ship.": {
+      "序号": 10,
+      "原句": "My cousin Linda fell off the cruise ship.",
+      "术语": "cruise ship",
+      "原句翻译": "我的表弟琳达从游轮上摔下来。",
+      "原句术语翻译": [
+         "游轮。"
+      ],
+      "insert变异": "My cousin Linda fell off the cruise ship (a passenger ship used for pleasure voyages, where the voyage itself and the ship's amenities are considered an essential part of the experience).",
+      "insert变异翻译": "我的表弟琳达从游轮上摔下来（一艘用于休闲航行的客船，航行本身和船上的设施被认为是体验的重要组成部分）。",
+      "insert术语翻译": [
+         "游轮。"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "我的表弟琳达从游轮上摔下来。",
+      "原句翻译去括号": "我的表弟琳达从游轮上摔下来。",
+      "insert和原句翻译去括号部分相似度": [
+         1.000000238418579
+      ],
+      "替换变异": [
+         "My cousin Linda fell off the sinking ship.",
+         "My cousin Linda fell off the cruise line."
+      ],
+      "替换术语": [
+         "sinking ship",
+         "cruise line"
+      ],
+      "替换翻译": [
+         "我的表弟琳达从正在下沉的船上掉下来。",
+         "我的表弟琳达从游轮上摔下来。"
+      ],
+      "替换术语翻译": [
+         "下沉船上。",
+         "游轮。"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.6565940976142883,
+         1.0000003576278687
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         1
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         1
+      ]
+   },
+   "They always tell you not to smoke at the gas station.": {
+      "序号": 11,
+      "原句": "They always tell you not to smoke at the gas station.",
+      "术语": "gas station",
+      "原句翻译": "他们总是告诉你不要在加油站吸烟。",
+      "原句术语翻译": [
+         "加油站。"
+      ],
+      "insert变异": "They always tell you not to smoke at the gas station (filling station / petrol station; an establishment which sells gasoline (petrol) and often also diesel).",
+      "insert变异翻译": "他们总是告诉您不要在加油站（加油站/加油站；出售汽油（汽油），通常也出售柴油的机构）吸烟。",
+      "insert术语翻译": [
+         "加油站。"
+      ],
+      "insert和原句术语翻译相似度": [
+         0.9999999403953552
+      ],
+      "insert变异翻译去括号": "他们总是告诉您不要在加油站吸烟。",
+      "原句翻译去括号": "他们总是告诉你不要在加油站吸烟。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9569995999336243
+      ],
+      "替换变异": [
+         "They always tell you not to smoke at the police station."
+      ],
+      "替换术语": [
+         "police station"
+      ],
+      "替换翻译": [
+         "他们总是告诉你不要在警察局吸烟。"
+      ],
+      "替换术语翻译": [
+         "警察局。"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.5725664496421814
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "You'd have to fill your entire parking space of one garage space": {
+      "序号": 12,
+      "原句": "You'd have to fill your entire parking space of one garage space",
+      "术语": "parking space",
+      "原句翻译": "您必须填满一个车库的整个停车位",
+      "原句术语翻译": [
+         "停车位"
+      ],
+      "insert变异": "You'd have to fill your entire parking space (a space in which a car or other vehicle can be parked) of one garage space",
+      "insert变异翻译": "您必须填满一个车库空间的整个停车位（可以停放汽车或其他车辆的空间）",
+      "insert术语翻译": [
+         "空间停车位"
+      ],
+      "insert和原句术语翻译相似度": [
+         0.7947701215744019
+      ],
+      "insert变异翻译去括号": "您必须填满一个车库空间的整个停车位",
+      "原句翻译去括号": "您必须填满一个车库的整个停车位",
+      "insert和原句翻译去括号部分相似度": [
+         0.9832937717437744
+      ],
+      "替换变异": [
+         "You'd have to fill your entire living space of one garage space",
+         "You'd have to fill your entire garage space of one garage space",
+         "You'd have to fill your entire parking garage of one garage space"
+      ],
+      "替换术语": [
+         "living space",
+         "garage space",
+         "parking garage"
+      ],
+      "替换翻译": [
+         "你必须填满一个车库空间的整个生活空间",
+         "您必须填满一个车库空间的整个车库空间",
+         "您必须填满整个车库的一个车库空间"
+      ],
+      "替换术语翻译": [
+         "生活空间",
+         "车库空间",
+         ""
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.5071395635604858,
+         0.6404182314872742,
+         0.42420342564582825
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         1,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         1,
+         0,
+         0
+      ],
+      "final_result": [
+         1,
+         0,
+         0
+      ]
+   },
+   "they can begin to do their exhibition in a swimming pool,": {
+      "序号": 13,
+      "原句": "they can begin to do their exhibition in a swimming pool,",
+      "术语": "swimming pool",
+      "原句翻译": "他们可以开始在游泳池里做展览，",
+      "原句术语翻译": [
+         "游泳池，"
+      ],
+      "insert变异": "they can begin to do their exhibition in a swimming pool (a pool of water used for swimming, usually one which has been artificially constructed),",
+      "insert变异翻译": "他们可以开始在游泳池（用于游泳的水池，通常是人工建造的）中进行展览，",
+      "insert术语翻译": [
+         "游泳池，"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "他们可以开始在游泳池中进行展览，",
+      "原句翻译去括号": "他们可以开始在游泳池里做展览，",
+      "insert和原句翻译去括号部分相似度": [
+         0.9912683963775635
+      ],
+      "替换变异": [
+         "they can begin to do their exhibition in a public pool,"
+      ],
+      "替换术语": [
+         "public pool"
+      ],
+      "替换翻译": [
+         "他们可以开始在公共泳池举办展览，"
+      ],
+      "替换术语翻译": [
+         "公共泳池，"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.8441943526268005
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "So this light ray will not continue in a straight line,": {
+      "序号": 14,
+      "原句": "So this light ray will not continue in a straight line,",
+      "术语": "straight line",
+      "原句翻译": "所以这条光线不会继续沿直线传播，",
+      "原句术语翻译": [
+         "直线传播，"
+      ],
+      "insert变异": "So this light ray will not continue in a straight line (a line with no curvature; a line with constant direction, the path of shortest length between two points),",
+      "insert变异翻译": "所以这条光线不会继续沿直线传播（没有曲率的线；方向恒定的线，两点之间长度最短的路径），",
+      "insert术语翻译": [
+         "直线传播，"
+      ],
+      "insert和原句术语翻译相似度": [
+         0.9999999403953552
+      ],
+      "insert变异翻译去括号": "所以这条光线不会继续沿直线传播，",
+      "原句翻译去括号": "所以这条光线不会继续沿直线传播，",
+      "insert和原句翻译去括号部分相似度": [
+         1.0
+      ],
+      "替换变异": [
+         "So this light ray will not continue in a straight path,"
+      ],
+      "替换术语": [
+         "straight path"
+      ],
+      "替换翻译": [
+         "所以这条光线不会继续沿直线路径传播，"
+      ],
+      "替换术语翻译": [
+         "直线路径，"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7633845806121826
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "Take this bitch to the living room.": {
+      "序号": 15,
+      "原句": "Take this bitch to the living room.",
+      "术语": "living room",
+      "原句翻译": "把这个贱人带到客厅去。",
+      "原句术语翻译": [
+         "客厅。"
+      ],
+      "insert变异": "Take this bitch to the living room (a room in a private house used for general social and leisure activities).",
+      "insert变异翻译": "把这个婊子带到客厅（私人住宅中用于一般社交和休闲活动的房间）。",
+      "insert术语翻译": [
+         "客厅。"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "把这个婊子带到客厅。",
+      "原句翻译去括号": "把这个贱人带到客厅去。",
+      "insert和原句翻译去括号部分相似度": [
+         0.8930654525756836
+      ],
+      "替换变异": [
+         "Take this bitch to the emergency room."
+      ],
+      "替换术语": [
+         "emergency room"
+      ],
+      "替换翻译": [
+         "带这个婊子去急诊室。"
+      ],
+      "替换术语翻译": [
+         "急诊室。"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.5788407921791077
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "I'il fix you a drink in the living room.": {
+      "序号": 16,
+      "原句": "I'il fix you a drink in the living room.",
+      "术语": "living room",
+      "原句翻译": "我去客厅请你喝一杯。",
+      "原句术语翻译": [
+         "客厅。"
+      ],
+      "insert变异": "I'il fix you a drink in the living room (a room in a private house used for general social and leisure activities).",
+      "insert变异翻译": "我会在客厅（私人住宅中用于一般社交和休闲活动的房间）请你喝一杯。",
+      "insert术语翻译": [
+         "客厅。"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "我会在客厅请你喝一杯。",
+      "原句翻译去括号": "我去客厅请你喝一杯。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9494080543518066
+      ],
+      "替换变异": [
+         "I'il fix you a drink in the dining room.",
+         "I'il fix you a drink in the back room."
+      ],
+      "替换术语": [
+         "dining room",
+         "back room"
+      ],
+      "替换翻译": [
+         "我去餐厅请你喝一杯。",
+         "我会在后面的房间给你喝一杯。"
+      ],
+      "替换术语翻译": [
+         "餐厅。",
+         "后面房间。"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.78559410572052,
+         0.6992778182029724
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "We came up with some unusual results in your blood test.": {
+      "序号": 18,
+      "原句": "We came up with some unusual results in your blood test.",
+      "术语": "blood test",
+      "原句翻译": "我们在您的血液检查中得出了一些不寻常的结果。",
+      "原句术语翻译": [
+         "血液检查。"
+      ],
+      "insert变异": "We came up with some unusual results in your blood test (an analysis of blood performed on two subjects to determine whether they are biologically related, such as a paternity test).",
+      "insert变异翻译": "我们在您的血液测试中得出了一些不寻常的结果（对两个受试者进行血液分析以确定他们是否具有生物学相关性，例如亲子鉴定）。",
+      "insert术语翻译": [
+         "血液测试。"
+      ],
+      "insert和原句术语翻译相似度": [
+         0.9393362998962402
+      ],
+      "insert变异翻译去括号": "我们在您的血液测试中得出了一些不寻常的结果。",
+      "原句翻译去括号": "我们在您的血液检查中得出了一些不寻常的结果。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9757832288742065
+      ],
+      "替换变异": [
+         "We came up with some unusual results in your pregnancy test.",
+         "We came up with some unusual results in your blood sample.",
+         "We came up with some unusual results in your blood pressure.",
+         "We came up with some unusual results in your blood supply."
+      ],
+      "替换术语": [
+         "pregnancy test",
+         "blood sample",
+         "blood pressure",
+         "blood supply"
+      ],
+      "替换翻译": [
+         "我们在您的妊娠测试中得出了一些不寻常的结果。",
+         "我们在您的血液样本中得出了一些不寻常的结果。",
+         "我们对您的血压得出了一些不寻常的结果。",
+         "我们在您的血液供应中得出了一些不寻常的结果。"
+      ],
+      "替换术语翻译": [
+         "妊娠测试。",
+         "血液样本。",
+         "血压。",
+         "血液供应。"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.6822229623794556,
+         0.8299902677536011,
+         0.7253494262695312,
+         0.7888381481170654
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "What is the response to acute myocardial infarction, a heart attack, today?": {
+      "序号": 19,
+      "原句": "What is the response to acute myocardial infarction, a heart attack, today?",
+      "术语": "heart attack",
+      "原句翻译": "今天对急性心肌梗塞、心脏病发作有何反应？",
+      "原句术语翻译": [
+         "心脏病"
+      ],
+      "insert变异": "What is the response to acute myocardial infarction, a heart attack (death or failure), today?",
+      "insert变异翻译": "今天对急性心肌梗塞、心脏病发作（死亡或衰竭）有何反应？",
+      "insert术语翻译": [
+         "心脏病"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.000000238418579
+      ],
+      "insert变异翻译去括号": "今天对急性心肌梗塞、心脏病发作有何反应？",
+      "原句翻译去括号": "今天对急性心肌梗塞、心脏病发作有何反应？",
+      "insert和原句翻译去括号部分相似度": [
+         1.000000238418579
+      ],
+      "替换变异": [
+         "What is the response to acute myocardial infarction, a panic attack, today?"
+      ],
+      "替换术语": [
+         "panic attack"
+      ],
+      "替换翻译": [
+         "今天，对急性心肌梗塞、惊恐发作有何反应？"
+      ],
+      "替换术语翻译": [
+         "，惊恐"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.42956775426864624
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "These are things that are getting into our food chain because of these blooms.": {
+      "序号": 20,
+      "原句": "These are things that are getting into our food chain because of these blooms.",
+      "术语": "food chain",
+      "原句翻译": "这些东西因为这些花朵而进入我们的食物链。",
+      "原句术语翻译": [
+         "食物链"
+      ],
+      "insert变异": "These are things that are getting into our food chain (a hierarchy) because of these blooms.",
+      "insert变异翻译": "由于这些花朵的存在，这些东西正在进入我们的食物链（层次结构）。",
+      "insert术语翻译": [
+         "食物链"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "由于这些花朵的存在，这些东西正在进入我们的食物链。",
+      "原句翻译去括号": "这些东西因为这些花朵而进入我们的食物链。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9585038423538208
+      ],
+      "替换变异": [
+         "These are things that are getting into our food supply because of these blooms."
+      ],
+      "替换术语": [
+         "food supply"
+      ],
+      "替换翻译": [
+         "这些东西因为这些花朵而进入我们的食物供应。"
+      ],
+      "替换术语翻译": [
+         "食物供应"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.6787868738174438
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "To add zest to the drink,first I put in some vanilla extract, then, of course, some egg yolks, and then, I have a secret ingredient.": {
+      "序号": 21,
+      "原句": "To add zest to the drink,first I put in some vanilla extract, then, of course, some egg yolks, and then, I have a secret ingredient.",
+      "术语": "vanilla extract",
+      "原句翻译": "为了给饮料添加热情，我首先加入一些香草精，然后，当然，一些蛋黄，然后，我有一个秘密成分。",
+      "原句术语翻译": [
+         "香草精，"
+      ],
+      "insert变异": "To add zest to the drink,first I put in some vanilla extract (a liquid, technically a tincture, used in cooking, prepared by soaking vanilla beans in alcohol), then, of course, some egg yolks, and then, I have a secret ingredient.",
+      "insert变异翻译": "为了给饮料添加热情，首先我放入一些香草精（一种液体，严格来说是一种酊剂，用于烹饪，通过将香草豆浸泡在酒精中制备），然后，当然，一些蛋黄，然后，我有一个秘密成分。",
+      "insert术语翻译": [
+         "香草精，"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "为了给饮料添加热情，首先我放入一些香草精，然后，当然，一些蛋黄，然后，我有一个秘密成分。",
+      "原句翻译去括号": "为了给饮料添加热情，我首先加入一些香草精，然后，当然，一些蛋黄，然后，我有一个秘密成分。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9924800395965576
+      ],
+      "替换变异": [
+         "To add zest to the drink,first I put in some vanilla juice, then, of course, some egg yolks, and then, I have a secret ingredient.",
+         "To add zest to the drink,first I put in some vanilla powder, then, of course, some egg yolks, and then, I have a secret ingredient."
+      ],
+      "替换术语": [
+         "vanilla juice",
+         "vanilla powder"
+      ],
+      "替换翻译": [
+         "为了给饮料添加热情，我首先加入一些香草汁，然后，当然，一些蛋黄，然后，我有一个秘密成分。",
+         "为了给饮料添加热情，我首先加入一些香草粉，然后，当然，一些蛋黄，然后，我有一个秘密成分。"
+      ],
+      "替换术语翻译": [
+         "香草汁，",
+         "香草粉，"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.8090362548828125,
+         0.8012922406196594
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "and it slows the absorption so you don't get that rapid rise in blood sugar.": {
+      "序号": 22,
+      "原句": "and it slows the absorption so you don't get that rapid rise in blood sugar.",
+      "术语": "blood sugar",
+      "原句翻译": "它会减慢吸收速度，因此血糖不会迅速升高。",
+      "原句术语翻译": [
+         "血糖。"
+      ],
+      "insert变异": "and it slows the absorption so you don't get that rapid rise in blood sugar (glucose in the blood).",
+      "insert变异翻译": "它会减慢吸收速度，因此血糖（血液中的葡萄糖）不会快速升高。",
+      "insert术语翻译": [
+         "血糖。"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "它会减慢吸收速度，因此血糖不会快速升高。",
+      "原句翻译去括号": "它会减慢吸收速度，因此血糖不会迅速升高。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9977705478668213
+      ],
+      "替换变异": [
+         "and it slows the absorption so you don't get that rapid rise in blood pressure."
+      ],
+      "替换术语": [
+         "blood pressure"
+      ],
+      "替换翻译": [
+         "它会减慢吸收速度，因此血压不会迅速升高。"
+      ],
+      "替换术语翻译": [
+         "血压。"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7748510837554932
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "what this dark energy that the universe is made of is all about.": {
+      "序号": 25,
+      "原句": "what this dark energy that the universe is made of is all about.",
+      "术语": "dark energy",
+      "原句翻译": "构成宇宙的暗能量到底是什么？",
+      "原句术语翻译": [
+         "暗能量"
+      ],
+      "insert变异": "what this dark energy (a hypothetical form of energy which, it is supposed, is spread uniformly throughout space (and time) and has anti-gravitational properties: it represents a possible mechanism for the cosmological constant, and thus is one of the possible explanations for the current accelerating rate of expansion of the universe; and it is estimated to account for about 74% of the mass-energy of the universe) that the universe is made of is all about.",
+      "insert变异翻译": "这种暗能量（一种假设的能量形式，被认为均匀地分布在整个空间（和时间）并具有反引力特性：它代表了宇宙学常数的一种可能机制，因此是可能的解释之一目前宇宙膨胀的加速速度；据估计约占宇宙质能的74%），这就是宇宙的组成部分。",
+      "insert术语翻译": [
+         "暗能量"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "这种暗能量，这就是宇宙的组成部分。",
+      "原句翻译去括号": "构成宇宙的暗能量到底是什么？",
+      "insert和原句翻译去括号部分相似度": [
+         0.7706899046897888
+      ],
+      "替换变异": [
+         "what this dark stuff that the universe is made of is all about."
+      ],
+      "替换术语": [
+         "dark stuff"
+      ],
+      "替换翻译": [
+         "构成宇宙的这些黑暗物质到底是怎么回事？"
+      ],
+      "替换术语翻译": [
+         "黑暗物质"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7566031217575073
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         1,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         1,
+         0
+      ],
+      "final_result": [
+         0,
+         1,
+         0
+      ]
+   },
+   "And proudly waving the red flag of victory, without a single shot, the rebellious battleship passed through the rows of the squadron.": {
+      "序号": 26,
+      "原句": "And proudly waving the red flag of victory, without a single shot, the rebellious battleship passed through the rows of the squadron.",
+      "术语": "red flag",
+      "原句翻译": "而骄傲地挥舞着胜利的红旗，没有一枪一弹，叛逆战舰就穿过了方队的一排排。",
+      "原句术语翻译": [
+         "红旗"
+      ],
+      "insert变异": "And proudly waving the red flag (something that will enrage a particular person; a red rag) of victory, without a single shot, the rebellious battleship passed through the rows of the squadron.",
+      "insert变异翻译": "叛逆的战舰骄傲地挥舞着胜利的红旗（一种会激怒特定人的东西；一块红色的抹布），没有一枪一弹，就穿过了中队的行列。",
+      "insert术语翻译": [
+         "红旗"
+      ],
+      "insert和原句术语翻译相似度": [
+         0.9999999403953552
+      ],
+      "insert变异翻译去括号": "叛逆的战舰骄傲地挥舞着胜利的红旗，没有一枪一弹，就穿过了中队的行列。",
+      "原句翻译去括号": "而骄傲地挥舞着胜利的红旗，没有一枪一弹，叛逆战舰就穿过了方队的一排排。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9195101261138916
+      ],
+      "替换变异": [
+         "And proudly waving the red banner of victory, without a single shot, the rebellious battleship passed through the rows of the squadron.",
+         "And proudly waving the red ribbon of victory, without a single shot, the rebellious battleship passed through the rows of the squadron."
+      ],
+      "替换术语": [
+         "red banner",
+         "red ribbon"
+      ],
+      "替换翻译": [
+         "而骄傲地挥舞着胜利的红旗，没有一枪一弹，叛逆战舰就穿过了方队的一排排。",
+         "而骄傲地挥舞着胜利的红丝带，没有一枪一弹，叛逆的战舰就穿过了方队的一排排。"
+      ],
+      "替换术语翻译": [
+         "红旗",
+         "红丝带"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.9999999403953552,
+         0.40721043944358826
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         1
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         1
+      ],
+      "final_result": [
+         0,
+         0,
+         1
+      ]
+   },
+   "I finished an exam early and I just sat there thinking, thinking that somewhere there must be somebody whose dream it is to be a lawyer, but after more than two years in law school,": {
+      "序号": 27,
+      "原句": "I finished an exam early and I just sat there thinking, thinking that somewhere there must be somebody whose dream it is to be a lawyer, but after more than two years in law school,",
+      "术语": "law school",
+      "原句翻译": "我很早就考完了，我就坐在那儿想，想一定有人的梦想是成为一名律师，但是在法学院读了两年多之后，",
+      "原句术语翻译": [
+         "法学院，"
+      ],
+      "insert变异": "I finished an exam early and I just sat there thinking, thinking that somewhere there must be somebody whose dream it is to be a lawyer, but after more than two years in law school (an academic institution at which post-graduate students are prepared for the practice of law),",
+      "insert变异翻译": "我很早就考完了，我只是坐在那儿思考，想在某个地方一定有人梦想成为一名律师，但在法学院（一个为研究生准备的学术机构）读了两年多之后法律实践），",
+      "insert术语翻译": [
+         "法学院，"
+      ],
+      "insert和原句术语翻译相似度": [
+         0.9999999403953552
+      ],
+      "insert变异翻译去括号": "我很早就考完了，我只是坐在那儿思考，想在某个地方一定有人梦想成为一名律师，但在法学院读了两年多之后法律实践，",
+      "原句翻译去括号": "我很早就考完了，我就坐在那儿想，想一定有人的梦想是成为一名律师，但是在法学院读了两年多之后，",
+      "insert和原句翻译去括号部分相似度": [
+         0.9425833225250244
+      ],
+      "替换变异": [
+         "I finished an exam early and I just sat there thinking, thinking that somewhere there must be somebody whose dream it is to be a lawyer, but after more than two years in high school,"
+      ],
+      "替换术语": [
+         "high school"
+      ],
+      "替换翻译": [
+         "我很早就考完了，我就坐在那儿想，想一定有人的梦想是成为一名律师，但是高中两年多了，"
+      ],
+      "替换术语翻译": [
+         "高中，"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.6001942157745361
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "you get your university degree, then you go on to law school.": {
+      "序号": 28,
+      "原句": "you get your university degree, then you go on to law school.",
+      "术语": "law school",
+      "原句翻译": "你获得大学学位，然后继续进入法学院。",
+      "原句术语翻译": [
+         "法学院。"
+      ],
+      "insert变异": "you get your university degree, then you go on to law school (an academic institution at which post-graduate students are prepared for the practice of law).",
+      "insert变异翻译": "您获得大学学位，然后继续进入法学院（研究生为法律实践做好准备的学术机构）。",
+      "insert术语翻译": [
+         "法学院。"
+      ],
+      "insert和原句术语翻译相似度": [
+         0.9999998807907104
+      ],
+      "insert变异翻译去括号": "您获得大学学位，然后继续进入法学院。",
+      "原句翻译去括号": "你获得大学学位，然后继续进入法学院。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9745653867721558
+      ],
+      "替换变异": [
+         "you get your university degree, then you go on to graduate school.",
+         "you get your university degree, then you go on to high school.",
+         "you get your university degree, then you go on to business school."
+      ],
+      "替换术语": [
+         "graduate school",
+         "high school",
+         "business school"
+      ],
+      "替换翻译": [
+         "你获得大学学位，然后继续读研究生。",
+         "你获得大学学位，然后继续读高中。",
+         "你获得大学学位，然后继续进入商学院。"
+      ],
+      "替换术语翻译": [
+         "研究生。",
+         "高中。",
+         "商学院。"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.6458007097244263,
+         0.6394802927970886,
+         0.7802208065986633
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "There's a ReverseSpeech.com web page from which I downloaded this stuff.": {
+      "序号": 29,
+      "原句": "There's a ReverseSpeech.com web page from which I downloaded this stuff.",
+      "术语": "web page",
+      "原句翻译": "我从 ReverseSpeech.com 网页下载了这些东西。",
+      "原句术语翻译": [
+         "网页"
+      ],
+      "insert变异": "There's a ReverseSpeech.com web page (a website, by extension from the home page of the site) from which I downloaded this stuff.",
+      "insert变异翻译": "我从一个 ReverseSpeech.com 网页（一个网站，从该网站的主页扩展而来）下载了这些东西。",
+      "insert术语翻译": [
+         "网页"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0000001192092896
+      ],
+      "insert变异翻译去括号": "我从一个 ReverseSpeech.com 网页下载了这些东西。",
+      "原句翻译去括号": "我从 ReverseSpeech.com 网页下载了这些东西。",
+      "insert和原句翻译去括号部分相似度": [
+         0.99156653881073
+      ],
+      "替换变异": [
+         "There's a ReverseSpeech.com web site from which I downloaded this stuff."
+      ],
+      "替换术语": [
+         "web site"
+      ],
+      "替换翻译": [
+         "我从一个 ReverseSpeech.com 网站下载了这些东西。"
+      ],
+      "替换术语翻译": [
+         "网站"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7722079157829285
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "I'm here as a voice of the victims and survivors of human trafficking.": {
+      "序号": 30,
+      "原句": "I'm here as a voice of the victims and survivors of human trafficking.",
+      "术语": "human trafficking",
+      "原句翻译": "我来这里是为了代表人口贩运的受害者和幸存者。",
+      "原句术语翻译": [
+         "人口贩运。"
+      ],
+      "insert变异": "I'm here as a voice of the victims and survivors of human trafficking (a criminal activity in which people are recruited, harboured, transported, bought, or kidnapped to serve an exploitative purpose, such as sexual slavery, forced labor, or child soldiery).",
+      "insert变异翻译": "我在这里代表人口贩运受害者和幸存者的声音（人口贩运是一种犯罪活动，人口被招募、窝藏、运输、购买或绑架以达到剥削目的，例如性奴役、强迫劳动或童兵） ）。",
+      "insert术语翻译": [
+         "人口贩运。"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0000001192092896
+      ],
+      "insert变异翻译去括号": "我在这里代表人口贩运受害者和幸存者的声音 。",
+      "原句翻译去括号": "我来这里是为了代表人口贩运的受害者和幸存者。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9311239719390869
+      ],
+      "替换变异": [
+         "I'm here as a voice of the victims and survivors of human suffering.",
+         "I'm here as a voice of the victims and survivors of human genocide."
+      ],
+      "替换术语": [
+         "human suffering",
+         "human genocide"
+      ],
+      "替换翻译": [
+         "我在这里代表人类苦难的受害者和幸存者发声。",
+         "我来这里是为了代表人类种族灭绝的受害者和幸存者。"
+      ],
+      "替换术语翻译": [
+         "人类苦难。",
+         "人类种族灭绝。"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.581381618976593,
+         0.5479691028594971
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "But, naturally, you can't do this kind of thing without a little bit of market research.": {
+      "序号": 31,
+      "原句": "But, naturally, you can't do this kind of thing without a little bit of market research.",
+      "术语": "market research",
+      "原句翻译": "但是，自然地，如果没有一点市场调查，你就无法做这种事情。",
+      "原句术语翻译": [
+         "市场调查。"
+      ],
+      "insert变异": "But, naturally, you can't do this kind of thing without a little bit of market research (the systematic collection and evaluation of data regarding customers' preferences for actual and potential products and services).",
+      "insert变异翻译": "但是，自然地，如果没有一点市场研究（系统地收集和评估有关客户对实际和潜在产品和服务的偏好的数据），你就无法做到这种事情。",
+      "insert术语翻译": [
+         "市场研究。"
+      ],
+      "insert和原句术语翻译相似度": [
+         0.9294494986534119
+      ],
+      "insert变异翻译去括号": "但是，自然地，如果没有一点市场研究，你就无法做到这种事情。",
+      "原句翻译去括号": "但是，自然地，如果没有一点市场调查，你就无法做这种事情。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9498580694198608
+      ],
+      "替换变异": [
+         "But, naturally, you can't do this kind of thing without a little bit of market manipulation."
+      ],
+      "替换术语": [
+         "market manipulation"
+      ],
+      "替换翻译": [
+         "但是，自然地，如果没有一点市场操纵，你就不可能做这种事情。"
+      ],
+      "替换术语翻译": [
+         "市场操纵。"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7858608961105347
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         1,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "a few million pounds was like having a personal jet plane;": {
+      "序号": 32,
+      "原句": "a few million pounds was like having a personal jet plane;",
+      "术语": "jet plane",
+      "原句翻译": "几百万英镑就像拥有一架私人喷气式飞机；",
+      "原句术语翻译": [
+         "喷气式飞机；"
+      ],
+      "insert变异": "a few million pounds was like having a personal jet plane (a jet: an airplane that is powered by a jet engine);",
+      "insert变异翻译": "几百万英镑就像拥有一架私人喷气式飞机（喷气式飞机：由喷气发动机驱动的飞机）；",
+      "insert术语翻译": [
+         "喷气式飞机；"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0000001192092896
+      ],
+      "insert变异翻译去括号": "几百万英镑就像拥有一架私人喷气式飞机；",
+      "原句翻译去括号": "几百万英镑就像拥有一架私人喷气式飞机；",
+      "insert和原句翻译去括号部分相似度": [
+         1.0000001192092896
+      ],
+      "替换变异": [
+         "a few million pounds was like having a personal private plane;",
+         "a few million pounds was like having a personal jet now;"
+      ],
+      "替换术语": [
+         "private plane",
+         "jet now"
+      ],
+      "替换翻译": [
+         "几百万英镑就像拥有一架私人飞机；",
+         "几百万英镑现在就像拥有一架私人飞机；"
+      ],
+      "替换术语翻译": [
+         "私人飞机；",
+         "现在飞机；"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.6702229380607605,
+         0.6875144243240356
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "Why? As a raw material, as a trait we can use in the future.": {
+      "序号": 33,
+      "原句": "Why? As a raw material, as a trait we can use in the future.",
+      "术语": "raw material",
+      "原句翻译": "为什么？作为原材料，作为我们将来可以使用的特性。",
+      "原句术语翻译": [
+         "原材料，"
+      ],
+      "insert变异": "Why? As a raw material (a material in its unprocessed, natural state considered usable for manufacture), as a trait we can use in the future.",
+      "insert变异翻译": "为什么？作为一种原材料（一种未加工的、自然状态下的材料，被认为可用于制造），作为我们将来可以使用的一种特性。",
+      "insert术语翻译": [
+         "原材料，"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "为什么？作为一种原材料，作为我们将来可以使用的一种特性。",
+      "原句翻译去括号": "为什么？作为原材料，作为我们将来可以使用的特性。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9931747317314148
+      ],
+      "替换变异": [
+         "Why? As a raw resource, as a trait we can use in the future.",
+         "Why? As a raw tool, as a trait we can use in the future."
+      ],
+      "替换术语": [
+         "raw resource",
+         "raw tool"
+      ],
+      "替换翻译": [
+         "为什么？作为一种原始资源，作为我们将来可以使用的特征。",
+         "为什么？作为一种原始工具，作为我们将来可以使用的特征。"
+      ],
+      "替换术语翻译": [
+         "原始资源，",
+         "原始工具，"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7034481167793274,
+         0.6983200311660767
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "This is not a toddler wandering around a department store.": {
+      "序号": 34,
+      "原句": "This is not a toddler wandering around a department store.",
+      "术语": "department store",
+      "原句翻译": "这不是一个在百货商店闲逛的小孩。",
+      "原句术语翻译": [
+         "百货商店。"
+      ],
+      "insert变异": "This is not a toddler wandering around a department store (a large store containing many different departments, each of which deals in the sale of different goods or services).",
+      "insert变异翻译": "这不是一个在百货商店（一家包含许多不同部门的大型商店，每个部门销售不同商品或服务）周围闲逛的幼儿。",
+      "insert术语翻译": [
+         "百货商店。"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0000001192092896
+      ],
+      "insert变异翻译去括号": "这不是一个在百货商店周围闲逛的幼儿。",
+      "原句翻译去括号": "这不是一个在百货商店闲逛的小孩。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9632371664047241
+      ],
+      "替换变异": [
+         "This is not a toddler wandering around a grocery store.",
+         "This is not a toddler wandering around a candy store.",
+         "This is not a toddler wandering around a toy store.",
+         "This is not a toddler wandering around a convenience store."
+      ],
+      "替换术语": [
+         "grocery store",
+         "candy store",
+         "toy store",
+         "convenience store"
+      ],
+      "替换翻译": [
+         "这不是一个在杂货店闲逛的小孩。",
+         "这不是一个在糖果店闲逛的小孩。",
+         "这不是一个在玩具店闲逛的小孩。",
+         "这不是一个在便利店闲逛的小孩。"
+      ],
+      "替换术语翻译": [
+         "杂货店。",
+         "糖果店。",
+         "玩具店。",
+         "便利店。"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.8327888250350952,
+         0.6909624338150024,
+         0.7137404680252075,
+         0.8164988160133362
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "You killed the border guard so you could see your woman": {
+      "序号": 36,
+      "原句": "You killed the border guard so you could see your woman",
+      "术语": "border guard",
+      "原句翻译": "你杀了边防卫兵，这样你就能见到你的女人",
+      "原句术语翻译": [
+         "边防卫兵"
+      ],
+      "insert变异": "You killed the border guard (a national agency that enforces the security of the country's national borders) so you could see your woman",
+      "insert变异翻译": "你杀了边防卫兵（一个负责维护国家边境安全的国家机构），这样你就可以看到你的女人",
+      "insert术语翻译": [
+         "边防卫兵"
+      ],
+      "insert和原句术语翻译相似度": [
+         0.9999999403953552
+      ],
+      "insert变异翻译去括号": "你杀了边防卫兵，这样你就可以看到你的女人",
+      "原句翻译去括号": "你杀了边防卫兵，这样你就能见到你的女人",
+      "insert和原句翻译去括号部分相似度": [
+         0.9720979928970337
+      ],
+      "替换变异": [
+         "You killed the security guard so you could see your woman",
+         "You killed the last guard so you could see your woman",
+         "You killed the border patrol so you could see your woman"
+      ],
+      "替换术语": [
+         "security guard",
+         "last guard",
+         "border patrol"
+      ],
+      "替换翻译": [
+         "你杀了保安，这样你就能见到你的女人",
+         "你杀死了最后一个守卫，这样你就可以见到你的女人了",
+         "你杀死了边境巡逻队，这样你就能看到你的女人"
+      ],
+      "替换术语翻译": [
+         "保安",
+         "最后守卫",
+         "边境巡逻队"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.3741247355937958,
+         0.5458821654319763,
+         0.6577543616294861
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "So, we put the room service menus over the vents in the wall,": {
+      "序号": 39,
+      "原句": "So, we put the room service menus over the vents in the wall,",
+      "术语": "room service",
+      "原句翻译": "所以，我们把客房服务菜单放在墙上的通风口上，",
+      "原句术语翻译": [
+         "客房服务"
+      ],
+      "insert变异": "So, we put the room service (the department of a hotel that provides such a service) menus over the vents in the wall,",
+      "insert变异翻译": "因此，我们将客房服务（提供此类服务的酒店部门）菜单放在墙上的通风口上，",
+      "insert术语翻译": [
+         "客房服务"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "因此，我们将客房服务菜单放在墙上的通风口上，",
+      "原句翻译去括号": "所以，我们把客房服务菜单放在墙上的通风口上，",
+      "insert和原句翻译去括号部分相似度": [
+         0.9939113855361938
+      ],
+      "替换变异": [
+         "So, we put the customer service menus over the vents in the wall,"
+      ],
+      "替换术语": [
+         "customer service"
+      ],
+      "替换翻译": [
+         "所以，我们把客户服务菜单放在墙上的通风口上，"
+      ],
+      "替换术语翻译": [
+         "客户服务"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7426420450210571
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "Books like this are based on fact and scientific research, which is the quite the contrary to your little figurines and drawings.": {
+      "序号": 41,
+      "原句": "Books like this are based on fact and scientific research, which is the quite the contrary to your little figurines and drawings.",
+      "术语": "scientific research",
+      "原句翻译": "像这样的书是基于事实和科学研究的，这与你的小雕像和图画完全相反。",
+      "原句术语翻译": [
+         "科学研究，"
+      ],
+      "insert变异": "Books like this are based on fact and scientific research (research performed using the scientific method), which is the quite the contrary to your little figurines and drawings.",
+      "insert变异翻译": "像这样的书是基于事实和科学研究（使用科学方法进行的研究），这与你的小雕像和图画完全相反。",
+      "insert术语翻译": [
+         "科学研究，"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.000000238418579
+      ],
+      "insert变异翻译去括号": "像这样的书是基于事实和科学研究，这与你的小雕像和图画完全相反。",
+      "原句翻译去括号": "像这样的书是基于事实和科学研究的，这与你的小雕像和图画完全相反。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9989091753959656
+      ],
+      "替换变异": [
+         "Books like this are based on fact and scientific fact, which is the quite the contrary to your little figurines and drawings."
+      ],
+      "替换术语": [
+         "scientific fact"
+      ],
+      "替换翻译": [
+         "像这样的书是基于事实和科学事实的，这与你们的小雕像和图画完全相反。"
+      ],
+      "替换术语翻译": [
+         "科学事实，"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7728923559188843
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "I do.You realized you're going to be old someday and you don't want some young punks tossing you on the slag heap.": {
+      "序号": 42,
+      "原句": "I do.You realized you're going to be old someday and you don't want some young punks tossing you on the slag heap.",
+      "术语": "slag heap",
+      "原句翻译": "我愿意。你意识到有一天你会老，你不想让一些年轻的小混混把你扔到渣堆上。",
+      "原句术语翻译": [
+         "渣堆。"
+      ],
+      "insert变异": "I do.You realized you're going to be old someday and you don't want some young punks tossing you on the slag heap (a man-made mound or heap formed with the waste material (slag) as a by-product of coal mining. Can also refer to the waste by-product from a foundry or furnace, formed into such a mound).",
+      "insert变异翻译": "我知道。你意识到有一天你会老，你不想让一些年轻的小混混把你扔到矿渣堆上（用废料（矿渣）作为副产品形成的人造土堆或堆）煤炭开采。也可以指铸造厂或熔炉形成的废物副产品，形成这样的土堆）。",
+      "insert术语翻译": [
+         "堆土堆。"
+      ],
+      "insert和原句术语翻译相似度": [
+         0.7838215827941895
+      ],
+      "insert变异翻译去括号": "我知道。你意识到有一天你会老，你不想让一些年轻的小混混把你扔到矿渣堆上煤炭开采。也可以指铸造厂或熔炉形成的废物副产品，形成这样的土堆。",
+      "原句翻译去括号": "我愿意。你意识到有一天你会老，你不想让一些年轻的小混混把你扔到渣堆上。",
+      "insert和原句翻译去括号部分相似度": [
+         0.5390989184379578
+      ],
+      "替换变异": [
+         "I do.You realized you're going to be old someday and you don't want some young punks tossing you on the slag floor."
+      ],
+      "替换术语": [
+         "slag floor"
+      ],
+      "替换翻译": [
+         "我愿意。你意识到有一天你会老，你不想让一些年轻的小混混把你扔到矿渣地板上。"
+      ],
+      "替换术语翻译": [
+         "矿渣地板。"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7005214691162109
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         1,
+         1,
+         0
+      ],
+      "manual_2_result": [
+         1,
+         1,
+         0
+      ],
+      "final_result": [
+         1,
+         1,
+         0
+      ]
+   },
+   "Vulcan is not a experiencing a natural disaster, it's being attacked by Romulans.": {
+      "序号": 43,
+      "原句": "Vulcan is not a experiencing a natural disaster, it's being attacked by Romulans.",
+      "术语": "natural disaster",
+      "原句翻译": "火神并不是遭遇了自然灾害，而是遭到了罗慕伦人的攻击。",
+      "原句术语翻译": [
+         "自然灾害，"
+      ],
+      "insert变异": "Vulcan is not a experiencing a natural disaster (the emergency situation that is the consequence of such an event), it's being attacked by Romulans.",
+      "insert变异翻译": "瓦肯人并没有经历自然灾害（此类事件所导致的紧急情况），而是遭到了罗慕伦人的攻击。",
+      "insert术语翻译": [
+         "自然灾害，"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "瓦肯人并没有经历自然灾害，而是遭到了罗慕伦人的攻击。",
+      "原句翻译去括号": "火神并不是遭遇了自然灾害，而是遭到了罗慕伦人的攻击。",
+      "insert和原句翻译去括号部分相似度": [
+         0.8076696991920471
+      ],
+      "替换变异": [
+         "Vulcan is not a experiencing a natural invasion, it's being attacked by Romulans.",
+         "Vulcan is not a experiencing a natural world, it's being attacked by Romulans."
+      ],
+      "替换术语": [
+         "natural invasion",
+         "natural world"
+      ],
+      "替换翻译": [
+         "瓦肯人并不是在经历自然入侵，而是受到了罗慕伦人的攻击。",
+         "瓦肯人并不是在体验自然世界，而是受到罗慕伦人的攻击。"
+      ],
+      "替换术语翻译": [
+         "自然入侵，",
+         "自然世界，"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7474202513694763,
+         0.6960682272911072
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         1,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         1,
+         0
+      ],
+      "final_result": [
+         0,
+         1,
+         0
+      ]
+   },
+   "She thought our web page was a bad idea.": {
+      "序号": 45,
+      "原句": "She thought our web page was a bad idea.",
+      "术语": "web page",
+      "原句翻译": "她认为我们的网页是个坏主意。",
+      "原句术语翻译": [
+         "网页"
+      ],
+      "insert变异": "She thought our web page (a website, by extension from the home page of the site) was a bad idea.",
+      "insert变异翻译": "她认为我们的网页（一个网站，从网站的主页延伸而来）是一个坏主意。",
+      "insert术语翻译": [
+         "网页"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0000001192092896
+      ],
+      "insert变异翻译去括号": "她认为我们的网页是一个坏主意。",
+      "原句翻译去括号": "她认为我们的网页是个坏主意。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9988949298858643
+      ],
+      "替换变异": [
+         "She thought our web site was a bad idea.",
+         "She thought our web browser was a bad idea."
+      ],
+      "替换术语": [
+         "web site",
+         "web browser"
+      ],
+      "替换翻译": [
+         "她认为我们的网站是个坏主意。",
+         "她认为我们的网络浏览器是个坏主意。"
+      ],
+      "替换术语翻译": [
+         "网站",
+         "网络浏览器"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7722079157829285,
+         0.7120769023895264
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "You canlet yourself out the back door.": {
+      "序号": 46,
+      "原句": "You canlet yourself out the back door.",
+      "术语": "back door",
+      "原句翻译": "你可以从后门出去。",
+      "原句术语翻译": [
+         "后门。"
+      ],
+      "insert变异": "You canlet yourself out the back door (a rear side door of a car, or at the back of a van).",
+      "insert变异翻译": "您可以从后门（汽车的后侧门，或货车的后部）出去。",
+      "insert术语翻译": [
+         "后门。"
+      ],
+      "insert和原句术语翻译相似度": [
+         0.9999999403953552
+      ],
+      "insert变异翻译去括号": "您可以从后门出去。",
+      "原句翻译去括号": "你可以从后门出去。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9596320390701294
+      ],
+      "替换变异": [
+         "You canlet yourself out the back window."
+      ],
+      "替换术语": [
+         "back window"
+      ],
+      "替换翻译": [
+         "你可以从后窗出去。"
+      ],
+      "替换术语翻译": [
+         "后窗。"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.806833028793335
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "Waiting list does not begin for another five hours.": {
+      "序号": 47,
+      "原句": "Waiting list does not begin for another five hours.",
+      "术语": "waiting list",
+      "原句翻译": "等待名单还要五个小时才开始。",
+      "原句术语翻译": [
+         "等待名单"
+      ],
+      "insert变异": "Waiting list (an ordered list of people waiting to obtain a good or service) does not begin for another five hours.",
+      "insert变异翻译": "等待名单（等待获得商品或服务的人员的有序名单）还要再过五个小时才能开始。",
+      "insert术语翻译": [
+         "等待名单"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "等待名单还要再过五个小时才能开始。",
+      "原句翻译去括号": "等待名单还要五个小时才开始。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9853440523147583
+      ],
+      "替换变异": [
+         "Waiting period does not begin for another five hours.",
+         "Waiting time does not begin for another five hours."
+      ],
+      "替换术语": [
+         "Waiting period",
+         "Waiting time"
+      ],
+      "替换翻译": [
+         "等待期还要过五个小时才开始。",
+         "等待时间还要五个小时才开始。"
+      ],
+      "替换术语翻译": [
+         "等待期",
+         "等待时间"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7512353658676147,
+         0.7715358138084412
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "And so here was the first soft tissue from a dinosaur.": {
+      "序号": 48,
+      "原句": "And so here was the first soft tissue from a dinosaur.",
+      "术语": "soft tissue",
+      "原句翻译": "这就是恐龙的第一个软组织。",
+      "原句术语翻译": [
+         "软组织"
+      ],
+      "insert变异": "And so here was the first soft tissue (all the tissues of the body except the bones and organs) from a dinosaur.",
+      "insert变异翻译": "这是恐龙的第一个软组织（除了骨骼和器官之外的所有身体组织）。",
+      "insert术语翻译": [
+         "软组织"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "这是恐龙的第一个软组织。",
+      "原句翻译去括号": "这就是恐龙的第一个软组织。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9875969886779785
+      ],
+      "替换变异": [
+         "And so here was the first soft response from a dinosaur."
+      ],
+      "替换术语": [
+         "soft response"
+      ],
+      "替换翻译": [
+         "这是恐龙的第一个温和的反应。"
+      ],
+      "替换术语翻译": [
+         "温和反应"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.3320310413837433
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "That was before you had a man in a mask on your fire escape.": {
+      "序号": 49,
+      "原句": "That was before you had a man in a mask on your fire escape.",
+      "术语": "fire escape",
+      "原句翻译": "那是在你的消防梯上有一个戴着面具的男人之前。",
+      "原句术语翻译": [
+         "消防梯。"
+      ],
+      "insert变异": "That was before you had a man in a mask on your fire escape (the entire escape route viewed as a whole).",
+      "insert变异翻译": "那是在你的防火梯上有一个戴着面具的人之前（整个逃生路线被视为一个整体）。",
+      "insert术语翻译": [
+         "防火。"
+      ],
+      "insert和原句术语翻译相似度": [
+         0.6412150859832764
+      ],
+      "insert变异翻译去括号": "那是在你的防火梯上有一个戴着面具的人之前。",
+      "原句翻译去括号": "那是在你的消防梯上有一个戴着面具的男人之前。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9417606592178345
+      ],
+      "替换变异": [
+         "That was before you had a man in a mask on your last escape."
+      ],
+      "替换术语": [
+         "last escape"
+      ],
+      "替换翻译": [
+         "那是在你上次逃跑时遇到一个戴面具的男人之前。"
+      ],
+      "替换术语翻译": [
+         "上次逃跑。"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.5054476261138916
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         1,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         1,
+         0,
+         0
+      ],
+      "final_result": [
+         1,
+         0,
+         0
+      ]
+   },
+   "Let's hope it's just a heat rash.": {
+      "序号": 50,
+      "原句": "Let's hope it's just a heat rash.",
+      "术语": "heat rash",
+      "原句翻译": "希望这只是痱子。",
+      "原句术语翻译": [
+         "痱子。"
+      ],
+      "insert变异": "Let's hope it's just a heat rash (any of various heat-related rashes, including some forms of miliaria and vasculitis).",
+      "insert变异翻译": "希望这只是痱子（任何与热有关的皮疹，包括某些形式的痱子和血管炎）。",
+      "insert术语翻译": [
+         "痱子。"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "希望这只是痱子。",
+      "原句翻译去括号": "希望这只是痱子。",
+      "insert和原句翻译去括号部分相似度": [
+         1.0
+      ],
+      "替换变异": [
+         "Let's hope it's just a little rash.",
+         "Let's hope it's just a bad rash.",
+         "Let's hope it's just a heat bash."
+      ],
+      "替换术语": [
+         "little rash",
+         "bad rash",
+         "heat bash"
+      ],
+      "替换翻译": [
+         "希望这只是一点皮疹。",
+         "希望这只是严重的皮疹。",
+         "希望这只是一场热潮。"
+      ],
+      "替换术语翻译": [
+         "一点皮疹。",
+         "严重皮疹。",
+         "热潮。"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.6812652945518494,
+         0.6684209704399109,
+         0.5698620676994324
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "lf a nuclear bomb went off, and it seemed like that was exactly what it had said, balls of fire or something, you wouldn't look on that as necessarily a bad thing.": {
+      "序号": 51,
+      "原句": "lf a nuclear bomb went off, and it seemed like that was exactly what it had said, balls of fire or something, you wouldn't look on that as necessarily a bad thing.",
+      "术语": "nuclear bomb",
+      "原句翻译": "如果一颗核弹爆炸了，而且看起来就像它所说的那样，火球之类的，你不会认为这一定是一件坏事。",
+      "原句术语翻译": [
+         "核弹"
+      ],
+      "insert变异": "lf a nuclear bomb (a nuclear weapon) went off, and it seemed like that was exactly what it had said, balls of fire or something, you wouldn't look on that as necessarily a bad thing.",
+      "insert变异翻译": "如果一枚核弹（核武器）爆炸了，而且看起来就像它所说的那样，火球之类的，你不会认为这一定是一件坏事。",
+      "insert术语翻译": [
+         "核弹"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "如果一枚核弹爆炸了，而且看起来就像它所说的那样，火球之类的，你不会认为这一定是一件坏事。",
+      "原句翻译去括号": "如果一颗核弹爆炸了，而且看起来就像它所说的那样，火球之类的，你不会认为这一定是一件坏事。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9972106218338013
+      ],
+      "替换变异": [
+         "lf a nuclear weapon went off, and it seemed like that was exactly what it had said, balls of fire or something, you wouldn't look on that as necessarily a bad thing."
+      ],
+      "替换术语": [
+         "nuclear weapon"
+      ],
+      "替换翻译": [
+         "如果核武器爆炸了，而且看起来就像它所说的那样，火球之类的，你不会认为这一定是一件坏事。"
+      ],
+      "替换术语翻译": [
+         "核武器"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.8672915101051331
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "When future generations try to determine why your relationship with Penny crashed and burned, this right here is the black box.": {
+      "序号": 52,
+      "原句": "When future generations try to determine why your relationship with Penny crashed and burned, this right here is the black box.",
+      "术语": "black box",
+      "原句翻译": "当后代试图确定你与佩妮的关系为何破裂和烧毁时，这就是黑匣子。",
+      "原句术语翻译": [
+         "黑匣子。"
+      ],
+      "insert变异": "When future generations try to determine why your relationship with Penny crashed and burned, this right here is the black box (a theoretical construct or device with known input and output characteristics but unknown method of operation).",
+      "insert变异翻译": "当后代试图确定为什么你与佩妮的关系崩溃和烧毁时，这就是黑匣子（具有已知输入和输出特性但未知操作方法的理论构造或设备）。",
+      "insert术语翻译": [
+         "黑匣子。"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "当后代试图确定为什么你与佩妮的关系崩溃和烧毁时，这就是黑匣子。",
+      "原句翻译去括号": "当后代试图确定你与佩妮的关系为何破裂和烧毁时，这就是黑匣子。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9773757457733154
+      ],
+      "替换变异": [
+         "When future generations try to determine why your relationship with Penny crashed and burned, this right here is the black hole.",
+         "When future generations try to determine why your relationship with Penny crashed and burned, this right here is the black spot.",
+         "When future generations try to determine why your relationship with Penny crashed and burned, this right here is the black mark."
+      ],
+      "替换术语": [
+         "black hole",
+         "black spot",
+         "black mark"
+      ],
+      "替换翻译": [
+         "当后代试图确定你与佩妮的关系为何崩溃并燃烧时，这就是黑洞。",
+         "当后代试图确定你和佩妮的关系为何破裂和烧毁时，这就是黑点。",
+         "当后代试图确定你与佩妮的关系为何破裂和烧毁时，这就是一个污点。"
+      ],
+      "替换术语翻译": [
+         "黑洞。",
+         "黑点。",
+         "污点。"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7087721824645996,
+         0.6876369118690491,
+         0.5431573390960693
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "I have a green card for my boys and me.": {
+      "序号": 53,
+      "原句": "I have a green card for my boys and me.",
+      "术语": "green card",
+      "原句翻译": "我和我的孩子们都有绿卡。",
+      "原句术语翻译": [
+         "绿卡"
+      ],
+      "insert变异": "I have a green card (see: green, card) for my boys and me.",
+      "insert变异翻译": "我和我的孩子们有一张绿卡（参见：绿卡）。",
+      "insert术语翻译": [
+         "绿卡"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "我和我的孩子们有一张绿卡。",
+      "原句翻译去括号": "我和我的孩子们都有绿卡。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9719343781471252
+      ],
+      "替换变异": [
+         "I have a green one for my boys and me.",
+         "I have a green light for my boys and me."
+      ],
+      "替换术语": [
+         "green one",
+         "green light"
+      ],
+      "替换翻译": [
+         "我为我和我的孩子们准备了一件绿色的。",
+         "我为我和我的孩子们开了绿灯。"
+      ],
+      "替换术语翻译": [
+         "绿色的",
+         "绿灯"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.5788478255271912,
+         0.6368788480758667
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "So is today the day her whole class is coming in for that field trip?": {
+      "序号": 54,
+      "原句": "So is today the day her whole class is coming in for that field trip?",
+      "术语": "field trip",
+      "原句翻译": "那么今天是她全班同学都来参加实地考察的日子吗？",
+      "原句术语翻译": [
+         "实地考察？"
+      ],
+      "insert变异": "So is today the day her whole class is coming in for that field trip (a trip, usually in a group and especially by students, to a place of special interest for education, research or exploration; a trip into the field)?",
+      "insert变异翻译": "那么今天是她全班同学参加实地考察的日子吗（一次旅行，通常是团体旅行，尤其是学生一起，前往一个特别感兴趣的地方进行教育、研究或探索；一次实地考察）？",
+      "insert术语翻译": [
+         "实地考察？"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "那么今天是她全班同学参加实地考察的日子吗？",
+      "原句翻译去括号": "那么今天是她全班同学都来参加实地考察的日子吗？",
+      "insert和原句翻译去括号部分相似度": [
+         0.9843395948410034
+      ],
+      "替换变异": [
+         "So is today the day her whole class is coming in for that shopping trip?",
+         "So is today the day her whole class is coming in for that camping trip?",
+         "So is today the day her whole class is coming in for that road trip?",
+         "So is today the day her whole class is coming in for that field day?"
+      ],
+      "替换术语": [
+         "shopping trip",
+         "camping trip",
+         "road trip",
+         "field day"
+      ],
+      "替换翻译": [
+         "那么今天是她全班同学都来购物的日子吗？",
+         "那么今天是她全班同学都来参加野营旅行的日子吗？",
+         "那么今天是她全班同学参加公路旅行的日子吗？",
+         "那么今天是她全班同学都来参加野外活动的日子吗？"
+      ],
+      "替换术语翻译": [
+         "购物？",
+         "野营旅行？",
+         "公路旅行？",
+         "野外？"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.5846605896949768,
+         0.5549452304840088,
+         0.5578322410583496,
+         0.5948063731193542
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "I just bet you'd like to know why I'm so angry about this dark matter shortage.": {
+      "序号": 55,
+      "原句": "I just bet you'd like to know why I'm so angry about this dark matter shortage.",
+      "术语": "dark matter",
+      "原句翻译": "我打赌你想知道为什么我对暗物质的短缺如此愤怒。",
+      "原句术语翻译": [
+         "暗物质"
+      ],
+      "insert变异": "I just bet you'd like to know why I'm so angry about this dark matter (matter which cannot be detected by its radiation but whose presence is inferred from gravitational effects) shortage.",
+      "insert变异翻译": "我只是打赌你想知道为什么我对这种暗物质（无法通过其辐射检测到但其存在是通过引力效应推断出来的物质）短缺如此愤怒。",
+      "insert术语翻译": [
+         "暗物质"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0000001192092896
+      ],
+      "insert变异翻译去括号": "我只是打赌你想知道为什么我对这种暗物质短缺如此愤怒。",
+      "原句翻译去括号": "我打赌你想知道为什么我对暗物质的短缺如此愤怒。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9661428928375244
+      ],
+      "替换变异": [
+         "I just bet you'd like to know why I'm so angry about this dark energy shortage.",
+         "I just bet you'd like to know why I'm so angry about this dark water shortage."
+      ],
+      "替换术语": [
+         "dark energy",
+         "dark water"
+      ],
+      "替换翻译": [
+         "我打赌你想知道为什么我对暗能量短缺如此愤怒。",
+         "我打赌你想知道为什么我对这种黑暗的缺水现象如此愤怒。"
+      ],
+      "替换术语翻译": [
+         "暗能量",
+         "黑暗缺水"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7928932905197144,
+         0.5732485055923462
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "Buying a plane ticket... pawning a stolen cigarette case - that's not smart.": {
+      "序号": 56,
+      "原句": "Buying a plane ticket... pawning a stolen cigarette case - that's not smart.",
+      "术语": "cigarette case",
+      "原句翻译": "买机票……典当偷来的烟盒——这并不明智。",
+      "原句术语翻译": [
+         "烟盒"
+      ],
+      "insert变异": "Buying a plane ticket... pawning a stolen cigarette case (a small flat case for holding cigarettes) - that's not smart.",
+      "insert变异翻译": "买机票……典当一个偷来的烟盒（一个装香烟的小扁盒）——这并不聪明。",
+      "insert术语翻译": [
+         "烟盒"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "买机票……典当一个偷来的烟盒——这并不聪明。",
+      "原句翻译去括号": "买机票……典当偷来的烟盒——这并不明智。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9496119022369385
+      ],
+      "替换变异": [
+         "Buying a plane ticket... pawning a stolen guitar case - that's not smart.",
+         "Buying a plane ticket... pawning a stolen car case - that's not smart.",
+         "Buying a plane ticket... pawning a stolen computer case - that's not smart."
+      ],
+      "替换术语": [
+         "guitar case",
+         "car case",
+         "computer case"
+      ],
+      "替换翻译": [
+         "买机票……典当偷来的吉他盒——这并不明智。",
+         "买机票……典当偷来的汽车箱——这并不明智。",
+         "买机票……典当偷来的电脑机箱——这并不明智。"
+      ],
+      "替换术语翻译": [
+         "吉他盒",
+         "汽车箱",
+         "电脑机箱"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.6321168541908264,
+         0.45436257123947144,
+         0.40306931734085083
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "Within it will be address and telephone number for Parsifal, and a calling card of sorts.": {
+      "序号": 57,
+      "原句": "Within it will be address and telephone number for Parsifal, and a calling card of sorts.",
+      "术语": "telephone number",
+      "原句翻译": "里面有帕西法尔的地址和电话号码，以及一张类似的电话卡。",
+      "原句术语翻译": [
+         "电话号码"
+      ],
+      "insert变异": "Within it will be address and telephone number (a large number) for Parsifal, and a calling card of sorts.",
+      "insert变异翻译": "里面有帕西法尔的地址和电话号码（很大的数字），以及一张类似的电话卡。",
+      "insert术语翻译": [
+         "电话号码"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "里面有帕西法尔的地址和电话号码，以及一张类似的电话卡。",
+      "原句翻译去括号": "里面有帕西法尔的地址和电话号码，以及一张类似的电话卡。",
+      "insert和原句翻译去括号部分相似度": [
+         1.0000001192092896
+      ],
+      "替换变异": [
+         "Within it will be address and telephone information for Parsifal, and a calling card of sorts."
+      ],
+      "替换术语": [
+         "telephone information"
+      ],
+      "替换翻译": [
+         "其中包含帕西法尔的地址和电话信息，以及某种电话卡。"
+      ],
+      "替换术语翻译": [
+         "电话信息"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.8500427603721619
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "Moses goes out, and there's this burning bush, and God talks to him.": {
+      "序号": 58,
+      "原句": "Moses goes out, and there's this burning bush, and God talks to him.",
+      "术语": "burning bush",
+      "原句翻译": "摩西出去，看到这燃烧的荆棘，神就对他说话。",
+      "原句术语翻译": [
+         "燃烧荆棘，"
+      ],
+      "insert变异": "Moses goes out, and there's this burning bush (Combretum paniculatum, a plant native to Africa), and God talks to him.",
+      "insert变异翻译": "摩西出去，看到这棵燃烧的灌木丛（风车草，一种原产于非洲的植物），上帝与他说话。",
+      "insert术语翻译": [
+         "燃烧灌木丛"
+      ],
+      "insert和原句术语翻译相似度": [
+         0.6807692050933838
+      ],
+      "insert变异翻译去括号": "摩西出去，看到这棵燃烧的灌木丛，上帝与他说话。",
+      "原句翻译去括号": "摩西出去，看到这燃烧的荆棘，神就对他说话。",
+      "insert和原句翻译去括号部分相似度": [
+         0.8415548205375671
+      ],
+      "替换变异": [
+         "Moses goes out, and there's this burning light, and God talks to him.",
+         "Moses goes out, and there's this burning fire, and God talks to him."
+      ],
+      "替换术语": [
+         "burning light",
+         "burning fire"
+      ],
+      "替换翻译": [
+         "摩西出去，那里有燃烧的光，神与他说话。",
+         "摩西出去，那里有熊熊燃烧的火，神对他说话。"
+      ],
+      "替换术语翻译": [
+         "燃烧光",
+         "熊熊燃烧火"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.6277052760124207,
+         0.6624155640602112
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         1,
+         1,
+         0
+      ],
+      "manual_2_result": [
+         1,
+         1,
+         0
+      ],
+      "final_result": [
+         1,
+         1,
+         0
+      ]
+   },
+   "So the first is, it turns anyone who has access to a mobile phone --": {
+      "序号": 59,
+      "原句": "So the first is, it turns anyone who has access to a mobile phone --",
+      "术语": "mobile phone",
+      "原句翻译": "首先是，它让任何拥有手机的人——",
+      "原句术语翻译": [
+         "手机"
+      ],
+      "insert变异": "So the first is, it turns anyone who has access to a mobile phone (a portable telephone that connects with the telephone network over radio wave transmission) --",
+      "insert变异翻译": "首先，它让任何拥有移动电话（通过无线电波传输与电话网络连接的便携式电话）的人——",
+      "insert术语翻译": [
+         "移动电话"
+      ],
+      "insert和原句术语翻译相似度": [
+         0.7065712213516235
+      ],
+      "insert变异翻译去括号": "首先，它让任何拥有移动电话的人——",
+      "原句翻译去括号": "首先是，它让任何拥有手机的人——",
+      "insert和原句翻译去括号部分相似度": [
+         0.918943464756012
+      ],
+      "替换变异": [
+         "So the first is, it turns anyone who has access to a mobile device --"
+      ],
+      "替换术语": [
+         "mobile device"
+      ],
+      "替换翻译": [
+         "首先是，它让任何有权使用移动设备的人——"
+      ],
+      "替换术语翻译": [
+         "移动设备"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.6776915788650513
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         1,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "there was a natural selection for the propensity for our belief engines,": {
+      "序号": 60,
+      "原句": "there was a natural selection for the propensity for our belief engines,",
+      "术语": "natural selection",
+      "原句翻译": "我们的信念引擎的倾向存在自然选择，",
+      "原句术语翻译": [
+         "自然选择"
+      ],
+      "insert变异": "there was a natural selection (a process by which heritable traits conferring survival and reproductive advantage to individuals, or related individuals, tend to be passed on to succeeding generations and become more frequent in a population, whereas other less favourable traits tend to become eliminated; the differential survival and reproduction of phenotypes) for the propensity for our belief engines,",
+      "insert变异翻译": "存在着一种自然选择（一种赋予个体或相关个体生存和繁殖优势的遗传特征倾向于传递给后代并在群体中变得更加频繁的过程，而其他不太有利的特征则倾向于被淘汰；表型的差异生存和繁殖），决定了我们的信仰引擎的倾向，",
+      "insert术语翻译": [
+         "自然选择"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0000001192092896
+      ],
+      "insert变异翻译去括号": "存在着一种自然选择，决定了我们的信仰引擎的倾向，",
+      "原句翻译去括号": "我们的信念引擎的倾向存在自然选择，",
+      "insert和原句翻译去括号部分相似度": [
+         0.9392996430397034
+      ],
+      "替换变异": [
+         "there was a natural reason for the propensity for our belief engines,",
+         "there was a natural basis for the propensity for our belief engines,",
+         "there was a natural need for the propensity for our belief engines,",
+         "there was a natural affinity for the propensity for our belief engines,"
+      ],
+      "替换术语": [
+         "natural reason",
+         "natural basis",
+         "natural need",
+         "natural affinity"
+      ],
+      "替换翻译": [
+         "我们的信念引擎倾向有一个自然的原因，",
+         "我们的信念引擎的倾向有一个自然的基础，",
+         "我们自然需要信仰引擎的倾向，",
+         "我们的信念引擎有一种天然的亲和力，"
+      ],
+      "替换术语翻译": [
+         "自然原因",
+         "自然基础",
+         "自然需要",
+         "天然亲和力"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.6889185905456543,
+         0.6347149610519409,
+         0.6788710355758667,
+         0.5516517758369446
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         1,
+         0
+      ],
+      "final_result": [
+         0,
+         1,
+         0
+      ]
+   },
+   "And since this may well be my last Wimbledon press conference, um, I'd like to take the opportunity to announce my retirement from...": {
+      "序号": 62,
+      "原句": "And since this may well be my last Wimbledon press conference, um, I'd like to take the opportunity to announce my retirement from...",
+      "术语": "press conference",
+      "原句翻译": "由于这很可能是我最后一次温布尔登新闻发布会，嗯，我想借此机会宣布我退役......",
+      "原句术语翻译": [
+         "新闻发布会，"
+      ],
+      "insert变异": "And since this may well be my last Wimbledon press conference (a question-and-answer session with members of television, print and other media), um, I'd like to take the opportunity to announce my retirement from...",
+      "insert变异翻译": "由于这很可能是我最后一次温布尔登新闻发布会（与电视、印刷和其他媒体成员进行的问答会），嗯，我想借此机会宣布我退役......",
+      "insert术语翻译": [
+         "新闻发布会，"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0000001192092896
+      ],
+      "insert变异翻译去括号": "由于这很可能是我最后一次温布尔登新闻发布会，嗯，我想借此机会宣布我退役......",
+      "原句翻译去括号": "由于这很可能是我最后一次温布尔登新闻发布会，嗯，我想借此机会宣布我退役......",
+      "insert和原句翻译去括号部分相似度": [
+         1.0000001192092896
+      ],
+      "替换变异": [
+         "And since this may well be my last Wimbledon press tour, um, I'd like to take the opportunity to announce my retirement from..."
+      ],
+      "替换术语": [
+         "press tour"
+      ],
+      "替换翻译": [
+         "由于这很可能是我最后一次温布尔登新闻发布会，嗯，我想借此机会宣布我退役......"
+      ],
+      "替换术语翻译": [
+         "新闻发布会，"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         1.0000001192092896
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         1
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         1
+      ],
+      "final_result": [
+         0,
+         0,
+         1
+      ]
+   },
+   "LEGO has essentially taken the concrete block, the building block of the world,": {
+      "序号": 63,
+      "原句": "LEGO has essentially taken the concrete block, the building block of the world,",
+      "术语": "building block",
+      "原句翻译": "乐高本质上采用了混凝土块，世界的基石，",
+      "原句术语翻译": [
+         "基石"
+      ],
+      "insert变异": "LEGO has essentially taken the concrete block, the building block (a component that is part of a larger system) of the world,",
+      "insert变异翻译": "乐高本质上已经占据了世界的混凝土块、构建块（作为更大系统的一部分的组件），",
+      "insert术语翻译": [
+         "构建块"
+      ],
+      "insert和原句术语翻译相似度": [
+         0.4917394518852234
+      ],
+      "insert变异翻译去括号": "乐高本质上已经占据了世界的混凝土块、构建块，",
+      "原句翻译去括号": "乐高本质上采用了混凝土块，世界的基石，",
+      "insert和原句翻译去括号部分相似度": [
+         0.8839187622070312
+      ],
+      "替换变异": [
+         "LEGO has essentially taken the concrete block, the concrete block of the world,",
+         "LEGO has essentially taken the concrete block, the building material of the world,",
+         "LEGO has essentially taken the concrete block, the building stone of the world,",
+         "LEGO has essentially taken the concrete block, the building capital of the world,"
+      ],
+      "替换术语": [
+         "concrete block",
+         "building material",
+         "building stone",
+         "building capital"
+      ],
+      "替换翻译": [
+         "乐高本质上采用了混凝土块，世界的混凝土块，",
+         "乐高本质上采用了混凝土块这种世界建筑材料，",
+         "乐高本质上采用了混凝土块，世界的建筑石材，",
+         "乐高实质上占领了混凝土块，世界建筑之都，"
+      ],
+      "替换术语翻译": [
+         "混凝土块",
+         "建筑材料",
+         "建筑石材",
+         "建筑都"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.3820755183696747,
+         0.37763386964797974,
+         0.549391508102417,
+         0.4093223214149475
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         1,
+         1,
+         0
+      ],
+      "manual_2_result": [
+         1,
+         1,
+         0
+      ],
+      "final_result": [
+         1,
+         1,
+         0
+      ]
+   },
+   "Don't talk to me about human rights... because terrorists, to me, aren't people.": {
+      "序号": 65,
+      "原句": "Don't talk to me about human rights... because terrorists, to me, aren't people.",
+      "术语": "human rights",
+      "原句翻译": "不要跟我谈论人权……因为对我来说，恐怖分子不是人。",
+      "原句术语翻译": [
+         "人权……"
+      ],
+      "insert变异": "Don't talk to me about human rights (the set of basic rights and freedoms that all humans should be guaranteed, including the right to life and liberty, freedom of thought and expression, and equality before the law)... because terrorists, to me, aren't people.",
+      "insert变异翻译": "不要跟我谈论人权（所有人类都应得到保障的一系列基本权利和自由，包括生命权和自由权、思想和言论自由以及法律面前人人平等）……因为恐怖分子，对我来说，都不是人。",
+      "insert术语翻译": [
+         "人权……"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "不要跟我谈论人权……因为恐怖分子，对我来说，都不是人。",
+      "原句翻译去括号": "不要跟我谈论人权……因为对我来说，恐怖分子不是人。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9761196970939636
+      ],
+      "替换变异": [
+         "Don't talk to me about human life... because terrorists, to me, aren't people."
+      ],
+      "替换术语": [
+         "human life"
+      ],
+      "替换翻译": [
+         "不要跟我谈论人的生命……因为对我来说，恐怖分子不是人。"
+      ],
+      "替换术语翻译": [
+         "人生命……"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7016283273696899
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "A lovely new living room from Walter E. Smithe.": {
+      "序号": 66,
+      "原句": "A lovely new living room from Walter E. Smithe.",
+      "术语": "living room",
+      "原句翻译": "沃尔特·E·史密斯 (Walter E. Smithe) 设计的一间可爱的新客厅。",
+      "原句术语翻译": [
+         "客厅"
+      ],
+      "insert变异": "A lovely new living room (a room in a private house used for general social and leisure activities) from Walter E. Smithe.",
+      "insert变异翻译": "Walter E. Smithe 设计的可爱的新客厅（私人住宅中用于一般社交和休闲活动的房间）。",
+      "insert术语翻译": [
+         "客厅"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0000001192092896
+      ],
+      "insert变异翻译去括号": "Walter E. Smithe 设计的可爱的新客厅。",
+      "原句翻译去括号": "沃尔特·E·史密斯 设计的一间可爱的新客厅。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9294238090515137
+      ],
+      "替换变异": [
+         "A lovely new dining room from Walter E. Smithe.",
+         "A lovely new meeting room from Walter E. Smithe.",
+         "A lovely new hotel room from Walter E. Smithe."
+      ],
+      "替换术语": [
+         "dining room",
+         "meeting room",
+         "hotel room"
+      ],
+      "替换翻译": [
+         "沃尔特·E·史密斯 (Walter E. Smithe) 设计的一间可爱的新餐厅。",
+         "Walter E. Smithe 设计的一间可爱的新会议室。",
+         "沃尔特·E·史密斯 (Walter E. Smithe) 设计的一间可爱的新酒店房间。"
+      ],
+      "替换术语翻译": [
+         "餐厅",
+         "会议室",
+         "酒店房间"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7139496803283691,
+         0.5932418704032898,
+         0.5235542058944702
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "Both of them live at the confluence of public health and enterprise,": {
+      "序号": 68,
+      "原句": "Both of them live at the confluence of public health and enterprise,",
+      "术语": "public health",
+      "原句翻译": "他们都生活在公共卫生和企业的交汇处，",
+      "原句术语翻译": [
+         "公共卫生"
+      ],
+      "insert变异": "Both of them live at the confluence of public health (the science and practice of community hygiene; includes preventive medicine, health education, sanitation and environmental safety) and enterprise,",
+      "insert变异翻译": "他们都生活在公共卫生（社区卫生的科学和实践；包括预防医学、健康教育、卫生和环境安全）和企业的交汇处，",
+      "insert术语翻译": [
+         "公共卫生"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "他们都生活在公共卫生和企业的交汇处，",
+      "原句翻译去括号": "他们都生活在公共卫生和企业的交汇处，",
+      "insert和原句翻译去括号部分相似度": [
+         1.0000001192092896
+      ],
+      "替换变异": [
+         "Both of them live at the confluence of public service and enterprise,",
+         "Both of them live at the confluence of public administration and enterprise,",
+         "Both of them live at the confluence of public policy and enterprise,"
+      ],
+      "替换术语": [
+         "public service",
+         "public administration",
+         "public policy"
+      ],
+      "替换翻译": [
+         "两人都生活在公共服务与企业的交汇处，",
+         "他们都生活在公共行政和企业的交汇处，",
+         "他们都生活在公共政策和企业的交汇处，"
+      ],
+      "替换术语翻译": [
+         "公共服务",
+         "公共行政",
+         "公共政策"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7482659220695496,
+         0.7200225591659546,
+         0.7034198045730591
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "I could barely get you to take off your lab coat.": {
+      "序号": 70,
+      "原句": "I could barely get you to take off your lab coat.",
+      "术语": "lab coat",
+      "原句翻译": "我几乎没办法让你脱掉实验室外套。",
+      "原句术语翻译": [
+         "实验室外套。"
+      ],
+      "insert变异": "I could barely get you to take off your lab coat (a white coat worn by laboratory workers to protect day clothes from damage by spillage etc.).",
+      "insert变异翻译": "我几乎无法让你脱掉实验室外套（实验室工作人员穿的白色外套，以保护日常服装免受溢出等损坏）。",
+      "insert术语翻译": [
+         "实验室外套。"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "我几乎无法让你脱掉实验室外套。",
+      "原句翻译去括号": "我几乎没办法让你脱掉实验室外套。",
+      "insert和原句翻译去括号部分相似度": [
+         0.986056923866272
+      ],
+      "替换变异": [
+         "I could barely get you to take off your suit coat.",
+         "I could barely get you to take off your winter coat."
+      ],
+      "替换术语": [
+         "suit coat",
+         "winter coat"
+      ],
+      "替换翻译": [
+         "我几乎没办法让你脱掉西装外套。",
+         "我几乎没办法让你脱掉你的冬衣。"
+      ],
+      "替换术语翻译": [
+         "西装外套。",
+         "冬衣。"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.6689487099647522,
+         0.6580676436424255
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "Yep, nothing like an economic crisis to trigger innovation.": {
+      "序号": 71,
+      "原句": "Yep, nothing like an economic crisis to trigger innovation.",
+      "术语": "economic crisis",
+      "原句翻译": "是的，没有什么比经济危机更能引发创新了。",
+      "原句术语翻译": [
+         "经济危机"
+      ],
+      "insert变异": "Yep, nothing like an economic crisis (a crisis caused by the general demand for goods within an economy falling below their supply, either temporarily or on a protracted basis, typically resulting in widespread bankruptcies of unproductive businesses and falling prices) to trigger innovation.",
+      "insert变异翻译": "是的，没有什么比经济危机（经济体内对商品的总体需求低于供应而引起的危机，无论是暂时还是长期，通常导致非生产性企业普遍破产和价格下跌）来触发创新。",
+      "insert术语翻译": [
+         "经济危机"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0000001192092896
+      ],
+      "insert变异翻译去括号": "是的，没有什么比经济危机来触发创新。",
+      "原句翻译去括号": "是的，没有什么比经济危机更能引发创新了。",
+      "insert和原句翻译去括号部分相似度": [
+         0.974065899848938
+      ],
+      "替换变异": [
+         "Yep, nothing like an economic tool to trigger innovation."
+      ],
+      "替换术语": [
+         "economic tool"
+      ],
+      "替换翻译": [
+         "是的，没有什么比经济工具更能激发创新了。"
+      ],
+      "替换术语翻译": [
+         "经济工具"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.5817596912384033
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "\"Wow, this is really important, the Web! We need a much better Web server!\"": {
+      "序号": 72,
+      "原句": "\"Wow, this is really important, the Web! We need a much better Web server!\"",
+      "术语": "web server",
+      "原句翻译": "“哇，这真的很重要，Web！我们需要一个更好的 Web 服务器！”",
+      "原句术语翻译": [
+         "Web服务器！”"
+      ],
+      "insert变异": "\"Wow, this is really important, the Web! We need a much better Web server (the computer on which such software runs)!\"",
+      "insert变异翻译": "“哇，这真的很重要，Web！我们需要一个更好的 Web 服务器（运行此类软件的计算机）！”",
+      "insert术语翻译": [
+         "Web服务器！”"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0000001192092896
+      ],
+      "insert变异翻译去括号": "“哇，这真的很重要，Web！我们需要一个更好的 Web 服务器！”",
+      "原句翻译去括号": "“哇，这真的很重要，Web！我们需要一个更好的 Web 服务器！”",
+      "insert和原句翻译去括号部分相似度": [
+         1.0000001192092896
+      ],
+      "替换变异": [
+         "\"Wow, this is really important, the Web! We need a much better Web site!\"",
+         "\"Wow, this is really important, the Web! We need a much better Web browser!\"",
+         "\"Wow, this is really important, the Web! We need a much better Web connection!\"",
+         "\"Wow, this is really important, the Web! We need a much better Web service!\""
+      ],
+      "替换术语": [
+         "Web site",
+         "Web browser",
+         "Web connection",
+         "Web service"
+      ],
+      "替换翻译": [
+         "“哇，网络真的很重要！我们需要一个更好的网站！”",
+         "“哇，网络真的很重要！我们需要一个更好的网络浏览器！”",
+         "“哇，网络真的太重要了！我们需要更好的网络连接！”",
+         "“哇，这真的很重要，Web！我们需要更好的 Web 服务！”"
+      ],
+      "替换术语翻译": [
+         "网站！”",
+         "网络浏览器！”",
+         "网络连接！”",
+         "Web服务！”"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7593905925750732,
+         0.7893487811088562,
+         0.7270736694335938,
+         0.9403973817825317
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         1
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "The answer, of course, to which is a trade secret --": {
+      "序号": 73,
+      "原句": "The answer, of course, to which is a trade secret --",
+      "术语": "trade secret",
+      "原句翻译": "答案当然是商业秘密——",
+      "原句术语翻译": [
+         "商业秘密"
+      ],
+      "insert变异": "The answer, of course, to which is a trade secret (a formula, practice, process, design, instrument, pattern, or compilation of information used by a business to obtain an advantage over competitors within the same industry or profession, which kept secret from those competitors or the public) --",
+      "insert变异翻译": "答案当然是商业秘密（企业使用的公式、实践、流程、设计、仪器、模式或信息汇编，以获得相对于同一行业或专业内的竞争对手的优势，这些秘密来自那些竞争对手或公众）——",
+      "insert术语翻译": [
+         "商业秘密"
+      ],
+      "insert和原句术语翻译相似度": [
+         0.9999998807907104
+      ],
+      "insert变异翻译去括号": "答案当然是商业秘密——",
+      "原句翻译去括号": "答案当然是商业秘密——",
+      "insert和原句翻译去括号部分相似度": [
+         1.0
+      ],
+      "替换变异": [
+         "The answer, of course, to which is a great secret --",
+         "The answer, of course, to which is a little secret --"
+      ],
+      "替换术语": [
+         "great secret",
+         "little secret"
+      ],
+      "替换翻译": [
+         "答案当然是一个巨大的秘密——",
+         "当然，答案是一个小秘密——"
+      ],
+      "替换术语翻译": [
+         "巨大秘密",
+         "小秘密"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.6455593109130859,
+         0.66301429271698
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "which we can't do with, say, breast cancer, because everyone gets treated.": {
+      "序号": 74,
+      "原句": "which we can't do with, say, breast cancer, because everyone gets treated.",
+      "术语": "breast cancer",
+      "原句翻译": "比如说乳腺癌，我们就无法做到这一点，因为每个人都会得到治疗。",
+      "原句术语翻译": [
+         "乳腺癌，"
+      ],
+      "insert变异": "which we can't do with, say, breast cancer (cancer of the breast), because everyone gets treated.",
+      "insert变异翻译": "例如，对于乳腺癌（乳腺癌），我们无法做到这一点，因为每个人都会接受治疗。",
+      "insert术语翻译": [
+         "乳腺癌，"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "例如，对于乳腺癌，我们无法做到这一点，因为每个人都会接受治疗。",
+      "原句翻译去括号": "比如说乳腺癌，我们就无法做到这一点，因为每个人都会得到治疗。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9309519529342651
+      ],
+      "替换变异": [
+         "which we can't do with, say, lung cancer, because everyone gets treated.",
+         "which we can't do with, say, breast milk, because everyone gets treated."
+      ],
+      "替换术语": [
+         "lung cancer",
+         "breast milk"
+      ],
+      "替换翻译": [
+         "例如，对于肺癌，我们无法做到这一点，因为每个人都会得到治疗。",
+         "我们不能用母乳来做到这一点，因为每个人都会接受治疗。"
+      ],
+      "替换术语翻译": [
+         "肺癌，",
+         "母乳，"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.74493408203125,
+         0.600468099117279
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "We passed a version of a carbon tax and some other measures to try to address this.": {
+      "序号": 75,
+      "原句": "We passed a version of a carbon tax and some other measures to try to address this.",
+      "术语": "carbon tax",
+      "原句翻译": "我们通过了碳税的一个版本和其他一些措施来尝试解决这个问题。",
+      "原句术语翻译": [
+         "碳税"
+      ],
+      "insert变异": "We passed a version of a carbon tax (a tax levied on the carbon contents used by the burning fossil fuels, so as to discourage the production of the greenhouse gas carbon dioxide. Category:en:Climate change) and some other measures to try to address this.",
+      "insert变异翻译": "我们通过了碳税（对燃烧化石燃料所使用的碳含量征税，以阻止温室气体二氧化碳的产生。类别：en：气候变化）和其他一些措施来尝试解决这个问题。",
+      "insert术语翻译": [
+         "碳税"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "我们通过了碳税和其他一些措施来尝试解决这个问题。",
+      "原句翻译去括号": "我们通过了碳税的一个版本和其他一些措施来尝试解决这个问题。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9412264823913574
+      ],
+      "替换变异": [
+         "We passed a version of a poll tax and some other measures to try to address this.",
+         "We passed a version of a property tax and some other measures to try to address this."
+      ],
+      "替换术语": [
+         "poll tax",
+         "property tax"
+      ],
+      "替换翻译": [
+         "我们通过了人头税和其他一些措施来试图解决这个问题。",
+         "我们通过了财产税和其他一些措施来试图解决这个问题。"
+      ],
+      "替换术语翻译": [
+         "人头税",
+         "财产税"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.5462086796760559,
+         0.5952383875846863
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "I work at Hewlett-Packard as a project manager there in an R& D lab.": {
+      "序号": 77,
+      "原句": "I work at Hewlett-Packard as a project manager there in an R& D lab.",
+      "术语": "project manager",
+      "原句翻译": "我在惠普的研发实验室担任项目经理。",
+      "原句术语翻译": [
+         "项目经理"
+      ],
+      "insert变异": "I work at Hewlett-Packard as a project manager (one who manages projects) there in an R& D lab.",
+      "insert变异翻译": "我在惠普的研发实验室担任项目经理（负责管理项目）。",
+      "insert术语翻译": [
+         "项目经理"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "我在惠普的研发实验室担任项目经理。",
+      "原句翻译去括号": "我在惠普的研发实验室担任项目经理。",
+      "insert和原句翻译去括号部分相似度": [
+         1.0
+      ],
+      "替换变异": [
+         "I work at Hewlett-Packard as a research manager there in an R& D lab.",
+         "I work at Hewlett-Packard as a senior manager there in an R& D lab.",
+         "I work at Hewlett-Packard as a project assistant there in an R& D lab.",
+         "I work at Hewlett-Packard as a project engineer there in an R& D lab."
+      ],
+      "替换术语": [
+         "research manager",
+         "senior manager",
+         "project assistant",
+         "project engineer"
+      ],
+      "替换翻译": [
+         "我在惠普的一个研发实验室担任研究经理。",
+         "我在惠普公司的研发实验室担任高级经理。",
+         "我在惠普的研发实验室担任项目助理。",
+         "我在惠普的研发实验室担任项目工程师。"
+      ],
+      "替换术语翻译": [
+         "研究经理",
+         "高级经理",
+         "项目助理",
+         "项目工程师"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.6340539455413818,
+         0.6600946187973022,
+         0.8415175676345825,
+         0.822057843208313
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "is a joint venture between Acumen and the government of India": {
+      "序号": 78,
+      "原句": "is a joint venture between Acumen and the government of India",
+      "术语": "joint venture",
+      "原句翻译": "是 Acumen 与印度政府的合资企业",
+      "原句术语翻译": [
+         "合资企业"
+      ],
+      "insert变异": "is a joint venture (a cooperative partnership between two individuals or businesses in which profits and risks are shared) between Acumen and the government of India",
+      "insert变异翻译": "是 Acumen 和印度政府之间的合资企业（两个个人或企业之间的合作伙伴关系，共享利润和风险）",
+      "insert术语翻译": [
+         "合资企业"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0000001192092896
+      ],
+      "insert变异翻译去括号": "是 Acumen 和印度政府之间的合资企业",
+      "原句翻译去括号": "是 Acumen 与印度政府的合资企业",
+      "insert和原句翻译去括号部分相似度": [
+         0.9931395053863525
+      ],
+      "替换变异": [
+         "is a joint project between Acumen and the government of India"
+      ],
+      "替换术语": [
+         "joint project"
+      ],
+      "替换翻译": [
+         "是 Acumen 和印度政府之间的联合项目"
+      ],
+      "替换术语翻译": [
+         "联合项目"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.592598557472229
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "And so we are all connected in the great circle of life.": {
+      "序号": 79,
+      "原句": "And so we are all connected in the great circle of life.",
+      "术语": "great circle",
+      "原句翻译": "因此，我们在生命的大循环中都是相互联系的。",
+      "原句术语翻译": [
+         "大循环"
+      ],
+      "insert变异": "And so we are all connected in the great circle (a circle defined as the intersection of the surface of a sphere and a plane which passes through the centre of the sphere) of life.",
+      "insert变异翻译": "因此，我们都在生命的大圆（定义为球体表面与穿过球体中心的平面的交点）中联系在一起。",
+      "insert术语翻译": [
+         "大圆"
+      ],
+      "insert和原句术语翻译相似度": [
+         0.5863825082778931
+      ],
+      "insert变异翻译去括号": "因此，我们都在生命的大圆中联系在一起。",
+      "原句翻译去括号": "因此，我们在生命的大循环中都是相互联系的。",
+      "insert和原句翻译去括号部分相似度": [
+         0.8781754374504089
+      ],
+      "替换变异": [
+         "And so we are all connected in the great way of life."
+      ],
+      "替换术语": [
+         "great way"
+      ],
+      "替换翻译": [
+         "因此，我们都以美好的生活方式联系在一起。"
+      ],
+      "替换术语翻译": [
+         "美好方式"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.3712993860244751
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         1,
+         1,
+         0
+      ],
+      "manual_2_result": [
+         1,
+         1,
+         0
+      ],
+      "final_result": [
+         1,
+         1,
+         0
+      ]
+   },
+   "Okay, why do you want to become a police officer?": {
+      "序号": 81,
+      "原句": "Okay, why do you want to become a police officer?",
+      "术语": "police officer",
+      "原句翻译": "好吧，你为什么想成为一名警察？",
+      "原句术语翻译": [
+         "警察？"
+      ],
+      "insert变异": "Okay, why do you want to become a police officer (a peace officer who is a member of a police force)?",
+      "insert变异翻译": "好吧，你为什么想成为一名警察（一名属于警察部队的治安官员）？",
+      "insert术语翻译": [
+         "警察？"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0000001192092896
+      ],
+      "insert变异翻译去括号": "好吧，你为什么想成为一名警察？",
+      "原句翻译去括号": "好吧，你为什么想成为一名警察？",
+      "insert和原句翻译去括号部分相似度": [
+         0.9999998807907104
+      ],
+      "替换变异": [
+         "Okay, why do you want to become a police detective?"
+      ],
+      "替换术语": [
+         "police detective"
+      ],
+      "替换翻译": [
+         "好吧，你为什么想成为一名警探？"
+      ],
+      "替换术语翻译": [
+         "警探？"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.8858726024627686
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "That doesn't mean that it's the vegetables or the olive oil.": {
+      "序号": 82,
+      "原句": "That doesn't mean that it's the vegetables or the olive oil.",
+      "术语": "olive oil",
+      "原句翻译": "这并不意味着是蔬菜或橄榄油。",
+      "原句术语翻译": [
+         "橄榄油。"
+      ],
+      "insert变异": "That doesn't mean that it's the vegetables or the olive oil (a vegetable oil, pressed from olives, and used in cooking and as a salad dressing; it is high in unsaturated fatty acids).",
+      "insert变异翻译": "这并不意味着它是蔬菜或橄榄油（一种从橄榄中压榨的植物油，用于烹饪和沙拉酱；它富含不饱和脂肪酸）。",
+      "insert术语翻译": [
+         "橄榄油。"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0000001192092896
+      ],
+      "insert变异翻译去括号": "这并不意味着它是蔬菜或橄榄油。",
+      "原句翻译去括号": "这并不意味着是蔬菜或橄榄油。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9901936650276184
+      ],
+      "替换变异": [
+         "That doesn't mean that it's the vegetables or the vegetable oil.",
+         "That doesn't mean that it's the vegetables or the cooking oil."
+      ],
+      "替换术语": [
+         "vegetable oil",
+         "cooking oil"
+      ],
+      "替换翻译": [
+         "这并不意味着它是蔬菜或植物油。",
+         "这并不意味着是蔬菜或食用油。"
+      ],
+      "替换术语翻译": [
+         "植物油。",
+         "食用油。"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7939920425415039,
+         0.8233664631843567
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "She have any family history of breast cancer?": {
+      "序号": 83,
+      "原句": "She have any family history of breast cancer?",
+      "术语": "breast cancer",
+      "原句翻译": "她有乳腺癌家族史吗？",
+      "原句术语翻译": [
+         "乳腺癌？"
+      ],
+      "insert变异": "She have any family history of breast cancer (cancer of the breast)?",
+      "insert变异翻译": "她有乳腺癌家族史吗？",
+      "insert术语翻译": [
+         "乳腺癌？"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "她有乳腺癌家族史吗？",
+      "原句翻译去括号": "她有乳腺癌家族史吗？",
+      "insert和原句翻译去括号部分相似度": [
+         1.0
+      ],
+      "替换变异": [
+         "She have any family history of lung cancer?"
+      ],
+      "替换术语": [
+         "lung cancer"
+      ],
+      "替换翻译": [
+         "她有肺癌家族史吗？"
+      ],
+      "替换术语翻译": [
+         "肺癌？"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7409012317657471
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "Well, the police officer at the end of the wing, he's not there anymore.": {
+      "序号": 84,
+      "原句": "Well, the police officer at the end of the wing, he's not there anymore.",
+      "术语": "police officer",
+      "原句翻译": "好吧，侧翼尽头的警察，他已经不在那儿了。",
+      "原句术语翻译": [
+         "警察"
+      ],
+      "insert变异": "Well, the police officer (a peace officer who is a member of a police force) at the end of the wing, he's not there anymore.",
+      "insert变异翻译": "好吧，侧翼尽头的警察（一名治安官员，属于警察部队的成员），他已经不在那儿了。",
+      "insert术语翻译": [
+         "警察"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "好吧，侧翼尽头的警察，他已经不在那儿了。",
+      "原句翻译去括号": "好吧，侧翼尽头的警察，他已经不在那儿了。",
+      "insert和原句翻译去括号部分相似度": [
+         1.0
+      ],
+      "替换变异": [
+         "Well, the first officer at the end of the wing, he's not there anymore.",
+         "Well, the senior officer at the end of the wing, he's not there anymore.",
+         "Well, the police are at the end of the wing, he's not there anymore.",
+         "Well, the police station at the end of the wing, he's not there anymore.",
+         "Well, the police car at the end of the wing, he's not there anymore."
+      ],
+      "替换术语": [
+         "first officer",
+         "senior officer",
+         "police are",
+         "police station",
+         "police car"
+      ],
+      "替换翻译": [
+         "好吧，机翼末端的副驾驶，他已经不在那里了。",
+         "好吧，机翼末端的高级军官，他已经不在那里了。",
+         "好吧，警察在侧翼的尽头，他已经不在那儿了。",
+         "好吧，警察局就在侧翼尽头，他已经不在那里了。",
+         "好吧，警车在侧翼尽头，他已经不在那里了。"
+      ],
+      "替换术语翻译": [
+         "副驾驶",
+         "高级军官",
+         "警察",
+         "警察局",
+         "警车"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.46144917607307434,
+         0.43330925703048706,
+         1.0000001192092896,
+         0.8341218829154968,
+         0.7370882630348206
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         1
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         1
+      ],
+      "final_result": [
+         0,
+         0,
+         1
+      ]
+   },
+   "Now that is less than a year old, in an operating room.": {
+      "序号": 85,
+      "原句": "Now that is less than a year old, in an operating room.",
+      "术语": "operating room",
+      "原句翻译": "现在还不到一年，在手术室里。",
+      "原句术语翻译": [
+         "手术室。"
+      ],
+      "insert变异": "Now that is less than a year old, in an operating room (a room in a hospital used for performing surgical operations).",
+      "insert变异翻译": "现在还不到一年，在手术室（医院中用于进行外科手术的房间）中。",
+      "insert术语翻译": [
+         "手术室。"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0000001192092896
+      ],
+      "insert变异翻译去括号": "现在还不到一年，在手术室中。",
+      "原句翻译去括号": "现在还不到一年，在手术室里。",
+      "insert和原句翻译去括号部分相似度": [
+         0.994905948638916
+      ],
+      "替换变异": [
+         "Now that is less than a year old, in an empty room.",
+         "Now that is less than a year old, in an old room."
+      ],
+      "替换术语": [
+         "empty room",
+         "old room"
+      ],
+      "替换翻译": [
+         "现在还不到一年，在一个空房间里。",
+         "现在还不到一年，在一个旧房间里。"
+      ],
+      "替换术语翻译": [
+         "空房间。",
+         "旧房间。"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.6067228317260742,
+         0.5976163148880005
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "Finally, he came home, you know, and our favorite thing to do together was to get ice cream.": {
+      "序号": 86,
+      "原句": "Finally, he came home, you know, and our favorite thing to do together was to get ice cream.",
+      "术语": "ice cream",
+      "原句翻译": "最后，他回家了，你知道，我们最喜欢一起做的事情就是买冰淇淋。",
+      "原句术语翻译": [
+         "冰淇淋。"
+      ],
+      "insert变异": "Finally, he came home, you know, and our favorite thing to do together was to get ice cream (a portion of ice cream on a stick, in a cup or in a wafer cone).",
+      "insert变异翻译": "最后，他回家了，你知道，我们最喜欢一起做的事情就是买冰淇淋（一份冰淇淋放在棍子上、杯子里或威化甜筒里）。",
+      "insert术语翻译": [
+         "冰淇淋。"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "最后，他回家了，你知道，我们最喜欢一起做的事情就是买冰淇淋。",
+      "原句翻译去括号": "最后，他回家了，你知道，我们最喜欢一起做的事情就是买冰淇淋。",
+      "insert和原句翻译去括号部分相似度": [
+         1.0
+      ],
+      "替换变异": [
+         "Finally, he came home, you know, and our favorite thing to do together was to get ice water."
+      ],
+      "替换术语": [
+         "ice water"
+      ],
+      "替换翻译": [
+         "最后，他回家了，你知道，我们最喜欢一起做的事情就是去买冰水。"
+      ],
+      "替换术语翻译": [
+         "冰水。"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.782180905342102
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "Why'd you go to the amusement park?": {
+      "序号": 87,
+      "原句": "Why'd you go to the amusement park?",
+      "术语": "amusement park",
+      "原句翻译": "你为什么去游乐园？",
+      "原句术语翻译": [
+         "游乐园？"
+      ],
+      "insert变异": "Why'd you go to the amusement park (a commercially-operated collection of rides, games and other entertainment attractions)?",
+      "insert变异翻译": "你为什么去游乐园（商业运营的游乐设施、游戏和其他娱乐景点的集合）？",
+      "insert术语翻译": [
+         "游乐园？"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "你为什么去游乐园？",
+      "原句翻译去括号": "你为什么去游乐园？",
+      "insert和原句翻译去括号部分相似度": [
+         1.0
+      ],
+      "替换变异": [
+         "Why'd you go to the car park?",
+         "Why'd you go to the skate park?",
+         "Why'd you go to the trailer park?"
+      ],
+      "替换术语": [
+         "car park",
+         "skate park",
+         "trailer park"
+      ],
+      "替换翻译": [
+         "你为什么去停车场？",
+         "你为什么去滑板公园？",
+         "你为什么去拖车公园？"
+      ],
+      "替换术语翻译": [
+         "停车场？",
+         "滑板公园？",
+         "拖车公园？"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.6405606865882874,
+         0.6860631108283997,
+         0.6562804579734802
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "So we are really duplicating the kind of signals that you have on the optic nerve.": {
+      "序号": 88,
+      "原句": "So we are really duplicating the kind of signals that you have on the optic nerve.",
+      "术语": "optic nerve",
+      "原句翻译": "所以我们实际上是在复制视神经上的信号。",
+      "原句术语翻译": [
+         "视神经。"
+      ],
+      "insert变异": "So we are really duplicating the kind of signals that you have on the optic nerve (each of the second pair of cranial nerves that carry visual information from the retina to the brain).",
+      "insert变异翻译": "因此，我们实际上是在复制视神经（将视觉信息从视网膜传送到大脑的第二对脑神经中的每一个）上的信号类型。",
+      "insert术语翻译": [
+         "视神经。"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "因此，我们实际上是在复制视神经上的信号类型。",
+      "原句翻译去括号": "所以我们实际上是在复制视神经上的信号。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9674739837646484
+      ],
+      "替换变异": [
+         "So we are really duplicating the kind of signals that you have on the optic cord."
+      ],
+      "替换术语": [
+         "optic cord"
+      ],
+      "替换翻译": [
+         "因此，我们实际上是在复制光线上的信号类型。"
+      ],
+      "替换术语翻译": [
+         "光线。"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.5848120450973511
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "I said, \"I'll take a field trip, I'll go see what you got.\"": {
+      "序号": 89,
+      "原句": "I said, \"I'll take a field trip, I'll go see what you got.\"",
+      "术语": "field trip",
+      "原句翻译": "我说：“我要去实地考察一下，看看你有什么发现。”",
+      "原句术语翻译": [
+         "实地考察，"
+      ],
+      "insert变异": "I said, \"I'll take a field trip (a trip, usually in a group and especially by students, to a place of special interest for education, research or exploration; a trip into the field), I'll go see what you got.\"",
+      "insert变异翻译": "我说：“我会进行一次实地考察（一次旅行，通常是团体旅行，尤其是学生一起去一个特别感兴趣的地方进行教育、研究或探索；一次实地考察），我会去看看有什么你得到了。”",
+      "insert术语翻译": [
+         "实地考察，"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "我说：“我会进行一次实地考察，我会去看看有什么你得到了。”",
+      "原句翻译去括号": "我说：“我要去实地考察一下，看看你有什么发现。”",
+      "insert和原句翻译去括号部分相似度": [
+         0.9066729545593262
+      ],
+      "替换变异": [
+         "I said, \"I'll take a little trip, I'll go see what you got.\"",
+         "I said, \"I'll take a quick trip, I'll go see what you got.\"",
+         "I said, \"I'll take a road trip, I'll go see what you got.\"",
+         "I said, \"I'll take a field day, I'll go see what you got.\""
+      ],
+      "替换术语": [
+         "little trip",
+         "quick trip",
+         "road trip",
+         "field day"
+      ],
+      "替换翻译": [
+         "我说：“我要去一趟，看看你有什么。”",
+         "我说：“我要走一趟，看看你有什么。”",
+         "我说：“我会去公路旅行，我会看看你有什么。”",
+         "我说：“我会去实地考察一下，看看你得到了什么。”"
+      ],
+      "替换术语翻译": [
+         "去一趟，",
+         "一趟，",
+         "公路旅行，",
+         "实地考察，"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7091066837310791,
+         0.6088581085205078,
+         0.5117242336273193,
+         0.9999999403953552
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         1
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         1
+      ]
+   },
+   "Oh, does that come up much on the space station?": {
+      "序号": 90,
+      "原句": "Oh, does that come up much on the space station?",
+      "术语": "space station",
+      "原句翻译": "哦，这个在空间站上经常出现吗？",
+      "原句术语翻译": [
+         "空间站？"
+      ],
+      "insert变异": "Oh, does that come up much on the space station (a crewed artificial satellite designed for long-term habitation, research, etc.)?",
+      "insert变异翻译": "哦，这在空间站（一颗为长期居住、研究等而设计的载人人造卫星）上出现得很多吗？",
+      "insert术语翻译": [
+         "空间站？"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "哦，这在空间站上出现得很多吗？",
+      "原句翻译去括号": "哦，这个在空间站上经常出现吗？",
+      "insert和原句翻译去括号部分相似度": [
+         0.93912672996521
+      ],
+      "替换变异": [
+         "Oh, does that come up much on the police station?",
+         "Oh, does that come up much on the radio station?",
+         "Oh, does that come up much on the train station?",
+         "Oh, does that come up much on the space ship?",
+         "Oh, does that come up much on the space shuttle?"
+      ],
+      "替换术语": [
+         "police station",
+         "radio station",
+         "train station",
+         "space ship",
+         "space shuttle"
+      ],
+      "替换翻译": [
+         "哦，警察局里经常出现这种情况吗？",
+         "哦，广播电台经常提到这个吗？",
+         "哦，火车站经常出现这种情况吗？",
+         "哦，这在太空飞船上经常出现吗？",
+         "哦，这在航天飞机上经常出现吗？"
+      ],
+      "替换术语翻译": [
+         "警察局？",
+         "广播电台？",
+         "火车站？",
+         "太空飞船？",
+         "航天飞机？"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.4971699118614197,
+         0.565328061580658,
+         0.6851692199707031,
+         0.7002401351928711,
+         0.6566903591156006
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "I'm sure eventually, I'il forgive you, by the time you start collecting social security.": {
+      "序号": 91,
+      "原句": "I'm sure eventually, I'il forgive you, by the time you start collecting social security.",
+      "术语": "social security",
+      "原句翻译": "我确信，当你开始领取社会保障时，我最终会原谅你。",
+      "原句术语翻译": [
+         "社会保障。"
+      ],
+      "insert变异": "I'm sure eventually, I'il forgive you, by the time you start collecting social security (those benefits paid under such a system).",
+      "insert变异翻译": "我确信最终，当你开始领取社会保障金（在这种制度下支付的福利）时，我会原谅你。",
+      "insert术语翻译": [
+         "社会保障。"
+      ],
+      "insert和原句术语翻译相似度": [
+         0.9999999403953552
+      ],
+      "insert变异翻译去括号": "我确信最终，当你开始领取社会保障金时，我会原谅你。",
+      "原句翻译去括号": "我确信，当你开始领取社会保障时，我最终会原谅你。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9748879671096802
+      ],
+      "替换变异": [
+         "I'm sure eventually, I'il forgive you, by the time you start collecting social services."
+      ],
+      "替换术语": [
+         "social services"
+      ],
+      "替换翻译": [
+         "我确信当你开始接受社会服务时我最终会原谅你"
+      ],
+      "替换术语翻译": [
+         "社会服务"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.709044873714447
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "I want my job back, my pension, my health benefits, my life insurance.": {
+      "序号": 92,
+      "原句": "I want my job back, my pension, my health benefits, my life insurance.",
+      "术语": "life insurance",
+      "原句翻译": "我想要回我的工作、我的养老金、我的健康福利和我的人寿保险。",
+      "原句术语翻译": [
+         "人寿保险。"
+      ],
+      "insert变异": "I want my job back, my pension, my health benefits, my life insurance (a form of insurance on the life of a person. If the person dies then the insurance policy pays out a sum of money to the beneficiary (such as a person's family)).",
+      "insert变异翻译": "我想要恢复我的工作、我的养老金、我的健康福利、我的人寿保险（人寿保险的一种形式。如果这个人死亡，那么保险单会向受益人（例如一个人的家庭））。",
+      "insert术语翻译": [
+         "人寿保险。"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "我想要恢复我的工作、我的养老金、我的健康福利、我的人寿保险。",
+      "原句翻译去括号": "我想要回我的工作、我的养老金、我的健康福利和我的人寿保险。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9471771717071533
+      ],
+      "替换变异": [
+         "I want my job back, my pension, my health benefits, my life savings."
+      ],
+      "替换术语": [
+         "life savings"
+      ],
+      "替换翻译": [
+         "我想要回我的工作、我的养老金、我的健康福利、我的毕生积蓄。"
+      ],
+      "替换术语翻译": [
+         "毕生积蓄。"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.5600497126579285
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "He had a heart attack, but he's OK.": {
+      "序号": 93,
+      "原句": "He had a heart attack, but he's OK.",
+      "术语": "heart attack",
+      "原句翻译": "他心脏病发作了，但还好。",
+      "原句术语翻译": [
+         "心脏病，"
+      ],
+      "insert变异": "He had a heart attack (death or failure), but he's OK.",
+      "insert变异翻译": "他心脏病发作（死亡或衰竭），但他没事。",
+      "insert术语翻译": [
+         "心脏病，"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "他心脏病发作，但他没事。",
+      "原句翻译去括号": "他心脏病发作了，但还好。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9422345161437988
+      ],
+      "替换变异": [
+         "He had a panic attack, but he's OK."
+      ],
+      "替换术语": [
+         "panic attack"
+      ],
+      "替换翻译": [
+         "他惊恐发作，但还好。"
+      ],
+      "替换术语翻译": [
+         "惊恐发作，"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.5746005773544312
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "Nathan and his boss went to the city council to get a change in the ordinance.": {
+      "序号": 94,
+      "原句": "Nathan and his boss went to the city council to get a change in the ordinance.",
+      "术语": "city council",
+      "原句翻译": "内森和他的老板去市议会要求修改该条例。",
+      "原句术语翻译": [
+         "市议会"
+      ],
+      "insert变异": "Nathan and his boss went to the city council (a governing body of people elected to oversee management of a city and represent the interests of residents) to get a change in the ordinance.",
+      "insert变异翻译": "内森和他的老板前往市议会（由选举产生的人组成的管理机构，负责监督城市的管理并代表居民的利益）要求修改该条例。",
+      "insert术语翻译": [
+         "市议会"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "内森和他的老板前往市议会要求修改该条例。",
+      "原句翻译去括号": "内森和他的老板去市议会要求修改该条例。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9921960234642029
+      ],
+      "替换变异": [
+         "Nathan and his boss went to the city hall to get a change in the ordinance."
+      ],
+      "替换术语": [
+         "city hall"
+      ],
+      "替换翻译": [
+         "内森和他的老板去市政厅要求修改该法令。"
+      ],
+      "替换术语翻译": [
+         "市政厅"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.6028077602386475
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "Do you think a lot of classes next school year should try this thing out?": {
+      "序号": 95,
+      "原句": "Do you think a lot of classes next school year should try this thing out?",
+      "术语": "school year",
+      "原句翻译": "你认为下学年很多班级都应该尝试这个东西吗？",
+      "原句术语翻译": [
+         "学年"
+      ],
+      "insert变异": "Do you think a lot of classes next school year (the academic year of a school) should try this thing out?",
+      "insert变异翻译": "你认为下一学年（学校的学年）很多班级都应该尝试这个东西吗？",
+      "insert术语翻译": [
+         "学年"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "你认为下一学年很多班级都应该尝试这个东西吗？",
+      "原句翻译去括号": "你认为下学年很多班级都应该尝试这个东西吗？",
+      "insert和原句翻译去括号部分相似度": [
+         0.9852950572967529
+      ],
+      "替换变异": [
+         "Do you think a lot of classes next school tomorrow should try this thing out?",
+         "Do you think a lot of classes next school today should try this thing out?",
+         "Do you think a lot of classes next school day should try this thing out?"
+      ],
+      "替换术语": [
+         "school tomorrow",
+         "school today",
+         "school day"
+      ],
+      "替换翻译": [
+         "你认为明天学校的很多班级都应该尝试这个东西吗？",
+         "你认为今天隔壁学校的很多班级都应该尝试这个东西吗？",
+         "你认为下一个上课日的很多班级都应该尝试这个东西吗？"
+      ],
+      "替换术语翻译": [
+         "明天学校",
+         "今天学校",
+         "上课日"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.4839097261428833,
+         0.5242025256156921,
+         0.5569427013397217
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "But... why was my father a prisoner of war?": {
+      "序号": 97,
+      "原句": "But... why was my father a prisoner of war?",
+      "术语": "prisoner of war",
+      "原句翻译": "但是……为什么我的父亲会成为战俘？",
+      "原句术语翻译": [
+         "战俘？"
+      ],
+      "insert变异": "But... why was my father a prisoner of war (a combatant or soldier who is captured by an enemy power during or immediately after an armed conflict)?",
+      "insert变异翻译": "但是......为什么我的父亲是战俘（在武装冲突期间或之后立即被敌方俘虏的战斗员或士兵）？",
+      "insert术语翻译": [
+         "战俘？"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "但是......为什么我的父亲是战俘？",
+      "原句翻译去括号": "但是……为什么我的父亲会成为战俘？",
+      "insert和原句翻译去括号部分相似度": [
+         0.9389288425445557
+      ],
+      "替换变异": [
+         "But... why was my father a minister of war?",
+         "But... why was my father a man of war?"
+      ],
+      "替换术语": [
+         "minister of war",
+         "man of war"
+      ],
+      "替换翻译": [
+         "但是……为什么我父亲会当兵部部长呢？",
+         "但是……为什么我的父亲是一个战士？"
+      ],
+      "替换术语翻译": [
+         "兵部部长？",
+         "战士？"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.5463193655014038,
+         0.7181739807128906
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "No 10-year-old goes to law school to do mergers and acquisitions.": {
+      "序号": 98,
+      "原句": "No 10-year-old goes to law school to do mergers and acquisitions.",
+      "术语": "law school",
+      "原句翻译": "没有一个 10 岁的孩子会去法学院做并购。",
+      "原句术语翻译": [
+         "法学院"
+      ],
+      "insert变异": "No 10-year-old goes to law school (an academic institution at which post-graduate students are prepared for the practice of law) to do mergers and acquisitions.",
+      "insert变异翻译": "没有一个 10 岁的孩子会去法学院（为研究生从事法律实践做准备的学术机构）进行并购。",
+      "insert术语翻译": [
+         "法学院"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "没有一个 10 岁的孩子会去法学院进行并购。",
+      "原句翻译去括号": "没有一个 10 岁的孩子会去法学院做并购。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9961255788803101
+      ],
+      "替换变异": [
+         "No 10-year-old goes to business school to do mergers and acquisitions.",
+         "No 10-year-old goes to a school to do mergers and acquisitions.",
+         "No 10-year-old goes to high school to do mergers and acquisitions."
+      ],
+      "替换术语": [
+         "business school",
+         "a school",
+         "high school"
+      ],
+      "替换翻译": [
+         "没有一个十岁的孩子去商学院做并购。",
+         "没有一个十岁的孩子去学校做并购。",
+         "没有一个 10 岁的孩子去读高中是为了进行并购。"
+      ],
+      "替换术语翻译": [
+         "商学院",
+         "一个十岁学校",
+         "高中"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7222046256065369,
+         0.4489280581474304,
+         0.4945818781852722
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "This is a reception area and not a waiting room.": {
+      "序号": 99,
+      "原句": "This is a reception area and not a waiting room.",
+      "术语": "waiting room",
+      "原句翻译": "这是接待区而不是等候室。",
+      "原句术语翻译": [
+         "等候室。"
+      ],
+      "insert变异": "This is a reception area and not a waiting room (a room in some public place for people to wait).",
+      "insert变异翻译": "这是接待区，而不是等候室（某些公共场所供人们等候的房间）。",
+      "insert术语翻译": [
+         "等候室。"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0000001192092896
+      ],
+      "insert变异翻译去括号": "这是接待区，而不是等候室。",
+      "原句翻译去括号": "这是接待区而不是等候室。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9946707487106323
+      ],
+      "替换变异": [
+         "This is a reception area and not a conference room.",
+         "This is a reception area and not a meeting room.",
+         "This is a reception area and not a waiting area."
+      ],
+      "替换术语": [
+         "conference room",
+         "meeting room",
+         "waiting area"
+      ],
+      "替换翻译": [
+         "这是接待区而不是会议室。",
+         "这是接待区而不是会议室。",
+         "这是接待区而不是等候区。"
+      ],
+      "替换术语翻译": [
+         "会议室。",
+         "会议室。",
+         "等候区。"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7559621930122375,
+         0.755962073802948,
+         0.9187396168708801
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   }
+}

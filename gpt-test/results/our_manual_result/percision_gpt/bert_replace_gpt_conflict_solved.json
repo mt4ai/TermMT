@@ -1,0 +1,2125 @@
+{
+   "The sensitivity, specificity, positive and negative predictive value of was 79.17%,97.11%,86.36% and 95.28%, respectively. (6) 4 implanted stents of coronary artery were all assessable, including three stent patency and one stent lesion been detected.": {
+      "序号": 0,
+      "原句": "The sensitivity, specificity, positive and negative predictive value of was 79.17%,97.11%,86.36% and 95.28%, respectively. (6) 4 implanted stents of coronary artery were all assessable, including three stent patency and one stent lesion been detected.",
+      "术语": "coronary artery",
+      "原句翻译": "该研究的敏感性、特异性、阳性和阴性预测值分别为79.17％、97.11％、86.36％和95.28％。 （6）4个植入的冠状动脉支架均可评估，其中三个支架通畅，一个支架病变被检测到。",
+      "原句术语翻译": [
+         "冠状动脉"
+      ],
+      "bert替换变异": "['The sensitivity, specificity, positive and negative predictive value of was 79.17%,97.11%,86.36% and 95.28%, respectively. (6) 4 implanted stents of coronary fluid were all assessable, including three stent patency and one stent lesion been detected.', 'The sensitivity, specificity, positive and negative predictive value of was 79.17%,97.11%,86.36% and 95.28%, respectively. (6) 4 implanted stents of coronary cancer were all assessable, including three stent patency and one stent lesion been detected.', 'The sensitivity, specificity, positive and negative predictive value of was 79.17%,97.11%,86.36% and 95.28%, respectively. (6) 4 implanted stents of coronary tissue were all assessable, including three stent patency and one stent lesion been detected.']",
+      "替换术语": [
+         "coronary fluid",
+         "coronary cancer",
+         "coronary tissue"
+      ],
+      "替换翻译": [
+         "该研究的敏感性、特异性、阳性和阴性预测值分别为79.17％、97.11％、86.36％和95.28％。 （6）4个植入的冠状动脉液体支架均可评估，其中三个支架通畅，一个支架病变被检测到。",
+         "该研究的敏感性、特异性、阳性和阴性预测值分别为79.17％、97.11％、86.36％和95.28％。 （6）4个植入的冠状动脉支架均可评估，其中三个支架通畅，一个支架病变被检测到。",
+         "该项研究的敏感性、特异性、阳性和阴性预测值分别为79.17％、97.11％、86.36％和95.28％。 （6）4个植入的冠状动脉支架均可评估，其中三个支架通畅，一个支架病变被检测到。"
+      ],
+      "替换术语翻译": [
+         "冠状动脉液体",
+         "冠状动脉",
+         "冠状动脉"
+      ],
+      "gpt建议": "{'coronary cancer': 'NO\\nDifferent translations: <coronary artery: 冠状动脉, coronary cancer: 冠状动脉癌>', 'coronary tissue': 'NO\\nDifferent translations: <coronary artery: 冠状动脉, coronary tissue: 冠状组织>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "(6) (a) At any general meeting, a resolution put to the vote of the meeting shall be decided by a show of hands unless a poll (i.e. secret ballot) is demanded-": {
+      "序号": 1,
+      "原句": "(6) (a) At any general meeting, a resolution put to the vote of the meeting shall be decided by a show of hands unless a poll (i.e. secret ballot) is demanded-",
+      "术语": "show of hands",
+      "原句翻译": "在任何股东大会上，提出表决的决议将通过举手表决来决定，除非要求进行投票（即秘密投票）。",
+      "原句术语翻译": [
+         "举手表决"
+      ],
+      "bert替换变异": "['(6) (a) At any general meeting, a resolution put to the vote of the meeting shall be decided by a vote of hands unless a poll (i.e. secret ballot) is demanded-']",
+      "替换术语": [
+         "vote of hands"
+      ],
+      "替换翻译": [
+         "在任何股东大会上，提出表决的决议应由举手表决决定，除非要求进行投票（即秘密投票）。"
+      ],
+      "替换术语翻译": [
+         "举手表决"
+      ],
+      "gpt建议": "{'vote of hands': 'NO\\nDifferent translations: <show of hands: 举手表决, vote of hands: 投票表决>'}",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "Units and individuals that have made outstanding achievements in the protection of wildlife resources, in scientific research on wildlife, or in the domestication and breeding of wildlife shall be rewarded by the State.": {
+      "序号": 2,
+      "原句": "Units and individuals that have made outstanding achievements in the protection of wildlife resources, in scientific research on wildlife, or in the domestication and breeding of wildlife shall be rewarded by the State.",
+      "术语": "scientific research",
+      "原句翻译": "在野生动物资源保护、野生动物科学研究或野生动物驯化和繁殖方面取得杰出成就的单位和个人将得到国家的奖励。",
+      "原句术语翻译": [
+         "科学研究"
+      ],
+      "bert替换变异": "['Units and individuals that have made outstanding achievements in the protection of wildlife resources, in scientific work on wildlife, or in the domestication and breeding of wildlife shall be rewarded by the State.']",
+      "替换术语": [
+         "scientific work"
+      ],
+      "替换翻译": [
+         "在野生动物资源保护、野生动物科学研究或野生动物驯化繁殖方面取得杰出成就的单位和个人将得到国家的奖励。"
+      ],
+      "替换术语翻译": [
+         "科学研究"
+      ],
+      "gpt建议": "{'scientific work': 'NO\\nDifferent translations: <scientific research: 科学研究, scientific work: 科学工作>.'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "(1) Where in accordance with any enactment or rule of law-": {
+      "序号": 3,
+      "原句": "(1) Where in accordance with any enactment or rule of law-",
+      "术语": "rule of law",
+      "原句翻译": "根据任何法令或法律规定-",
+      "原句术语翻译": [
+         "法律-"
+      ],
+      "bert替换变异": "['(1) Where in accordance with any enactment or act of law-', '(1) Where in accordance with any enactment or provision of law-']",
+      "替换术语": [
+         "act of law",
+         "provision of law"
+      ],
+      "替换翻译": [
+         "根据任何法令或法律行为-",
+         "根据任何法令或法律规定-"
+      ],
+      "替换术语翻译": [
+         "法律-",
+         "法律-"
+      ],
+      "gpt建议": "{'act of law': 'NO\\nDifferent translations: <rule of law: 法律原则, act of law: 法律行为>', 'provision of law': 'YES'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Although this solution is generally very efficient, it has a blind spot when it comes to circular (or cyclic) references.": {
+      "序号": 4,
+      "原句": "Although this solution is generally very efficient, it has a blind spot when it comes to circular (or cyclic) references.",
+      "术语": "blind spot",
+      "原句翻译": "尽管这个解决方案通常非常高效，但在处理循环引用时存在盲点。",
+      "原句术语翻译": [
+         "盲点"
+      ],
+      "bert替换变异": "['Although this solution is generally very efficient, it has a blind edge when it comes to circular (or cyclic) references.', 'Although this solution is generally very efficient, it has a blind advantage when it comes to circular (or cyclic) references.', 'Although this solution is generally very efficient, it has a blind side when it comes to circular (or cyclic) references.', 'Although this solution is generally very efficient, it has a blind eye when it comes to circular (or cyclic) references.']",
+      "替换术语": [
+         "blind edge",
+         "blind advantage",
+         "blind side",
+         "blind eye"
+      ],
+      "替换翻译": [
+         "尽管这个解决方案通常非常高效，但在处理循环引用时存在盲点。",
+         "尽管这个解决方案通常非常高效，但在循环引用时它有一个盲点优势。",
+         "尽管这个解决方案通常非常高效，但在处理循环引用时存在盲点。",
+         "尽管这个解决方案通常非常高效，但在处理循环引用时却视而不见。"
+      ],
+      "替换术语翻译": [
+         "盲点",
+         "盲点优势",
+         "盲点",
+         "视而不见"
+      ],
+      "gpt建议": "{'blind edge': 'NO\\nDifferent translations: <blind spot: 盲点, blind edge: 盲边>', 'blind side': 'NO\\nDifferent translations: <blind spot: 盲点, blind side: 盲边>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "(2)Main symptoms and quality of life (QOL): As to the relieving of main symptoms such ascough, fatigue, breathlessness, phlegm and dark red tongue, the therapeutic effects in both of GBXLC and GBXLC plus chemotherapy were better than that in chemotherapy alone(P<0.05, P<0.01 respectively).": {
+      "序号": 5,
+      "原句": "(2)Main symptoms and quality of life (QOL): As to the relieving of main symptoms such ascough, fatigue, breathlessness, phlegm and dark red tongue, the therapeutic effects in both of GBXLC and GBXLC plus chemotherapy were better than that in chemotherapy alone(P<0.05, P<0.01 respectively).",
+      "术语": "quality of life",
+      "原句翻译": "主要症状和生活质量（QOL）：就缓解主要症状如咳嗽、疲劳、气促、痰和暗红舌头而言，无论是单独使用GBXLC还是GBXLC加化疗，治疗效果均优于单独化疗（P<0.05，P<0.01分别）。",
+      "原句术语翻译": [
+         "生活质量"
+      ],
+      "bert替换变异": "['(2)Main symptoms and quality of action (QOL): As to the relieving of main symptoms such ascough, fatigue, breathlessness, phlegm and dark red tongue, the therapeutic effects in both of GBXLC and GBXLC plus chemotherapy were better than that in chemotherapy alone(P<0.05, P<0.01 respectively).']",
+      "替换术语": [
+         "quality of action"
+      ],
+      "替换翻译": [
+         "主要症状和生活质量（QOL）：对于缓解主要症状如咳嗽、疲劳、气促、痰和暗红舌头，无论是单独使用GBXLC还是GBXLC加化疗，治疗效果均优于单独使用化疗（P<0.05，P<0.01分别）。"
+      ],
+      "替换术语翻译": [
+         "生活质量"
+      ],
+      "gpt建议": "{'quality of action': 'NO\\nDifferent translations: quality of life: 生活质量, quality of action: 行动质量.'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "(b) The court shall not make an order mentioned in subsection (3) (i) where it would prejudice another person who has, in good faith and for valuable consideration, acquired an interest in the land.": {
+      "序号": 6,
+      "原句": "(b) The court shall not make an order mentioned in subsection (3) (i) where it would prejudice another person who has, in good faith and for valuable consideration, acquired an interest in the land.",
+      "术语": "good faith",
+      "原句翻译": "法院不得根据第（3）（i）款提到的命令，如果这样做会损害另一个以善意和对等代价取得土地权益的人。",
+      "原句术语翻译": [
+         "善意"
+      ],
+      "bert替换变异": "['(b) The court shall not make an order mentioned in subsection (3) (i) where it would prejudice another person who has, in good conscience and for valuable consideration, acquired an interest in the land.']",
+      "替换术语": [
+         "good conscience"
+      ],
+      "替换翻译": [
+         "法院不得根据第（3）（i）款提到的命令，如果这样做会损害另一个人，而这个人是出于善意和为有价值的考虑而获得土地权益的。"
+      ],
+      "替换术语翻译": [
+         "善意"
+      ],
+      "gpt建议": "{'good conscience': \"NO\\nDifferent translations: \\ngood faith: ['善意']\\ngood conscience: ['良心']\"}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "In 2000-01, it was at the bottom of a very deep bear market.": {
+      "序号": 7,
+      "原句": "In 2000-01, it was at the bottom of a very deep bear market.",
+      "术语": "bear market",
+      "原句翻译": "在2000-01年，它处于一个非常深的熊市底部。",
+      "原句术语翻译": [
+         "熊市。"
+      ],
+      "bert替换变异": "['In 2000-01, it was at the bottom of a very deep bear lake.', 'In 2000-01, it was at the bottom of a very deep bear pit.', 'In 2000-01, it was at the bottom of a very deep bear cave.', 'In 2000-01, it was at the bottom of a very deep bear trap.', 'In 2000-01, it was at the bottom of a very deep bear hole.']",
+      "替换术语": [
+         "bear lake",
+         "bear pit",
+         "bear cave",
+         "bear trap",
+         "bear hole"
+      ],
+      "替换翻译": [
+         "在2000-01年，它位于一个非常深的熊湖底部。",
+         "在2000-01年，它处于一个非常深的熊市底部。",
+         "在2000-01年，它位于一个非常深的熊洞底部。",
+         "在2000-01年，它处于一个非常深的熊市陷阱底部。",
+         "在2000-01年，它处于一个非常深的熊市低谷。"
+      ],
+      "替换术语翻译": [
+         "熊湖。",
+         "熊市。",
+         "熊洞。",
+         "熊市陷阱。",
+         "熊市低谷。"
+      ],
+      "gpt建议": "{'bear pit': 'NO\\nDifferent translations: <bear market: 熊市, bear pit: 熊坑>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "(4) If a registration officer is satisfied, on an application under subregulation (1) by any person, that that person enjoys the right of abode in Hong Kong the registration officer shall, in accordance with these regulations, issue to the applicant a permanent identity card.": {
+      "序号": 8,
+      "原句": "(4) If a registration officer is satisfied, on an application under subregulation (1) by any person, that that person enjoys the right of abode in Hong Kong the registration officer shall, in accordance with these regulations, issue to the applicant a permanent identity card.",
+      "术语": "identity card",
+      "原句翻译": "如果注册官员在任何人根据第（1）条款提出的申请上满意地确定该人在香港享有居留权，注册官员应根据这些规定向申请人发放永久身份证。",
+      "原句术语翻译": [
+         "身份证。"
+      ],
+      "bert替换变异": "['(4) If a registration officer is satisfied, on an application under subregulation (1) by any person, that that person enjoys the right of abode in Hong Kong the registration officer shall, in accordance with these regulations, issue to the applicant a permanent registration card.', '(4) If a registration officer is satisfied, on an application under subregulation (1) by any person, that that person enjoys the right of abode in Hong Kong the registration officer shall, in accordance with these regulations, issue to the applicant a permanent identification card.', '(4) If a registration officer is satisfied, on an application under subregulation (1) by any person, that that person enjoys the right of abode in Hong Kong the registration officer shall, in accordance with these regulations, issue to the applicant a permanent residence card.', '(4) If a registration officer is satisfied, on an application under subregulation (1) by any person, that that person enjoys the right of abode in Hong Kong the registration officer shall, in accordance with these regulations, issue to the applicant a permanent identity certificate.', '(4) If a registration officer is satisfied, on an application under subregulation (1) by any person, that that person enjoys the right of abode in Hong Kong the registration officer shall, in accordance with these regulations, issue to the applicant a permanent identity document.', '(4) If a registration officer is satisfied, on an application under subregulation (1) by any person, that that person enjoys the right of abode in Hong Kong the registration officer shall, in accordance with these regulations, issue to the applicant a permanent identity stamp.']",
+      "替换术语": [
+         "registration card",
+         "identification card",
+         "residence card",
+         "identity certificate",
+         "identity document",
+         "identity stamp"
+      ],
+      "替换翻译": [
+         "如果注册官员在任何人根据第（1）条款提出的申请上满意地确定该人在香港享有居留权，注册官员应根据这些规定向申请人发放永久居留证。",
+         "如果注册官员在任何人根据第（1）条款提出的申请上满意地确定该人在香港享有居留权，注册官员应根据这些规定向申请人发放永久身份证。",
+         "如果注册官员在任何人根据第（1）条款提出的申请上满意地确定该人在香港享有居留权，注册官员应根据这些规定向申请人发放永久居留证。",
+         "如果注册官员在任何人根据第（1）条款提出的申请上满意地确定该人在香港享有居留权，注册官员应根据这些规定向申请人发放永久身份证。",
+         "如果注册官员在任何人根据第（1）条款提出的申请上满意地确定该人在香港享有居留权，注册官员应根据这些规定向申请人发放永久身份证。",
+         "如果注册官员在任何人根据第（1）条款提出的申请上满意地确定该人在香港享有居留权，注册官员应根据这些规定向申请人发放永久身份印章。"
+      ],
+      "替换术语翻译": [
+         "居留证。",
+         "身份证。",
+         "居留证。",
+         "身份证。",
+         "身份证。",
+         "身份印章。"
+      ],
+      "gpt建议": "{'identification card': 'YES', 'identity certificate': 'NO\\nDifferent translations: <identity card: 身份证, identity certificate: 身份证书>', 'identity document': 'YES'}",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "\"A trademark registrant shall have the right to indicate the wording 'Registered Trademark' or the sign showing that the trademark is registered.\"": {
+      "序号": 9,
+      "原句": "\"A trademark registrant shall have the right to indicate the wording 'Registered Trademark' or the sign showing that the trademark is registered.\"",
+      "术语": "registered trademark",
+      "原句翻译": "商标注册人有权标明“注册商标”或显示商标已注册的标志。",
+      "原句术语翻译": [
+         "“注册商标”"
+      ],
+      "bert替换变异": "['\"A trademark registrant shall have the right to indicate the wording \\'trademarked Trademark\\' or the sign showing that the trademark is registered.\"']",
+      "替换术语": [
+         "trademarked Trademark"
+      ],
+      "替换翻译": [
+         "商标注册人有权指明“商标注册商标”或显示商标已注册的标志。"
+      ],
+      "替换术语翻译": [
+         "“商标注册商标”"
+      ],
+      "gpt建议": "{}",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "Article 37 A lawyers association is a public organization with the status of a legal person and shall the lawyers' self-disciplinary organization.": {
+      "序号": 10,
+      "原句": "Article 37 A lawyers association is a public organization with the status of a legal person and shall the lawyers' self-disciplinary organization.",
+      "术语": "legal person",
+      "原句翻译": "第37条 律师协会是一个具有法人地位的公共组织，应当是律师的自律组织。",
+      "原句术语翻译": [
+         "法人地位"
+      ],
+      "bert替换变异": "[\"Article 37 A lawyers association is a public organization with the status of a legal association and shall the lawyers' self-disciplinary organization.\", \"Article 37 A lawyers association is a public organization with the status of a legal entity and shall the lawyers' self-disciplinary organization.\", \"Article 37 A lawyers association is a public organization with the status of a legal organization and shall the lawyers' self-disciplinary organization.\", \"Article 37 A lawyers association is a public organization with the status of a legal society and shall the lawyers' self-disciplinary organization.\", \"Article 37 A lawyers association is a public organization with the status of a legal body and shall the lawyers' self-disciplinary organization.\", \"Article 37 A lawyers association is a public organization with the status of a legal institution and shall the lawyers' self-disciplinary organization.\"]",
+      "替换术语": [
+         "legal association",
+         "legal entity",
+         "legal organization",
+         "legal society",
+         "legal body",
+         "legal institution"
+      ],
+      "替换翻译": [
+         "第37条 律师协会是一个具有法律协会地位的公共组织，应当是律师的自律组织。",
+         "第37条 律师协会是一个具有法人地位的公共组织，应当是律师的自律组织。",
+         "第37条 律师协会是一个具有法律组织地位的公共组织，应当是律师的自律组织。",
+         "第37条 律师协会是一个具有法律社团地位的公共组织，应当是律师的自律组织。",
+         "第37条 律师协会是一个具有法人地位的公共组织，应当是律师的自律组织。",
+         "第37条 律师协会是一个具有法律机构地位的公共组织，应当是律师的自律组织。"
+      ],
+      "替换术语翻译": [
+         "法律协会",
+         "法人地位",
+         "法律组织",
+         "法律社团",
+         "法人地位",
+         "法律机构"
+      ],
+      "gpt建议": "{'legal entity': 'NO\\nDifferent translations: <legal person: 法人, legal entity: 法人地位>.', 'legal body': 'NO\\nDifferent translations: <legal person: 法人地位, legal body: 法人实体>'}",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "(Methods:)CT-guided coaxial core needle biopsy was performed in 41 lesions in 40 patients of abdominal(diseases.) The lesions located in liver(n=13),retroperitoneum(n=24),abdominal cavity(n=2),pelvis(n=2). The sizes of the lesions ranged from 1.0cm×1.0cm to 10.1cm×12.3cm.": {
+      "序号": 11,
+      "原句": "(Methods:)CT-guided coaxial core needle biopsy was performed in 41 lesions in 40 patients of abdominal(diseases.) The lesions located in liver(n=13),retroperitoneum(n=24),abdominal cavity(n=2),pelvis(n=2). The sizes of the lesions ranged from 1.0cm×1.0cm to 10.1cm×12.3cm.",
+      "术语": "abdominal cavity",
+      "原句翻译": "（方法：）在40名腹部疾病患者的41个病变中进行了CT引导下的同轴核心穿刺活检。这些病变位于肝脏（n=13）、腹膜后（n=24）、腹腔（n=2）和盆腔（n=2）。病变的大小范围从1.0cm×1.0cm到10.1cm×12.3cm。",
+      "原句术语翻译": [
+         "肝脏（n=13）、腹膜（n=24）、腹腔（n=2）和盆腔（n=2）。"
+      ],
+      "bert替换变异": "['(Methods:)CT-guided coaxial core needle biopsy was performed in 41 lesions in 40 patients of abdominal(diseases.) The lesions located in liver(n=13),retroperitoneum(n=24),abdominal area(n=2),pelvis(n=2). The sizes of the lesions ranged from 1.0cm×1.0cm to 10.1cm×12.3cm.', '(Methods:)CT-guided coaxial core needle biopsy was performed in 41 lesions in 40 patients of abdominal(diseases.) The lesions located in liver(n=13),retroperitoneum(n=24),abdominal wall(n=2),pelvis(n=2). The sizes of the lesions ranged from 1.0cm×1.0cm to 10.1cm×12.3cm.']",
+      "替换术语": [
+         "abdominal area",
+         "abdominal wall"
+      ],
+      "替换翻译": [
+         "（方法：）在40名腹部疾病患者的41个病变中进行了CT引导下的同轴核心穿刺活检。这些病变位于肝脏（n=13）、腹膜后（n=24）、腹部区域（n=2）和盆腔（n=2）。病变的大小范围从1.0cm×1.0cm到10.1cm×12.3cm。",
+         "（方法：）在40名腹部疾病患者的41个病变中进行了CT引导下的同轴核心穿刺活检。这些病变位于肝脏（n=13）、腹膜后（n=24）、腹壁（n=2）和盆腔（n=2）。病变的大小范围从1.0厘米×1.0厘米到10.1厘米×12.3厘米。"
+      ],
+      "替换术语翻译": [
+         "肝脏（n=13）、腹膜（n=24）、腹部区域（n=2）和盆腔（n=2）。",
+         "肝脏（n=13）、腹膜（n=24）、腹壁（n=2）和盆腔（n=2）。"
+      ],
+      "gpt建议": "{}",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "At night there is a meteor shower.": {
+      "序号": 12,
+      "原句": "At night there is a meteor shower.",
+      "术语": "meteor shower",
+      "原句翻译": "晚上有流星雨。",
+      "原句术语翻译": [
+         "流星雨。"
+      ],
+      "bert替换变异": "['At night there is a meteor strike.']",
+      "替换术语": [
+         "meteor strike"
+      ],
+      "替换翻译": [
+         "晚上有一次流星雨。"
+      ],
+      "替换术语翻译": [
+         "流星雨。"
+      ],
+      "gpt建议": "{'meteor strike': 'NO\\nDifferent translations: \\nmeteor shower: 流星雨\\nmeteor strike: 流星撞击'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Provided that the person taking under the disposition acts in good faith, and has not, at the time of the disposition, notice that the person making the disposition has not authority to make the same.": {
+      "序号": 13,
+      "原句": "Provided that the person taking under the disposition acts in good faith, and has not, at the time of the disposition, notice that the person making the disposition has not authority to make the same.",
+      "术语": "good faith",
+      "原句翻译": "假如受让人在处分时是出于善意，并且在处分时没有意识到处分人没有权力进行处分。",
+      "原句术语翻译": [
+         "善意，"
+      ],
+      "bert替换变异": "['Provided that the person taking under the disposition acts in good conscience, and has not, at the time of the disposition, notice that the person making the disposition has not authority to make the same.']",
+      "替换术语": [
+         "good conscience"
+      ],
+      "替换翻译": [
+         "假如接受处分的人是出于善意行事，并且在处分时并不知道处分人没有权力做出这样的处分。"
+      ],
+      "替换术语翻译": [
+         "善意，"
+      ],
+      "gpt建议": "{'good conscience': \"NO\\nDifferent translations: <good faith: ['善意'], good conscience: ['善良的良心']>\"}",
+      "manual_1_result": 1,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "GPS,global positioning system,is characterized by high accuracy,multi-function,wide use and simple convenient operation. It can work around the clock and provide three-dimensional coordinate with no communication by video among test stations.": {
+      "序号": 14,
+      "原句": "GPS,global positioning system,is characterized by high accuracy,multi-function,wide use and simple convenient operation. It can work around the clock and provide three-dimensional coordinate with no communication by video among test stations.",
+      "术语": "global positioning system",
+      "原句翻译": "GPS，全球定位系统，以高精度、多功能、广泛应用和简便操作为特点。它可以全天候工作，并且在测试站之间无需视频通信即可提供三维坐标。",
+      "原句术语翻译": [
+         "GPS，全球定位系统，"
+      ],
+      "bert替换变异": "['GPS,global navigation system,is characterized by high accuracy,multi-function,wide use and simple convenient operation. It can work around the clock and provide three-dimensional coordinate with no communication by video among test stations.', 'GPS,global coordinate system,is characterized by high accuracy,multi-function,wide use and simple convenient operation. It can work around the clock and provide three-dimensional coordinate with no communication by video among test stations.', 'GPS,global positioning technology,is characterized by high accuracy,multi-function,wide use and simple convenient operation. It can work around the clock and provide three-dimensional coordinate with no communication by video among test stations.']",
+      "替换术语": [
+         "global navigation system",
+         "global coordinate system",
+         "global positioning technology"
+      ],
+      "替换翻译": [
+         "GPS，全球导航系统，以高精度、多功能、广泛应用和简便操作为特点。它可以全天候工作，并且在测试站之间无需视频通信即可提供三维坐标。",
+         "GPS，全球坐标系统，以高精度、多功能、广泛应用和简便操作为特点。它可以全天候工作，并且在测试站之间无需视频通信即可提供三维坐标。",
+         "GPS，全球定位技术，以高精度、多功能、广泛应用和简便操作为特点。它可以全天候工作，并在测试站之间无需视频通信提供三维坐标。"
+      ],
+      "替换术语翻译": [
+         "GPS，全球导航系统，",
+         "GPS，全球坐标系统，",
+         "GPS，全球定位技术，"
+      ],
+      "gpt建议": "{}",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "In case of either of the circumstances in the preceding paragraph due to force majeure or other justifiable reason, the publishing entity may apply to the administrative department for publication which handled the original registration for an extension of period.": {
+      "序号": 15,
+      "原句": "In case of either of the circumstances in the preceding paragraph due to force majeure or other justifiable reason, the publishing entity may apply to the administrative department for publication which handled the original registration for an extension of period.",
+      "术语": "force majeure",
+      "原句翻译": "在前一段中的任何一种情况下，由于不可抗力或其他正当理由，出版实体可以向处理原始注册的行政部门申请延长期限。",
+      "原句术语翻译": [
+         "不可抗力"
+      ],
+      "bert替换变异": "['In case of either of the circumstances in the preceding paragraph due to cause majeure or other justifiable reason, the publishing entity may apply to the administrative department for publication which handled the original registration for an extension of period.', 'In case of either of the circumstances in the preceding paragraph due to court majeure or other justifiable reason, the publishing entity may apply to the administrative department for publication which handled the original registration for an extension of period.', 'In case of either of the circumstances in the preceding paragraph due to state majeure or other justifiable reason, the publishing entity may apply to the administrative department for publication which handled the original registration for an extension of period.', 'In case of either of the circumstances in the preceding paragraph due to self majeure or other justifiable reason, the publishing entity may apply to the administrative department for publication which handled the original registration for an extension of period.']",
+      "替换术语": [
+         "cause majeure",
+         "court majeure",
+         "state majeure",
+         "self majeure"
+      ],
+      "替换翻译": [
+         "在前一段中的任何一种情况下，由于不可抗力或其他正当理由，出版单位可以向负责原始注册的行政部门申请延长期限。",
+         "在前一段中的任何一种情况下，由于不可抗力或其他正当理由，出版单位可以向办理原始登记的行政部门申请延长期限。",
+         "在前一段提到的情况下，由于不可抗力或其他正当理由，出版单位可以向办理原始登记的行政部门申请延长期限。",
+         "在前一段中的任何一种情况下，由于不可抗力或其他正当理由，出版实体可以向办理原始注册的行政部门申请延长期限。"
+      ],
+      "替换术语翻译": [
+         "不可抗力",
+         "不可抗力",
+         "不可抗力",
+         "不可抗力"
+      ],
+      "gpt建议": "{'cause majeure': \"NO\\nDifferent translations: <force majeure: ['不可抗力'], cause majeure: ['原因不明']>\", 'court majeure': \"NO\\nDifferent translations: force majeure: ['不可抗力'], court majeure: ['法院大災難'].\", 'state majeure': 'NO\\nDifferent translations: <force majeure: 不可抗力, state majeure: 国家力量>', 'self majeure': 'NO\\nDifferent translations: <force majeure: 不可抗力, self majeure: 自身不可抗力>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "At last we get the following equation:LREER=9.7547+2.4486LPROD-1.8561LOPENBut we do not find the co integration relationship between the other two fundamentals and the RMB exchange rate. We ascribe the poor result to the scarcity of data.": {
+      "序号": 16,
+      "原句": "At last we get the following equation:LREER=9.7547+2.4486LPROD-1.8561LOPENBut we do not find the co integration relationship between the other two fundamentals and the RMB exchange rate. We ascribe the poor result to the scarcity of data.",
+      "术语": "exchange rate",
+      "原句翻译": "最后我们得到以下方程：LREER=9.7547+2.4486LPROD-1.8561LOPEN但我们没有找到其他两个基本因素与人民币汇率之间的协整关系。我们将这个糟糕的结果归因于数据的稀缺。",
+      "原句术语翻译": [
+         "汇率。"
+      ],
+      "bert替换变异": "['At last we get the following equation:LREER=9.7547+2.4486LPROD-1.8561LOPENBut we do not find the co integration relationship between the other two fundamentals and the RMB sampling rate. We ascribe the poor result to the scarcity of data.', 'At last we get the following equation:LREER=9.7547+2.4486LPROD-1.8561LOPENBut we do not find the co integration relationship between the other two fundamentals and the RMB error rate. We ascribe the poor result to the scarcity of data.', 'At last we get the following equation:LREER=9.7547+2.4486LPROD-1.8561LOPENBut we do not find the co integration relationship between the other two fundamentals and the RMB growth rate. We ascribe the poor result to the scarcity of data.', 'At last we get the following equation:LREER=9.7547+2.4486LPROD-1.8561LOPENBut we do not find the co integration relationship between the other two fundamentals and the RMB conversion rate. We ascribe the poor result to the scarcity of data.']",
+      "替换术语": [
+         "sampling rate",
+         "error rate",
+         "growth rate",
+         "conversion rate"
+      ],
+      "替换翻译": [
+         "最后我们得到以下方程：LREER=9.7547+2.4486LPROD-1.8561LOPEN但我们没有找到其他两个基本因素与人民币汇率的协整关系。我们将这个糟糕的结果归因于数据的稀缺。",
+         "最后我们得到以下方程：LREER=9.7547+2.4486LPROD-1.8561LOPEN但我们没有找到其他两个基本因素与人民币汇率误差之间的协整关系。我们将这个糟糕的结果归因于数据的稀缺。",
+         "最后我们得到以下方程：LREER=9.7547+2.4486LPROD-1.8561LOPEN但我们没有找到其他两个基本面和人民币增长率之间的协整关系。我们将这个糟糕的结果归因于数据的稀缺。",
+         "最后我们得到以下方程：LREER=9.7547+2.4486LPROD-1.8561LOPEN但我们没有找到其他两个基本因素与人民币汇率之间的协整关系。我们将这个糟糕的结果归因于数据的稀缺。"
+      ],
+      "替换术语翻译": [
+         "汇率。",
+         "误差。",
+         "增长率。",
+         "汇率。"
+      ],
+      "gpt建议": "{'sampling rate': 'NO\\nDifferent translations: <exchange rate: 汇率, sampling rate: 采样率>.', 'conversion rate': 'NO\\nDifferent translations: <exchange rate: 汇率, conversion rate: 兑换率>.'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Uncertainty over the political reforms and the tensions have had a chilling effect on Chinese investment in Myanmar, he said. 'Only state-owned companies dare to go, and even they won't put money into big projects now.'": {
+      "序号": 17,
+      "原句": "Uncertainty over the political reforms and the tensions have had a chilling effect on Chinese investment in Myanmar, he said. 'Only state-owned companies dare to go, and even they won't put money into big projects now.'",
+      "术语": "chilling effect",
+      "原句翻译": "他说，对政治改革和紧张局势的不确定性已经对中国在缅甸的投资产生了寒蝉效应。'只有国有企业敢去，即使他们现在也不会投入大项目的资金。'",
+      "原句术语翻译": [
+         "寒蝉效应"
+      ],
+      "bert替换变异": "[\"Uncertainty over the political reforms and the tensions have had a chilling impact on Chinese investment in Myanmar, he said. 'Only state-owned companies dare to go, and even they won't put money into big projects now.'\"]",
+      "替换术语": [
+         "chilling impact"
+      ],
+      "替换翻译": [
+         "他说，对政治改革和紧张局势的不确定性对中国在缅甸的投资产生了寒蝉效应。'只有国有企业敢去，即使他们现在也不会投入大项目的资金。'"
+      ],
+      "替换术语翻译": [
+         "寒蝉效应"
+      ],
+      "gpt建议": "{'chilling impact': 'NO\\nDifferent translations: \\nchilling effect: 寒蝉效应\\nchilling impact: 寒冷影响'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "The centerpiece of the president's plan is a proposal to allow younger workers to divert some of the taxes they pay toward their pensions into private retirement accounts that could be invested in the stock market.": {
+      "序号": 18,
+      "原句": "The centerpiece of the president's plan is a proposal to allow younger workers to divert some of the taxes they pay toward their pensions into private retirement accounts that could be invested in the stock market.",
+      "术语": "stock market",
+      "原句翻译": "总统计划的核心是允许年轻工人将他们缴纳的一部分税款转向私人退休账户，这些账户可以投资于股市。",
+      "原句术语翻译": [
+         "股市。"
+      ],
+      "bert替换变异": "[\"The centerpiece of the president's plan is a proposal to allow younger workers to divert some of the taxes they pay toward their pensions into private retirement accounts that could be invested in the labor market.\", \"The centerpiece of the president's plan is a proposal to allow younger workers to divert some of the taxes they pay toward their pensions into private retirement accounts that could be invested in the job market.\", \"The centerpiece of the president's plan is a proposal to allow younger workers to divert some of the taxes they pay toward their pensions into private retirement accounts that could be invested in the private market.\", \"The centerpiece of the president's plan is a proposal to allow younger workers to divert some of the taxes they pay toward their pensions into private retirement accounts that could be invested in the stock exchange.\"]",
+      "替换术语": [
+         "labor market",
+         "job market",
+         "private market",
+         "stock exchange"
+      ],
+      "替换翻译": [
+         "总统计划的核心是允许年轻工人将他们缴纳的一部分税款转向私人退休账户，这些账户可以在劳动市场上进行投资。",
+         "总统计划的核心是允许年轻工人将他们缴纳的一部分税款转向私人退休账户，这些账户可以投资于股市。",
+         "总统计划的核心是允许年轻工人将他们缴纳的一部分税款转向私人退休账户，这些账户可以在私人市场上进行投资。",
+         "总统计划的核心是允许年轻工人将他们缴纳的一部分税款转向私人退休账户，这些账户可以投资于股票交易所。"
+      ],
+      "替换术语翻译": [
+         "劳动市场。",
+         "股市。",
+         "私人市场。",
+         "股票交易所。"
+      ],
+      "gpt建议": "{'job market': 'NO\\nDifferent translations: \\nstock market: 股市\\njob market: 就业市场'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "The dry red wine has pleasant sweet flowery and fruity & typicalcharacteristics with 11.36% alcohol (V/V), 49.11g/l sugar remnants, 11.79 g/L total acid (which is higher thanstate standard 5.0～7.5g/L， GB.T15037-947), Visual and other sanitary index all accord with state standards.": {
+      "序号": 19,
+      "原句": "The dry red wine has pleasant sweet flowery and fruity & typicalcharacteristics with 11.36% alcohol (V/V), 49.11g/l sugar remnants, 11.79 g/L total acid (which is higher thanstate standard 5.0～7.5g/L， GB.T15037-947), Visual and other sanitary index all accord with state standards.",
+      "术语": "red wine",
+      "原句翻译": "这款干红葡萄酒具有愉悦的甜美花香和果香特征，酒精含量为11.36%（V/V），残留糖含量为49.11g/l，总酸含量为11.79g/L（高于国家标准5.0～7.5g/L，GB.T15037-947），视觉和其他卫生指标均符合国家标准。",
+      "原句术语翻译": [
+         "红葡萄酒"
+      ],
+      "bert替换变异": "['The dry red fruit has pleasant sweet flowery and fruity & typicalcharacteristics with 11.36% alcohol (V/V), 49.11g/l sugar remnants, 11.79 g/L total acid (which is higher thanstate standard 5.0～7.5g/L， GB.T15037-947), Visual and other sanitary index all accord with state standards.', 'The dry red variety has pleasant sweet flowery and fruity & typicalcharacteristics with 11.36% alcohol (V/V), 49.11g/l sugar remnants, 11.79 g/L total acid (which is higher thanstate standard 5.0～7.5g/L， GB.T15037-947), Visual and other sanitary index all accord with state standards.', 'The dry red plant has pleasant sweet flowery and fruity & typicalcharacteristics with 11.36% alcohol (V/V), 49.11g/l sugar remnants, 11.79 g/L total acid (which is higher thanstate standard 5.0～7.5g/L， GB.T15037-947), Visual and other sanitary index all accord with state standards.']",
+      "替换术语": [
+         "red fruit",
+         "red variety",
+         "red plant"
+      ],
+      "替换翻译": [
+         "这种干红果实具有愉悦的甜美花香和果香特征，酒精含量为11.36%（V/V），残留糖含量为49.11g/l，总酸含量为11.79g/L（高于国家标准5.0～7.5g/L，GB.T15037-947），外观和其他卫生指标均符合国家标准。",
+         "这种干红葡萄酒具有宜人的甜美花香和果香特征，酒精含量为11.36%（V/V），残留糖含量为49.11g/l，总酸含量为11.79g/L（高于国家标准5.0～7.5g/L，GB.T15037-947），外观和其他卫生指标均符合国家标准。",
+         "这种干红植物具有愉悦的甜美花香和果香特征，酒精含量为11.36%（V/V），残留糖含量为49.11g/l，总酸含量为11.79g/L（高于国家标准5.0～7.5g/L，GB.T15037-947），视觉和其他卫生指标均符合国家标准。"
+      ],
+      "替换术语翻译": [
+         "干红果实",
+         "红葡萄酒",
+         "干红植物"
+      ],
+      "gpt建议": "{'red variety': 'NO\\nDifferent translations: <red wine: 红葡萄酒, red variety: 红葡萄种类>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "A comprehensive evaluation of water-storaqe ability of water con-servation forestin the upper reaches of minjiang river": {
+      "序号": 20,
+      "原句": "A comprehensive evaluation of water-storaqe ability of water con-servation forestin the upper reaches of minjiang river",
+      "术语": "upper reaches",
+      "原句翻译": "岷江上游水源涵养林的水贮能力进行全面评估。",
+      "原句术语翻译": [
+         "上游"
+      ],
+      "bert替换变异": "['A comprehensive evaluation of water-storaqe ability of water con-servation forestin the upper part of minjiang river', 'A comprehensive evaluation of water-storaqe ability of water con-servation forestin the upper basin of minjiang river']",
+      "替换术语": [
+         "upper part",
+         "upper basin"
+      ],
+      "替换翻译": [
+         "岷江上游水源涵养林的水贮能力进行全面评估。",
+         "岷江上游水源涵养林的水贮能力进行全面评估。"
+      ],
+      "替换术语翻译": [
+         "上游",
+         "上游"
+      ],
+      "gpt建议": "{'upper part': 'YES', 'upper basin': 'NO\\nDifferent translations: <upper reaches: 上游, upper basin: 上游>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Where an invention-creation was made on the basis of an inventor's or designer's proposal adopted by the entity to which he belongs, the state-owned enterprise or institution which has been granted a patent right shall award to him a money higher prize liberally.": {
+      "序号": 21,
+      "原句": "Where an invention-creation was made on the basis of an inventor's or designer's proposal adopted by the entity to which he belongs, the state-owned enterprise or institution which has been granted a patent right shall award to him a money higher prize liberally.",
+      "术语": "state-owned enterprise",
+      "原句翻译": "在发明创造是基于发明人或设计师的提案，并被其所属的实体采纳的情况下，获得专利权的国有企业或机构应该慷慨地奖励他更高的奖金。",
+      "原句术语翻译": [
+         "国有企业"
+      ],
+      "bert替换变异": "[\"Where an invention-creation was made on the basis of an inventor's or designer's proposal adopted by the entity to which he belongs, the state - owned company or institution which has been granted a patent right shall award to him a money higher prize liberally.\", \"Where an invention-creation was made on the basis of an inventor's or designer's proposal adopted by the entity to which he belongs, the state - owned corporation or institution which has been granted a patent right shall award to him a money higher prize liberally.\"]",
+      "替换术语": [
+         "state - owned company",
+         "state - owned corporation"
+      ],
+      "替换翻译": [
+         "在发明创造是基于发明人或设计师的提案，并被其所属的实体采纳的情况下，获得专利权的国有公司或机构应该慷慨地给予他更高的奖金。",
+         "在一个发明创造是基于发明人或设计师的提案被其所属的实体采纳的情况下，被授予专利权的国有企业或机构应该慷慨地给予他更高的奖金。"
+      ],
+      "替换术语翻译": [
+         "国有公司",
+         "国有企业"
+      ],
+      "gpt建议": "{'state - owned corporation': 'NO\\nDifferent translations: <state-owned enterprise: 国有企业, state - owned corporation: 国有公司>'}",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "(a) in the case of the annual general meeting, by 21 days' notice in writing; and": {
+      "序号": 22,
+      "原句": "(a) in the case of the annual general meeting, by 21 days' notice in writing; and",
+      "术语": "annual general meeting",
+      "原句翻译": "在年度股东大会的情况下，提前21天书面通知；",
+      "原句术语翻译": [
+         "年度股东大会，"
+      ],
+      "bert替换变异": "[\"(a) in the case of the annual general assembly, by 21 days' notice in writing; and\"]",
+      "替换术语": [
+         "annual general assembly"
+      ],
+      "替换翻译": [
+         "在年度股东大会的情况下，提前21天书面通知；"
+      ],
+      "替换术语翻译": [
+         "年度股东大会，"
+      ],
+      "gpt建议": "{'annual general assembly': 'NO\\nDifferent translations: <annual general meeting: 年度股东大会, annual general assembly: 年度股东大会>'}",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "Dalglish told his post- match press conference: \"I don't know if we took them apart, but we were delighted with the way we played.\"": {
+      "序号": 23,
+      "原句": "Dalglish told his post- match press conference: \"I don't know if we took them apart, but we were delighted with the way we played.\"",
+      "术语": "press conference",
+      "原句翻译": "达格利什在赛后新闻发布会上说：“我不知道我们是否击败了他们，但我们对自己的表现感到高兴。”",
+      "原句术语翻译": [
+         "新闻发布会："
+      ],
+      "bert替换变异": "['Dalglish told his post- match press release: \"I don\\'t know if we took them apart, but we were delighted with the way we played.\"']",
+      "替换术语": [
+         "press release"
+      ],
+      "替换翻译": [
+         "达格利什在赛后新闻发布会上说：“我不知道我们是否击败了他们，但我们对自己的表现感到高兴。”"
+      ],
+      "替换术语翻译": [
+         "新闻发布会："
+      ],
+      "gpt建议": "{'press release': 'NO\\nDifferent translations: <press conference: 新闻发布会, press release: 新闻发布>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "the incidence of thermoplegia, heat cramp and heat exhaustion were 43.26%, 42.55% and 13.86%, respectively, in severe heatstroke, and the respective death rate was 9.76%, 5% and 23%.": {
+      "序号": 24,
+      "原句": "the incidence of thermoplegia, heat cramp and heat exhaustion were 43.26%, 42.55% and 13.86%, respectively, in severe heatstroke, and the respective death rate was 9.76%, 5% and 23%.",
+      "术语": "death rate",
+      "原句翻译": "在严重中暑症状中，热瘫、热抽筋和热衰竭的发生率分别为43.26％、42.55％和13.86％，相应的死亡率分别为9.76％、5％和23％。",
+      "原句术语翻译": [
+         "死亡率"
+      ],
+      "bert替换变异": "['the incidence of thermoplegia, heat cramp and heat exhaustion were 43.26%, 42.55% and 13.86%, respectively, in severe heatstroke, and the respective survival rate was 9.76%, 5% and 23%.', 'the incidence of thermoplegia, heat cramp and heat exhaustion were 43.26%, 42.55% and 13.86%, respectively, in severe heatstroke, and the respective success rate was 9.76%, 5% and 23%.', 'the incidence of thermoplegia, heat cramp and heat exhaustion were 43.26%, 42.55% and 13.86%, respectively, in severe heatstroke, and the respective death toll was 9.76%, 5% and 23%.']",
+      "替换术语": [
+         "survival rate",
+         "success rate",
+         "death toll"
+      ],
+      "替换翻译": [
+         "在严重中暑症状中，热痉挛、热抽筋和热衰竭的发生率分别为43.26％、42.55％和13.86％，而相应的存活率分别为9.76％、5％和23％。",
+         "在严重中暑症状中，热瘫、热抽筋和热衰竭的发生率分别为43.26％、42.55％和13.86％，而相应的成功率分别为9.76％、5％和23％。",
+         "在严重中暑中，热瘫、热抽筋和热衰竭的发生率分别为43.26％、42.55％和13.86％，相应的死亡率分别为9.76％、5％和23％。"
+      ],
+      "替换术语翻译": [
+         "存活率",
+         "成功率",
+         "死亡率"
+      ],
+      "gpt建议": "{'death toll': 'NO\\nDifferent translations: <death rate: 死亡率, death toll: 死亡人数>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Automatic control system for main rolling area of precise alloy hot strip production line of Dalian Steel Works": {
+      "序号": 25,
+      "原句": "Automatic control system for main rolling area of precise alloy hot strip production line of Dalian Steel Works",
+      "术语": "production line",
+      "原句翻译": "大连钢铁厂精密合金热轧生产线主轧区的自动控制系统",
+      "原句术语翻译": [
+         "生产线"
+      ],
+      "bert替换变异": "['Automatic control system for main rolling area of precise alloy hot strip production facility of Dalian Steel Works', 'Automatic control system for main rolling area of precise alloy hot strip production plant of Dalian Steel Works', 'Automatic control system for main rolling area of precise alloy hot strip production unit of Dalian Steel Works']",
+      "替换术语": [
+         "production facility",
+         "production plant",
+         "production unit"
+      ],
+      "替换翻译": [
+         "大连钢铁厂精密合金热轧生产设施主轧区的自动控制系统",
+         "大连钢铁厂精密合金热轧生产线主轧区的自动控制系统",
+         "大连钢铁厂精密合金热轧生产装置主轧区的自动控制系统"
+      ],
+      "替换术语翻译": [
+         "生产设施",
+         "生产线",
+         "生产装置"
+      ],
+      "gpt建议": "{'production plant': 'NO\\nDifferent translations: <production line: 生产线, production plant: 生产厂>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Objective:To assess the relationship between the plasminogen activator inhibitor (PAI) activity and coronary heart disease (CHD).": {
+      "序号": 26,
+      "原句": "Objective:To assess the relationship between the plasminogen activator inhibitor (PAI) activity and coronary heart disease (CHD).",
+      "术语": "coronary heart disease",
+      "原句翻译": "目标：评估纤溶酶原激活物抑制剂（PAI）活性与冠心病（CHD）之间的关系。",
+      "原句术语翻译": [
+         "冠心病"
+      ],
+      "bert替换变异": "['Objective:To assess the relationship between the plasminogen activator inhibitor (PAI) activity and coronary heart failure (CHD).']",
+      "替换术语": [
+         "coronary heart failure"
+      ],
+      "替换翻译": [
+         "目标：评估纤溶酶原激活物抑制剂（PAI）活性与冠心病（CHD）之间的关系。"
+      ],
+      "替换术语翻译": [
+         "冠心病"
+      ],
+      "gpt建议": "{'coronary heart failure': 'NO\\nDifferent translations: coronary heart disease: 冠心病, coronary heart failure: 冠心衰竭'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "According to the American Heart Association (AHA), at least half of the people who die suddenly from coronary heart disease each year had no clue they were sick.": {
+      "序号": 27,
+      "原句": "According to the American Heart Association (AHA), at least half of the people who die suddenly from coronary heart disease each year had no clue they were sick.",
+      "术语": "coronary heart disease",
+      "原句翻译": "根据美国心脏协会（AHA）的说法，每年因冠心病突然死亡的人中，至少一半的人根本不知道自己生病了。",
+      "原句术语翻译": [
+         "冠心病"
+      ],
+      "bert替换变异": "['According to the American Heart Association (AHA), at least half of the people who die suddenly from coronary heart failure each year had no clue they were sick.']",
+      "替换术语": [
+         "coronary heart failure"
+      ],
+      "替换翻译": [
+         "根据美国心脏协会（AHA）的说法，每年至少有一半突然死于冠心病的人并不知道自己生病了。"
+      ],
+      "替换术语翻译": [
+         "冠心病"
+      ],
+      "gpt建议": "{'coronary heart failure': 'NO\\nDifferent translations: <coronary heart disease: 冠心病, coronary heart failure: 冠心衰竭>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Methods:The expression rates of p53V+ and p16+ cells and the DNA contents in tumor tissues of 63 patients with non-small cell lung cancer were measured and analyzed by flow cytometry. The correlation of the expression rates p53V+ and p16+ cells with DNA contents, S-phase fraction(SPF),apoptotic index(AI) and metastasis were analyzed.": {
+      "序号": 28,
+      "原句": "Methods:The expression rates of p53V+ and p16+ cells and the DNA contents in tumor tissues of 63 patients with non-small cell lung cancer were measured and analyzed by flow cytometry. The correlation of the expression rates p53V+ and p16+ cells with DNA contents, S-phase fraction(SPF),apoptotic index(AI) and metastasis were analyzed.",
+      "术语": "lung cancer",
+      "原句翻译": "方法：通过流式细胞术测量和分析了63例非小细胞肺癌患者肿瘤组织中p53V+和p16+细胞的表达率以及DNA含量。分析了p53V+和p16+细胞的表达率与DNA含量、S期分数（SPF）、凋亡指数（AI）和转移的相关性。",
+      "原句术语翻译": [
+         "肺癌"
+      ],
+      "bert替换变异": "['Methods:The expression rates of p53V+ and p16+ cells and the DNA contents in tumor tissues of 63 patients with non-small cell lung disease were measured and analyzed by flow cytometry. The correlation of the expression rates p53V+ and p16+ cells with DNA contents, S-phase fraction(SPF),apoptotic index(AI) and metastasis were analyzed.']",
+      "替换术语": [
+         "lung disease"
+      ],
+      "替换翻译": [
+         "方法：通过流式细胞术测量和分析了63例非小细胞肺癌患者肿瘤组织中p53V+和p16+细胞的表达率以及DNA含量。分析了p53V+和p16+细胞的表达率与DNA含量、S期分数（SPF）、凋亡指数（AI）和转移的相关性。"
+      ],
+      "替换术语翻译": [
+         "肺癌"
+      ],
+      "gpt建议": "{'lung disease': 'NO\\nDifferent translations: <lung cancer: 肺癌, lung disease: 肺病>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "The ship that rescued his owners wouldn't take the animal, but cruise ship workers and others banded together to rescue him in style.": {
+      "序号": 29,
+      "原句": "The ship that rescued his owners wouldn't take the animal, but cruise ship workers and others banded together to rescue him in style.",
+      "术语": "cruise ship",
+      "原句翻译": "拯救他的主人的船只不愿意带走这只动物，但是游轮工作人员和其他人团结在一起，以豪华的方式拯救了它。",
+      "原句术语翻译": [
+         "游轮"
+      ],
+      "bert替换变异": "[\"The ship that rescued his owners wouldn't take the animal, but cruise line workers and others banded together to rescue him in style.\"]",
+      "替换术语": [
+         "cruise line"
+      ],
+      "替换翻译": [
+         "拯救他的主人的船只不愿意带走这只动物，但是游轮工作人员和其他人团结在一起，以豪华的方式拯救了它。"
+      ],
+      "替换术语翻译": [
+         "游轮"
+      ],
+      "gpt建议": "{'cruise line': 'NO\\nDifferent translations: <cruise ship: 邮轮, cruise line: 邮轮公司>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "To many then he seemed tainted by his link to an American investment bank, Goldman Sachs, but he is now the most respected Eurocrat of all.": {
+      "序号": 30,
+      "原句": "To many then he seemed tainted by his link to an American investment bank, Goldman Sachs, but he is now the most respected Eurocrat of all.",
+      "术语": "investment bank",
+      "原句翻译": "在许多人看来，他似乎因与美国投资银行高盛的联系而受到污染，但现在他是最受尊敬的欧洲官员。",
+      "原句术语翻译": [
+         "投资银行"
+      ],
+      "bert替换变异": "['To many then he seemed tainted by his link to an American investment firm, Goldman Sachs, but he is now the most respected Eurocrat of all.', 'To many then he seemed tainted by his link to an American investment company, Goldman Sachs, but he is now the most respected Eurocrat of all.', 'To many then he seemed tainted by his link to an American investment banker, Goldman Sachs, but he is now the most respected Eurocrat of all.']",
+      "替换术语": [
+         "investment firm",
+         "investment company",
+         "investment banker"
+      ],
+      "替换翻译": [
+         "在许多人看来，他似乎因为与美国投资公司高盛的联系而受到污染，但现在他是最受尊敬的欧洲官员。",
+         "在许多人看来，他似乎因与美国投资公司高盛的联系而受到污染，但现在他是所有欧洲官员中最受尊敬的人。",
+         "在许多人看来，他因与美国投资银行高盛有联系而受到污染，但现在他是最受尊敬的欧洲官员。"
+      ],
+      "替换术语翻译": [
+         "投资公司",
+         "投资公司",
+         "投资银行"
+      ],
+      "gpt建议": "{'investment banker': 'NO\\nDifferent translations: <investment bank: 投资银行, investment banker: 投资银行家>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "ATTENTION： do not set up this product or make any electrical or cabling connections, such as the power supply cord, during a lightning storm.": {
+      "序号": 31,
+      "原句": "ATTENTION： do not set up this product or make any electrical or cabling connections, such as the power supply cord, during a lightning storm.",
+      "术语": "power supply",
+      "原句翻译": "注意：在雷雨天气中，请勿安装此产品或进行任何电气或布线连接，如电源线。",
+      "原句术语翻译": [
+         "电源线"
+      ],
+      "bert替换变异": "['ATTENTION： do not set up this product or make any electrical or cabling connections, such as the power line cord, during a lightning storm.', 'ATTENTION： do not set up this product or make any electrical or cabling connections, such as the power transmission cord, during a lightning storm.']",
+      "替换术语": [
+         "power line",
+         "power transmission"
+      ],
+      "替换翻译": [
+         "注意：在雷雨天气中，请勿安装此产品或进行任何电气或布线连接，如电源线。",
+         "注意：在雷雨天气中，请勿安装此产品或进行任何电气或布线连接，如电源传输线。"
+      ],
+      "替换术语翻译": [
+         "电源线",
+         "电源传输线"
+      ],
+      "gpt建议": "{'power line': 'NO\\nDifferent translations: <power supply: 电源, power line: 电源线>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Article 56 A foreign-capital enterprise shall achieve by itself the balance of revenues and expenditures in foreign exchange.": {
+      "序号": 32,
+      "原句": "Article 56 A foreign-capital enterprise shall achieve by itself the balance of revenues and expenditures in foreign exchange.",
+      "术语": "foreign exchange",
+      "原句翻译": "第56条 外资企业应当自行实现外汇收支平衡。",
+      "原句术语翻译": [
+         "外汇。"
+      ],
+      "bert替换变异": "['Article 56 A foreign-capital enterprise shall achieve by itself the balance of revenues and expenditures in foreign affairs.', 'Article 56 A foreign-capital enterprise shall achieve by itself the balance of revenues and expenditures in foreign currency.']",
+      "替换术语": [
+         "foreign affairs",
+         "foreign currency"
+      ],
+      "替换翻译": [
+         "第56条 外资企业应当自行实现外事收支平衡。",
+         "第56条 外资企业应当自行实现外汇收支平衡。"
+      ],
+      "替换术语翻译": [
+         "外事。",
+         "外汇。"
+      ],
+      "gpt建议": "{'foreign currency': 'NO\\nDifferent translations: \\nforeign exchange: 外汇\\nforeign currency: 外币'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "According to the TNM stage classification, the tumors of 2patients belong to T1N0M0~ T3M1W0.The postoperative quality of life of all case was satisfying.": {
+      "序号": 33,
+      "原句": "According to the TNM stage classification, the tumors of 2patients belong to T1N0M0~ T3M1W0.The postoperative quality of life of all case was satisfying.",
+      "术语": "quality of life",
+      "原句翻译": "根据TNM分期分类，2名患者的肿瘤属于T1N0M0~T3M1W0。所有病例的术后生活质量令人满意。",
+      "原句术语翻译": [
+         "生活质量"
+      ],
+      "bert替换变异": "['According to the TNM stage classification, the tumors of 2patients belong to T1N0M0~ T3M1W0.The postoperative end of life of all case was satisfying.', 'According to the TNM stage classification, the tumors of 2patients belong to T1N0M0~ T3M1W0.The postoperative quality of survival of all case was satisfying.', 'According to the TNM stage classification, the tumors of 2patients belong to T1N0M0~ T3M1W0.The postoperative quality of diagnosis of all case was satisfying.', 'According to the TNM stage classification, the tumors of 2patients belong to T1N0M0~ T3M1W0.The postoperative quality of recovery of all case was satisfying.', 'According to the TNM stage classification, the tumors of 2patients belong to T1N0M0~ T3M1W0.The postoperative quality of treatment of all case was satisfying.']",
+      "替换术语": [
+         "end of life",
+         "quality of survival",
+         "quality of diagnosis",
+         "quality of recovery",
+         "quality of treatment"
+      ],
+      "替换翻译": [
+         "根据TNM分期分类，2名患者的肿瘤属于T1N0M0~T3M1W0。所有病例的术后生活质量都令人满意。",
+         "根据TNM分期分类，2名患者的肿瘤属于T1N0M0~T3M1W0。所有病例的术后生存质量令人满意。",
+         "根据TNM分期分类，2名患者的肿瘤属于T1N0M0~T3M1W0。所有病例的术后诊断质量令人满意。",
+         "根据TNM分期分类，2名患者的肿瘤属于T1N0M0~T3M1W0。所有病例的术后恢复质量令人满意。",
+         "根据TNM分期分类，2名患者的肿瘤属于T1N0M0~T3M1W0。所有病例的术后治疗质量令人满意。"
+      ],
+      "替换术语翻译": [
+         "生活质量",
+         "的生存质量",
+         "的诊断质量",
+         "的恢复质量",
+         "的治疗质量"
+      ],
+      "gpt建议": "{'end of life': 'NO\\nDifferent translations: <quality of life: 生活质量, end of life: 生命终结>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "A colorless or white mineral, NaCl, occurring as cubic crystals and found in dried lake beds in acrid climates, mined or gathered for use as table salt.": {
+      "序号": 34,
+      "原句": "A colorless or white mineral, NaCl, occurring as cubic crystals and found in dried lake beds in acrid climates, mined or gathered for use as table salt.",
+      "术语": "table salt",
+      "原句翻译": "一种无色或白色矿物，NaCl，以立方晶体形式存在于干燥的湖床中，在酸性气候中发现，被开采或收集用作食用盐。",
+      "原句术语翻译": [
+         "食用盐。"
+      ],
+      "bert替换变异": "['A colorless or white mineral, NaCl, occurring as cubic crystals and found in dried lake beds in acrid climates, mined or gathered for use as a salt.', 'A colorless or white mineral, NaCl, occurring as cubic crystals and found in dried lake beds in acrid climates, mined or gathered for use as rock salt.', 'A colorless or white mineral, NaCl, occurring as cubic crystals and found in dried lake beds in acrid climates, mined or gathered for use as water salt.', 'A colorless or white mineral, NaCl, occurring as cubic crystals and found in dried lake beds in acrid climates, mined or gathered for use as sea salt.', 'A colorless or white mineral, NaCl, occurring as cubic crystals and found in dried lake beds in acrid climates, mined or gathered for use as table water.']",
+      "替换术语": [
+         "a salt",
+         "rock salt",
+         "water salt",
+         "sea salt",
+         "table water"
+      ],
+      "替换翻译": [
+         "一种无色或白色矿物，NaCl，以立方晶体形式存在于干燥的湖床中，在酸性气候中发现，被开采或收集用作盐。",
+         "一种无色或白色矿物，NaCl，以立方晶体形式存在于干燥的湖床中，在酸性气候中发现，被开采或收集用作岩盐。",
+         "一种无色或白色矿物，NaCl，以立方晶体形式存在于干燥的湖床中，在酸性气候中发现，被开采或收集用作食用盐。",
+         "一种无色或白色矿物，NaCl，以立方晶体形式存在于干燥的湖床中，在酸性气候中发现，被开采或收集用作海盐。",
+         "一种无色或白色矿物，NaCl，以立方晶体形式存在于干燥的湖床中，在酸性气候中发现，被开采或收集用作餐桌水。"
+      ],
+      "替换术语翻译": [
+         "盐。",
+         "岩盐。",
+         "食用盐。",
+         "海盐。",
+         "餐桌水。"
+      ],
+      "gpt建议": "{'water salt': 'NO\\nDifferent translations: <table salt: 食用盐, water salt: 水盐>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "A bit of mustard powder added to a footbath helps kill athlete's foot fungus.": {
+      "序号": 35,
+      "原句": "A bit of mustard powder added to a footbath helps kill athlete's foot fungus.",
+      "术语": "athlete's foot",
+      "原句翻译": "加入一点芥末粉到脚浴中有助于杀死运动员脚真菌。",
+      "原句术语翻译": [
+         "运动员脚"
+      ],
+      "bert替换变异": "[\"A bit of mustard powder added to a footbath helps kill one's foot fungus.\", \"A bit of mustard powder added to a footbath helps kill athlete's ear fungus.\", \"A bit of mustard powder added to a footbath helps kill athlete's eye fungus.\"]",
+      "替换术语": [
+         "one's foot",
+         "athlete's ear",
+         "athlete's eye"
+      ],
+      "替换翻译": [
+         "加一点芥末粉到脚浴中有助于杀死脚真菌。",
+         "加入一点芥末粉到脚浴中有助于杀死运动员脚真菌。",
+         "加入一点芥末粉到脚浴中有助于杀死运动员脚真菌。"
+      ],
+      "替换术语翻译": [
+         "脚",
+         "运动员脚",
+         "运动员脚"
+      ],
+      "gpt建议": "{\"athlete's ear\": \"NO\\nDifferent translations: <athlete's foot: 运动员脚, athlete's ear: 运动员耳朵>.\", \"athlete's eye\": \"NO\\nDifferent translations: <athlete's foot: 运动员脚, athlete's eye: 运动员眼>\"}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Article 38 The local People's governments shall order anyone who. in violation of the provisions of this Law, defaults on paying teachers' salaries or infringes upon other legitimate rights and interests of teachers, to make a rectification within a specified time limit.": {
+      "序号": 36,
+      "原句": "Article 38 The local People's governments shall order anyone who. in violation of the provisions of this Law, defaults on paying teachers' salaries or infringes upon other legitimate rights and interests of teachers, to make a rectification within a specified time limit.",
+      "术语": "time limit",
+      "原句翻译": "第38条地方人民政府应当责令违反本法规定、拖欠教师工资或侵犯教师其他合法权益的人，在规定的期限内进行整改。",
+      "原句术语翻译": [
+         "期限内。"
+      ],
+      "bert替换变异": "[\"Article 38 The local People's governments shall order anyone who. in violation of the provisions of this Law, defaults on paying teachers' salaries or infringes upon other legitimate rights and interests of teachers, to make a rectification within a specified time period.\", \"Article 38 The local People's governments shall order anyone who. in violation of the provisions of this Law, defaults on paying teachers' salaries or infringes upon other legitimate rights and interests of teachers, to make a rectification within a specified time frame.\"]",
+      "替换术语": [
+         "time period",
+         "time frame"
+      ],
+      "替换翻译": [
+         "第38条 地方人民政府应当责令违反本法规定、拖欠教师工资或侵犯教师其他合法权益的人，在规定的期限内进行整改。",
+         "第38条地方人民政府应当责令违反本法规定，拖欠教师工资或侵犯教师其他合法权益的人，在规定的时间内进行整改。"
+      ],
+      "替换术语翻译": [
+         "期限内。",
+         "时间。"
+      ],
+      "gpt建议": "{'time period': 'NO\\nDifferent translations: \\ntime limit: 期限\\ntime period: 时间段'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "ACom paritive Study on the Distribution of A ChE-positive and VIP-imm unoreactive Nervesin SmallIntestine of Guinea Pig and Rat: ACom bined Histoche micaland Immunohistochemical Observation": {
+      "序号": 37,
+      "原句": "ACom paritive Study on the Distribution of A ChE-positive and VIP-imm unoreactive Nervesin SmallIntestine of Guinea Pig and Rat: ACom bined Histoche micaland Immunohistochemical Observation",
+      "术语": "guinea pig",
+      "原句翻译": "豚鼠和大鼠小肠AChE阳性和VIP免疫反应神经分布的比较研究：组织化学和免疫组织化学观察的结合。",
+      "原句术语翻译": [
+         "豚鼠"
+      ],
+      "bert替换变异": "['ACom paritive Study on the Distribution of A ChE-positive and VIP-imm unoreactive Nervesin SmallIntestine of a Pig and Rat: ACom bined Histoche micaland Immunohistochemical Observation', 'ACom paritive Study on the Distribution of A ChE-positive and VIP-imm unoreactive Nervesin SmallIntestine of Guinea mouse and Rat: ACom bined Histoche micaland Immunohistochemical Observation', 'ACom paritive Study on the Distribution of A ChE-positive and VIP-imm unoreactive Nervesin SmallIntestine of Guinea rabbit and Rat: ACom bined Histoche micaland Immunohistochemical Observation']",
+      "替换术语": [
+         "a Pig",
+         "Guinea mouse",
+         "Guinea rabbit"
+      ],
+      "替换翻译": [
+         "一项关于猪和大鼠小肠AChE阳性和VIP免疫反应神经分布的比较研究：结合组织化学和免疫组织化学观察。",
+         "豚鼠和大鼠小肠AChE阳性和VIP免疫反应神经分布的比较研究：组织化学和免疫组织化学观察的结合。",
+         "一项关于豚鼠和大鼠小肠AChE阳性和VIP免疫反应神经分布的比较研究：组织化学和免疫组织化学观察的结合。"
+      ],
+      "替换术语翻译": [
+         "猪",
+         "豚鼠",
+         "豚鼠"
+      ],
+      "gpt建议": "{'Guinea mouse': \"NO\\nDifferent translations: <Guinea Pig: ['豚鼠'], Guinea mouse: ['几内亚老鼠']>\", 'Guinea rabbit': 'NO\\nDifferent translations: <Guinea Pig: 豚鼠, Guinea rabbit: 几内亚兔>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Educational and social perspective of the reform of national college entrance examination": {
+      "序号": 38,
+      "原句": "Educational and social perspective of the reform of national college entrance examination",
+      "术语": "entrance examination",
+      "原句翻译": "国家高考改革的教育和社会视角",
+      "原句术语翻译": [
+         "高考"
+      ],
+      "bert替换变异": "['Educational and social perspective of the reform of national college admission examination']",
+      "替换术语": [
+         "admission examination"
+      ],
+      "替换翻译": [
+         "国家高考改革的教育和社会视角"
+      ],
+      "替换术语翻译": [
+         "高考"
+      ],
+      "gpt建议": "{'admission examination': 'NO\\nDifferent translations: <entrance examination: 入学考试, admission examination: 录取考试>'}",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "Mainly studied the evaporating effects of plug -in liquid air freshener caused by evaporating wicks of different materials, different heating time and different diameters.": {
+      "序号": 39,
+      "原句": "Mainly studied the evaporating effects of plug -in liquid air freshener caused by evaporating wicks of different materials, different heating time and different diameters.",
+      "术语": "air freshener",
+      "原句翻译": "主要研究了不同材料、不同加热时间和不同直径的蒸发芯引起的插入式液体空气清新剂的蒸发效果。",
+      "原句术语翻译": [
+         "空气清新剂"
+      ],
+      "bert替换变异": "['Mainly studied the evaporating effects of plug -in liquid water freshener caused by evaporating wicks of different materials, different heating time and different diameters.', 'Mainly studied the evaporating effects of plug -in liquid air sweetener caused by evaporating wicks of different materials, different heating time and different diameters.', 'Mainly studied the evaporating effects of plug -in liquid air stiffener caused by evaporating wicks of different materials, different heating time and different diameters.']",
+      "替换术语": [
+         "water freshener",
+         "air sweetener",
+         "air stiffener"
+      ],
+      "替换翻译": [
+         "主要研究了不同材料、不同加热时间和不同直径的蒸发芯引起的插入式液体空气清新剂的蒸发效果。",
+         "主要研究了插入式液体空气清新剂由不同材料、不同加热时间和不同直径的蒸发芯引起的蒸发效应。",
+         "主要研究了不同材料、不同加热时间和不同直径的蒸发芯引起的插入式液体空气硬化剂的蒸发效应。"
+      ],
+      "替换术语翻译": [
+         "空气清新剂",
+         "空气清新剂",
+         "空气硬化剂"
+      ],
+      "gpt建议": "{'water freshener': 'NO\\nDifferent translations: <air freshener: 空气清新剂, water freshener: 水清新剂>', 'air sweetener': 'NO\\nDifferent translations: <air freshener: 空气清新剂, air sweetener: 空气甜味剂>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Taking the selection of fine mason pine as an example,this essay interprets the establish and utilization of forestry science and research archives favor research topics from a higher starting point.": {
+      "序号": 40,
+      "原句": "Taking the selection of fine mason pine as an example,this essay interprets the establish and utilization of forestry science and research archives favor research topics from a higher starting point.",
+      "术语": "starting point",
+      "原句翻译": "以选择优质马尾松为例，本文解释了建立和利用林业科学和研究档案有利于从更高的起点研究课题。",
+      "原句术语翻译": [
+         "起点。"
+      ],
+      "bert替换变异": "['Taking the selection of fine mason pine as an example,this essay interprets the establish and utilization of forestry science and research archives favor research topics from a higher price point.', 'Taking the selection of fine mason pine as an example,this essay interprets the establish and utilization of forestry science and research archives favor research topics from a higher reference point.', 'Taking the selection of fine mason pine as an example,this essay interprets the establish and utilization of forestry science and research archives favor research topics from a higher starting position.', 'Taking the selection of fine mason pine as an example,this essay interprets the establish and utilization of forestry science and research archives favor research topics from a higher starting age.']",
+      "替换术语": [
+         "price point",
+         "reference point",
+         "starting position",
+         "starting age"
+      ],
+      "替换翻译": [
+         "以选择优质马尾松为例，本文解释了建立和利用林业科学和研究档案，有利于研究高价位的主题。",
+         "以选择优质马松松木为例，本文解释了建立和利用林业科学和研究档案，有利于从更高的参考点研究主题。",
+         "以选择优质马尾松为例，本文解释了建立和利用林业科学和研究档案，有利于从更高的起点研究主题。",
+         "以选择优质马尾松为例，本文解释了林业科学和研究档案的建立和利用，有利于从更高的起点年龄研究课题。"
+      ],
+      "替换术语翻译": [
+         "高价位。",
+         "参考点。",
+         "起点。",
+         "起点年龄。"
+      ],
+      "gpt建议": "{'starting position': 'NO\\nDifferent translations: <starting point: 起点, starting position: 起始位置>'}",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "So it is all the more shocking that a runaway schoolboy managed toevadethem entirely – and fly to Italy with no passport or boarding pass.": {
+      "序号": 41,
+      "原句": "So it is all the more shocking that a runaway schoolboy managed toevadethem entirely – and fly to Italy with no passport or boarding pass.",
+      "术语": "boarding pass",
+      "原句翻译": "因此，更令人震惊的是，一个逃学的男孩竟然成功地完全躲避了他们——并且没有护照或登机牌就飞往意大利。",
+      "原句术语翻译": [
+         "登机牌。"
+      ],
+      "bert替换变异": "['So it is all the more shocking that a runaway schoolboy managed toevadethem entirely – and fly to Italy with no passport or boarding permit.', 'So it is all the more shocking that a runaway schoolboy managed toevadethem entirely – and fly to Italy with no passport or boarding school.']",
+      "替换术语": [
+         "boarding permit",
+         "boarding school"
+      ],
+      "替换翻译": [
+         "因此，更令人震惊的是，一个逃学的男孩竟然成功地完全躲避了他们——并且没有护照或登机许可证就飞往意大利。",
+         "因此，更令人震惊的是，一个逃学的男孩竟然成功地逃避了他们的监管，没有护照和登机牌飞往意大利。"
+      ],
+      "替换术语翻译": [
+         "登机许可证。",
+         "登机牌。"
+      ],
+      "gpt建议": "{'boarding school': 'NO\\nDifferent translations: <boarding pass: 登机牌, boarding school: 寄宿学校>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "It was used for an oil well or gold mine that had almost no oil or gold in it. Dishonest developers would buy such property.": {
+      "序号": 42,
+      "原句": "It was used for an oil well or gold mine that had almost no oil or gold in it. Dishonest developers would buy such property.",
+      "术语": "oil well",
+      "原句翻译": "它被用于一个几乎没有石油或黄金的油井或金矿。不诚实的开发商会购买这样的财产。",
+      "原句术语翻译": [
+         "油井"
+      ],
+      "bert替换变异": "['It was used for an oil field or gold mine that had almost no oil or gold in it. Dishonest developers would buy such property.', 'It was used for an oil rig or gold mine that had almost no oil or gold in it. Dishonest developers would buy such property.']",
+      "替换术语": [
+         "oil field",
+         "oil rig"
+      ],
+      "替换翻译": [
+         "它被用于一个几乎没有石油或黄金的油田或金矿。不诚实的开发商会购买这样的财产。",
+         "它被用于一个几乎没有石油或黄金的油井或金矿。不诚实的开发商会购买这样的财产。"
+      ],
+      "替换术语翻译": [
+         "油田",
+         "油井"
+      ],
+      "gpt建议": "{'oil rig': 'NO\\nDifferent translations: <oil well: 油井, oil rig: 钻油平台>'}",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "As the nuclear burning moves outward to the fresh material in a shell surrounding the core, the star bloats into a so-called red giant.": {
+      "序号": 43,
+      "原句": "As the nuclear burning moves outward to the fresh material in a shell surrounding the core, the star bloats into a so-called red giant.",
+      "术语": "red giant",
+      "原句翻译": "随着核燃烧向包围核心的外壳中的新鲜物质扩散，恒星膨胀成所谓的红巨星。",
+      "原句术语翻译": [
+         "红巨星。"
+      ],
+      "bert替换变异": "['As the nuclear burning moves outward to the fresh material in a shell surrounding the core, the star bloats into a so-called red star.', 'As the nuclear burning moves outward to the fresh material in a shell surrounding the core, the star bloats into a so-called red glow.']",
+      "替换术语": [
+         "red star",
+         "red glow"
+      ],
+      "替换翻译": [
+         "随着核燃烧向包围核心的壳层中的新鲜物质扩散，恒星膨胀成所谓的红巨星。",
+         "随着核燃烧向包围核心的外壳中的新鲜物质扩散，恒星膨胀成所谓的红色辉光。"
+      ],
+      "替换术语翻译": [
+         "红巨星。",
+         "红色辉光。"
+      ],
+      "gpt建议": "{'red star': 'NO\\nDifferent translations: <red giant: 红巨星, red star: 红星>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Candidate shall send a letter of application with a curriculum vitae to the personnel officer.": {
+      "序号": 44,
+      "原句": "Candidate shall send a letter of application with a curriculum vitae to the personnel officer.",
+      "术语": "curriculum vitae",
+      "原句翻译": "候选人应向人事主管发送一封附有简历的申请信。",
+      "原句术语翻译": [
+         "简历"
+      ],
+      "bert替换变异": "['Candidate shall send a letter of application with a form vitae to the personnel officer.', 'Candidate shall send a letter of application with a status vitae to the personnel officer.', 'Candidate shall send a letter of application with a letter vitae to the personnel officer.']",
+      "替换术语": [
+         "form vitae",
+         "status vitae",
+         "letter vitae"
+      ],
+      "替换翻译": [
+         "候选人应将申请信和简历表发送给人事主管。",
+         "候选人应向人事主管发送一封附有个人简历的申请信。",
+         "候选人应向人事主管发送一封申请信和一份简历。"
+      ],
+      "替换术语翻译": [
+         "简历表",
+         "个人简历",
+         "简历"
+      ],
+      "gpt建议": "{'letter vitae': 'NO\\nDifferent translations: <curriculum vitae: 简历, letter vitae: 信函>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "reaction temperature 75～80℃; reaction time is 2.5～3h. Under this condition, the hydroxyl number reaches to 217mg KOH/g wood power, viscosity is 210 mPa*s, stability is 20 days.": {
+      "序号": 45,
+      "原句": "reaction temperature 75～80℃; reaction time is 2.5～3h. Under this condition, the hydroxyl number reaches to 217mg KOH/g wood power, viscosity is 210 mPa*s, stability is 20 days.",
+      "术语": "reaction time",
+      "原句翻译": "反应温度为75～80℃；反应时间为2.5～3小时。在这种条件下，羟基值达到217mg KOH/g木质粉末，粘度为210 mPa*s，稳定性为20天。",
+      "原句术语翻译": [
+         "反应时间"
+      ],
+      "bert替换变异": "['reaction temperature 75～80℃; boiling time is 2.5～3h. Under this condition, the hydroxyl number reaches to 217mg KOH/g wood power, viscosity is 210 mPa*s, stability is 20 days.', 'reaction temperature 75～80℃; reaction pressure is 2.5～3h. Under this condition, the hydroxyl number reaches to 217mg KOH/g wood power, viscosity is 210 mPa*s, stability is 20 days.', 'reaction temperature 75～80℃; reaction rate is 2.5～3h. Under this condition, the hydroxyl number reaches to 217mg KOH/g wood power, viscosity is 210 mPa*s, stability is 20 days.', 'reaction temperature 75～80℃; reaction volume is 2.5～3h. Under this condition, the hydroxyl number reaches to 217mg KOH/g wood power, viscosity is 210 mPa*s, stability is 20 days.']",
+      "替换术语": [
+         "boiling time",
+         "reaction pressure",
+         "reaction rate",
+         "reaction volume"
+      ],
+      "替换翻译": [
+         "反应温度为75～80℃；沸腾时间为2.5～3小时。在这种条件下，羟基值达到217mg KOH/g木质粉末，粘度为210 mPa*s，稳定性为20天。",
+         "反应温度为75～80℃；反应压力为2.5～3h。在这种条件下，羟值达到217mg KOH/g木材粉末，粘度为210 mPa*s，稳定性为20天。",
+         "反应温度为75～80℃；反应速率为2.5～3小时。在这种条件下，羟基值达到217mg KOH/g木材粉末，粘度为210 mPa*s，稳定性为20天。",
+         "反应温度为75～80℃；反应时间为2.5～3小时。在这种条件下，羟值达到217mg KOH/g木质粉末，粘度为210 mPa*s，稳定性为20天。"
+      ],
+      "替换术语翻译": [
+         "沸腾时间",
+         "反应压力",
+         "反应速率",
+         "反应时间"
+      ],
+      "gpt建议": "{'reaction volume': 'NO\\nDifferent translations: <reaction time: 反应时间, reaction volume: 反应体积>.'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "The setting was rather heavy for the warm climate. The room, which was fairly big, was furnished with large chairs and a round table with a green baize cover.": {
+      "序号": 46,
+      "原句": "The setting was rather heavy for the warm climate. The room, which was fairly big, was furnished with large chairs and a round table with a green baize cover.",
+      "术语": "round table",
+      "原句翻译": "这个环境对于温暖的气候来说有点沉重。房间相当大，配有大椅子和一个铺着绿色毡子的圆桌。",
+      "原句术语翻译": [
+         "圆桌"
+      ],
+      "bert替换变异": "['The setting was rather heavy for the warm climate. The room, which was fairly big, was furnished with large chairs and a small table with a green baize cover.', 'The setting was rather heavy for the warm climate. The room, which was fairly big, was furnished with large chairs and a large table with a green baize cover.', 'The setting was rather heavy for the warm climate. The room, which was fairly big, was furnished with large chairs and a round bed with a green baize cover.', 'The setting was rather heavy for the warm climate. The room, which was fairly big, was furnished with large chairs and a round desk with a green baize cover.']",
+      "替换术语": [
+         "small table",
+         "large table",
+         "round bed",
+         "round desk"
+      ],
+      "替换翻译": [
+         "这个环境对于温暖的气候来说有点沉重。房间相当大，摆放着大椅子和一个带绿色毡子盖的小桌子。",
+         "这个环境对于温暖的气候来说有点沉重。房间相当大，配有大椅子和一张绿色毡子桌布的大桌子。",
+         "这个环境对于温暖的气候来说有点沉重。房间相当大，配有大椅子和一个绿色毡子覆盖的圆床。",
+         "这个环境对于温暖的气候来说有点沉重。房间相当大，配有大椅子和一个带绿色毡子盖的圆桌。"
+      ],
+      "替换术语翻译": [
+         "小桌子",
+         "大桌子",
+         "圆床",
+         "圆桌"
+      ],
+      "gpt建议": "{'round desk': 'NO\\nDifferent translations: <round table: 圆桌, round desk: 圆桌>'}",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "Landscape pattern of Beijing urban areas within the six-ringed road was classified based on 1997 and 2002 remote sensing data.": {
+      "序号": 47,
+      "原句": "Landscape pattern of Beijing urban areas within the six-ringed road was classified based on 1997 and 2002 remote sensing data.",
+      "术语": "remote sensing",
+      "原句翻译": "基于1997年和2002年的遥感数据，对北京六环路内的城市地区景观格局进行了分类。",
+      "原句术语翻译": [
+         "遥感"
+      ],
+      "bert替换变异": "['Landscape pattern of Beijing urban areas within the six-ringed road was classified based on 1997 and 2002 remote location data.']",
+      "替换术语": [
+         "remote location"
+      ],
+      "替换翻译": [
+         "基于1997年和2002年的遥感数据，对北京六环路内的城市地区景观格局进行了分类。"
+      ],
+      "替换术语翻译": [
+         "遥感"
+      ],
+      "gpt建议": "{'remote location': 'NO\\nDifferent translations: <remote sensing: 遥感, remote location: 遥远的地点>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Mbanza Congo, Angola, 28 Nov–Chinese company China Road and Bridge Corporation(CRBC) is carrying out refurbishment and extension work on the Mbanza Congo aerodrome, in Zaire province, Angolan news agency Angop reported.": {
+      "序号": 48,
+      "原句": "Mbanza Congo, Angola, 28 Nov–Chinese company China Road and Bridge Corporation(CRBC) is carrying out refurbishment and extension work on the Mbanza Congo aerodrome, in Zaire province, Angolan news agency Angop reported.",
+      "术语": "news agency",
+      "原句翻译": "中国公司中铁桥梁公司（CRBC）正在安哥拉扎伊尔省的姆班扎刚果机场进行翻新和扩建工程，安哥通讯社报道。",
+      "原句术语翻译": [
+         "通讯社"
+      ],
+      "bert替换变异": "['Mbanza Congo, Angola, 28 Nov–Chinese company China Road and Bridge Corporation(CRBC) is carrying out refurbishment and extension work on the Mbanza Congo aerodrome, in Zaire province, Angolan government agency Angop reported.', 'Mbanza Congo, Angola, 28 Nov–Chinese company China Road and Bridge Corporation(CRBC) is carrying out refurbishment and extension work on the Mbanza Congo aerodrome, in Zaire province, Angolan development agency Angop reported.', 'Mbanza Congo, Angola, 28 Nov–Chinese company China Road and Bridge Corporation(CRBC) is carrying out refurbishment and extension work on the Mbanza Congo aerodrome, in Zaire province, Angolan state agency Angop reported.']",
+      "替换术语": [
+         "government agency",
+         "development agency",
+         "state agency"
+      ],
+      "替换翻译": [
+         "中国公司中铁路桥公司（CRBC）正在安哥拉扎伊尔省的姆班扎刚果机场进行翻新和扩建工程，安哥通讯社报道。",
+         "中国公司中铁桥梁公司（CRBC）正在安哥拉扎伊尔省的姆班扎刚果机场进行翻新和扩建工程，安哥尔发展机构安哥报道。",
+         "中国公司中铁桥梁公司（CRBC）正在安哥拉的扎伊尔省姆班扎刚果机场进行翻新和扩建工程，安哥通讯社报道。"
+      ],
+      "替换术语翻译": [
+         "通讯社",
+         "发展机构",
+         "通讯社"
+      ],
+      "gpt建议": "{'government agency': 'NO\\nDifferent translations: <news agency: 新闻机构, government agency: 政府机构>.', 'state agency': 'NO\\nDifferent translations: news agency: 新闻机构, state agency: 政府机构'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Effect of L-arginine on Lipoprotein, Nitric Oxide and Lipid Peroxide in Hypercholesterolaemic Rabbits": {
+      "序号": 49,
+      "原句": "Effect of L-arginine on Lipoprotein, Nitric Oxide and Lipid Peroxide in Hypercholesterolaemic Rabbits",
+      "术语": "nitric oxide",
+      "原句翻译": "L-精氨酸对高胆固醇兔脂蛋白、一氧化氮和脂质过氧化物的影响",
+      "原句术语翻译": [
+         "一氧化氮"
+      ],
+      "bert替换变异": "['Effect of L-arginine on Lipoprotein, Nitric trioxide and Lipid Peroxide in Hypercholesterolaemic Rabbits']",
+      "替换术语": [
+         "Nitric trioxide"
+      ],
+      "替换翻译": [
+         "L-精氨酸对高胆固醇兔脂蛋白、一氧化氮和脂质过氧化物的影响"
+      ],
+      "替换术语翻译": [
+         "一氧化氮"
+      ],
+      "gpt建议": "{'Nitric trioxide': 'NO\\nDifferent translations: <Nitric Oxide: 一氧化氮, Nitric trioxide: 三氧化氮>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "A styrene sample can analyzed rapidly wide bore (i. d. 530μm)fused silica capillary column within 1minutes. The analysis time is about an hour faster than that of classical packed column. The stationary phase of the column is cross-linking SE-54. The precision and accuracy of data obtained this method are same as that classical packed column.": {
+      "序号": 50,
+      "原句": "A styrene sample can analyzed rapidly wide bore (i. d. 530μm)fused silica capillary column within 1minutes. The analysis time is about an hour faster than that of classical packed column. The stationary phase of the column is cross-linking SE-54. The precision and accuracy of data obtained this method are same as that classical packed column.",
+      "术语": "stationary phase",
+      "原句翻译": "苯乙烯样品可以在1分钟内通过直径为530μm的宽孔熔融硅毛细管柱快速分析。分析时间比传统填充柱快大约一个小时。柱的固定相是交联SE-54。通过这种方法获得的数据的精度和准确性与传统填充柱相同。",
+      "原句术语翻译": [
+         "固定相是"
+      ],
+      "bert替换变异": "['A styrene sample can analyzed rapidly wide bore (i. d. 530μm)fused silica capillary column within 1minutes. The analysis time is about an hour faster than that of classical packed column. The stationary part of the column is cross-linking SE-54. The precision and accuracy of data obtained this method are same as that classical packed column.', 'A styrene sample can analyzed rapidly wide bore (i. d. 530μm)fused silica capillary column within 1minutes. The analysis time is about an hour faster than that of classical packed column. The stationary end of the column is cross-linking SE-54. The precision and accuracy of data obtained this method are same as that classical packed column.', 'A styrene sample can analyzed rapidly wide bore (i. d. 530μm)fused silica capillary column within 1minutes. The analysis time is about an hour faster than that of classical packed column. The stationary side of the column is cross-linking SE-54. The precision and accuracy of data obtained this method are same as that classical packed column.']",
+      "替换术语": [
+         "stationary part",
+         "stationary end",
+         "stationary side"
+      ],
+      "替换翻译": [
+         "苯乙烯样品可以在1分钟内通过直径为530μm的熔融硅毛细管柱快速分析。分析时间比传统填充柱快大约一个小时。柱的固定部分是交联SE-54。通过这种方法获得的数据的精度和准确性与传统填充柱相同。",
+         "苯乙烯样品可以在1分钟内通过直径530μm的熔融硅毛细管柱快速分析。分析时间比传统填充柱快大约一个小时。柱的固定端是交联SE-54。通过这种方法获得的数据的精度和准确性与传统填充柱相同。",
+         "苯乙烯样品可以在1分钟内通过直径为530μm的熔融二氧化硅毛细管柱快速分析。分析时间比传统填充柱快大约一个小时。柱的固定相是交联SE-54。通过这种方法获得的数据的精度和准确性与传统填充柱相同。"
+      ],
+      "替换术语翻译": [
+         "固定部分",
+         "固定端",
+         "固定相是"
+      ],
+      "gpt建议": "{'stationary side': 'NO\\nDifferent translations: <stationary phase: 固定相, stationary side: 固定侧>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Activities of matrix metalloprote- inase(MMP)-and MMP-were measured Zymogrophy analysis. The mRNA levels of MMP-2,MMP-9, and tissue inhibitor of metalloproteinases(TIMP)-were evaluated reverse transcriptionpoly- merase chain reaction(RT-PCR). Transwell chamber assay was applied to measure the effect of Eon the invasion of HT108cells.": {
+      "序号": 51,
+      "原句": "Activities of matrix metalloprote- inase(MMP)-and MMP-were measured Zymogrophy analysis. The mRNA levels of MMP-2,MMP-9, and tissue inhibitor of metalloproteinases(TIMP)-were evaluated reverse transcriptionpoly- merase chain reaction(RT-PCR). Transwell chamber assay was applied to measure the effect of Eon the invasion of HT108cells.",
+      "术语": "chain reaction",
+      "原句翻译": "矩阵金属蛋白酶（MMP）和MMP的活动通过凝胶酶分析进行测量。 MMP-2，MMP-9和金属蛋白酶抑制剂（TIMP）的mRNA水平通过逆转录聚合酶链反应（RT-PCR）进行评估。 Transwell室实验被用来测量E对HT108细胞侵袭的影响。",
+      "原句术语翻译": [
+         "链反应（RT-PCR）。"
+      ],
+      "bert替换变异": "['Activities of matrix metalloprote- inase(MMP)-and MMP-were measured Zymogrophy analysis. The mRNA levels of MMP-2,MMP-9, and tissue inhibitor of metalloproteinases(TIMP)-were evaluated reverse transcriptionpoly- merase repair reaction(RT-PCR). Transwell chamber assay was applied to measure the effect of Eon the invasion of HT108cells.', 'Activities of matrix metalloprote- inase(MMP)-and MMP-were measured Zymogrophy analysis. The mRNA levels of MMP-2,MMP-9, and tissue inhibitor of metalloproteinases(TIMP)-were evaluated reverse transcriptionpoly- merase transfer reaction(RT-PCR). Transwell chamber assay was applied to measure the effect of Eon the invasion of HT108cells.']",
+      "替换术语": [
+         "repair reaction",
+         "transfer reaction"
+      ],
+      "替换翻译": [
+         "矩阵金属蛋白酶（MMP）和MMP的活动通过凝胶酶分析进行测量。 MMP-2、MMP-9和金属蛋白酶抑制剂（TIMP）的mRNA水平通过逆转录聚合酶链反应（RT-PCR）进行评估。 Transwell室实验被应用于测量E对HT108细胞侵袭的影响。",
+         "矩阵金属蛋白酶(MMP)和MMP的活动通过凝胶酶分析进行测量。 MMP-2、MMP-9和金属蛋白酶抑制剂(TIMP)的mRNA水平通过逆转录聚合酶链反应(RT-PCR)进行评估。 Transwell室实验被用来测量E对HT108细胞侵袭的影响。"
+      ],
+      "替换术语翻译": [
+         "链反应（RT-PCR）。",
+         "链反应(RT-PCR)。"
+      ],
+      "gpt建议": "{'repair reaction': 'NO\\nDifferent translations: chain reaction: 链反应（RT-PCR）, repair reaction: 修复反应（RT-PCR）.'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Two pretreatment Methods: Were used, granular activated carbon (GAC) adsorption and poly aluminum chloride (PAC) coagulation.": {
+      "序号": 52,
+      "原句": "Two pretreatment Methods: Were used, granular activated carbon (GAC) adsorption and poly aluminum chloride (PAC) coagulation.",
+      "术语": "activated carbon",
+      "原句翻译": "两种预处理方法：颗粒活性炭（GAC）吸附和聚合氯化铝（PAC）混凝。",
+      "原句术语翻译": [
+         "活性炭"
+      ],
+      "bert替换变异": "['Two pretreatment Methods: Were used, granular activated calcium (GAC) adsorption and poly aluminum chloride (PAC) coagulation.', 'Two pretreatment Methods: Were used, granular activated cell (GAC) adsorption and poly aluminum chloride (PAC) coagulation.', 'Two pretreatment Methods: Were used, granular activated potassium (GAC) adsorption and poly aluminum chloride (PAC) coagulation.']",
+      "替换术语": [
+         "activated calcium",
+         "activated cell",
+         "activated potassium"
+      ],
+      "替换翻译": [
+         "两种预处理方法：使用了颗粒活性钙（GAC）吸附和聚合氯化铝（PAC）混凝。",
+         "两种预处理方法：颗粒活性炭（GAC）吸附和聚合氯化铝（PAC）混凝。",
+         "两种预处理方法：使用了颗粒活性钾（GAC）吸附和聚合氯化铝（PAC）混凝。"
+      ],
+      "替换术语翻译": [
+         "活性钙",
+         "活性炭",
+         "活性钾"
+      ],
+      "gpt建议": "{'activated cell': 'NO\\nDifferent translations: <activated carbon: 活性炭, activated cell: 活性细胞>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Circulating levels of von Willebrand factor and its relation with urinary endothelin-1 excretion and ambulatory blood pressure in salt sensitive hypertensive patients": {
+      "序号": 53,
+      "原句": "Circulating levels of von Willebrand factor and its relation with urinary endothelin-1 excretion and ambulatory blood pressure in salt sensitive hypertensive patients",
+      "术语": "blood pressure",
+      "原句翻译": "循环水平的冯·威尔布兰因子与盐敏感性高血压患者尿液内皮素-1排泄和动态血压的关系",
+      "原句术语翻译": [
+         "血压"
+      ],
+      "bert替换变异": "['Circulating levels of von Willebrand factor and its relation with urinary endothelin-1 excretion and ambulatory blood flow in salt sensitive hypertensive patients', 'Circulating levels of von Willebrand factor and its relation with urinary endothelin-1 excretion and ambulatory blood supply in salt sensitive hypertensive patients']",
+      "替换术语": [
+         "blood flow",
+         "blood supply"
+      ],
+      "替换翻译": [
+         "循环的von Willebrand因子水平及其与盐敏感性高血压患者尿液内皮素-1排泄和动态血流的关系",
+         "循环的von Willebrand因子水平及其与盐敏感性高血压患者尿液内皮素-1排泄和动态血压的关系"
+      ],
+      "替换术语翻译": [
+         "血流",
+         "血压"
+      ],
+      "gpt建议": "{'blood supply': 'NO\\nDifferent translations: <blood pressure: 血压, blood supply: 血液供应>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "The eco - geography is based on the theory of ecology, geography and system . It researches the mutual relation between the sustainable development and the structure, function and evolution process of eco - geographic regional system among different dimensions round the globe.": {
+      "序号": 54,
+      "原句": "The eco - geography is based on the theory of ecology, geography and system . It researches the mutual relation between the sustainable development and the structure, function and evolution process of eco - geographic regional system among different dimensions round the globe.",
+      "术语": "sustainable development",
+      "原句翻译": "生态地理学基于生态学、地理学和系统论的理论。它研究了全球不同维度之间生态地理区域系统的结构、功能和演化过程与可持续发展之间的相互关系。",
+      "原句术语翻译": [
+         ""
+      ],
+      "bert替换变异": "['The eco - geography is based on the theory of ecology, geography and system . It researches the mutual relation between the sustainable environment and the structure, function and evolution process of eco - geographic regional system among different dimensions round the globe.', 'The eco - geography is based on the theory of ecology, geography and system . It researches the mutual relation between the sustainable economy and the structure, function and evolution process of eco - geographic regional system among different dimensions round the globe.', 'The eco - geography is based on the theory of ecology, geography and system . It researches the mutual relation between the sustainable system and the structure, function and evolution process of eco - geographic regional system among different dimensions round the globe.']",
+      "替换术语": [
+         "sustainable environment",
+         "sustainable economy",
+         "sustainable system"
+      ],
+      "替换翻译": [
+         "生态地理学基于生态学、地理学和系统论的理论。它研究了全球不同维度之间可持续环境与生态地理区域系统的结构、功能和演化过程之间的相互关系。",
+         "生态地理学基于生态学、地理学和系统论的理论。它研究了全球不同维度之间可持续经济与生态地理区域系统的结构、功能和演化过程之间的相互关系。",
+         "生态地理学基于生态学、地理学和系统论的理论。它研究了全球不同维度之间生态地理区域系统的结构、功能和演化过程与可持续系统之间的相互关系。"
+      ],
+      "替换术语翻译": [
+         "持续环境",
+         "持续经济",
+         ""
+      ],
+      "gpt建议": "{'sustainable system': 'NO\\nDifferent translations: sustainable development: 可持续发展, sustainable system: 可持续系统'}",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "Not on its own – especially as Mozilla’s Firefox continues to eat away at IE's market share.": {
+      "序号": 55,
+      "原句": "Not on its own – especially as Mozilla’s Firefox continues to eat away at IE's market share.",
+      "术语": "market share",
+      "原句翻译": "不是单靠它自己 - 尤其是因为Mozilla的Firefox继续侵蚀IE的市场份额。",
+      "原句术语翻译": [
+         "市场份额。"
+      ],
+      "bert替换变异": "[\"Not on its own – especially as Mozilla’s Firefox continues to eat away at IE's fair share.\", \"Not on its own – especially as Mozilla’s Firefox continues to eat away at IE's market value.\"]",
+      "替换术语": [
+         "fair share",
+         "market value"
+      ],
+      "替换翻译": [
+         "不是单靠它自己 - 尤其是因为Mozilla的Firefox继续侵蚀IE的市场份额。",
+         "不是单靠它自己 - 尤其是因为Mozilla的Firefox继续侵蚀IE的市场价值。"
+      ],
+      "替换术语翻译": [
+         "市场份额。",
+         "市场价值。"
+      ],
+      "gpt建议": "{'fair share': 'NO\\nDifferent translations: <market share: 市场份额, fair share: 公平份额>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "The operation voltage of high voltage DC power supply of plasma filled high power microwave source PASOTRON is from -70kV up to -150kV, the total current is about 300A, while the modulator(current 60A, pulse width 60～120μs) is operating suspended on the HV DC.": {
+      "序号": 56,
+      "原句": "The operation voltage of high voltage DC power supply of plasma filled high power microwave source PASOTRON is from -70kV up to -150kV, the total current is about 300A, while the modulator(current 60A, pulse width 60～120μs) is operating suspended on the HV DC.",
+      "术语": "power supply",
+      "原句翻译": "等离子填充高功率微波源PASOTRON的高压直流电源的操作电压范围为-70kV至-150kV，总电流约为300A，而调制器（电流60A，脉冲宽度60～120μs）悬挂在高压直流上运行。",
+      "原句术语翻译": [
+         "直流电源"
+      ],
+      "bert替换变异": "['The operation voltage of high voltage DC power source of plasma filled high power microwave source PASOTRON is from -70kV up to -150kV, the total current is about 300A, while the modulator(current 60A, pulse width 60～120μs) is operating suspended on the HV DC.', 'The operation voltage of high voltage DC power generator of plasma filled high power microwave source PASOTRON is from -70kV up to -150kV, the total current is about 300A, while the modulator(current 60A, pulse width 60～120μs) is operating suspended on the HV DC.']",
+      "替换术语": [
+         "power source",
+         "power generator"
+      ],
+      "替换翻译": [
+         "等离子体填充高功率微波源PASOTRON的高压直流电源的操作电压范围为-70kV至-150kV，总电流约为300A，而调制器（电流60A，脉冲宽度60～120μs）悬挂在高压直流上运行。",
+         "等离子填充高功率微波源PASOTRON的高压直流电源发生器的操作电压范围为-70kV至-150kV，总电流约为300A，而调制器（电流60A，脉冲宽度60～120μs）悬挂在高压直流电源上运行。"
+      ],
+      "替换术语翻译": [
+         "直流电源",
+         "直流电源发生器"
+      ],
+      "gpt建议": "{'power source': 'NO\\nDifferent translations: <power supply: 电源, power source: 电源>.'}",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "When the vessels, aircraft, platforms or other vehicles which sail and operate at sea have to be abandoned due to force majeure,": {
+      "序号": 57,
+      "原句": "When the vessels, aircraft, platforms or other vehicles which sail and operate at sea have to be abandoned due to force majeure,",
+      "术语": "force majeure",
+      "原句翻译": "当船舶、飞机、平台或其他在海上航行和运营的交通工具因不可抗力而被迫放弃时，",
+      "原句术语翻译": [
+         "不可抗力，"
+      ],
+      "bert替换变异": "['When the vessels, aircraft, platforms or other vehicles which sail and operate at sea have to be abandoned due to cost majeure,']",
+      "替换术语": [
+         "cost majeure"
+      ],
+      "替换翻译": [
+         "当船舶、飞机、平台或其他在海上航行和运营的交通工具因不可抗力而被迫放弃时，"
+      ],
+      "替换术语翻译": [
+         "不可抗力，"
+      ],
+      "gpt建议": "{'cost majeure': 'NO\\nDifferent translations: <force majeure: 不可抗力, cost majeure: 成本大幅增加>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "(iii) any corporation controlled by the partnership or by any partner thereof or, where such a partner is a natural person, any relative of such partner;": {
+      "序号": 58,
+      "原句": "(iii) any corporation controlled by the partnership or by any partner thereof or, where such a partner is a natural person, any relative of such partner;",
+      "术语": "natural person",
+      "原句翻译": "(iii) 由合伙企业或合伙人控制的任何公司，或者如果该合伙人是自然人，则为该合伙人的任何亲属；",
+      "原句术语翻译": [
+         "自然人，"
+      ],
+      "bert替换变异": "['(iii) any corporation controlled by the partnership or by any partner thereof or, where such a partner is a natural partner, any relative of such partner;', '(iii) any corporation controlled by the partnership or by any partner thereof or, where such a partner is a natural union, any relative of such partner;']",
+      "替换术语": [
+         "natural partner",
+         "natural union"
+      ],
+      "替换翻译": [
+         "(iii) 由合伙企业或合伙人控制的任何公司，或者如果该合伙人是自然人合伙人，则为该合伙人的任何亲属；",
+         "(iii) 由合伙企业或合伙人控制的任何公司，或者如果该合伙人是自然人，则为该合伙人的任何亲属；"
+      ],
+      "替换术语翻译": [
+         "自然人合伙人，",
+         "自然人，"
+      ],
+      "gpt建议": "{'natural union': 'NO\\nDifferent translations: <natural person: 自然人, natural union: 自然联盟>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "A young boa constrictor bides its time on another bloom; the snake cares little for Ochroma nectar but wouldn't pass up a meal of hummingbird.": {
+      "序号": 59,
+      "原句": "A young boa constrictor bides its time on another bloom; the snake cares little for Ochroma nectar but wouldn't pass up a meal of hummingbird.",
+      "术语": "boa constrictor",
+      "原句翻译": "一条年轻的蟒蛇在另一朵花上等待时机；这条蛇对木棉花的花蜜并不在意，但不会错过吃蜂鸟的机会。",
+      "原句术语翻译": [
+         "蟒蛇"
+      ],
+      "bert替换变异": "[\"A young moa constrictor bides its time on another bloom; the snake cares little for Ochroma nectar but wouldn't pass up a meal of hummingbird.\"]",
+      "替换术语": [
+         "moa constrictor"
+      ],
+      "替换翻译": [
+         "一只年轻的蟒蛇在另一朵花上等待时机；这条蛇对木棉花的花蜜并不在意，但不会错过吃蜂鸟的机会。"
+      ],
+      "替换术语翻译": [
+         "蟒蛇"
+      ],
+      "gpt建议": "{'moa constrictor': 'NO\\nDifferent translations: <boa constrictor: 蟒蛇, moa constrictor: 恐龙蛇>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "They should be served with jam and clotted cream, or butter. The jam goes on first, followed by the cream or butter.": {
+      "序号": 60,
+      "原句": "They should be served with jam and clotted cream, or butter. The jam goes on first, followed by the cream or butter.",
+      "术语": "clotted cream",
+      "原句翻译": "它们应该配果酱和凝结奶油，或黄油。果酱先放，然后是奶油或黄油。",
+      "原句术语翻译": [
+         "凝结奶油，"
+      ],
+      "bert替换变异": "['They should be served with jam and clotted milk, or butter. The jam goes on first, followed by the cream or butter.']",
+      "替换术语": [
+         "clotted milk"
+      ],
+      "替换翻译": [
+         "它们应该配以果酱和凝结奶油，或黄油。果酱先放上去，然后是奶油或黄油。"
+      ],
+      "替换术语翻译": [
+         "凝结奶油，"
+      ],
+      "gpt建议": "{'clotted milk': 'NO\\nDifferent translations: <clotted cream: 凝结奶油, clotted milk: 凝结牛奶>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "The Pentagon says no civilians were killed in an air strike Sunday in a remote area of eastern Afghanistan, which local officials say killed 27 people who were walking to a wedding.": {
+      "序号": 61,
+      "原句": "The Pentagon says no civilians were killed in an air strike Sunday in a remote area of eastern Afghanistan, which local officials say killed 27 people who were walking to a wedding.",
+      "术语": "air strike",
+      "原句翻译": "五角大楼表示，在周日在阿富汗东部偏远地区的一次空袭中没有平民丧生，当地官员称有27人在前往婚礼的途中丧生。",
+      "原句术语翻译": [
+         "空袭"
+      ],
+      "bert替换变异": "['The Pentagon says no civilians were killed in an air raid Sunday in a remote area of eastern Afghanistan, which local officials say killed 27 people who were walking to a wedding.', 'The Pentagon says no civilians were killed in an air attack Sunday in a remote area of eastern Afghanistan, which local officials say killed 27 people who were walking to a wedding.', 'The Pentagon says no civilians were killed in an air crash Sunday in a remote area of eastern Afghanistan, which local officials say killed 27 people who were walking to a wedding.', 'The Pentagon says no civilians were killed in an air blast Sunday in a remote area of eastern Afghanistan, which local officials say killed 27 people who were walking to a wedding.']",
+      "替换术语": [
+         "air raid",
+         "air attack",
+         "air crash",
+         "air blast"
+      ],
+      "替换翻译": [
+         "五角大楼表示，在周日在阿富汗东部偏远地区进行的一次空袭中没有平民丧生，当地官员称有27人在前往婚礼的途中丧生。",
+         "五角大楼表示，在周日在阿富汗东部偏远地区的一次空袭中没有平民丧生，当地官员称有27人在前往婚礼的途中丧生。",
+         "五角大楼表示，周日在阿富汗东部偏远地区发生的一起空难中没有平民丧生，当地官员称有27人在前往婚礼的途中遇难。",
+         "五角大楼表示，在阿富汗东部偏远地区周日的一次空袭中没有平民丧生，当地官员称有27人在前往婚礼的途中丧生。"
+      ],
+      "替换术语翻译": [
+         "空袭",
+         "空袭",
+         "空难",
+         "空袭"
+      ],
+      "gpt建议": "{'air raid': 'YES', 'air attack': 'YES', 'air blast': 'NO\\nDifferent translations: <air strike: 空袭, air blast: 空爆>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "The relation between elastic mod ulus and Poisson's ratio in isotropic sin gle phase material is suitable for thin film in the thin film ?substrate sys t em (two phase system).": {
+      "序号": 62,
+      "原句": "The relation between elastic mod ulus and Poisson's ratio in isotropic sin gle phase material is suitable for thin film in the thin film ?substrate sys t em (two phase system).",
+      "术语": "Poisson's ratio",
+      "原句翻译": "在各向同性单相材料中，弹性模量和泊松比之间的关系适用于薄膜在薄膜/基底系统（双相系统）中。",
+      "原句术语翻译": [
+         "泊松比之间"
+      ],
+      "bert替换变异": "[\"The relation between elastic mod ulus and Poisson's law in isotropic sin gle phase material is suitable for thin film in the thin film ?substrate sys t em (two phase system).\", \"The relation between elastic mod ulus and Poisson's constant in isotropic sin gle phase material is suitable for thin film in the thin film ?substrate sys t em (two phase system).\"]",
+      "替换术语": [
+         "Poisson's law",
+         "Poisson's constant"
+      ],
+      "替换翻译": [
+         "弹性模量和泊松比在各向同性单相材料中的关系适用于薄膜在薄膜/基底系统（双相系统）中。",
+         "在各向同性单相材料中，弹性模量和泊松比之间的关系适用于薄膜在薄膜/基底系统（双相系统）中。"
+      ],
+      "替换术语翻译": [
+         "泊松比",
+         "泊松比之间"
+      ],
+      "gpt建议": "{\"Poisson's constant\": \"NO\\nDifferent translations: \\nPoisson's ratio: 泊松比\\nPoisson's constant: 泊松常数\"}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Results:Seventeen cases were treated with IVIG 1g/kg(400-500 mg·kg-1·d-1,for 2-3 days). 22 cases with IVIG 2 g/kg(400 mg·kg-1·d-1 for 5 days). There was no obvious difference between the two groups(P=1.000) in the lasting time of fever,blood white cell count,and coronary artery dilation (CAD).": {
+      "序号": 63,
+      "原句": "Results:Seventeen cases were treated with IVIG 1g/kg(400-500 mg·kg-1·d-1,for 2-3 days). 22 cases with IVIG 2 g/kg(400 mg·kg-1·d-1 for 5 days). There was no obvious difference between the two groups(P=1.000) in the lasting time of fever,blood white cell count,and coronary artery dilation (CAD).",
+      "术语": "coronary artery",
+      "原句翻译": "结果：17例患者接受了IVIG 1g/kg（400-500 mg·kg-1·d-1，持续2-3天）。22例患者接受了IVIG 2g/kg（400 mg·kg-1·d-1，持续5天）。两组在发热持续时间、血液白细胞计数和冠状动脉扩张（CAD）方面没有明显差异（P=1.000）。",
+      "原句术语翻译": [
+         "冠状动脉"
+      ],
+      "bert替换变异": "['Results:Seventeen cases were treated with IVIG 1g/kg(400-500 mg·kg-1·d-1,for 2-3 days). 22 cases with IVIG 2 g/kg(400 mg·kg-1·d-1 for 5 days). There was no obvious difference between the two groups(P=1.000) in the lasting time of fever,blood white cell count,and coronary gene dilation (CAD).', 'Results:Seventeen cases were treated with IVIG 1g/kg(400-500 mg·kg-1·d-1,for 2-3 days). 22 cases with IVIG 2 g/kg(400 mg·kg-1·d-1 for 5 days). There was no obvious difference between the two groups(P=1.000) in the lasting time of fever,blood white cell count,and coronary lens dilation (CAD).']",
+      "替换术语": [
+         "coronary gene",
+         "coronary lens"
+      ],
+      "替换翻译": [
+         "结果：17例患者接受了IVIG 1g/kg（400-500 mg·kg-1·d-1，持续2-3天）。22例患者接受了IVIG 2g/kg（400 mg·kg-1·d-1，持续5天）。两组在发热持续时间、血液白细胞计数和冠状动脉扩张（CAD）方面没有明显差异（P=1.000）。",
+         "结果：17例患者接受了IVIG 1g/kg（400-500 mg·kg-1·d-1，持续2-3天）。22例患者接受了IVIG 2g/kg（400 mg·kg-1·d-1，持续5天）。在发热持续时间、血液白细胞计数和冠状动脉扩张（CAD）方面，两组之间没有明显差异（P=1.000）。"
+      ],
+      "替换术语翻译": [
+         "冠状动脉",
+         "冠状动脉"
+      ],
+      "gpt建议": "{'coronary gene': 'NO\\nDifferent translations: <coronary artery: 冠状动脉, coronary gene: 冠状基因>', 'coronary lens': 'NO\\nDifferent translations: <coronary artery: 冠状动脉, coronary lens: 冠状透镜>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Article 8 An advertisement should not have any content that is injurious to the physical and mental health of underage persons or handicapped persons.": {
+      "序号": 64,
+      "原句": "Article 8 An advertisement should not have any content that is injurious to the physical and mental health of underage persons or handicapped persons.",
+      "术语": "mental health",
+      "原句翻译": "第八条 广告不得含有对未成年人或残障人士身心健康有害的内容。",
+      "原句术语翻译": [
+         "身心健康"
+      ],
+      "bert替换变异": "['Article 8 An advertisement should not have any content that is injurious to the physical and mental condition of underage persons or handicapped persons.']",
+      "替换术语": [
+         "mental condition"
+      ],
+      "替换翻译": [
+         "第八条 广告不得含有对未成年人或残障人士身心健康有害的内容。"
+      ],
+      "替换术语翻译": [
+         "身心健康"
+      ],
+      "gpt建议": "{'mental condition': 'NO\\nDifferent translations: <mental health: 精神健康, mental condition: 精神状态>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Concrete pouring technology of steel-pipe arch rib of concrete arch bridge": {
+      "序号": 65,
+      "原句": "Concrete pouring technology of steel-pipe arch rib of concrete arch bridge",
+      "术语": "arch bridge",
+      "原句翻译": "混凝土拱桥的钢管拱肋混凝土浇筑技术",
+      "原句术语翻译": [
+         "拱桥"
+      ],
+      "bert替换变异": "['Concrete pouring technology of steel-pipe arch rib of concrete bridge bridge']",
+      "替换术语": [
+         "bridge bridge"
+      ],
+      "替换翻译": [
+         "混凝土拱桥钢管拱肋的浇筑技术"
+      ],
+      "替换术语翻译": [
+         "拱桥"
+      ],
+      "gpt建议": "{'bridge bridge': 'NO\\nDifferent translations: <arch bridge: 拱桥, bridge bridge: 桥梁>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "\"I would like to send this by registered mail, please.\"": {
+      "序号": 66,
+      "原句": "\"I would like to send this by registered mail, please.\"",
+      "术语": "registered mail",
+      "原句翻译": "我想用挂号信寄出，请。",
+      "原句术语翻译": [
+         "挂号信，"
+      ],
+      "bert替换变异": "['\"I would like to send this by registered address, please.\"', '\"I would like to send this by registered number, please.\"']",
+      "替换术语": [
+         "registered address",
+         "registered number"
+      ],
+      "替换翻译": [
+         "我想用挂号信寄出，请。",
+         "我想用挂号寄送，请。"
+      ],
+      "替换术语翻译": [
+         "挂号信，",
+         "挂号，"
+      ],
+      "gpt建议": "{'registered address': 'NO\\nDifferent translations: <registered mail: 挂号信, registered address: 注册地址>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "'One of the great skills parents can offer their children is conflict resolution. That helps [kids] in their future relationships,' says Dr. Cullen Sharma, co-director of the early childhood clinical service at the Child Study Center at NYU Langone Medical Center.": {
+      "序号": 67,
+      "原句": "'One of the great skills parents can offer their children is conflict resolution. That helps [kids] in their future relationships,' says Dr. Cullen Sharma, co-director of the early childhood clinical service at the Child Study Center at NYU Langone Medical Center.",
+      "术语": "early childhood",
+      "原句翻译": "\"父母可以教给孩子的一项重要技能是解决冲突。这有助于他们未来的人际关系，\"纽约大学朗格尼医学中心儿童研究中心早期临床服务联合主任库伦·夏尔马博士说道。",
+      "原句术语翻译": [
+         "早期"
+      ],
+      "bert替换变异": "[\"'One of the great skills parents can offer their children is conflict resolution. That helps [kids] in their future relationships,' says Dr. Cullen Sharma, co-director of the early stage clinical service at the Child Study Center at NYU Langone Medical Center.\", \"'One of the great skills parents can offer their children is conflict resolution. That helps [kids] in their future relationships,' says Dr. Cullen Sharma, co-director of the early intervention clinical service at the Child Study Center at NYU Langone Medical Center.\"]",
+      "替换术语": [
+         "early stage",
+         "early intervention"
+      ],
+      "替换翻译": [
+         "\"父母可以教给孩子的一项重要技能是解决冲突。这有助于他们未来的人际关系，\"纽约大学朗格尼医学中心儿童研究中心早期临床服务联合主任库伦·沙玛博士说道。",
+         "\"父母可以教给孩子的一项重要技能是解决冲突。这有助于他们未来的人际关系，\"纽约大学朗格尼医学中心儿童研究中心早期干预临床服务联合主任库伦·沙玛博士说道。"
+      ],
+      "替换术语翻译": [
+         "早期",
+         "早期干预"
+      ],
+      "gpt建议": "{'early stage': 'NO\\nDifferent translations: <early childhood: 幼儿期, early stage: 早期>'}",
+      "manual_1_result": 0,
+      "manual_2_result": 1,
+      "final_result": 0
+   },
+   "With the quickening of the process of global economy integration and After China joins WTO, more and more Foreign country retails giants entered the China market one after another, Launch desperate competition in order to contention limited retail market share.": {
+      "序号": 68,
+      "原句": "With the quickening of the process of global economy integration and After China joins WTO, more and more Foreign country retails giants entered the China market one after another, Launch desperate competition in order to contention limited retail market share.",
+      "术语": "market share",
+      "原句翻译": "随着全球经济一体化进程的加快和中国加入WTO后，越来越多的外国零售巨头纷纷进入中国市场，展开激烈竞争，争夺有限的零售市场份额。",
+      "原句术语翻译": [
+         "市场份额。"
+      ],
+      "bert替换变异": "['With the quickening of the process of global economy integration and After China joins WTO, more and more Foreign country retails giants entered the China market one after another, Launch desperate competition in order to contention limited retail market penetration.']",
+      "替换术语": [
+         "market penetration"
+      ],
+      "替换翻译": [
+         "随着全球经济一体化进程的加快和中国加入WTO后，越来越多的外国零售巨头纷纷进入中国市场，展开激烈竞争，以争夺有限的零售市场份额。"
+      ],
+      "替换术语翻译": [
+         "市场份额。"
+      ],
+      "gpt建议": "{'market penetration': 'NO\\nDifferent translations: \\nmarket share: 市场份额\\nmarket penetration: 市场渗透率'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Latent heat thermal storage has the advantage of large heat storage quantity per unit weight or volume and good chemical stability and safety, but when the phase changes the heat conductivity is poor at the interface of liquid and solid.": {
+      "序号": 69,
+      "原句": "Latent heat thermal storage has the advantage of large heat storage quantity per unit weight or volume and good chemical stability and safety, but when the phase changes the heat conductivity is poor at the interface of liquid and solid.",
+      "术语": "latent heat",
+      "原句翻译": "潜热储存具有单位重量或体积的大热储存量和良好的化学稳定性和安全性的优势，但当相变时，液体和固体界面的热传导性较差。",
+      "原句术语翻译": [
+         "潜热"
+      ],
+      "bert替换变异": "['Latent liquid thermal storage has the advantage of large heat storage quantity per unit weight or volume and good chemical stability and safety, but when the phase changes the heat conductivity is poor at the interface of liquid and solid.', 'Latent phase thermal storage has the advantage of large heat storage quantity per unit weight or volume and good chemical stability and safety, but when the phase changes the heat conductivity is poor at the interface of liquid and solid.']",
+      "替换术语": [
+         "Latent liquid",
+         "Latent phase"
+      ],
+      "替换翻译": [
+         "潜热液体储热具有单位重量或体积的大热储存量和良好的化学稳定性和安全性的优势，但当相变时，液体和固体界面的热导率较差。",
+         "潜热储存具有单位重量或体积的大热储存量、良好的化学稳定性和安全性的优点，但当相变时，液体和固体界面的热导率较差。"
+      ],
+      "替换术语翻译": [
+         "潜热液体",
+         "潜热"
+      ],
+      "gpt建议": "{'Latent phase': 'NO\\nDifferent translations: <Latent heat: 潜热, Latent phase: 潜相>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Employers can help graduates apply for basic housing, rents for which are 30 percent cheaper compared with the market price.": {
+      "序号": 70,
+      "原句": "Employers can help graduates apply for basic housing, rents for which are 30 percent cheaper compared with the market price.",
+      "术语": "market price",
+      "原句翻译": "雇主可以帮助毕业生申请基本住房，租金比市场价便宜30%。",
+      "原句术语翻译": [
+         "市场价。"
+      ],
+      "bert替换变异": "['Employers can help graduates apply for basic housing, rents for which are 30 percent cheaper compared with the purchase price.', 'Employers can help graduates apply for basic housing, rents for which are 30 percent cheaper compared with the original price.', 'Employers can help graduates apply for basic housing, rents for which are 30 percent cheaper compared with the market rate.', 'Employers can help graduates apply for basic housing, rents for which are 30 percent cheaper compared with the market value.', 'Employers can help graduates apply for basic housing, rents for which are 30 percent cheaper compared with the market rates.']",
+      "替换术语": [
+         "purchase price",
+         "original price",
+         "market rate",
+         "market value",
+         "market rates"
+      ],
+      "替换翻译": [
+         "雇主可以帮助毕业生申请基本住房，租金比购买价格便宜30％。",
+         "雇主可以帮助毕业生申请基本住房，租金比原价便宜30％。",
+         "雇主可以帮助毕业生申请基本住房，租金比市场价便宜30%。",
+         "雇主可以帮助毕业生申请基本住房，租金比市场价便宜30%。",
+         "雇主可以帮助毕业生申请基本住房，租金比市场价便宜30%。"
+      ],
+      "替换术语翻译": [
+         "购买价格便宜。",
+         "原价。",
+         "市场价。",
+         "市场价。",
+         "市场价。"
+      ],
+      "gpt建议": "{'market rate': 'NO\\nDifferent translations: <market price: 市场价, market rate: 市场利率>', 'market value': 'NO\\nDifferent translations: <market price: 市场价格, market value: 市场价值>.', 'market rates': 'NO\\nDifferent translations: <market price: 市场价, market rates: 市场利率>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Test methods of wooden activated carbon-Determination of lodine number": {
+      "序号": 71,
+      "原句": "Test methods of wooden activated carbon-Determination of lodine number",
+      "术语": "activated carbon",
+      "原句翻译": "木质活性炭的测试方法-碘值的测定",
+      "原句术语翻译": [
+         "活性炭-测定"
+      ],
+      "bert替换变异": "['Test methods of wooden activated wood-Determination of lodine number']",
+      "替换术语": [
+         "activated wood"
+      ],
+      "替换翻译": [
+         "木质活性炭的测试方法-碘值的测定"
+      ],
+      "替换术语翻译": [
+         "活性炭-测定"
+      ],
+      "gpt建议": "{'activated wood': 'NO\\nDifferent translations: <activated carbon: 活性炭, activated wood: 活性木>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Article 18 The State applies a system of nine-year compulsory education.": {
+      "序号": 72,
+      "原句": "Article 18 The State applies a system of nine-year compulsory education.",
+      "术语": "compulsory education",
+      "原句翻译": "第18条 国家实行九年义务教育制度。",
+      "原句术语翻译": [
+         "义务教育。"
+      ],
+      "bert替换变异": "['Article 18 The State applies a system of nine-year compulsory schooling.']",
+      "替换术语": [
+         "compulsory schooling"
+      ],
+      "替换翻译": [
+         "第18条 国家实行九年义务教育制度。"
+      ],
+      "替换术语翻译": [
+         "义务教育。"
+      ],
+      "gpt建议": "{'compulsory schooling': 'NO\\nDifferent translations: <compulsory education: 义务教育, compulsory schooling: 义务教育>.'}",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "\"The Buyer may, without prejudice to any other remedy for the Seller's following Breach of contract, by written notice of default sent to the Seller, cancel the Contract in whole or in part.\"": {
+      "序号": 73,
+      "原句": "\"The Buyer may, without prejudice to any other remedy for the Seller's following Breach of contract, by written notice of default sent to the Seller, cancel the Contract in whole or in part.\"",
+      "术语": "breach of contract",
+      "原句翻译": "买方可以在向卖方发送书面违约通知的情况下，取消全部或部分合同，而不影响对卖方违约的其他救济措施。",
+      "原句术语翻译": [
+         "违约合同"
+      ],
+      "bert替换变异": "['\"The Buyer may, without prejudice to any other remedy for the Seller\\'s following overreach of contract, by written notice of default sent to the Seller, cancel the Contract in whole or in part.\"']",
+      "替换术语": [
+         "overreach of contract"
+      ],
+      "替换翻译": [
+         "买方可以在向卖方发送书面违约通知的情况下，取消全部或部分合同，而不影响卖方因违约而采取的其他补救措施。"
+      ],
+      "替换术语翻译": [
+         "违约合同"
+      ],
+      "gpt建议": "{'overreach of contract': 'NO\\nDifferent translations: <Breach of contract: 违约合同, overreach of contract: 合同过度>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "The price we pay for cheap food may be already too high: Mad Cow Disease(BSE) in cattle, salmonella in chicken and egg, and listeria in dairy products.": {
+      "序号": 74,
+      "原句": "The price we pay for cheap food may be already too high: Mad Cow Disease(BSE) in cattle, salmonella in chicken and egg, and listeria in dairy products.",
+      "术语": "mad cow disease",
+      "原句翻译": "我们为廉价食物所付出的代价可能已经太高了：牛群中的疯牛病（BSE），鸡蛋和鸡肉中的沙门氏菌，以及奶制品中的李斯特菌。",
+      "原句术语翻译": [
+         "疯牛病（BSE）"
+      ],
+      "bert替换变异": "['The price we pay for cheap food may be already too high: Mad Cow oil(BSE) in cattle, salmonella in chicken and egg, and listeria in dairy products.', 'The price we pay for cheap food may be already too high: Mad Cow meat(BSE) in cattle, salmonella in chicken and egg, and listeria in dairy products.', 'The price we pay for cheap food may be already too high: Mad Cow milk(BSE) in cattle, salmonella in chicken and egg, and listeria in dairy products.']",
+      "替换术语": [
+         "Mad Cow oil",
+         "Mad Cow meat",
+         "Mad Cow milk"
+      ],
+      "替换翻译": [
+         "我们为廉价食物所付出的代价可能已经太高了：牛肉中的疯牛病(BSE)，鸡蛋和鸡肉中的沙门氏菌，以及奶制品中的李斯特菌。",
+         "我们为了廉价食物所付出的代价可能已经太高了：牛肉中的疯牛病（BSE），鸡肉和鸡蛋中的沙门氏菌，以及奶制品中的李斯特菌。",
+         "我们为廉价食物所付出的代价可能已经太高了：牛群中的疯牛病奶牛(BSE)，鸡蛋和鸡肉中的沙门氏菌，以及乳制品中的李斯特菌。"
+      ],
+      "替换术语翻译": [
+         "疯牛病(BSE)",
+         "疯牛病（BSE）",
+         "疯牛病奶牛(BSE)"
+      ],
+      "gpt建议": "{'Mad Cow meat': 'NO\\nDifferent translations: \\nMad Cow Disease: 疯牛病（BSE）\\nMad Cow meat: 疯牛肉'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "The results of 34 factorial experiment showed that while pH 6.5 121℃ for 15 min, the soymilk added 0.04% xanthan gum and 0.05% sodium alginate had a long more-thanthree-month shelflife time.": {
+      "序号": 75,
+      "原句": "The results of 34 factorial experiment showed that while pH 6.5 121℃ for 15 min, the soymilk added 0.04% xanthan gum and 0.05% sodium alginate had a long more-thanthree-month shelflife time.",
+      "术语": "xanthan gum",
+      "原句翻译": "34阶乘实验的结果显示，当pH值为6.5，温度为121摄氏度，时间为15分钟时，添加了0.04%黄原胶和0.05%海藻酸钠的豆浆具有超过三个月的长期保质期。",
+      "原句术语翻译": [
+         "黄原胶"
+      ],
+      "bert替换变异": "['The results of 34 factorial experiment showed that while pH 6.5 121℃ for 15 min, the soymilk added 0.04% xanthan chloride and 0.05% sodium alginate had a long more-thanthree-month shelflife time.', 'The results of 34 factorial experiment showed that while pH 6.5 121℃ for 15 min, the soymilk added 0.04% xanthan oxide and 0.05% sodium alginate had a long more-thanthree-month shelflife time.']",
+      "替换术语": [
+         "xanthan chloride",
+         "xanthan oxide"
+      ],
+      "替换翻译": [
+         "34阶乘实验的结果显示，当pH值为6.5，温度为121摄氏度，时间为15分钟时，添加了0.04%黄原胶和0.05%海藻酸钠的豆浆具有超过三个月的长期保质期。",
+         "34阶乘实验的结果显示，当pH值为6.5，温度为121℃，时间为15分钟时，添加了0.04%黄原胶和0.05%海藻酸钠的豆浆具有超过三个月的长期保质期。"
+      ],
+      "替换术语翻译": [
+         "黄原胶",
+         "黄原胶"
+      ],
+      "gpt建议": "{'xanthan chloride': 'NO\\nDifferent translations: <xanthan gum: 黄原胶, xanthan chloride: 黄原氯化物>', 'xanthan oxide': 'NO\\nDifferent translations: <xanthan gum: 黄原胶, xanthan oxide: 黄原氧化物>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "April 14, 1912, the maiden voyage of the luxury cruise sank en route, at the same time, the majority of 210passengers were drowned in the sea.": {
+      "序号": 76,
+      "原句": "April 14, 1912, the maiden voyage of the luxury cruise sank en route, at the same time, the majority of 210passengers were drowned in the sea.",
+      "术语": "maiden voyage",
+      "原句翻译": "1912年4月14日，豪华游轮的处女航沉没在途中，同时，210名乘客中的大多数人在海中溺亡。",
+      "原句术语翻译": [
+         "处女航"
+      ],
+      "bert替换变异": "['April 14, 1912, the maiden ship of the luxury cruise sank en route, at the same time, the majority of 210passengers were drowned in the sea.']",
+      "替换术语": [
+         "maiden ship"
+      ],
+      "替换翻译": [
+         "1912年4月14日，豪华游轮的处女航沉没了，在同一时间，210名乘客中的大多数人在海中溺亡。"
+      ],
+      "替换术语翻译": [
+         "处女航"
+      ],
+      "gpt建议": "{'maiden ship': 'NO\\nDifferent translations: <maiden voyage: 处女航, maiden ship: 处女船>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "In China, Starbucks Corp., Burger King, the 7-Eleven convenience store chain and others on Tuesday also said they cut ties with Shanghai Husi.": {
+      "序号": 77,
+      "原句": "In China, Starbucks Corp., Burger King, the 7-Eleven convenience store chain and others on Tuesday also said they cut ties with Shanghai Husi.",
+      "术语": "convenience store",
+      "原句翻译": "在中国，星巴克公司、汉堡王、7-Eleven便利店连锁店等公司周二也表示他们已经与上海禾士解除合作关系。",
+      "原句术语翻译": [
+         "便利店"
+      ],
+      "bert替换变异": "['In China, Starbucks Corp., Burger King, the 7-Eleven grocery store chain and others on Tuesday also said they cut ties with Shanghai Husi.', 'In China, Starbucks Corp., Burger King, the 7-Eleven department store chain and others on Tuesday also said they cut ties with Shanghai Husi.']",
+      "替换术语": [
+         "grocery store",
+         "department store"
+      ],
+      "替换翻译": [
+         "在中国，星巴克公司、汉堡王、7-Eleven便利店连锁店等周二也表示他们已经与上海禾士解除合作关系。",
+         "在中国，星巴克公司、汉堡王、7-Eleven连锁店等公司周二也表示他们已经与上海禾士解除合作关系。"
+      ],
+      "替换术语翻译": [
+         "便利店",
+         "连锁店"
+      ],
+      "gpt建议": "{'grocery store': 'NO\\nDifferent translations: <convenience store: 便利店, grocery store: 杂货店>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "In a bid to counteract this trend, the Beijing government is preparing to launch a state investment agency to manage a fifth of its foreign exchange reserves, the world's biggest, betting on a strategy of diversification.": {
+      "序号": 78,
+      "原句": "In a bid to counteract this trend, the Beijing government is preparing to launch a state investment agency to manage a fifth of its foreign exchange reserves, the world's biggest, betting on a strategy of diversification.",
+      "术语": "foreign exchange",
+      "原句翻译": "为了抵消这一趋势，北京政府正准备成立一个国家投资机构，管理其外汇储备中的五分之一，这是全球最大的外汇储备，押注于多元化战略。",
+      "原句术语翻译": [
+         "外汇储备"
+      ],
+      "bert替换变异": "[\"In a bid to counteract this trend, the Beijing government is preparing to launch a state investment agency to manage a fifth of its foreign currency reserves, the world's biggest, betting on a strategy of diversification.\"]",
+      "替换术语": [
+         "foreign currency"
+      ],
+      "替换翻译": [
+         "为了抵消这一趋势，北京政府正准备成立一个国家投资机构来管理其外汇储备中的五分之一，这是全球最大的外汇储备，押注于多元化战略。"
+      ],
+      "替换术语翻译": [
+         "外汇储备"
+      ],
+      "gpt建议": "{'foreign currency': 'NO\\nDifferent translations: \\nforeign exchange: 外汇 \\nforeign currency: 外币'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   }
+}

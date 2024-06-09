@@ -1,0 +1,4 @@
+info_term_kappa: 0.6086956521739131
+info_sentence_kappa: nan
+bert_replace_kappa: nan
+general_kappa: 0.8612181958365459

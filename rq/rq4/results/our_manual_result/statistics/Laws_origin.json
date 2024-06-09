@@ -1,0 +1,4795 @@
+{
+   "(i) twice the maximum pressure to which the fuel system is or will be subjected under normal working conditions; or": {
+      "序号": 0,
+      "原句": "(i) twice the maximum pressure to which the fuel system is or will be subjected under normal working conditions; or",
+      "术语": "working conditions",
+      "原句翻译": "(i) 燃油系统在正常工作条件下承受的最大压力的两倍；或",
+      "原句术语翻译": [
+         "工作条件；"
+      ],
+      "insert变异": "(i) twice the maximum pressure to which the fuel system is or will be subjected under normal working conditions (the environment in which one works, as influenced by factors such as cleanliness, lighting, equipment, paid overtime, uniforms, access to amenities, etc.); or",
+      "insert变异翻译": "(i) 燃油系统在正常工作条件下（工作环境，受清洁度、照明、设备、加班费、制服、便利设施等因素影响）承受的最大压力的两倍；或",
+      "insert术语翻译": [
+         "工作条件；"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.000000238418579
+      ],
+      "insert变异翻译去括号": " 燃油系统在正常工作条件下承受的最大压力的两倍；或",
+      "原句翻译去括号": " 燃油系统在正常工作条件下承受的最大压力的两倍；或",
+      "insert和原句翻译去括号部分相似度": [
+         0.9999998807907104
+      ],
+      "替换变异": [
+         "(i) twice the maximum pressure to which the fuel system is or will be subjected under normal fuel conditions; or",
+         "(i) twice the maximum pressure to which the fuel system is or will be subjected under normal combustion conditions; or"
+      ],
+      "替换术语": [
+         "fuel conditions",
+         "combustion conditions"
+      ],
+      "替换翻译": [
+         "(i) 燃油系统在正常燃油条件下承受的最大压力的两倍；或",
+         "(i) 燃油系统在正常燃烧条件下承受的最大压力的两倍；或"
+      ],
+      "替换术语翻译": [
+         "燃油条件；",
+         "燃烧条件；"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.5950839519500732,
+         0.5878162980079651
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "These regulations may be cited as the Mass Transit Railway Regulations.": {
+      "序号": 1,
+      "原句": "These regulations may be cited as the Mass Transit Railway Regulations.",
+      "术语": "mass transit",
+      "原句翻译": "本规例可引称为《地下铁路规例》。",
+      "原句术语翻译": [
+         "地下铁路"
+      ],
+      "insert变异": "These regulations may be cited as the Mass Transit (a large-scale transportation system in which the passengers do not travel in their own vehicles) Railway Regulations.",
+      "insert变异翻译": "这些法规可称为《公共交通（乘客不乘坐自己的车辆的大型运输系统）铁路法规》。",
+      "insert术语翻译": [
+         "公共交通"
+      ],
+      "insert和原句术语翻译相似度": [
+         0.4662874937057495
+      ],
+      "insert变异翻译去括号": "这些法规可称为《公共交通铁路法规》。",
+      "原句翻译去括号": "本规例可引称为《地下铁路规例》。",
+      "insert和原句翻译去括号部分相似度": [
+         0.7259219884872437
+      ],
+      "替换变异": [
+         "These regulations may be cited as the Mass passenger Railway Regulations."
+      ],
+      "替换术语": [
+         "Mass passenger"
+      ],
+      "替换翻译": [
+         "本规例可引称为《大众客运铁路规例》。"
+      ],
+      "替换术语翻译": [
+         "大众客运"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.430731862783432
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         1,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         1,
+         0,
+         0
+      ],
+      "final_result": [
+         1,
+         0,
+         0
+      ]
+   },
+   "(a) the date of birth of any child of his other than an adopted child, and the sex of such child; and (Amended 98 of 1994 s. 6)": {
+      "序号": 2,
+      "原句": "(a) the date of birth of any child of his other than an adopted child, and the sex of such child; and (Amended 98 of 1994 s. 6)",
+      "术语": "date of birth",
+      "原句翻译": "(a) 其任何子女（领养子女除外）的出生日期，以及该子女的性别；及（由1994年第98号第6条修订）",
+      "原句术语翻译": [
+         "出生日期"
+      ],
+      "insert变异": "(a) the date of birth (the date and year on which something or someone was born) of any child of his other than an adopted child, and the sex of such child; and (Amended 98 of 1994 s. 6)",
+      "insert变异翻译": "(a) 其任何子女（领养子女除外）的出生日期（某物或某人出生的日期及年份）及其性别；及（由1994年第98号第6条修订）",
+      "insert术语翻译": [
+         "出生日期"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": " 其任何子女的出生日期及其性别；及",
+      "原句翻译去括号": " 其任何子女的出生日期，以及该子女的性别；及",
+      "insert和原句翻译去括号部分相似度": [
+         0.9834967851638794
+      ],
+      "替换变异": [
+         "(a) the place of birth of any child of his other than an adopted child, and the sex of such child; and (Amended 98 of 1994 s. 6)",
+         "(a) the year of birth of any child of his other than an adopted child, and the sex of such child; and (Amended 98 of 1994 s. 6)"
+      ],
+      "替换术语": [
+         "place of birth",
+         "year of birth"
+      ],
+      "替换翻译": [
+         "(a) 其任何子女（领养子女除外）的出生地点，以及该子女的性别；及（由1994年第98号第6条修订）",
+         "(a) 其任何子女（领养子女除外）的出生年份，以及该子女的性别；及（由1994年第98号第6条修订）"
+      ],
+      "替换术语翻译": [
+         "出生地点",
+         "出生年份"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7827882766723633,
+         0.8672823309898376
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "Article 55 The company registration authority may temporarily distrain the business license which needs confirmation, and the time limit of distrainment shall not exceed 10 days.": {
+      "序号": 3,
+      "原句": "Article 55 The company registration authority may temporarily distrain the business license which needs confirmation, and the time limit of distrainment shall not exceed 10 days.",
+      "术语": "time limit",
+      "原句翻译": "第五十五条 公司登记机关可以暂时扣押需要确认的营业执照，扣押期限最长不得超过10日。",
+      "原句术语翻译": [
+         "期限"
+      ],
+      "insert变异": "Article 55 The company registration authority may temporarily distrain the business license which needs confirmation, and the time limit (a duration beyond which something may not exceed) of distrainment shall not exceed 10 days.",
+      "insert变异翻译": "第五十五条 公司登记机关可以暂时扣押需要确认的营业执照，扣押期限（不得超过期限）不得超过10日。",
+      "insert术语翻译": [
+         "期限"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0000001192092896
+      ],
+      "insert变异翻译去括号": "第五十五条 公司登记机关可以暂时扣押需要确认的营业执照，扣押期限不得超过10日。",
+      "原句翻译去括号": "第五十五条 公司登记机关可以暂时扣押需要确认的营业执照，扣押期限最长不得超过10日。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9932238459587097
+      ],
+      "替换变异": [
+         "Article 55 The company registration authority may temporarily distrain the business license which needs confirmation, and the maximum limit of distrainment shall not exceed 10 days.",
+         "Article 55 The company registration authority may temporarily distrain the business license which needs confirmation, and the time period of distrainment shall not exceed 10 days.",
+         "Article 55 The company registration authority may temporarily distrain the business license which needs confirmation, and the time frame of distrainment shall not exceed 10 days."
+      ],
+      "替换术语": [
+         "maximum limit",
+         "time period",
+         "time frame"
+      ],
+      "替换翻译": [
+         "第五十五条 公司登记机关可以暂时扣押需要确认的营业执照，扣押的最长期限不得超过10日。",
+         "第五十五条 公司登记机关可以暂时扣押需要确认的营业执照，扣押期限最长不得超过10日。",
+         "第五十五条 公司登记机关可以暂时扣押需要确认的营业执照，扣押时间最长不得超过10日。"
+      ],
+      "替换术语翻译": [
+         "最长期限",
+         "期限",
+         "时间"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.82997727394104,
+         1.000000238418579,
+         0.7796818614006042
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         1
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         1
+      ],
+      "final_result": [
+         0,
+         0,
+         1
+      ]
+   },
+   "(1) A monthly pass for a motor vehicle for the use of a car park may be issued on payment of the fee prescribed in Schedule 3 and subject to the conditions set out in Schedule 4. (L.N. 260 of 1984)": {
+      "序号": 4,
+      "原句": "(1) A monthly pass for a motor vehicle for the use of a car park may be issued on payment of the fee prescribed in Schedule 3 and subject to the conditions set out in Schedule 4. (L.N. 260 of 1984)",
+      "术语": "motor vehicle",
+      "原句翻译": "(1) 缴付附表3订明的费用并符合附表4所列条件的情况下，可发出供使用停车场的汽车月票。(1984年第260号法律公告)",
+      "原句术语翻译": [
+         "汽车"
+      ],
+      "insert变异": "(1) A monthly pass for a motor vehicle (any land-based means of transportation in the form of a machine that operates primarily through a motor to provide power to rotate the tires) for the use of a car park may be issued on payment of the fee prescribed in Schedule 3 and subject to the conditions set out in Schedule 4. (L.N. 260 of 1984)",
+      "insert变异翻译": "(1) 汽车(任何以机器形式运作的陆上交通工具，其运作主要依靠发动机提供动力使轮胎转动)使用停车场的月票，可在缴付附表3所订明的费用及遵守附表4所列的条件后，发出。(1984年第260号法律公告)",
+      "insert术语翻译": [
+         "汽车"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0000001192092896
+      ],
+      "insert变异翻译去括号": " 汽车使用停车场的月票，可在缴付附表3所订明的费用及遵守附表4所列的条件后，发出。",
+      "原句翻译去括号": " 缴付附表3订明的费用并符合附表4所列条件的情况下，可发出供使用停车场的汽车月票。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9452954530715942
+      ],
+      "替换变异": [
+         "(1) A monthly pass for a private vehicle for the use of a car park may be issued on payment of the fee prescribed in Schedule 3 and subject to the conditions set out in Schedule 4. (L.N. 260 of 1984)"
+      ],
+      "替换术语": [
+         "private vehicle"
+      ],
+      "替换翻译": [
+         "(1) 私家车辆使用停车场的月票，可在缴付附表3所订明的费用及符合附表4所列的条件后，发出。(1984年第260号法律公告)"
+      ],
+      "替换术语翻译": [
+         "私家车辆"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.6751390695571899
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "(ii) the person who certified the document was a police officer of the rank stated in the certificate; and": {
+      "序号": 5,
+      "原句": "(ii) the person who certified the document was a police officer of the rank stated in the certificate; and",
+      "术语": "police officer",
+      "原句翻译": "(ii) 证明该文件的人是证书中所述级别的警官；和",
+      "原句术语翻译": [
+         "警官"
+      ],
+      "insert变异": "(ii) the person who certified the document was a police officer (a peace officer who is a member of a police force) of the rank stated in the certificate; and",
+      "insert变异翻译": "(ii) 证明该文件的人是证书上所述级别的警官（警察部队中的治安官）；并且",
+      "insert术语翻译": [
+         "警官"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": " 证明该文件的人是证书上所述级别的警官；并且",
+      "原句翻译去括号": " 证明该文件的人是证书中所述级别的警官；和",
+      "insert和原句翻译去括号部分相似度": [
+         0.9545764923095703
+      ],
+      "替换变异": [
+         "(ii) the person who certified the document was a warrant officer of the rank stated in the certificate; and",
+         "(ii) the person who certified the document was a military officer of the rank stated in the certificate; and",
+         "(ii) the person who certified the document was a junior officer of the rank stated in the certificate; and",
+         "(ii) the person who certified the document was a senior officer of the rank stated in the certificate; and"
+      ],
+      "替换术语": [
+         "warrant officer",
+         "military officer",
+         "junior officer",
+         "senior officer"
+      ],
+      "替换翻译": [
+         "(ii) 证明该文件的人是证书上所述军衔的准尉；并且",
+         "(ii) 认证该文件的人是证书上所述军衔的军官；并且",
+         "(ii) 认证该文件的人是证书上所述级别的初级军官；并且",
+         "(ii) 证明该文件的人是证书上所述级别的高级官员；并且"
+      ],
+      "替换术语翻译": [
+         "准尉",
+         "军官",
+         "初级军官",
+         "高级官员"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.5872306227684021,
+         0.747228741645813,
+         0.5158923268318176,
+         0.6201030015945435
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "(3) Any police officer who has reason to suspect that a person has contravened any condition subject to which the deportation order made against that person is suspended may arrest such person.": {
+      "序号": 6,
+      "原句": "(3) Any police officer who has reason to suspect that a person has contravened any condition subject to which the deportation order made against that person is suspended may arrest such person.",
+      "术语": "police officer",
+      "原句翻译": "（3）任何警务人员有理由怀疑某人违反了针对该人发出的驱逐令的暂停执行条件，可逮捕该人。",
+      "原句术语翻译": [
+         "警务人员"
+      ],
+      "insert变异": "(3) Any police officer (a peace officer who is a member of a police force) who has reason to suspect that a person has contravened any condition subject to which the deportation order made against that person is suspended may arrest such person.",
+      "insert变异翻译": "(3) 任何警官（警察部队中的治安官）有理由怀疑某人违反了暂停执行针对该人的驱逐令的任何条件，可逮捕该人。",
+      "insert术语翻译": [
+         "警官"
+      ],
+      "insert和原句术语翻译相似度": [
+         0.7555016875267029
+      ],
+      "insert变异翻译去括号": " 任何警官有理由怀疑某人违反了暂停执行针对该人的驱逐令的任何条件，可逮捕该人。",
+      "原句翻译去括号": "任何警务人员有理由怀疑某人违反了针对该人发出的驱逐令的暂停执行条件，可逮捕该人。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9590058326721191
+      ],
+      "替换变异": [
+         "(3) Any immigration officer who has reason to suspect that a person has contravened any condition subject to which the deportation order made against that person is suspended may arrest such person."
+      ],
+      "替换术语": [
+         "immigration officer"
+      ],
+      "替换翻译": [
+         "（3）任何移民官员有理由怀疑某人违反了暂停执行针对该人的驱逐令的任何条件，可逮捕该人。"
+      ],
+      "替换术语翻译": [
+         "移民官员"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.4949696362018585
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         1,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         1,
+         0,
+         0
+      ],
+      "final_result": [
+         1,
+         0,
+         0
+      ]
+   },
+   "Article 76 All the insurance liability reserves paid by the insurance company shall be true and adequate.": {
+      "序号": 7,
+      "原句": "Article 76 All the insurance liability reserves paid by the insurance company shall be true and adequate.",
+      "术语": "insurance company",
+      "原句翻译": "第七十六条 保险公司提取的保险责任准备金应当真实、充分。",
+      "原句术语翻译": [
+         "保险公司"
+      ],
+      "insert变异": "Article 76 All the insurance liability reserves paid by the insurance company (a company that provides insurance policies) shall be true and adequate.",
+      "insert变异翻译": "第七十六条 保险公司（出具保险单的公司）提取的保险责任准备金应当真实、充分。",
+      "insert术语翻译": [
+         "保险公司"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "第七十六条 保险公司提取的保险责任准备金应当真实、充分。",
+      "原句翻译去括号": "第七十六条 保险公司提取的保险责任准备金应当真实、充分。",
+      "insert和原句翻译去括号部分相似度": [
+         1.0000001192092896
+      ],
+      "替换变异": [
+         "Article 76 All the insurance liability reserves paid by the insurance industry shall be true and adequate."
+      ],
+      "替换术语": [
+         "insurance industry"
+      ],
+      "替换翻译": [
+         "第七十六条 保险业提取的保险责任准备金应当真实、充分。"
+      ],
+      "替换术语翻译": [
+         "保险业"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.8285735845565796
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "Article 35 Anyone who usurps or undermines installations or damages exhibits of national defense education bases shall be given criticism and be ordered to rectify within a time limit by the competent authority; the persons who are responsible shall bear civil liability in accordance with law.": {
+      "序号": 8,
+      "原句": "Article 35 Anyone who usurps or undermines installations or damages exhibits of national defense education bases shall be given criticism and be ordered to rectify within a time limit by the competent authority; the persons who are responsible shall bear civil liability in accordance with law.",
+      "术语": "time limit",
+      "原句翻译": "第三十五条 侵占、破坏国防教育基地设施、展品的，由主管机关给予批评教育，责令限期改正；构成犯罪的，依法追究刑事责任。责任人员依法承担民事责任。",
+      "原句术语翻译": [
+         "限期"
+      ],
+      "insert变异": "Article 35 Anyone who usurps or undermines installations or damages exhibits of national defense education bases shall be given criticism and be ordered to rectify within a time limit (a duration beyond which something may not exceed) by the competent authority; the persons who are responsible shall bear civil liability in accordance with law.",
+      "insert变异翻译": "第三十五条 侵占、破坏国防教育基地设施或者损毁展品的，由主管部门给予批评教育，责令限期改正（但不得超过改正期限）；有关责任人员依法承担民事责任。",
+      "insert术语翻译": [
+         "限期"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "第三十五条 侵占、破坏国防教育基地设施或者损毁展品的，由主管部门给予批评教育，责令限期改正；有关责任人员依法承担民事责任。",
+      "原句翻译去括号": "第三十五条 侵占、破坏国防教育基地设施、展品的，由主管机关给予批评教育，责令限期改正；构成犯罪的，依法追究刑事责任。责任人员依法承担民事责任。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9853464365005493
+      ],
+      "替换变异": [
+         "Article 35 Anyone who usurps or undermines installations or damages exhibits of national defense education bases shall be given criticism and be ordered to rectify within a time period by the competent authority; the persons who are responsible shall bear civil liability in accordance with law.",
+         "Article 35 Anyone who usurps or undermines installations or damages exhibits of national defense education bases shall be given criticism and be ordered to rectify within a time frame by the competent authority; the persons who are responsible shall bear civil liability in accordance with law."
+      ],
+      "替换术语": [
+         "time period",
+         "time frame"
+      ],
+      "替换翻译": [
+         "第三十五条 侵占、破坏国防教育基地设施或者损毁展品的，由主管部门给予批评教育，责令限期改正；有关责任人员依法承担民事责任。",
+         "第三十五条 侵占、破坏国防教育基地设施或者损毁展品的，由主管部门给予批评教育，责令限期改正；有关责任人员依法承担民事责任。"
+      ],
+      "替换术语翻译": [
+         "限期",
+         "限期"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         1.0,
+         1.0
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         1
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         1
+      ],
+      "final_result": [
+         0,
+         0,
+         1
+      ]
+   },
+   "(b) in relation to an insurer formed or established outside Hong Kong, the address of any person resident in Hong Kong who is authorized to accept service of process in Hong Kong on behalf of that insurer;": {
+      "序号": 10,
+      "原句": "(b) in relation to an insurer formed or established outside Hong Kong, the address of any person resident in Hong Kong who is authorized to accept service of process in Hong Kong on behalf of that insurer;",
+      "术语": "service of process",
+      "原句翻译": "(b) 就香港以外地区组成或设立的保险公司而言，指任何居住于香港并获授权代表该保险公司在香港接受法律程序文件送达的人的地址；",
+      "原句术语翻译": [
+         "程序"
+      ],
+      "insert变异": "(b) in relation to an insurer formed or established outside Hong Kong, the address of any person resident in Hong Kong who is authorized to accept service of process (the effective notification of a lawsuit such that a court may proceed with the case) in Hong Kong on behalf of that insurer;",
+      "insert变异翻译": "(b) 就香港以外地区组成或设立的保险公司而言，指任何居住于香港并获授权代表该保险公司在香港接受法律程序文件送达（有效的诉讼通知，使法院可继续审理案件）的人的地址；",
+      "insert术语翻译": [
+         "程序"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0000001192092896
+      ],
+      "insert变异翻译去括号": " 就香港以外地区组成或设立的保险公司而言，指任何居住于香港并获授权代表该保险公司在香港接受法律程序文件送达的人的地址；",
+      "原句翻译去括号": " 就香港以外地区组成或设立的保险公司而言，指任何居住于香港并获授权代表该保险公司在香港接受法律程序文件送达的人的地址；",
+      "insert和原句翻译去括号部分相似度": [
+         1.0000001192092896
+      ],
+      "替换变异": [
+         "(b) in relation to an insurer formed or established outside Hong Kong, the address of any person resident in Hong Kong who is authorized to accept letters of process in Hong Kong on behalf of that insurer;",
+         "(b) in relation to an insurer formed or established outside Hong Kong, the address of any person resident in Hong Kong who is authorized to accept proof of process in Hong Kong on behalf of that insurer;",
+         "(b) in relation to an insurer formed or established outside Hong Kong, the address of any person resident in Hong Kong who is authorized to accept service of services in Hong Kong on behalf of that insurer;",
+         "(b) in relation to an insurer formed or established outside Hong Kong, the address of any person resident in Hong Kong who is authorized to accept service of service in Hong Kong on behalf of that insurer;",
+         "(b) in relation to an insurer formed or established outside Hong Kong, the address of any person resident in Hong Kong who is authorized to accept service of insurance in Hong Kong on behalf of that insurer;",
+         "(b) in relation to an insurer formed or established outside Hong Kong, the address of any person resident in Hong Kong who is authorized to accept service of interest in Hong Kong on behalf of that insurer;"
+      ],
+      "替换术语": [
+         "letters of process",
+         "proof of process",
+         "service of services",
+         "service of service",
+         "service of insurance",
+         "service of interest"
+      ],
+      "替换翻译": [
+         "(b) 就香港以外地区组成或设立的保险公司而言，指任何居住于香港并获授权代表该保险公司在香港接受法律程序文书的人的地址；",
+         "(b) 就香港以外地区组成或设立的保险公司而言，指任何居住于香港并获授权代表该保险公司接受在香港的法律程序证明的人的地址；",
+         "(b) 就香港以外地区组成或设立的保险公司而言，指任何居住于香港并获授权代表该保险公司在香港接受服务的人的地址；",
+         "(b) 就香港以外地区组成或设立的保险公司而言，指任何居住于香港并获授权代表该保险公司在香港接受送达服务的人的地址；",
+         "(b) 就香港以外地区组成或设立的保险公司而言，指任何居住于香港并获授权代表该保险公司在香港接受保险服务的人的地址；",
+         "(b) 就香港以外地区组成或设立的保险公司而言，指任何居住于香港并获授权代表该保险公司接受在香港收取利息的服务的人的地址；"
+      ],
+      "替换术语翻译": [
+         "程序文书",
+         "的程序证明",
+         "服务",
+         "服务",
+         "保险服务",
+         "利息的服务"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.6764465570449829,
+         0.6843416690826416,
+         0.6073535680770874,
+         0.6073535680770874,
+         0.4793117046356201,
+         0.4977128505706787
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "(3) Section 29 as applied by subsection (1) does not apply in the case of a failure to comply with a time limit under section 113, 114 or 115.": {
+      "序号": 12,
+      "原句": "(3) Section 29 as applied by subsection (1) does not apply in the case of a failure to comply with a time limit under section 113, 114 or 115.",
+      "术语": "time limit",
+      "原句翻译": "(3) 第 (1) 款适用的第 29 条不适用于未遵守第 113、114 或 115 条规定的期限的情况。",
+      "原句术语翻译": [
+         "期限"
+      ],
+      "insert变异": "(3) Section 29 as applied by subsection (1) does not apply in the case of a failure to comply with a time limit (a duration beyond which something may not exceed) under section 113, 114 or 115.",
+      "insert变异翻译": "（3）第（1）款所适用的第29条不适用于未能遵守第113、114或者115条规定的时限（某事不得超过的持续时间）的情况。",
+      "insert术语翻译": [
+         "时限"
+      ],
+      "insert和原句术语翻译相似度": [
+         0.9168344140052795
+      ],
+      "insert变异翻译去括号": "第款所适用的第29条不适用于未能遵守第113、114或者115条规定的时限的情况。",
+      "原句翻译去括号": " 第 款适用的第 29 条不适用于未遵守第 113、114 或 115 条规定的期限的情况。",
+      "insert和原句翻译去括号部分相似度": [
+         0.968917965888977
+      ],
+      "替换变异": [
+         "(3) Section 29 as applied by subsection (1) does not apply in the case of a failure to comply with a time penalty under section 113, 114 or 115."
+      ],
+      "替换术语": [
+         "time penalty"
+      ],
+      "替换翻译": [
+         "（3）第（1）款所适用的第 29 条不适用于未能遵守第 113、114 或 115 条规定的时间惩罚的情况。"
+      ],
+      "替换术语翻译": [
+         "时间惩罚"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.534966230392456
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "(2) The Presiding Officer must place the ballot box for the receipt of ballot papers in that Officer's view and must keep it locked and sealed.": {
+      "序号": 13,
+      "原句": "(2) The Presiding Officer must place the ballot box for the receipt of ballot papers in that Officer's view and must keep it locked and sealed.",
+      "术语": "ballot box",
+      "原句翻译": "(2) 投票站主任必须将用于接收选票的投票箱放在其视线之内，并必须将投票箱锁上并封上。",
+      "原句术语翻译": [
+         "投票箱"
+      ],
+      "insert变异": "(2) The Presiding Officer must place the ballot box (the process or method of voting) for the receipt of ballot papers in that Officer's view and must keep it locked and sealed.",
+      "insert变异翻译": "(2) 投票站主任必须将用于接收选票的投票箱（投票过程或方法）放置在其视线之内，并且必须将投票箱锁上并密封。",
+      "insert术语翻译": [
+         "投票箱"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": " 投票站主任必须将用于接收选票的投票箱放置在其视线之内，并且必须将投票箱锁上并密封。",
+      "原句翻译去括号": " 投票站主任必须将用于接收选票的投票箱放在其视线之内，并必须将投票箱锁上并封上。",
+      "insert和原句翻译去括号部分相似度": [
+         0.98763108253479
+      ],
+      "替换变异": [
+         "(2) The Presiding Officer must place the ballot envelope for the receipt of ballot papers in that Officer's view and must keep it locked and sealed."
+      ],
+      "替换术语": [
+         "ballot envelope"
+      ],
+      "替换翻译": [
+         "(2) 投票站主任必须将用于收取选票的选票信封放在其视线范围内，并将其锁上并密封。"
+      ],
+      "替换术语翻译": [
+         "信封"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.48615312576293945
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "(b) there exists an economic or financial crisis, whether in Hong Kong or elsewhere, or any other circumstances, which is likely to prevent orderly trading on the Unified Exchange.": {
+      "序号": 14,
+      "原句": "(b) there exists an economic or financial crisis, whether in Hong Kong or elsewhere, or any other circumstances, which is likely to prevent orderly trading on the Unified Exchange.",
+      "术语": "financial crisis",
+      "原句翻译": "(b) 无论是在香港还是其他地方，存在经济或金融危机，或任何其他可能妨碍联合交易所有序交易的情况。",
+      "原句术语翻译": [
+         "金融危机"
+      ],
+      "insert变异": "(b) there exists an economic or financial crisis (an episode of sharp instability in the global or a local financial system in which financial assets lose a significant proportion of their value, often caused by the bursting of an economic bubble), whether in Hong Kong or elsewhere, or any other circumstances, which is likely to prevent orderly trading on the Unified Exchange.",
+      "insert变异翻译": "(b) 存在经济或金融危机（全球或本地金融体系出现严重不稳定，导致金融资产价值大幅缩水，通常由于经济泡沫破裂所致），不论发生在香港或其他地方，或存在任何其他情况，可能妨碍联合交易所的有序交易。",
+      "insert术语翻译": [
+         "金融危机，"
+      ],
+      "insert和原句术语翻译相似度": [
+         0.9380455613136292
+      ],
+      "insert变异翻译去括号": " 存在经济或金融危机，不论发生在香港或其他地方，或存在任何其他情况，可能妨碍联合交易所的有序交易。",
+      "原句翻译去括号": " 无论是在香港还是其他地方，存在经济或金融危机，或任何其他可能妨碍联合交易所有序交易的情况。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9735331535339355
+      ],
+      "替换变异": [
+         "(b) there exists an economic or financial disturbance, whether in Hong Kong or elsewhere, or any other circumstances, which is likely to prevent orderly trading on the Unified Exchange.",
+         "(b) there exists an economic or financial situation, whether in Hong Kong or elsewhere, or any other circumstances, which is likely to prevent orderly trading on the Unified Exchange."
+      ],
+      "替换术语": [
+         "financial disturbance",
+         "financial situation"
+      ],
+      "替换翻译": [
+         "(b) 无论是在香港还是其他地方，存在经济或金融混乱，或任何其他情况，可能妨碍联合交易所的有序交易。",
+         "(b) 无论是在香港还是其他地方，存在某种经济或金融状况或任何其他情况，可能妨碍联合交易所的有序交易。"
+      ],
+      "替换术语翻译": [
+         "金融混乱",
+         "金融状况"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7319526672363281,
+         0.6963790059089661
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "(ii) an indictable offence in respect of that hotel or that guesthouse;": {
+      "序号": 15,
+      "原句": "(ii) an indictable offence in respect of that hotel or that guesthouse;",
+      "术语": "indictable offence",
+      "原句翻译": "(ii) 与该酒店或宾馆有关的可公诉罪行；",
+      "原句术语翻译": [
+         "公诉罪行"
+      ],
+      "insert变异": "(ii) an indictable offence (an offence which can only be tried on an indictment after a preliminary hearing to determine whether there is a prima facie case to answer or by a grand jury, in contrast to a summary offence) in respect of that hotel or that guesthouse;",
+      "insert变异翻译": "(ii) 就该酒店或宾馆而言，可公诉罪行（只有在经过初步聆讯以决定是否有表面证据证明案件需要答辩后，才可根据公诉书进行审理，或由大陪审团进行审理，而非简易程序罪行）；",
+      "insert术语翻译": [
+         "公诉罪行"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0000001192092896
+      ],
+      "insert变异翻译去括号": " 就该酒店或宾馆而言，可公诉罪行；",
+      "原句翻译去括号": " 与该酒店或宾馆有关的可公诉罪行；",
+      "insert和原句翻译去括号部分相似度": [
+         0.9653196334838867
+      ],
+      "替换变异": [
+         "(ii) an indictable charge in respect of that hotel or that guesthouse;"
+      ],
+      "替换术语": [
+         "indictable charge"
+      ],
+      "替换翻译": [
+         "(ii) 与该酒店或宾馆有关的可公诉费用；"
+      ],
+      "替换术语翻译": [
+         "可公诉费用"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.6719304919242859
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "(8) An enterprise having frequent and large amount fund transactions through its foreign exchange account not commensurate with the nature and size of its business operation;": {
+      "序号": 16,
+      "原句": "(8) An enterprise having frequent and large amount fund transactions through its foreign exchange account not commensurate with the nature and size of its business operation;",
+      "术语": "foreign exchange",
+      "原句翻译": "（八）企业外汇账户资金交易频繁、数额较大，与经营性质和规模不相适应；",
+      "原句术语翻译": [
+         "外汇"
+      ],
+      "insert变异": "(8) An enterprise having frequent and large amount fund transactions through its foreign exchange (foreign currency) account not commensurate with the nature and size of its business operation;",
+      "insert变异翻译": "（八）企业外汇（外币）账户资金往来频繁、数额较大，与其经营性质、规模不相适应；",
+      "insert术语翻译": [
+         "外汇"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0000001192092896
+      ],
+      "insert变异翻译去括号": "企业外汇账户资金往来频繁、数额较大，与其经营性质、规模不相适应；",
+      "原句翻译去括号": "企业外汇账户资金交易频繁、数额较大，与经营性质和规模不相适应；",
+      "insert和原句翻译去括号部分相似度": [
+         0.9802950620651245
+      ],
+      "替换变异": [
+         "(8) An enterprise having frequent and large amount fund transactions through its foreign bank account not commensurate with the nature and size of its business operation;"
+      ],
+      "替换术语": [
+         "foreign bank"
+      ],
+      "替换翻译": [
+         "（八）企业通过境外银行账户发生与其经营性质、规模不相符的频繁、大额资金往来；"
+      ],
+      "替换术语翻译": [
+         "境外银行"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7024654746055603
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "(2) An office bearer of a registered trade union or of an association of employers, or a barrister or solicitor, shall not have a right of audience on behalf of a party under subsection (1) (d).": {
+      "序号": 17,
+      "原句": "(2) An office bearer of a registered trade union or of an association of employers, or a barrister or solicitor, shall not have a right of audience on behalf of a party under subsection (1) (d).",
+      "术语": "trade union",
+      "原句翻译": "(2) 注册工会或雇主协会的官员、出庭律师或事务律师不得拥有第 (1) (d) 款规定的代表一方出庭的权利。",
+      "原句术语翻译": [
+         "工会"
+      ],
+      "insert变异": "(2) An office bearer of a registered trade union (an organization whose members belong to the same trade and that acts collectively to address common issues) or of an association of employers, or a barrister or solicitor, shall not have a right of audience on behalf of a party under subsection (1) (d).",
+      "insert变异翻译": "（2） 注册工会（其成员属于同一行业并集体采取行动解决共同问题的组织）或雇主协会的职员、大律师或律师，无权根据第（1）（d）款代表任何一方出庭发言。",
+      "insert术语翻译": [
+         "工会"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.000000238418579
+      ],
+      "insert变异翻译去括号": " 注册工会或雇主协会的职员、大律师或律师，无权根据第款代表任何一方出庭发言。",
+      "原句翻译去括号": " 注册工会或雇主协会的官员、出庭律师或事务律师不得拥有第 款规定的代表一方出庭的权利。",
+      "insert和原句翻译去括号部分相似度": [
+         0.8431097865104675
+      ],
+      "替换变异": [
+         "(2) An office bearer of a registered trade association or of an association of employers, or a barrister or solicitor, shall not have a right of audience on behalf of a party under subsection (1) (d)."
+      ],
+      "替换术语": [
+         "trade association"
+      ],
+      "替换翻译": [
+         "（２）注册行业协会或雇主协会的职员、出庭律师或事务律师，无权根据第（１）款（ｄ）项代表任何一方出庭发言。"
+      ],
+      "替换术语翻译": [
+         "行业协会"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.6320058703422546
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         1,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         1,
+         0
+      ],
+      "final_result": [
+         0,
+         1,
+         0
+      ]
+   },
+   "(ii) the award is in conflict with the public policy of this State.": {
+      "序号": 20,
+      "原句": "(ii) the award is in conflict with the public policy of this State.",
+      "术语": "public policy",
+      "原句翻译": "(ii) 该裁决与该国的公共政策相抵触。",
+      "原句术语翻译": [
+         "公共政策"
+      ],
+      "insert变异": "(ii) the award is in conflict with the public policy (the set of policies (laws, plans, actions, behaviors) of a government; plans and methods of action that govern that society; a system of laws, courses of action, and priorities directing a government action) of this State.",
+      "insert变异翻译": "(ii) 该裁决与该国的公共政策（政府的一套政策（法律、计划、行动、行为）；管理该社会的计划和行动方法；指导政府行动的法律体系、行动方针和优先事项）相冲突。",
+      "insert术语翻译": [
+         "公共政策"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": " 该裁决与该国的公共政策相冲突。",
+      "原句翻译去括号": " 该裁决与该国的公共政策相抵触。",
+      "insert和原句翻译去括号部分相似度": [
+         0.938292384147644
+      ],
+      "替换变异": [
+         "(ii) the award is in conflict with the public interest of this State.",
+         "(ii) the award is in conflict with the public law of this State.",
+         "(ii) the award is in conflict with the public order of this State."
+      ],
+      "替换术语": [
+         "public interest",
+         "public law",
+         "public order"
+      ],
+      "替换翻译": [
+         "(ii) 该裁决与该国的公共利益相冲突。",
+         "(ii) 该裁决与该国的公法相抵触。",
+         "(ii) 该裁决违反该国的公共秩序。"
+      ],
+      "替换术语翻译": [
+         "公共利益",
+         "公法",
+         "公共秩序"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7625865340232849,
+         0.609237551689148,
+         0.6982232928276062
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "(ii) where there is a change in the nominal or issued share capital, details of the change;": {
+      "序号": 22,
+      "原句": "(ii) where there is a change in the nominal or issued share capital, details of the change;",
+      "术语": "share capital",
+      "原句翻译": "(ii) 如果名义股本或已发行股本发生变更，则变更详情；",
+      "原句术语翻译": [
+         "股本股本，"
+      ],
+      "insert变异": "(ii) where there is a change in the nominal or issued share capital (the part of a company's capital that is financed by shareholders through the issue of shares), details of the change;",
+      "insert变异翻译": "(ii) 如果名义股本或已发行股本（公司资本中由股东通过发行股份而筹措资金的部分）发生变化，则应提供该变化的详情；",
+      "insert术语翻译": [
+         "股本股本，"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": " 如果名义股本或已发行股本发生变化，则应提供该变化的详情；",
+      "原句翻译去括号": " 如果名义股本或已发行股本发生变更，则变更详情；",
+      "insert和原句翻译去括号部分相似度": [
+         0.9119245409965515
+      ],
+      "替换变异": [
+         "(ii) where there is a change in the nominal or issued share price, details of the change;",
+         "(ii) where there is a change in the nominal or issued share value, details of the change;"
+      ],
+      "替换术语": [
+         "share price",
+         "share value"
+      ],
+      "替换翻译": [
+         "(ii) 若股票面值或发行价发生变化，则应提供变化的详情；",
+         "(ii) 如果股份面值或已发行价值发生变化，则提供该变化的详情；"
+      ],
+      "替换术语翻译": [
+         "股票面值发行价，",
+         "价值，"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7033467888832092,
+         0.6193510293960571
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         1,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         1,
+         0
+      ],
+      "final_result": [
+         0,
+         1,
+         0
+      ]
+   },
+   "Article 48 Enterprises and institutions can choose on their own will a commercial bank to open their own basic accounts for daily transferance and settlement of accounts and cash receipts and payment, but cannot open two or more basic accounts.": {
+      "序号": 23,
+      "原句": "Article 48 Enterprises and institutions can choose on their own will a commercial bank to open their own basic accounts for daily transferance and settlement of accounts and cash receipts and payment, but cannot open two or more basic accounts.",
+      "术语": "commercial bank",
+      "原句翻译": "第四十八条 企业事业单位可以自行选择在商业银行开立基本账户，用于日常转账结算和现金收付，但不得开立两个以上基本账户。",
+      "原句术语翻译": [
+         "商业银行"
+      ],
+      "insert变异": "Article 48 Enterprises and institutions can choose on their own will a commercial bank (a bank whose chief business is accepting demand deposits and making short-term loans) to open their own basic accounts for daily transferance and settlement of accounts and cash receipts and payment, but cannot open two or more basic accounts.",
+      "insert变异翻译": "第四十八条 企业事业单位可以自行选择一家商业银行（以接受活期存款和发放短期贷款为主营业务的银行）开立基本帐户，用于日常转账结算和现金收支，但不得开立两个以上的基本帐户。",
+      "insert术语翻译": [
+         "商业银行"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0000001192092896
+      ],
+      "insert变异翻译去括号": "第四十八条 企业事业单位可以自行选择一家商业银行开立基本帐户，用于日常转账结算和现金收支，但不得开立两个以上的基本帐户。",
+      "原句翻译去括号": "第四十八条 企业事业单位可以自行选择在商业银行开立基本账户，用于日常转账结算和现金收付，但不得开立两个以上基本账户。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9886164665222168
+      ],
+      "替换变异": [
+         "Article 48 Enterprises and institutions can choose on their own will a commercial entity to open their own basic accounts for daily transferance and settlement of accounts and cash receipts and payment, but cannot open two or more basic accounts."
+      ],
+      "替换术语": [
+         "commercial entity"
+      ],
+      "替换翻译": [
+         "第四十八条 企业事业单位可以自行选择商业银行开立自己的基本帐户，用于日常转账结算和现金收付，但不得开立两个以上的基本帐户。"
+      ],
+      "替换术语翻译": [
+         "事业单位商业银行"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.8135781288146973
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "(b) the person who would be liable on the claim in an action in personam (\"the relevant person\") was, when the cause of action arose, the owner or charterer of, or in possession or in control of, the ship,": {
+      "序号": 26,
+      "原句": "(b) the person who would be liable on the claim in an action in personam (\"the relevant person\") was, when the cause of action arose, the owner or charterer of, or in possession or in control of, the ship,",
+      "术语": "cause of action",
+      "原句翻译": "(b) 在对人诉讼中对索赔承担责任的人（“相关人”）在诉讼事由发生时是船舶的所有人或承租人，或占有或控制船舶的人，",
+      "原句术语翻译": [
+         "诉讼"
+      ],
+      "insert变异": "(b) the person who would be liable on the claim in an action in personam (\"the relevant person\") was, when the cause of action (a condition under which one party would be entitled to sue another) arose, the owner or charterer of, or in possession or in control of, the ship,",
+      "insert变异翻译": "(b) 在对人诉讼中，对索赔承担责任的人（“相关人”）在诉讼事由（一方有权起诉另一方的条件）发生时，是船舶的所有人或承租人，或占有或控制船舶的人，",
+      "insert术语翻译": [
+         "诉讼"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0000001192092896
+      ],
+      "insert变异翻译去括号": " 在对人诉讼中，对索赔承担责任的人在诉讼事由发生时，是船舶的所有人或承租人，或占有或控制船舶的人，",
+      "原句翻译去括号": " 在对人诉讼中对索赔承担责任的人在诉讼事由发生时是船舶的所有人或承租人，或占有或控制船舶的人，",
+      "insert和原句翻译去括号部分相似度": [
+         0.9904754757881165
+      ],
+      "替换变异": [
+         "(b) the person who would be liable on the claim in an action in personam (\"the relevant person\") was, when the moment of action arose, the owner or charterer of, or in possession or in control of, the ship,"
+      ],
+      "替换术语": [
+         "moment of action"
+      ],
+      "替换翻译": [
+         "(b) 在对人诉讼中对索赔承担责任的人（“相关人”）在诉讼发生时是船舶的所有人或承租人，或占有或控制船舶的人，"
+      ],
+      "替换术语翻译": [
+         "诉讼"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         1.0000001192092896
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         1
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         1
+      ],
+      "final_result": [
+         0,
+         0,
+         1
+      ]
+   },
+   "Article  20 A insurance company with foreign investment may not have any of the following dealings with its connected enterprises unless approval of the CIRC is obtained:": {
+      "序号": 27,
+      "原句": "Article  20 A insurance company with foreign investment may not have any of the following dealings with its connected enterprises unless approval of the CIRC is obtained:",
+      "术语": "insurance company",
+      "原句翻译": "第二十条 未经中国保监会批准，外资保险公司不得与其关联企业开展下列业务往来：",
+      "原句术语翻译": [
+         "保险公司"
+      ],
+      "insert变异": "Article  20 A insurance company (a company that provides insurance policies) with foreign investment may not have any of the following dealings with its connected enterprises unless approval of the CIRC is obtained:",
+      "insert变异翻译": "第二十条 外商投资保险公司（即经营保险业务的公司）未经中国保监会批准，不得与其关联企业开展下列业务往来：",
+      "insert术语翻译": [
+         "保险公司"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "第二十条 外商投资保险公司未经中国保监会批准，不得与其关联企业开展下列业务往来：",
+      "原句翻译去括号": "第二十条 未经中国保监会批准，外资保险公司不得与其关联企业开展下列业务往来：",
+      "insert和原句翻译去括号部分相似度": [
+         0.9829205870628357
+      ],
+      "替换变异": [
+         "Article  20 A private company with foreign investment may not have any of the following dealings with its connected enterprises unless approval of the CIRC is obtained:",
+         "Article  20 A public company with foreign investment may not have any of the following dealings with its connected enterprises unless approval of the CIRC is obtained:"
+      ],
+      "替换术语": [
+         "private company",
+         "public company"
+      ],
+      "替换翻译": [
+         "第二十条 未经中国保监会批准，外商投资性公司不得与其关联企业开展下列业务往来：",
+         "第二十条 外商投资性上市公司未经中国保监会批准，不得与其关联企业开展下列业务往来："
+      ],
+      "替换术语翻译": [
+         "公司",
+         "上市公司"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7232123613357544,
+         0.6108182072639465
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "Units and individuals that are being inspected must truth-fu1ly report the situations and provide necessary working conditions for the inspection.": {
+      "序号": 29,
+      "原句": "Units and individuals that are being inspected must truth-fu1ly report the situations and provide necessary working conditions for the inspection.",
+      "术语": "working conditions",
+      "原句翻译": "被检查的单位和个人必须如实反映情况，并为检查提供必要的工作条件。",
+      "原句术语翻译": [
+         "工作条件"
+      ],
+      "insert变异": "Units and individuals that are being inspected must truth-fu1ly report the situations and provide necessary working conditions (the environment in which one works, as influenced by factors such as cleanliness, lighting, equipment, paid overtime, uniforms, access to amenities, etc.) for the inspection.",
+      "insert变异翻译": "被检查的单位和个人应当如实反映情况，提供检查所必需的劳动条件（工作场所清洁度、光照、设备、加班费、制服、便利设施等）。",
+      "insert术语翻译": [
+         "劳动条件"
+      ],
+      "insert和原句术语翻译相似度": [
+         0.8223375082015991
+      ],
+      "insert变异翻译去括号": "被检查的单位和个人应当如实反映情况，提供检查所必需的劳动条件。",
+      "原句翻译去括号": "被检查的单位和个人必须如实反映情况，并为检查提供必要的工作条件。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9223530292510986
+      ],
+      "替换变异": [
+         "Units and individuals that are being inspected must truth-fu1ly report the situations and provide necessary working information for the inspection."
+      ],
+      "替换术语": [
+         "working information"
+      ],
+      "替换翻译": [
+         "被检查的单位和个人必须如实反映情况，提供检查所需的工作资料。"
+      ],
+      "替换术语翻译": [
+         "工作资料"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7796940207481384
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "(a) keep such fire service installation or equipment in efficient working order at all times; and": {
+      "序号": 30,
+      "原句": "(a) keep such fire service installation or equipment in efficient working order at all times; and",
+      "术语": "working order",
+      "原句翻译": "(a) 使消防装置或设备始终保持有效的工作状态；和",
+      "原句术语翻译": [
+         "工作状态"
+      ],
+      "insert变异": "(a) keep such fire service installation or equipment in efficient working order (the state or condition of being operational or of functioning acceptably) at all times; and",
+      "insert变异翻译": "(a) 时刻保持消防装置或设备处于有效运作状态（可运作或运作良好的状态或条件）；以及",
+      "insert术语翻译": [
+         "运作状态"
+      ],
+      "insert和原句术语翻译相似度": [
+         0.8282871842384338
+      ],
+      "insert变异翻译去括号": " 时刻保持消防装置或设备处于有效运作状态；以及",
+      "原句翻译去括号": " 使消防装置或设备始终保持有效的工作状态；和",
+      "insert和原句翻译去括号部分相似度": [
+         0.9113284945487976
+      ],
+      "替换变异": [
+         "(a) keep such fire service installation or equipment in efficient working condition at all times; and"
+      ],
+      "替换术语": [
+         "working condition"
+      ],
+      "替换翻译": [
+         "(a) 保持该等消防装置或设备时刻处于有效运作状态；以及"
+      ],
+      "替换术语翻译": [
+         "运作状态"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.8282871842384338
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "The power of attorney must specify the matters entrusted and the powers conferred.": {
+      "序号": 32,
+      "原句": "The power of attorney must specify the matters entrusted and the powers conferred.",
+      "术语": "power of attorney",
+      "原句翻译": "授权委托书必须载明委托的事项和授予的权限。",
+      "原句术语翻译": [
+         "委托书"
+      ],
+      "insert变异": "The power of attorney (the legal authorisation of one person to act as the agent of another) must specify the matters entrusted and the powers conferred.",
+      "insert变异翻译": "授权委托书（即一个人作为另一个人的代理人的合法授权）必须明确委托的事项和授予的权限。",
+      "insert术语翻译": [
+         "委托书"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "授权委托书必须明确委托的事项和授予的权限。",
+      "原句翻译去括号": "授权委托书必须载明委托的事项和授予的权限。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9799250364303589
+      ],
+      "替换变异": [
+         "The right of attorney must specify the matters entrusted and the powers conferred."
+      ],
+      "替换术语": [
+         "right of attorney"
+      ],
+      "替换翻译": [
+         "代理权委托书必须载明委托事项和权限。"
+      ],
+      "替换术语翻译": [
+         "代理权"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.5841839909553528
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "(2A) For the purposes of any review under section 11A of the Lands Tribunal Ordinance (Cap 17), the time limit mentioned in that section shall not apply to a decision, other than in relation to the payment of compensation, under subsection (2). (Added 29 of 1983 s. 34)": {
+      "序号": 35,
+      "原句": "(2A) For the purposes of any review under section 11A of the Lands Tribunal Ordinance (Cap 17), the time limit mentioned in that section shall not apply to a decision, other than in relation to the payment of compensation, under subsection (2). (Added 29 of 1983 s. 34)",
+      "术语": "time limit",
+      "原句翻译": "(2A) 就根据《土地审裁处条例》(第17章)第11A条作出的任何复核而言，该条所述的时限不适用于根据第(2)款作出的决定(有关支付补偿的决定除外)。(由1983年第29号第34条增补)",
+      "原句术语翻译": [
+         "时限"
+      ],
+      "insert变异": "(2A) For the purposes of any review under section 11A of the Lands Tribunal Ordinance (Cap 17), the time limit (a duration beyond which something may not exceed) mentioned in that section shall not apply to a decision, other than in relation to the payment of compensation, under subsection (2). (Added 29 of 1983 s. 34)",
+      "insert变异翻译": "(2A) 就根据《土地审裁处条例》(第17章)第11A条作出的任何复核而言，该条所述的时限(某事不得超过的期限)不适用于根据第(2)款作出的决定(有关支付补偿的决定除外)。(由1983年第29号第34条增补)",
+      "insert术语翻译": [
+         "时限"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": " 就根据《土地审裁处条例》第11A条作出的任何复核而言，该条所述的时限不适用于根据第款作出的决定。",
+      "原句翻译去括号": " 就根据《土地审裁处条例》第11A条作出的任何复核而言，该条所述的时限不适用于根据第款作出的决定。",
+      "insert和原句翻译去括号部分相似度": [
+         1.0000001192092896
+      ],
+      "替换变异": [
+         "(2A) For the purposes of any review under section 11A of the Lands Tribunal Ordinance (Cap 17), the term limit mentioned in that section shall not apply to a decision, other than in relation to the payment of compensation, under subsection (2). (Added 29 of 1983 s. 34)",
+         "(2A) For the purposes of any review under section 11A of the Lands Tribunal Ordinance (Cap 17), the upper limit mentioned in that section shall not apply to a decision, other than in relation to the payment of compensation, under subsection (2). (Added 29 of 1983 s. 34)",
+         "(2A) For the purposes of any review under section 11A of the Lands Tribunal Ordinance (Cap 17), the time period mentioned in that section shall not apply to a decision, other than in relation to the payment of compensation, under subsection (2). (Added 29 of 1983 s. 34)"
+      ],
+      "替换术语": [
+         "term limit",
+         "upper limit",
+         "time period"
+      ],
+      "替换翻译": [
+         "(2A) 就根据《土地审裁处条例》(第17章)第11A条作出的任何复核而言，该条所述的任期限制不适用于根据第(2)款作出的决定(有关支付补偿的决定除外)。(由1983年第29号第34条增补)",
+         "(2A) 就根据《土地审裁处条例》(第17章)第11A条作出的任何复核而言，该条所述的上限不适用于根据第(2)款作出的决定(有关支付补偿的决定除外)。(由1983年第29号第34条增补)",
+         "(2A) 就根据《土地审裁处条例》(第17章)第11A条作出的任何复核而言，该条所述的时限不适用于根据第(2)款作出的决定(有关支付补偿的决定除外)。(由1983年第29号第34条增补)"
+      ],
+      "替换术语翻译": [
+         "任期限制",
+         "上限",
+         "时限"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7408753633499146,
+         0.6779953241348267,
+         1.0
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         1
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         1
+      ],
+      "final_result": [
+         0,
+         0,
+         1
+      ]
+   },
+   "(ii) the published retail price of an optional accessory fitted or to be fitted to the motor vehicle within 3 months after the date of first registration by the registered distributor or an associated person, if any;": {
+      "序号": 36,
+      "原句": "(ii) the published retail price of an optional accessory fitted or to be fitted to the motor vehicle within 3 months after the date of first registration by the registered distributor or an associated person, if any;",
+      "术语": "motor vehicle",
+      "原句翻译": "(ii) 注册经销商或相关人员（如有）首次注册之日起 3 个月内安装或将要安装到机动车辆上的可选附件的公布零售价；",
+      "原句术语翻译": [
+         "机动车辆"
+      ],
+      "insert变异": "(ii) the published retail price of an optional accessory fitted or to be fitted to the motor vehicle (any land-based means of transportation in the form of a machine that operates primarily through a motor to provide power to rotate the tires) within 3 months after the date of first registration by the registered distributor or an associated person, if any;",
+      "insert变异翻译": "(ii) 自注册经销商或相关人员（如有）首次注册之日起 3 个月内，已安装或将要安装在机动车辆（任何陆基运输工具，其形式为机器，主要通过发动机提供动力来旋转轮胎）上的可选配件的公布零售价；",
+      "insert术语翻译": [
+         "机动车辆"
+      ],
+      "insert和原句术语翻译相似度": [
+         0.9999999403953552
+      ],
+      "insert变异翻译去括号": " 自注册经销商或相关人员首次注册之日起 3 个月内，已安装或将要安装在机动车辆上的可选配件的公布零售价；",
+      "原句翻译去括号": " 注册经销商或相关人员首次注册之日起 3 个月内安装或将要安装到机动车辆上的可选附件的公布零售价；",
+      "insert和原句翻译去括号部分相似度": [
+         0.9713184833526611
+      ],
+      "替换变异": [
+         "(ii) the published retail price of an optional accessory fitted or to be fitted to the motor unit within 3 months after the date of first registration by the registered distributor or an associated person, if any;"
+      ],
+      "替换术语": [
+         "motor unit"
+      ],
+      "替换翻译": [
+         "(ii) 注册经销商或相关人员（如有）首次注册之日起 3 个月内安装或将要安装到机动车上的可选配件的公布零售价；"
+      ],
+      "替换术语翻译": [
+         "机动车"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.9585304260253906
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         1
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": "futher check needed"
+   },
+   "(6) investigation into the animal involved, causitive pests, food, drinking water and environmental factors;": {
+      "序号": 37,
+      "原句": "(6) investigation into the animal involved, causitive pests, food, drinking water and environmental factors;",
+      "术语": "drinking water",
+      "原句翻译": "（六）涉案动物、病原虫害、食物、饮水和环境因素调查；",
+      "原句术语翻译": [
+         "饮水"
+      ],
+      "insert变异": "(6) investigation into the animal involved, causitive pests, food, drinking water (water that is suitable or intended for ingestion by humans) and environmental factors;",
+      "insert变异翻译": "（6）对涉及的动物、病原害虫、食物、饮用水（适合或供人类饮用的水）和环境因素进行调查；",
+      "insert术语翻译": [
+         "饮用水"
+      ],
+      "insert和原句术语翻译相似度": [
+         0.8439733386039734
+      ],
+      "insert变异翻译去括号": "对涉及的动物、病原害虫、食物、饮用水和环境因素进行调查；",
+      "原句翻译去括号": "涉案动物、病原虫害、食物、饮水和环境因素调查；",
+      "insert和原句翻译去括号部分相似度": [
+         0.9546831846237183
+      ],
+      "替换变异": [
+         "(6) investigation into the animal involved, causitive pests, food, waste water and environmental factors;"
+      ],
+      "替换术语": [
+         "waste water"
+      ],
+      "替换翻译": [
+         "（六）对涉及的动物、病原害虫、食品、废水和环境因素进行调查；"
+      ],
+      "替换术语翻译": [
+         "废水"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.5745775699615479
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "(b) the value of the person's proceeds of drug trafficking is the aggregate of the values of-": {
+      "序号": 38,
+      "原句": "(b) the value of the person's proceeds of drug trafficking is the aggregate of the values of-",
+      "术语": "drug trafficking",
+      "原句翻译": "(b) 该人的贩毒所得价值是以下各项价值的总和——",
+      "原句术语翻译": [
+         "贩毒"
+      ],
+      "insert变异": "(b) the value of the person's proceeds of drug trafficking (the process of smuggling, distributing and selling illegal drugs) is the aggregate of the values of-",
+      "insert变异翻译": "(b) 该人贩毒所得（走私、分销和销售非法毒品的过程）的价值是以下价值的总和：",
+      "insert术语翻译": [
+         "贩毒"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": " 该人贩毒所得的价值是以下价值的总和：",
+      "原句翻译去括号": " 该人的贩毒所得价值是以下各项价值的总和——",
+      "insert和原句翻译去括号部分相似度": [
+         0.9517359733581543
+      ],
+      "替换变异": [
+         "(b) the value of the person's proceeds of sex trafficking is the aggregate of the values of-",
+         "(b) the value of the person's proceeds of drug use is the aggregate of the values of-",
+         "(b) the value of the person's proceeds of drug consumption is the aggregate of the values of-"
+      ],
+      "替换术语": [
+         "sex trafficking",
+         "drug use",
+         "drug consumption"
+      ],
+      "替换翻译": [
+         "（b）该人性交易所得的价值是以下价值的总和：",
+         "(b) 该人吸毒所得的价值为以下各项价值的总和：",
+         "(b) 该人吸食毒品所得的价值为以下各项价值的总和："
+      ],
+      "替换术语翻译": [
+         "人性交易所",
+         "吸毒",
+         "吸食毒品"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.33626940846443176,
+         0.8125324249267578,
+         0.752031683921814
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "(b) if the amount of property tax paid for a year of assessment exceeds the profits tax payable, the amount so paid in excess shall be refunded in accordance with the provisions of section 79; (Replaced 11 of 1961 s. 5)": {
+      "序号": 39,
+      "原句": "(b) if the amount of property tax paid for a year of assessment exceeds the profits tax payable, the amount so paid in excess shall be refunded in accordance with the provisions of section 79; (Replaced 11 of 1961 s. 5)",
+      "术语": "property tax",
+      "原句翻译": "(b) 如某一课税年度已缴付的财产税金额超过应缴利得税，则多缴的金额须按照第 79 条的规定予以退还； (由1961年第11号第5条代替)",
+      "原句术语翻译": [
+         "财产税"
+      ],
+      "insert变异": "(b) if the amount of property tax (a tax, usually ad valorem, charged on the basis of the fair market value of property, the scope of taxable property varies by jurisdiction and it may include personal property in addition to real estate) paid for a year of assessment exceeds the profits tax payable, the amount so paid in excess shall be refunded in accordance with the provisions of section 79; (Replaced 11 of 1961 s. 5)",
+      "insert变异翻译": "(b) 如某课税年度所缴付的财产税(一种通常按从价税征收的税项，以财产的公平市值为基础，应税财产的范围因司法管辖区而异，除房地产外，还可能包括个人财产) 的数额超过应缴付的利得税，则多缴的数额须按照第79条的规定退还；(由1961年第11号第5条代替)",
+      "insert术语翻译": [
+         "财产税"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0000001192092896
+      ],
+      "insert变异翻译去括号": " 如某课税年度所缴付的财产税 的数额超过应缴付的利得税，则多缴的数额须按照第79条的规定退还；",
+      "原句翻译去括号": " 如某一课税年度已缴付的财产税金额超过应缴利得税，则多缴的金额须按照第 79 条的规定予以退还；",
+      "insert和原句翻译去括号部分相似度": [
+         0.9848121404647827
+      ],
+      "替换变异": [
+         "(b) if the amount of income tax paid for a year of assessment exceeds the profits tax payable, the amount so paid in excess shall be refunded in accordance with the provisions of section 79; (Replaced 11 of 1961 s. 5)"
+      ],
+      "替换术语": [
+         "income tax"
+      ],
+      "替换翻译": [
+         "(a) 如某课税年度的所得税款超过应缴利得税，则多缴的数额须按照第79条的规定退还; (由1961年第11号第5条代替)"
+      ],
+      "替换术语翻译": [
+         "所得税"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7283182144165039
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "1. Property insurance, including indemnity insurance, liability insurance, credit insurance, etc;": {
+      "序号": 40,
+      "原句": "1. Property insurance, including indemnity insurance, liability insurance, credit insurance, etc;",
+      "术语": "liability insurance",
+      "原句翻译": "1.财产保险，包括责任保险、责任保险、信用保险等；",
+      "原句术语翻译": [
+         "责任保险、"
+      ],
+      "insert变异": "1. Property insurance, including indemnity insurance, liability insurance (any insurance against a potential loss due to the insured's liability for injury or damage to others), credit insurance, etc;",
+      "insert变异翻译": "1.财产保险，包括赔偿保险、责任保险（对被保险人因对他人造成伤害或损害而承担的责任可能造成损失的保险）、信用保险等；",
+      "insert术语翻译": [
+         "责任保险、"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "1.财产保险，包括赔偿保险、责任保险、信用保险等；",
+      "原句翻译去括号": "1.财产保险，包括责任保险、责任保险、信用保险等；",
+      "insert和原句翻译去括号部分相似度": [
+         0.9845700263977051
+      ],
+      "替换变异": [
+         "1. Property insurance, including indemnity insurance, health insurance, credit insurance, etc;",
+         "1. Property insurance, including indemnity insurance, life insurance, credit insurance, etc;"
+      ],
+      "替换术语": [
+         "health insurance",
+         "life insurance"
+      ],
+      "替换翻译": [
+         "1.财产保险，包括责任保险、健康保险、信用保险等；",
+         "1.财产保险，包括责任保险、人寿保险、信用保险等；"
+      ],
+      "替换术语翻译": [
+         "健康保险、",
+         "人寿保险、"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7687417268753052,
+         0.7982083559036255
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "The auditor shall be eligible for reappointment and shall be deemed to have been nominated for reappointment unless he informs the Council in writing, not less than 14 days before the annual general meeting, that he does not wish to be so nominated.": {
+      "序号": 41,
+      "原句": "The auditor shall be eligible for reappointment and shall be deemed to have been nominated for reappointment unless he informs the Council in writing, not less than 14 days before the annual general meeting, that he does not wish to be so nominated.",
+      "术语": "annual general meeting",
+      "原句翻译": "核数师有资格再获委任，并须被视为已获提名再获委任，除非他在周年大会召开前不少于 14 天以书面形式通知理事会，表示他不愿获提名。",
+      "原句术语翻译": [
+         "周年大会，"
+      ],
+      "insert变异": "The auditor shall be eligible for reappointment and shall be deemed to have been nominated for reappointment unless he informs the Council in writing, not less than 14 days before the annual general meeting (a meeting that official bodies, associations and companies hold each year to elect the board of directors and inform their members of previous and future activities. Commonly abbreviated as AGM), that he does not wish to be so nominated.",
+      "insert变异翻译": "审计师有资格获得连任，并应被视为已被提名连任，除非他在年度股东大会（官方机构、协会和公司每年举行的选举董事会并告知其成员过去和未来活动的会议。通常缩写为 AGM）召开前至少 14 天以书面形式通知理事会，他不希望被提名。",
+      "insert术语翻译": [
+         "年度股东大会，"
+      ],
+      "insert和原句术语翻译相似度": [
+         0.7035648822784424
+      ],
+      "insert变异翻译去括号": "审计师有资格获得连任，并应被视为已被提名连任，除非他在年度股东大会召开前至少 14 天以书面形式通知理事会，他不希望被提名。",
+      "原句翻译去括号": "核数师有资格再获委任，并须被视为已获提名再获委任，除非他在周年大会召开前不少于 14 天以书面形式通知理事会，表示他不愿获提名。",
+      "insert和原句翻译去括号部分相似度": [
+         0.7536537647247314
+      ],
+      "替换变异": [
+         "The auditor shall be eligible for reappointment and shall be deemed to have been nominated for reappointment unless he informs the Council in writing, not less than 14 days before the annual general election, that he does not wish to be so nominated."
+      ],
+      "替换术语": [
+         "annual general election"
+      ],
+      "替换翻译": [
+         "核数师有资格再获委任，并须当作已获提名再获委任，除非他于周年换届选举前至少 14 天以书面形式通知理事会，表示他不愿获提名。"
+      ],
+      "替换术语翻译": [
+         "周年换届选举，"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.704650342464447
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "Provided that cast iron pipes of not less than 50 mm internal diameter may be used if suitable provision for their expansion is made. (L.N. 320 of 1992)": {
+      "序号": 42,
+      "原句": "Provided that cast iron pipes of not less than 50 mm internal diameter may be used if suitable provision for their expansion is made. (L.N. 320 of 1992)",
+      "术语": "cast iron",
+      "原句翻译": "但如设有适当的设施以扩充管径，则可使用内径不少于50毫米的铸铁管。（1992年第320号法律公告）",
+      "原句术语翻译": [
+         "铸铁管"
+      ],
+      "insert变异": "Provided that cast iron (a hard and brittle, but strong, alloy of iron, carbon, and silicon, formed by casting in a mould) pipes of not less than 50 mm internal diameter may be used if suitable provision for their expansion is made. (L.N. 320 of 1992)",
+      "insert变异翻译": "但如设有适当的膨胀措施，则可使用内径不少于50毫米的铸铁管（铸铁是一种由铁、碳和硅以模子铸造而成的硬而脆但坚固的合金）。（1992年第320号法律公告）",
+      "insert术语翻译": [
+         "铸铁管"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.000000238418579
+      ],
+      "insert变异翻译去括号": "但如设有适当的膨胀措施，则可使用内径不少于50毫米的铸铁管。",
+      "原句翻译去括号": "但如设有适当的设施以扩充管径，则可使用内径不少于50毫米的铸铁管。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9450489282608032
+      ],
+      "替换变异": [
+         "Provided that large iron pipes of not less than 50 mm internal diameter may be used if suitable provision for their expansion is made. (L.N. 320 of 1992)",
+         "Provided that cast steel pipes of not less than 50 mm internal diameter may be used if suitable provision for their expansion is made. (L.N. 320 of 1992)"
+      ],
+      "替换术语": [
+         "large iron",
+         "cast steel"
+      ],
+      "替换翻译": [
+         "但如设有适当的设施以扩充管径，则可使用内径不少于50毫米的大型铁管。（1992年第320号法律公告）",
+         "但如设有适当的设施以扩管，则可使用内径不少于50毫米的铸钢管。(1992年第320号法律公告)"
+      ],
+      "替换术语翻译": [
+         "大型铁管",
+         "铸钢"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7765976786613464,
+         0.7251719832420349
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "Article 108. The stock exchange handles affairs regarding suspension, resumption, and termination of the listing of stocks and corporate bonds on the basis of law and administrative regulations. The concrete procedures are formulated by the securities regulatory body of the State Council.": {
+      "序号": 43,
+      "原句": "Article 108. The stock exchange handles affairs regarding suspension, resumption, and termination of the listing of stocks and corporate bonds on the basis of law and administrative regulations. The concrete procedures are formulated by the securities regulatory body of the State Council.",
+      "术语": "stock exchange",
+      "原句翻译": "第一百零八条 证券交易所依照法律、行政法规的规定办理股票、公司债券的暂停上市、恢复上市和终止上市事宜。具体办法由国务院证券监督管理机构规定。",
+      "原句术语翻译": [
+         "证券交易所"
+      ],
+      "insert变异": "Article 108. The stock exchange (a building that trades stocks in of companies for money and vice versa) handles affairs regarding suspension, resumption, and termination of the listing of stocks and corporate bonds on the basis of law and administrative regulations. The concrete procedures are formulated by the securities regulatory body of the State Council.",
+      "insert变异翻译": "第一百零八条 证券交易所（即进行股票、债券和货币买卖的场所）依照法律、行政法规的规定，办理股票、公司债券的暂停上市、恢复上市和终止上市事宜。具体办法由国务院证券监督管理机构规定。",
+      "insert术语翻译": [
+         "证券交易所"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "第一百零八条 证券交易所依照法律、行政法规的规定，办理股票、公司债券的暂停上市、恢复上市和终止上市事宜。具体办法由国务院证券监督管理机构规定。",
+      "原句翻译去括号": "第一百零八条 证券交易所依照法律、行政法规的规定办理股票、公司债券的暂停上市、恢复上市和终止上市事宜。具体办法由国务院证券监督管理机构规定。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9939049482345581
+      ],
+      "替换变异": [
+         "Article 108. The stock commission handles affairs regarding suspension, resumption, and termination of the listing of stocks and corporate bonds on the basis of law and administrative regulations. The concrete procedures are formulated by the securities regulatory body of the State Council.",
+         "Article 108. The stock company handles affairs regarding suspension, resumption, and termination of the listing of stocks and corporate bonds on the basis of law and administrative regulations. The concrete procedures are formulated by the securities regulatory body of the State Council.",
+         "Article 108. The stock court handles affairs regarding suspension, resumption, and termination of the listing of stocks and corporate bonds on the basis of law and administrative regulations. The concrete procedures are formulated by the securities regulatory body of the State Council.",
+         "Article 108. The stock corporation handles affairs regarding suspension, resumption, and termination of the listing of stocks and corporate bonds on the basis of law and administrative regulations. The concrete procedures are formulated by the securities regulatory body of the State Council."
+      ],
+      "替换术语": [
+         "stock commission",
+         "stock company",
+         "stock court",
+         "stock corporation"
+      ],
+      "替换翻译": [
+         "第一百零八条 证监会依照法律、行政法规的规定办理股票、公司债券的暂停上市、恢复上市和终止上市事宜。具体办法由国务院证券监督管理机构规定。",
+         "第一百零八条 股份有限公司办理股票、公司债券暂停上市、恢复上市和终止上市事宜，依照法律、行政法规的规定办理。具体办法由国务院证券监督管理机构规定。",
+         "第一百零八条 证券法院依照法律、行政法规的规定办理股票、公司债券的暂停、恢复和终止上市事宜。具体办法由国务院证券监督管理机构规定。",
+         "第一百零八条 股份有限公司股票、公司债券的暂停上市、恢复上市和终止上市，依照法律、行政法规的规定办理。具体办法由国务院证券监督管理机构规定。"
+      ],
+      "替换术语翻译": [
+         "证监会",
+         "股份有限公司",
+         "证券法院",
+         "股份有限公司"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7821862697601318,
+         0.5926636457443237,
+         0.7124227285385132,
+         0.5926636457443237
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "Provided that, where the Council is satisfied that public mains water cannot reasonably be laid on for all or any purposes, the Council may in its discretion approve such other water supply as, having regard to considerations of public health, it may consider adequate;": {
+      "序号": 44,
+      "原句": "Provided that, where the Council is satisfied that public mains water cannot reasonably be laid on for all or any purposes, the Council may in its discretion approve such other water supply as, having regard to considerations of public health, it may consider adequate;",
+      "术语": "public health",
+      "原句翻译": "但如果理事会确信公共自来水不能合理地用于所有或任何目的，则理事会可酌情批准在考虑到公众健康后认为适当的其他供水；",
+      "原句术语翻译": [
+         "公众健康"
+      ],
+      "insert变异": "Provided that, where the Council is satisfied that public mains water cannot reasonably be laid on for all or any purposes, the Council may in its discretion approve such other water supply as, having regard to considerations of public health (the science and practice of community hygiene; includes preventive medicine, health education, sanitation and environmental safety), it may consider adequate;",
+      "insert变异翻译": "但如果理事会认为公共自来水不能合理地用于所有或任何目的，则理事会可自行决定批准其他供水，只要其考虑到公共卫生（社区卫生的科学和实践；包括预防医学、健康教育、卫生和环境安全）的因素，理事会可能认为这些供水是足够的；",
+      "insert术语翻译": [
+         "公共卫生"
+      ],
+      "insert和原句术语翻译相似度": [
+         0.7454582452774048
+      ],
+      "insert变异翻译去括号": "但如果理事会认为公共自来水不能合理地用于所有或任何目的，则理事会可自行决定批准其他供水，只要其考虑到公共卫生的因素，理事会可能认为这些供水是足够的；",
+      "原句翻译去括号": "但如果理事会确信公共自来水不能合理地用于所有或任何目的，则理事会可酌情批准在考虑到公众健康后认为适当的其他供水；",
+      "insert和原句翻译去括号部分相似度": [
+         0.9075583219528198
+      ],
+      "替换变异": [
+         "Provided that, where the Council is satisfied that public mains water cannot reasonably be laid on for all or any purposes, the Council may in its discretion approve such other water supply as, having regard to considerations of public safety, it may consider adequate;",
+         "Provided that, where the Council is satisfied that public mains water cannot reasonably be laid on for all or any purposes, the Council may in its discretion approve such other water supply as, having regard to considerations of public utility, it may consider adequate;",
+         "Provided that, where the Council is satisfied that public mains water cannot reasonably be laid on for all or any purposes, the Council may in its discretion approve such other water supply as, having regard to considerations of public policy, it may consider adequate;"
+      ],
+      "替换术语": [
+         "public safety",
+         "public utility",
+         "public policy"
+      ],
+      "替换翻译": [
+         "但如理事会认为公共自来水不能合理地用于所有或任何目的时，理事会可酌情批准其他供水，但须考虑到公共安全，并认为足够；",
+         "但如理事会认为公共自来水不能合理地用于所有或任何目的时，理事会可酌情批准其他供水，但须考虑到公共设施的需要；",
+         "但如理事会认为公共自来水不能合理地用于所有或任何目的时，理事会可酌情批准其他供水，但须考虑到公共政策的考虑，并认为足够；"
+      ],
+      "替换术语翻译": [
+         "公共安全，",
+         "公共设施",
+         "公共政策，"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.6723092794418335,
+         0.6154599785804749,
+         0.6385037302970886
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         1,
+         1,
+         0
+      ],
+      "manual_2_result": [
+         1,
+         0,
+         0
+      ],
+      "final_result": "futher check needed"
+   },
+   "(1) By-laws may be amended only by a resolution of two-thirds of the members present and qualified to vote, at the annual meeting of the credit union or at a special meeting thereof called for the purpose.": {
+      "序号": 45,
+      "原句": "(1) By-laws may be amended only by a resolution of two-thirds of the members present and qualified to vote, at the annual meeting of the credit union or at a special meeting thereof called for the purpose.",
+      "术语": "credit union",
+      "原句翻译": "(1) 只有在信用合作社的周年大会或为此目的而召开的特别大会上，经出席并有投票资格的三分之二会员的决议，才可以修改章程。",
+      "原句术语翻译": [
+         "信用合作社"
+      ],
+      "insert变异": "(1) By-laws may be amended only by a resolution of two-thirds of the members present and qualified to vote, at the annual meeting of the credit union (a financial cooperative similar to a bank but owned and controlled by its members, often restricted to a local area or sometimes to a single profession) or at a special meeting thereof called for the purpose.",
+      "insert变异翻译": "（1） 只有在信用合作社（与银行类似的金融合作社，但由其成员所有和控制，通常局限于当地区域或有时局限于单一行业）的年度会议或为此目的召开的特别会议上，才可以经出席并有投票资格的三分之二成员的决议修改章程。",
+      "insert术语翻译": [
+         "信用合作社"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": " 只有在信用合作社的年度会议或为此目的召开的特别会议上，才可以经出席并有投票资格的三分之二成员的决议修改章程。",
+      "原句翻译去括号": " 只有在信用合作社的周年大会或为此目的而召开的特别大会上，经出席并有投票资格的三分之二会员的决议，才可以修改章程。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9607805609703064
+      ],
+      "替换变异": [
+         "(1) By-laws may be amended only by a resolution of two-thirds of the members present and qualified to vote, at the annual meeting of the trade union or at a special meeting thereof called for the purpose."
+      ],
+      "替换术语": [
+         "trade union"
+      ],
+      "替换翻译": [
+         "（1）只有在工会年会或为此目的召开的特别会议上，经出席并有投票权的三分之二会员的决议，才可以修改章程。"
+      ],
+      "替换术语翻译": [
+         "工会"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.5149071216583252
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "(3) the aggregate market share in the domestic market by a party to the offshore merger or acquisition and its affiliated enterprises has reached 20%;": {
+      "序号": 46,
+      "原句": "(3) the aggregate market share in the domestic market by a party to the offshore merger or acquisition and its affiliated enterprises has reached 20%;",
+      "术语": "market share",
+      "原句翻译": "（三）境外并购一方当事人及其关联企业在境内市场的市场份额累计达到20%；",
+      "原句术语翻译": [
+         "市场份额"
+      ],
+      "insert变异": "(3) the aggregate market share (the percentage of some market held by a company, country, (sub)sector or any other actor or aggregate) in the domestic market by a party to the offshore merger or acquisition and its affiliated enterprises has reached 20%;",
+      "insert变异翻译": "（3）境外并购一方当事人及其关联企业在国内市场的累计市场份额（某个公司、国家、（子）行业或其他行为者或集合体在国内市场的占有比例）达到20%；",
+      "insert术语翻译": [
+         "市场份额"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "境外并购一方当事人及其关联企业在国内市场的累计市场份额达到20%；",
+      "原句翻译去括号": "境外并购一方当事人及其关联企业在境内市场的市场份额累计达到20%；",
+      "insert和原句翻译去括号部分相似度": [
+         0.987350583076477
+      ],
+      "替换变异": [
+         "(3) the aggregate market penetration in the domestic market by a party to the offshore merger or acquisition and its affiliated enterprises has reached 20%;"
+      ],
+      "替换术语": [
+         "market penetration"
+      ],
+      "替换翻译": [
+         "（三）境外并购一方当事人及其关联企业在境内市场的市场占有率累计达到20%；"
+      ],
+      "替换术语翻译": [
+         "市场占有率"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.8624556660652161
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "Article  30 Where a insurance company with foreign investmenty is dissolved or revoked or declared bankrupt according to law, it may not transfer any of its assets to beyond the territory of China before it has paid off its debts.": {
+      "序号": 47,
+      "原句": "Article  30 Where a insurance company with foreign investmenty is dissolved or revoked or declared bankrupt according to law, it may not transfer any of its assets to beyond the territory of China before it has paid off its debts.",
+      "术语": "insurance company",
+      "原句翻译": "第三十条 外商投资保险公司依法解散、撤销或者被依法宣告破产的，在未清偿债务之前，不得将其资产转移到中国境外。",
+      "原句术语翻译": [
+         "保险公司"
+      ],
+      "insert变异": "Article  30 Where a insurance company (a company that provides insurance policies) with foreign investmenty is dissolved or revoked or declared bankrupt according to law, it may not transfer any of its assets to beyond the territory of China before it has paid off its debts.",
+      "insert变异翻译": "第三十条 外商投资保险公司（经营保险业务的公司）依法解散、撤销或者被宣告破产的，在未清偿债务之前，不得将其资产转移到中国境外。",
+      "insert术语翻译": [
+         "保险公司"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "第三十条 外商投资保险公司依法解散、撤销或者被宣告破产的，在未清偿债务之前，不得将其资产转移到中国境外。",
+      "原句翻译去括号": "第三十条 外商投资保险公司依法解散、撤销或者被依法宣告破产的，在未清偿债务之前，不得将其资产转移到中国境外。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9996085166931152
+      ],
+      "替换变异": [
+         "Article  30 Where a private company with foreign investmenty is dissolved or revoked or declared bankrupt according to law, it may not transfer any of its assets to beyond the territory of China before it has paid off its debts."
+      ],
+      "替换术语": [
+         "private company"
+      ],
+      "替换翻译": [
+         "第三十条 外商投资的私营公司依法解散、被撤销或者被宣告破产的，在未清偿债务之前，不得将其资产转移到中国境外。"
+      ],
+      "替换术语翻译": [
+         "私营公司"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.587480366230011
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "When any type II vessel is loading or discharging any dangerous goods in category 5, class 1 or 2, all openings from cargo tanks to the open air, except such as to form part of the ventilating system thereof, shall be kept closed:": {
+      "序号": 49,
+      "原句": "When any type II vessel is loading or discharging any dangerous goods in category 5, class 1 or 2, all openings from cargo tanks to the open air, except such as to form part of the ventilating system thereof, shall be kept closed:",
+      "术语": "dangerous goods",
+      "原句翻译": "当任何第 II 类船只装卸任何第 5 类第 1 或 2 类危险品时，所有从货油舱通向露天的开口 ( 构成货油舱通风系统一部分的开口 ) 均须保持关闭：",
+      "原句术语翻译": [
+         "危险品"
+      ],
+      "insert变异": "When any type II vessel is loading or discharging any dangerous goods (substances, natural or man-made, which are intrinsically dangerous or otherwise pose a safety hazard. Examples include explosives, poisons, and corrosives) in category 5, class 1 or 2, all openings from cargo tanks to the open air, except such as to form part of the ventilating system thereof, shall be kept closed:",
+      "insert变异翻译": "当任何 II 类船舶装载或卸载任何第 5 类第 1 或第 2 类危险货物（天然或人造物质，本质上是危险的或在其他方面造成安全隐患。例如爆炸物、毒药和腐蚀剂）时，从货舱到露天的所有开口（构成其通风系统一部分的开口除外）均应保持关闭：",
+      "insert术语翻译": [
+         "危险货物"
+      ],
+      "insert和原句术语翻译相似度": [
+         0.8691076636314392
+      ],
+      "insert变异翻译去括号": "当任何 II 类船舶装载或卸载任何第 5 类第 1 或第 2 类危险货物时，从货舱到露天的所有开口均应保持关闭：",
+      "原句翻译去括号": "当任何第 II 类船只装卸任何第 5 类第 1 或 2 类危险品时，所有从货油舱通向露天的开口 均须保持关闭：",
+      "insert和原句翻译去括号部分相似度": [
+         0.9445176720619202
+      ],
+      "替换变异": [
+         "When any type II vessel is loading or discharging any dangerous cargo in category 5, class 1 or 2, all openings from cargo tanks to the open air, except such as to form part of the ventilating system thereof, shall be kept closed:"
+      ],
+      "替换术语": [
+         "dangerous cargo"
+      ],
+      "替换翻译": [
+         "当任何第 II 类船只装卸任何第 5 类第 1 或 2 类危险货物时，货油舱通向露天的所有开口 ( 构成货油舱通风系统一部分的开口 ) 须保持关闭："
+      ],
+      "替换术语翻译": [
+         "危险货物"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.8691076636314392
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         1,
+         1,
+         0
+      ],
+      "manual_2_result": [
+         1,
+         1,
+         0
+      ],
+      "final_result": [
+         1,
+         1,
+         0
+      ]
+   },
+   "Article 7  Units and individuals that have made remarkable achievements in the protection and development of land resources, rational utilization of land and conduct of related scientific research shall be rewarded by the people's government.": {
+      "序号": 50,
+      "原句": "Article 7  Units and individuals that have made remarkable achievements in the protection and development of land resources, rational utilization of land and conduct of related scientific research shall be rewarded by the people's government.",
+      "术语": "scientific research",
+      "原句翻译": "第七条 在保护和开发土地资源、合理利用土地以及开展相关科学研究方面取得显著成绩的单位和个人，由人民政府给予奖励。",
+      "原句术语翻译": [
+         "科学研究"
+      ],
+      "insert变异": "Article 7  Units and individuals that have made remarkable achievements in the protection and development of land resources, rational utilization of land and conduct of related scientific research (research performed using the scientific method) shall be rewarded by the people's government.",
+      "insert变异翻译": "第七条 在保护和开发土地资源、合理利用土地以及进行相关的科学研究（运用科学方法进行的研究）中做出显著成绩的单位和个人，由人民政府给予奖励。",
+      "insert术语翻译": [
+         "科学研究"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "第七条 在保护和开发土地资源、合理利用土地以及进行相关的科学研究中做出显著成绩的单位和个人，由人民政府给予奖励。",
+      "原句翻译去括号": "第七条 在保护和开发土地资源、合理利用土地以及开展相关科学研究方面取得显著成绩的单位和个人，由人民政府给予奖励。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9924427270889282
+      ],
+      "替换变异": [
+         "Article 7  Units and individuals that have made remarkable achievements in the protection and development of land resources, rational utilization of land and conduct of related scientific work shall be rewarded by the people's government."
+      ],
+      "替换术语": [
+         "scientific work"
+      ],
+      "替换翻译": [
+         "第七条 在保护和开发土地资源、合理利用土地以及有关科学工作中做出显著成绩的单位和个人，由人民政府给予奖励。"
+      ],
+      "替换术语翻译": [
+         "科学工作"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7792164087295532
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "(1) Without prejudice to regulation 20, a police officer may examine a village vehicle which is being used on a road for the purpose of ascertaining whether the vehicle is safe for such use.": {
+      "序号": 51,
+      "原句": "(1) Without prejudice to regulation 20, a police officer may examine a village vehicle which is being used on a road for the purpose of ascertaining whether the vehicle is safe for such use.",
+      "术语": "police officer",
+      "原句翻译": "(1) 在不影响第20条的情况下，警务人员可检查正在道路上行驶的乡村车辆，以确定该车辆是否适合如此安全使用。",
+      "原句术语翻译": [
+         "警务人员"
+      ],
+      "insert变异": "(1) Without prejudice to regulation 20, a police officer (a peace officer who is a member of a police force) may examine a village vehicle which is being used on a road for the purpose of ascertaining whether the vehicle is safe for such use.",
+      "insert变异翻译": "（1）在不影响第 20 条的情况下，警务人员（警察部队中的治安官）可以检查正在道路上行驶的村庄车辆，以确定该车辆是否适合安全使用。",
+      "insert术语翻译": [
+         "警务人员"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "在不影响第 20 条的情况下，警务人员可以检查正在道路上行驶的村庄车辆，以确定该车辆是否适合安全使用。",
+      "原句翻译去括号": " 在不影响第20条的情况下，警务人员可检查正在道路上行驶的乡村车辆，以确定该车辆是否适合如此安全使用。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9726611375808716
+      ],
+      "替换变异": [
+         "(1) Without prejudice to regulation 20, a police inspector may examine a village vehicle which is being used on a road for the purpose of ascertaining whether the vehicle is safe for such use."
+      ],
+      "替换术语": [
+         "police inspector"
+      ],
+      "替换翻译": [
+         "(1) 在不影响第20条的情况下，警务督察可检查正在道路上行驶的乡村车辆，以确定该车辆是否适合在道路上安全行驶。"
+      ],
+      "替换术语翻译": [
+         "警务督察"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.6918224096298218
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "Provided that, subject and in such manner as may be prescribed, any person who was on the mailing list of the Church immediately before the commencement of this Ordinance may be so enrolled.": {
+      "序号": 52,
+      "原句": "Provided that, subject and in such manner as may be prescribed, any person who was on the mailing list of the Church immediately before the commencement of this Ordinance may be so enrolled.",
+      "术语": "mailing list",
+      "原句翻译": "但在紧接本条例生效之前在教会邮寄名单上的任何人，均可按所订明的方式登记。",
+      "原句术语翻译": [
+         "邮寄名单"
+      ],
+      "insert变异": "Provided that, subject and in such manner as may be prescribed, any person who was on the mailing list (an email list) of the Church immediately before the commencement of this Ordinance may be so enrolled.",
+      "insert变异翻译": "但凡在本条例生效日期前已列入教会邮寄名单（电子邮件名单）的任何人，均可按订明的方式及条件登记。",
+      "insert术语翻译": [
+         "邮寄名单订明"
+      ],
+      "insert和原句术语翻译相似度": [
+         0.884123682975769
+      ],
+      "insert变异翻译去括号": "但凡在本条例生效日期前已列入教会邮寄名单的任何人，均可按订明的方式及条件登记。",
+      "原句翻译去括号": "但在紧接本条例生效之前在教会邮寄名单上的任何人，均可按所订明的方式登记。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9504005908966064
+      ],
+      "替换变异": [
+         "Provided that, subject and in such manner as may be prescribed, any person who was on the vesting list of the Church immediately before the commencement of this Ordinance may be so enrolled."
+      ],
+      "替换术语": [
+         "vesting list"
+      ],
+      "替换翻译": [
+         "但凡在本条例生效日期前已名列教会归属名单的人，均可按订明的方式登记。"
+      ],
+      "替换术语翻译": [
+         "归属名单"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7164831757545471
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "(b) does any other thing which would, if the Appeal Board had been a court of law having power to commit for contempt, have been contempt of that court,": {
+      "序号": 53,
+      "原句": "(b) does any other thing which would, if the Appeal Board had been a court of law having power to commit for contempt, have been contempt of that court,",
+      "术语": "court of law",
+      "原句翻译": "(b) 做出任何其他行为，如果上诉委员会是一个有权以藐视法庭罪作出判决的法庭，则该行为将构成藐视该法庭的行为，",
+      "原句术语翻译": [
+         "法庭"
+      ],
+      "insert变异": "(b) does any other thing which would, if the Appeal Board had been a court of law (a court presided over by a judge which is empowered to decide all aspects of legal disputes) having power to commit for contempt, have been contempt of that court,",
+      "insert变异翻译": "(b) 做出任何其他行为，如果上诉委员会是一个法院（由一名法官主持，有权决定法律纠纷的所有方面），并且该法院有权以藐视法庭罪作出判决，则该行为将被视为藐视该法院，",
+      "insert术语翻译": [
+         "法院"
+      ],
+      "insert和原句术语翻译相似度": [
+         0.8311214447021484
+      ],
+      "insert变异翻译去括号": " 做出任何其他行为，如果上诉委员会是一个法院，并且该法院有权以藐视法庭罪作出判决，则该行为将被视为藐视该法院，",
+      "原句翻译去括号": " 做出任何其他行为，如果上诉委员会是一个有权以藐视法庭罪作出判决的法庭，则该行为将构成藐视该法庭的行为，",
+      "insert和原句翻译去括号部分相似度": [
+         0.9705350399017334
+      ],
+      "替换变异": [
+         "(b) does any other thing which would, if the Appeal Board had been a matter of law having power to commit for contempt, have been contempt of that court,"
+      ],
+      "替换术语": [
+         "matter of law"
+      ],
+      "替换翻译": [
+         "(b) 做出任何其他行为，如果上诉委员会有权以藐视法庭罪作出判决，则该行为将构成藐视法庭罪，"
+      ],
+      "替换术语翻译": [
+         ""
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.39756494760513306
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         1,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         1,
+         0,
+         0
+      ],
+      "final_result": [
+         1,
+         0,
+         0
+      ]
+   },
+   "Provided that any person arrested by an authorized guard shall be handed over to a member of the police force as soon as conveniently may be.": {
+      "序号": 54,
+      "原句": "Provided that any person arrested by an authorized guard shall be handed over to a member of the police force as soon as conveniently may be.",
+      "术语": "police force",
+      "原句翻译": "但被授权警卫逮捕的任何人应在方便的情况下尽快移交给警察部队成员。",
+      "原句术语翻译": [
+         "警察部队"
+      ],
+      "insert变异": "Provided that any person arrested by an authorized guard shall be handed over to a member of the police force (any police organization; a constabulary) as soon as conveniently may be.",
+      "insert变异翻译": "但被授权警卫逮捕的任何人都应尽快移交给警察部队（任何警察组织；警察部队）成员。",
+      "insert术语翻译": [
+         "警察部队"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0000001192092896
+      ],
+      "insert变异翻译去括号": "但被授权警卫逮捕的任何人都应尽快移交给警察部队成员。",
+      "原句翻译去括号": "但被授权警卫逮捕的任何人应在方便的情况下尽快移交给警察部队成员。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9595146179199219
+      ],
+      "替换变异": [
+         "Provided that any person arrested by an authorized guard shall be handed over to a member of the security force as soon as conveniently may be."
+      ],
+      "替换术语": [
+         "security force"
+      ],
+      "替换翻译": [
+         "但被授权警卫逮捕的任何人都应尽快移交给安全部队成员。"
+      ],
+      "替换术语翻译": [
+         "安全部队"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.6891504526138306
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "(2) Any presumption under subsection (1) may be rebutted by proof on a balance of probabilities.": {
+      "序号": 55,
+      "原句": "(2) Any presumption under subsection (1) may be rebutted by proof on a balance of probabilities.",
+      "术语": "balance of probabilities",
+      "原句翻译": "（2）第（1）款规定的任何推定均可通过可能性权衡的证据予以反驳。",
+      "原句术语翻译": [
+         "可能性权衡的。"
+      ],
+      "insert变异": "(2) Any presumption under subsection (1) may be rebutted by proof on a balance of probabilities (a legal standard, applied in many jurisdictions for deciding the outcome of civil disputes, which requires that a dispute be decided in favor of the party whose claims are more likely to be true).",
+      "insert变异翻译": "（2）第（1）款规定的任何推定均可通过可能性权衡的证据予以反驳（可能性权衡是许多司法管辖区中用于决定民事纠纷结果的一项法律标准，要求对纠纷做出有利于其主张更有可能成立的一方的判决）。",
+      "insert术语翻译": [
+         "可能性权衡的。"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "第款规定的任何推定均可通过可能性权衡的证据予以反驳。",
+      "原句翻译去括号": "第款规定的任何推定均可通过可能性权衡的证据予以反驳。",
+      "insert和原句翻译去括号部分相似度": [
+         1.000000238418579
+      ],
+      "替换变异": [
+         "(2) Any presumption under subsection (1) may be rebutted by proof on a set of probabilities."
+      ],
+      "替换术语": [
+         "set of probabilities"
+      ],
+      "替换翻译": [
+         "（2）第（1）款规定的任何推定都可以用一组概率证明来反驳。"
+      ],
+      "替换术语翻译": [
+         "一组概率。"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.6789923906326294
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "Article 66 The associated transactions of the insurance company shall be subject to the approval of the CIRC.": {
+      "序号": 56,
+      "原句": "Article 66 The associated transactions of the insurance company shall be subject to the approval of the CIRC.",
+      "术语": "insurance company",
+      "原句翻译": "第六十六条 保险公司的关联交易应当经中国保监会批准。",
+      "原句术语翻译": [
+         "保险公司"
+      ],
+      "insert变异": "Article 66 The associated transactions of the insurance company (a company that provides insurance policies) shall be subject to the approval of the CIRC.",
+      "insert变异翻译": "第六十六条 保险公司（即提供保险服务的公司）的关联交易应当经中国保监会批准。",
+      "insert术语翻译": [
+         "保险公司"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "第六十六条 保险公司的关联交易应当经中国保监会批准。",
+      "原句翻译去括号": "第六十六条 保险公司的关联交易应当经中国保监会批准。",
+      "insert和原句翻译去括号部分相似度": [
+         1.0
+      ],
+      "替换变异": [
+         "Article 66 The associated transactions of the insurance industry shall be subject to the approval of the CIRC."
+      ],
+      "替换术语": [
+         "insurance industry"
+      ],
+      "替换翻译": [
+         "第六十六条 保险行业关联交易应当经中国保监会批准。"
+      ],
+      "替换术语翻译": [
+         "保险行业"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.8093624114990234
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "(ii) that a body corporate of which it is a subsidiary has failed to satisfy an obligation to which it is or was subject by virtue of section 23 (6) or any Ordinance repealed by this Ordinance;": {
+      "序号": 57,
+      "原句": "(ii) that a body corporate of which it is a subsidiary has failed to satisfy an obligation to which it is or was subject by virtue of section 23 (6) or any Ordinance repealed by this Ordinance;",
+      "术语": "body corporate",
+      "原句翻译": "(ii) 其附属公司的法人团体未能履行其根据第 23(6)条或任何被本条例废除的条例现在或过去须承担的义务；",
+      "原句术语翻译": [
+         "公司法人团体"
+      ],
+      "insert变异": "(ii) that a body corporate (a legal person) of which it is a subsidiary has failed to satisfy an obligation to which it is or was subject by virtue of section 23 (6) or any Ordinance repealed by this Ordinance;",
+      "insert变异翻译": "(ii) 其所属的公司法人未能履行根据第23(6)条或任何经本条例废除的条例所须承担的义务；",
+      "insert术语翻译": [
+         "公司法人"
+      ],
+      "insert和原句术语翻译相似度": [
+         0.9033389687538147
+      ],
+      "insert变异翻译去括号": " 其所属的公司法人未能履行根据第23条或任何经本条例废除的条例所须承担的义务；",
+      "原句翻译去括号": " 其附属公司的法人团体未能履行其根据第 23条或任何被本条例废除的条例现在或过去须承担的义务；",
+      "insert和原句翻译去括号部分相似度": [
+         0.9230420589447021
+      ],
+      "替换变异": [
+         "(ii) that a corporation corporate of which it is a subsidiary has failed to satisfy an obligation to which it is or was subject by virtue of section 23 (6) or any Ordinance repealed by this Ordinance;",
+         "(ii) that a company corporate of which it is a subsidiary has failed to satisfy an obligation to which it is or was subject by virtue of section 23 (6) or any Ordinance repealed by this Ordinance;"
+      ],
+      "替换术语": [
+         "corporation corporate",
+         "company corporate"
+      ],
+      "替换翻译": [
+         "(ii) 其所属的法团未能履行其根据第23(6)条或任何经本条例废除的条例所须承担的义务；",
+         "(ii) 其所属的公司法人未能履行根据第23(6)条或本条例废除的任何条例所规定的或曾经规定的义务；"
+      ],
+      "替换术语翻译": [
+         "法团",
+         "公司法人"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.6600733995437622,
+         0.9033387899398804
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         1,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         1,
+         0
+      ],
+      "final_result": [
+         0,
+         1,
+         0
+      ]
+   },
+   "9. Estimated time of arrival at intended pilot boarding station, specified anchorage or berth in the waters of Hong Kong (expressed as \"YY / MM / DD / hh / mm\").": {
+      "序号": 59,
+      "原句": "9. Estimated time of arrival at intended pilot boarding station, specified anchorage or berth in the waters of Hong Kong (expressed as \"YY / MM / DD / hh / mm\").",
+      "术语": "time of arrival",
+      "原句翻译": "9. 预计抵达香港水域内预定引航员登船站、指定锚地或泊位的时间（以“YY/MM/DD/hh/mm”表示）。",
+      "原句术语翻译": [
+         "抵达的时间"
+      ],
+      "insert变异": "9. Estimated time of arrival (the time when an airplane, or other public conveyance, is scheduled to arrive) at intended pilot boarding station, specified anchorage or berth in the waters of Hong Kong (expressed as \"YY / MM / DD / hh / mm\").",
+      "insert变异翻译": "9. 预计抵达香港水域内预定的引航员登船地点、指明的碇泊处或泊位的时间(飞机或其他公共交通工具预定抵达的时间)(以“YY/MM/DD/hh/mm”表示)。",
+      "insert术语翻译": [
+         "抵达的时间"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "9. 预计抵达香港水域内预定的引航员登船地点、指明的碇泊处或泊位的时间。",
+      "原句翻译去括号": "9. 预计抵达香港水域内预定引航员登船站、指定锚地或泊位的时间。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9703124761581421
+      ],
+      "替换变异": [
+         "9. Estimated date of arrival at intended pilot boarding station, specified anchorage or berth in the waters of Hong Kong (expressed as \"YY / MM / DD / hh / mm\").",
+         "9. Estimated speed of arrival at intended pilot boarding station, specified anchorage or berth in the waters of Hong Kong (expressed as \"YY / MM / DD / hh / mm\").",
+         "9. Estimated rate of arrival at intended pilot boarding station, specified anchorage or berth in the waters of Hong Kong (expressed as \"YY / MM / DD / hh / mm\").",
+         "9. Estimated time of departure at intended pilot boarding station, specified anchorage or berth in the waters of Hong Kong (expressed as \"YY / MM / DD / hh / mm\")."
+      ],
+      "替换术语": [
+         "date of arrival",
+         "speed of arrival",
+         "rate of arrival",
+         "time of departure"
+      ],
+      "替换翻译": [
+         "9.预计抵达香港水域内拟定引航员登船站、指明的锚地或泊位的日期（以“YY/MM/DD/hh/mm”表示）。",
+         "9.预计抵达香港水域内拟定引水员登船站、指明的锚地或泊位的速度（以“YY/MM/DD/hh/mm”表示）。",
+         "9.预计抵达香港水域内预定的引航员登船站、指明的锚地或泊位的时间（以“YY/MM/DD/hh/mm”表示）。",
+         "9.预计船舶驶离香港水域内预定引航员登船站、指明的碇泊处或泊位的时间（以“YY/MM/DD/hh/mm”表示）。"
+      ],
+      "替换术语翻译": [
+         "抵达登船的日期",
+         "登船的速度",
+         "抵达的的时间",
+         "驶离的时间"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.8299626708030701,
+         0.6044197082519531,
+         0.9870700836181641,
+         0.7674061059951782
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         1
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": "futher check needed"
+   },
+   "(b) is or is likely to be a danger to public health;": {
+      "序号": 60,
+      "原句": "(b) is or is likely to be a danger to public health;",
+      "术语": "public health",
+      "原句翻译": "(b) 正在或可能对公众健康构成危险；",
+      "原句术语翻译": [
+         "公众健康；"
+      ],
+      "insert变异": "(b) is or is likely to be a danger to public health (the science and practice of community hygiene; includes preventive medicine, health education, sanitation and environmental safety);",
+      "insert变异翻译": "(b) 对公共健康构成或可能构成危险（社区卫生的科学与实践；包括预防医学、健康教育、卫生设施和环境安全）；",
+      "insert术语翻译": [
+         "公共健康；"
+      ],
+      "insert和原句术语翻译相似度": [
+         0.9378253221511841
+      ],
+      "insert变异翻译去括号": " 对公共健康构成或可能构成危险；",
+      "原句翻译去括号": " 正在或可能对公众健康构成危险；",
+      "insert和原句翻译去括号部分相似度": [
+         0.9341437816619873
+      ],
+      "替换变异": [
+         "(b) is or is likely to be a danger to public safety;",
+         "(b) is or is likely to be a danger to public order;"
+      ],
+      "替换术语": [
+         "public safety",
+         "public order"
+      ],
+      "替换翻译": [
+         "(b) 对公共安全构成或可能构成危险；",
+         "(b) 对公共秩序构成或可能构成危险；"
+      ],
+      "替换术语翻译": [
+         "公共安全；",
+         "公共秩序；"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7956526279449463,
+         0.7212689518928528
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "(xxx) Offences against the laws relating to the protection of public health and the environment": {
+      "序号": 61,
+      "原句": "(xxx) Offences against the laws relating to the protection of public health and the environment",
+      "术语": "public health",
+      "原句翻译": "(xxx) 违反有关保护公众健康和环境的法律的罪行",
+      "原句术语翻译": [
+         "公众健康"
+      ],
+      "insert变异": "(xxx) Offences against the laws relating to the protection of public health (the science and practice of community hygiene; includes preventive medicine, health education, sanitation and environmental safety) and the environment",
+      "insert变异翻译": "(xxx) 违反有关保护公共卫生（社区卫生的科学与实践；包括预防医学、健康教育、卫生设施和环境安全）和环境的法律的犯罪",
+      "insert术语翻译": [
+         "公共卫生"
+      ],
+      "insert和原句术语翻译相似度": [
+         0.7454582452774048
+      ],
+      "insert变异翻译去括号": " 违反有关保护公共卫生和环境的法律的犯罪",
+      "原句翻译去括号": " 违反有关保护公众健康和环境的法律的罪行",
+      "insert和原句翻译去括号部分相似度": [
+         0.9291231036186218
+      ],
+      "替换变异": [
+         "(xxx) Offences against the laws relating to the protection of public property and the environment",
+         "(xxx) Offences against the laws relating to the protection of public order and the environment",
+         "(xxx) Offences against the laws relating to the protection of public safety and the environment"
+      ],
+      "替换术语": [
+         "public property",
+         "public order",
+         "public safety"
+      ],
+      "替换翻译": [
+         "(xxx) 违反有关保护公共财产和环境的法律的罪行",
+         "（xxx）违反有关保护公共秩序和环境的法律的罪行",
+         "（xxx）违反与保护公共安全和环境有关的法律的罪行"
+      ],
+      "替换术语翻译": [
+         "公共财产",
+         "公共秩序",
+         "公共安全"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.610836386680603,
+         0.5916420221328735,
+         0.6774366497993469
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         1,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         1,
+         0,
+         0
+      ],
+      "final_result": [
+         1,
+         0,
+         0
+      ]
+   },
+   "Article 71 The enterprise legal person may apply for settlement to the working body of the management committee of state-owned assets or file a lawsuit to the people’s court according to law if the the operating institution infringe its legal rights and interests,": {
+      "序号": 62,
+      "原句": "Article 71 The enterprise legal person may apply for settlement to the working body of the management committee of state-owned assets or file a lawsuit to the people’s court according to law if the the operating institution infringe its legal rights and interests,",
+      "术语": "legal person",
+      "原句翻译": "第七十一条 经营机构侵犯其合法权益的，企业法人可以依法向国有资产管理委员会工作机构申请处理或者向人民法院提起诉讼；",
+      "原句术语翻译": [
+         "企业法人"
+      ],
+      "insert变异": "Article 71 The enterprise legal person (an aggregate of people, legal entity, or body corporate who have (some of) the legal rights and responsibilities of a natural person under the law) may apply for settlement to the working body of the management committee of state-owned assets or file a lawsuit to the people’s court according to law if the the operating institution infringe its legal rights and interests,",
+      "insert变异翻译": "第七十一条 企业法人（依法具有自然人法定权利和义务的个人、法人或者法人团体的集合体）对运营机构侵犯其合法权益的，可以依法向国有资产管理委员会办事机构申请处理或者向人民法院提起诉讼。",
+      "insert术语翻译": [
+         "企业法人"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "第七十一条 企业法人对运营机构侵犯其合法权益的，可以依法向国有资产管理委员会办事机构申请处理或者向人民法院提起诉讼。",
+      "原句翻译去括号": "第七十一条 经营机构侵犯其合法权益的，企业法人可以依法向国有资产管理委员会工作机构申请处理或者向人民法院提起诉讼；",
+      "insert和原句翻译去括号部分相似度": [
+         0.9354531168937683
+      ],
+      "替换变异": [
+         "Article 71 The enterprise legal entity may apply for settlement to the working body of the management committee of state-owned assets or file a lawsuit to the people’s court according to law if the the operating institution infringe its legal rights and interests,",
+         "Article 71 The enterprise legal institution may apply for settlement to the working body of the management committee of state-owned assets or file a lawsuit to the people’s court according to law if the the operating institution infringe its legal rights and interests,"
+      ],
+      "替换术语": [
+         "legal entity",
+         "legal institution"
+      ],
+      "替换翻译": [
+         "第七十一条 企业法人对经营机构侵犯其合法权益的，可以依法向国有资产管理委员会办事机构申请处理或者向人民法院提起诉讼。",
+         "第七十一条 企业法人机构发现经营机构侵犯其合法权益的，可以依法向国有资产管理委员会办事机构申请处理或者向人民法院提起诉讼。"
+      ],
+      "替换术语翻译": [
+         "企业法人",
+         "企业法人机构"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         1.0,
+         0.9184815883636475
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         1
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         1
+      ],
+      "final_result": [
+         0,
+         0,
+         1
+      ]
+   },
+   "(iii) the profit and loss account and the balance sheet are in compliance with the requirements of these Rules;": {
+      "序号": 63,
+      "原句": "(iii) the profit and loss account and the balance sheet are in compliance with the requirements of these Rules;",
+      "术语": "balance sheet",
+      "原句翻译": "（三）损益表、资产负债表符合本规则的要求；",
+      "原句术语翻译": [
+         "负债表"
+      ],
+      "insert变异": "(iii) the profit and loss account and the balance sheet (a summary of a person's or organization's assets, liabilities and equity as of a specific date) are in compliance with the requirements of these Rules;",
+      "insert变异翻译": "（三）损益表和资产负债表（个人或组织某一特定日期的资产、负债和股东权益的汇总表）符合本规则的要求；",
+      "insert术语翻译": [
+         "负债表"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0000001192092896
+      ],
+      "insert变异翻译去括号": "损益表和资产负债表符合本规则的要求；",
+      "原句翻译去括号": "损益表、资产负债表符合本规则的要求；",
+      "insert和原句翻译去括号部分相似度": [
+         0.9821581840515137
+      ],
+      "替换变异": [
+         "(iii) the profit and loss account and the balance account are in compliance with the requirements of these Rules;"
+      ],
+      "替换术语": [
+         "balance account"
+      ],
+      "替换翻译": [
+         "（三）损益表、余额表符合本规则的要求；"
+      ],
+      "替换术语翻译": [
+         "余额表"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7510814070701599
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "If bearer company bonds are issued, the company's record of bondholders shall record the total value of such bonds, the interest rate thereon, the term thereof and the method for repayment, and the date of issue and the serial numbers of the bond certificates.": {
+      "序号": 66,
+      "原句": "If bearer company bonds are issued, the company's record of bondholders shall record the total value of such bonds, the interest rate thereon, the term thereof and the method for repayment, and the date of issue and the serial numbers of the bond certificates.",
+      "术语": "interest rate",
+      "原句翻译": "发行无记名公司债券的，公司债券持有人记录应当记载债券总额、利率、期限和还款方式、债券发行日期和债券编号。",
+      "原句术语翻译": [
+         "利率"
+      ],
+      "insert变异": "If bearer company bonds are issued, the company's record of bondholders shall record the total value of such bonds, the interest rate (the percentage of an amount of money charged for its use per some period of time (often a year)) thereon, the term thereof and the method for repayment, and the date of issue and the serial numbers of the bond certificates.",
+      "insert变异翻译": "发行无记名公司债券的，应当由公司债券持有人簿记载债券总额、利率（即每一定期间（通常为一年）使用债券所收取的金额的百分比）、债券期限和偿还方式、发行日期及债券号码。",
+      "insert术语翻译": [
+         "利率"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "发行无记名公司债券的，应当由公司债券持有人簿记载债券总额、利率、债券期限和偿还方式、发行日期及债券号码。",
+      "原句翻译去括号": "发行无记名公司债券的，公司债券持有人记录应当记载债券总额、利率、期限和还款方式、债券发行日期和债券编号。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9662106037139893
+      ],
+      "替换变异": [
+         "If bearer company bonds are issued, the company's record of bondholders shall record the total value of such bonds, the interest due thereon, the term thereof and the method for repayment, and the date of issue and the serial numbers of the bond certificates."
+      ],
+      "替换术语": [
+         "interest due"
+      ],
+      "替换翻译": [
+         "发行无记名公司债券的，应当由公司债券持有人簿记载债券总额、应付利息、债券期限和偿还方式、债券发行日期及债券号码。"
+      ],
+      "替换术语翻译": [
+         "应付利息"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7236876487731934
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "Article 11 The computation of taxable income of an enterprise shall, in principle, be on an accrual basis.": {
+      "序号": 67,
+      "原句": "Article 11 The computation of taxable income of an enterprise shall, in principle, be on an accrual basis.",
+      "术语": "taxable income",
+      "原句翻译": "第十一条 企业应纳税所得额的计算，原则上应当遵循权责发生制。",
+      "原句术语翻译": [
+         "纳税所得额"
+      ],
+      "insert变异": "Article 11 The computation of taxable income (the base upon which an income tax system imposes tax) of an enterprise shall, in principle, be on an accrual basis.",
+      "insert变异翻译": "第十一条 企业应纳税所得额（所得税制的征税依据）的计算，原则上应当按照权责发生制进行。",
+      "insert术语翻译": [
+         "纳税所得额"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "第十一条 企业应纳税所得额的计算，原则上应当按照权责发生制进行。",
+      "原句翻译去括号": "第十一条 企业应纳税所得额的计算，原则上应当遵循权责发生制。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9911744594573975
+      ],
+      "替换变异": [
+         "Article 11 The computation of taxable assets of an enterprise shall, in principle, be on an accrual basis.",
+         "Article 11 The computation of taxable capital of an enterprise shall, in principle, be on an accrual basis."
+      ],
+      "替换术语": [
+         "taxable assets",
+         "taxable capital"
+      ],
+      "替换翻译": [
+         "第十一条 企业应税资产的计算，原则上应当遵循权责发生制。",
+         "第十一条 企业应税资本的计算，原则上应当遵循权责发生制。"
+      ],
+      "替换术语翻译": [
+         "应税资产",
+         "应税资本"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.6024665832519531,
+         0.6028324365615845
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "(2) The Presiding Officer must then deliver the ballot box and the sealed packets to the Returning Officer.": {
+      "序号": 69,
+      "原句": "(2) The Presiding Officer must then deliver the ballot box and the sealed packets to the Returning Officer.",
+      "术语": "ballot box",
+      "原句翻译": "(2) 投票站主任必须随后将投票箱连同密封的包裹交给选举主任。",
+      "原句术语翻译": [
+         "投票箱"
+      ],
+      "insert变异": "(2) The Presiding Officer must then deliver the ballot box (the process or method of voting) and the sealed packets to the Returning Officer.",
+      "insert变异翻译": "(2) 投票站主任必须将投票箱（投票流程或方法）连同密封的包裹交给选举主任。",
+      "insert术语翻译": [
+         "投票箱"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": " 投票站主任必须将投票箱连同密封的包裹交给选举主任。",
+      "原句翻译去括号": " 投票站主任必须随后将投票箱连同密封的包裹交给选举主任。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9636674523353577
+      ],
+      "替换变异": [
+         "(2) The Presiding Officer must then deliver the ballot paper and the sealed packets to the Returning Officer."
+      ],
+      "替换术语": [
+         "ballot paper"
+      ],
+      "替换翻译": [
+         "(2) 投票站主任必须随后将选票连同密封的包裹交给选举主任。"
+      ],
+      "替换术语翻译": [
+         "选票"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.6928392052650452
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "Air-ground service business refers to the business of providing labor service ground services including navigation by air liners, airports, civil aviation administrative bureaus and air stations to Chinese and foreign airplanes or other air vehicles which navigate within China or land in airports within China.": {
+      "序号": 70,
+      "原句": "Air-ground service business refers to the business of providing labor service ground services including navigation by air liners, airports, civil aviation administrative bureaus and air stations to Chinese and foreign airplanes or other air vehicles which navigate within China or land in airports within China.",
+      "术语": "civil aviation",
+      "原句翻译": "航空地面服务业务，是指航空公司、机场、民航管理局、航站楼为在中国境内航行或在中国境内机场降落的中外飞机或其他飞行器提供导航等劳务地面服务的业务。",
+      "原句术语翻译": [
+         "民航"
+      ],
+      "insert变异": "Air-ground service business refers to the business of providing labor service ground services including navigation by air liners, airports, civil aviation (all non-military forms of aviation, including private and commercial flight services) administrative bureaus and air stations to Chinese and foreign airplanes or other air vehicles which navigate within China or land in airports within China.",
+      "insert变异翻译": "航空地面服务业务，是指航空公司、机场、民航（一切非军事航空，包括私人和商业飞行服务）管理局、航站楼为在中国境内航行或在中国境内机场降落的中外飞机或其他飞行器提供导航等劳务性地面服务的业务。",
+      "insert术语翻译": [
+         "民航"
+      ],
+      "insert和原句术语翻译相似度": [
+         0.9999998807907104
+      ],
+      "insert变异翻译去括号": "航空地面服务业务，是指航空公司、机场、民航管理局、航站楼为在中国境内航行或在中国境内机场降落的中外飞机或其他飞行器提供导航等劳务性地面服务的业务。",
+      "原句翻译去括号": "航空地面服务业务，是指航空公司、机场、民航管理局、航站楼为在中国境内航行或在中国境内机场降落的中外飞机或其他飞行器提供导航等劳务地面服务的业务。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9988275170326233
+      ],
+      "替换变异": [
+         "Air-ground service business refers to the business of providing labor service ground services including navigation by air liners, airports, civil service administrative bureaus and air stations to Chinese and foreign airplanes or other air vehicles which navigate within China or land in airports within China."
+      ],
+      "替换术语": [
+         "civil service"
+      ],
+      "替换翻译": [
+         "航空地面服务业务，是指航空公司、机场、民航管理局、航空站为在中国境内航行或在中国境内机场降落的中外飞机或其他飞行器提供导航等劳务地面服务的业务。"
+      ],
+      "替换术语翻译": [
+         "民航"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.9999998807907104
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         1
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         1
+      ],
+      "final_result": [
+         0,
+         0,
+         1
+      ]
+   },
+   "Article  10 In the process of agro-technical popularization, a popularization system of combining agro-technical popularization setups with institutions of agricultural scientific research, relevant schools or colleges, mass organizations of science and technology, and peasant technical personnel shall be practised.": {
+      "序号": 71,
+      "原句": "Article  10 In the process of agro-technical popularization, a popularization system of combining agro-technical popularization setups with institutions of agricultural scientific research, relevant schools or colleges, mass organizations of science and technology, and peasant technical personnel shall be practised.",
+      "术语": "scientific research",
+      "原句翻译": "第十条 农业技术推广实行农业技术推广机构与农业科学研究机构、有关大专院校、群众性科技组织、农民技术人员相结合的推广制度。",
+      "原句术语翻译": [
+         "科学研究、"
+      ],
+      "insert变异": "Article  10 In the process of agro-technical popularization, a popularization system of combining agro-technical popularization setups with institutions of agricultural scientific research (research performed using the scientific method), relevant schools or colleges, mass organizations of science and technology, and peasant technical personnel shall be practised.",
+      "insert变异翻译": "第十条 农业技术推广实行农业技术推广机构与农业科研机构（采用科学方法进行研究）、有关学校、群众性科技组织、农民技术人员相结合的推广体制。",
+      "insert术语翻译": [
+         "农业科研、"
+      ],
+      "insert和原句术语翻译相似度": [
+         0.7824448347091675
+      ],
+      "insert变异翻译去括号": "第十条 农业技术推广实行农业技术推广机构与农业科研机构、有关学校、群众性科技组织、农民技术人员相结合的推广体制。",
+      "原句翻译去括号": "第十条 农业技术推广实行农业技术推广机构与农业科学研究机构、有关大专院校、群众性科技组织、农民技术人员相结合的推广制度。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9831069707870483
+      ],
+      "替换变异": [
+         "Article  10 In the process of agro-technical popularization, a popularization system of combining agro-technical popularization setups with institutions of agricultural scientific training, relevant schools or colleges, mass organizations of science and technology, and peasant technical personnel shall be practised."
+      ],
+      "替换术语": [
+         "scientific training"
+      ],
+      "替换翻译": [
+         "第十条 农业技术推广实行农业技术推广机构与农业科技培训机构、有关学校、群众性科技组织、农民技术人员相结合的推广体制。"
+      ],
+      "替换术语翻译": [
+         "培训、"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.6186352968215942
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         1,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": "futher check needed"
+   },
+   "(1) A registered distributor, if any, and a person applying for first registration shall each sign a declaration, in the form approved by the Commissioner, stating the date and place of purchase of the motor vehicle and-": {
+      "序号": 72,
+      "原句": "(1) A registered distributor, if any, and a person applying for first registration shall each sign a declaration, in the form approved by the Commissioner, stating the date and place of purchase of the motor vehicle and-",
+      "术语": "motor vehicle",
+      "原句翻译": "(1) 注册经销商（如有）和申请首次注册的人应各自签署一份声明，该声明采用专员批准的格式，说明购买机动车辆的日期和地点，以及——",
+      "原句术语翻译": [
+         "机动车辆"
+      ],
+      "insert变异": "(1) A registered distributor, if any, and a person applying for first registration shall each sign a declaration, in the form approved by the Commissioner, stating the date and place of purchase of the motor vehicle (any land-based means of transportation in the form of a machine that operates primarily through a motor to provide power to rotate the tires) and-",
+      "insert变异翻译": "(c) 就第(2)款而言，获授权代表该车辆的注册人或注册经销商，可向该车辆注册处提出申请，申请书须载明该车辆的注册日期及地点，并须附有证明书及证明书。",
+      "insert术语翻译": [
+         "车辆"
+      ],
+      "insert和原句术语翻译相似度": [
+         0.8089226484298706
+      ],
+      "insert变异翻译去括号": " 就第款而言，获授权代表该车辆的注册人或注册经销商，可向该车辆注册处提出申请，申请书须载明该车辆的注册日期及地点，并须附有证明书及证明书。",
+      "原句翻译去括号": " 注册经销商和申请首次注册的人应各自签署一份声明，该声明采用专员批准的格式，说明购买机动车辆的日期和地点，以及——",
+      "insert和原句翻译去括号部分相似度": [
+         0.6787816286087036
+      ],
+      "替换变异": [
+         "(1) A registered distributor, if any, and a person applying for first registration shall each sign a declaration, in the form approved by the Commissioner, stating the date and place of purchase of the motor car and-"
+      ],
+      "替换术语": [
+         "motor car"
+      ],
+      "替换翻译": [
+         "(c) 就第 (a) 款所订的事宜，向注册经销商发出指示，指明该等事宜。"
+      ],
+      "替换术语翻译": [
+         ""
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.36904972791671753
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         1,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         1,
+         0
+      ],
+      "final_result": [
+         0,
+         1,
+         0
+      ]
+   },
+   "(b) any securities or futures contract or property investment arrangements in which a company in which he has an interest has an interest;": {
+      "序号": 73,
+      "原句": "(b) any securities or futures contract or property investment arrangements in which a company in which he has an interest has an interest;",
+      "术语": "futures contract",
+      "原句翻译": "(b) 其拥有权益的公司拥有权益的任何证券或期货合约或财产投资安排；",
+      "原句术语翻译": [
+         "期货合约"
+      ],
+      "insert变异": "(b) any securities or futures contract (a standardized contract, traded on a futures exchange, to buy or sell a standardized quantity of a specified commodity (or financial instrument) of standardized quality at a certain date in the future, at a stated price (the futures price)) or property investment arrangements in which a company in which he has an interest has an interest;",
+      "insert变异翻译": "(b) 任何证券或期货合约（在期货交易所交易的标准化合约，规定在未来的某一日期，以规定价格（期货价格）买入或卖出标准化数量、标准化质量的特定商品（或金融工具））或他拥有权益的公司拥有权益的房地产投资安排；",
+      "insert术语翻译": [
+         "期货合约"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": " 任何证券或期货合约或他拥有权益的公司拥有权益的房地产投资安排；",
+      "原句翻译去括号": " 其拥有权益的公司拥有权益的任何证券或期货合约或财产投资安排；",
+      "insert和原句翻译去括号部分相似度": [
+         0.9186692237854004
+      ],
+      "替换变异": [
+         "(b) any securities or principals contract or property investment arrangements in which a company in which he has an interest has an interest;",
+         "(b) any securities or leases contract or property investment arrangements in which a company in which he has an interest has an interest;",
+         "(b) any securities or mortgages contract or property investment arrangements in which a company in which he has an interest has an interest;",
+         "(b) any securities or futures trading or property investment arrangements in which a company in which he has an interest has an interest;",
+         "(b) any securities or futures market or property investment arrangements in which a company in which he has an interest has an interest;",
+         "(b) any securities or futures investment or property investment arrangements in which a company in which he has an interest has an interest;"
+      ],
+      "替换术语": [
+         "principals contract",
+         "leases contract",
+         "mortgages contract",
+         "futures trading",
+         "futures market",
+         "futures investment"
+      ],
+      "替换翻译": [
+         "(b) 他所拥有权益的公司所拥有权益的任何证券或本金合约或财产投资安排；",
+         "(b) 他所拥有权益的公司所持有的任何证券或租赁合约或房地产投资安排；",
+         "(b) 他所拥有权益的公司所拥有权益的任何证券或抵押合同或财产投资安排；",
+         "(b) 他所拥有权益的公司所拥有权益的任何证券或期货交易或财产投资安排；",
+         "(b) 他所拥有权益的公司所拥有权益的任何证券或期货市场或房地产投资安排；",
+         "(b) 他所拥有权益的公司所拥有权益的任何证券或期货投资或房地产投资安排；"
+      ],
+      "替换术语翻译": [
+         "合约",
+         "租赁合约",
+         "抵押合同",
+         "期货交易",
+         "期货市场",
+         "期货投资"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.8202865123748779,
+         0.6573530435562134,
+         0.5441725254058838,
+         0.7244123220443726,
+         0.718181848526001,
+         0.6723071932792664
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "Article 39 In the event that a deputy to a local people's congress isunable to perform his duties as deputy for any reason, the unit whichelected him or the voters in the electoral district shall hold a by-election to replace him.": {
+      "序号": 75,
+      "原句": "Article 39 In the event that a deputy to a local people's congress isunable to perform his duties as deputy for any reason, the unit whichelected him or the voters in the electoral district shall hold a by-election to replace him.",
+      "术语": "electoral district",
+      "原句翻译": "第三十九条 地方各级人民代表大会代表因为原因不能履行代表职务的时候，由他的选举单位或者本选区的选民补选。",
+      "原句术语翻译": [
+         "选区"
+      ],
+      "insert变异": "Article 39 In the event that a deputy to a local people's congress isunable to perform his duties as deputy for any reason, the unit whichelected him or the voters in the electoral district (a district represented by one or more elected officials) shall hold a by-election to replace him.",
+      "insert变异翻译": "第三十九条 地方各级人民代表大会代表因为特殊原因，不能履行代表职务的时候，由他的选举单位或者选举区（由民选官员代表的选区）的选民补选。",
+      "insert术语翻译": [
+         "选举区"
+      ],
+      "insert和原句术语翻译相似度": [
+         0.8278408646583557
+      ],
+      "insert变异翻译去括号": "第三十九条 地方各级人民代表大会代表因为特殊原因，不能履行代表职务的时候，由他的选举单位或者选举区的选民补选。",
+      "原句翻译去括号": "第三十九条 地方各级人民代表大会代表因为原因不能履行代表职务的时候，由他的选举单位或者本选区的选民补选。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9819579124450684
+      ],
+      "替换变异": [
+         "Article 39 In the event that a deputy to a local people's congress isunable to perform his duties as deputy for any reason, the unit whichelected him or the voters in the electoral college shall hold a by-election to replace him.",
+         "Article 39 In the event that a deputy to a local people's congress isunable to perform his duties as deputy for any reason, the unit whichelected him or the voters in the electoral process shall hold a by-election to replace him."
+      ],
+      "替换术语": [
+         "electoral college",
+         "electoral process"
+      ],
+      "替换翻译": [
+         "第三十九条 地方各级人民代表大会代表因为原因不能履行代表职务的时候，由他的选举单位或者选举团的选民补选。",
+         "第三十九条 地方各级人民代表大会代表因为特殊原因不能履行代表职务的时候，由他的选举单位或者选民补选。"
+      ],
+      "替换术语翻译": [
+         "选举团",
+         ""
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.5882642865180969,
+         0.4073083698749542
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "Article 3 People's governments and military organs at all levels shall, in the interests of national security, jointly protect military installations and safeguard the interests of national defence.": {
+      "序号": 77,
+      "原句": "Article 3 People's governments and military organs at all levels shall, in the interests of national security, jointly protect military installations and safeguard the interests of national defence.",
+      "术语": "national security",
+      "原句翻译": "第三条 各级人民政府和军事机关应当从国家安全的需要出发，共同保护军事设施，维护国防利益。",
+      "原句术语翻译": [
+         "国家安全，"
+      ],
+      "insert变异": "Article 3 People's governments and military organs at all levels shall, in the interests of national security (the safety of a country as managed through the exercise of economic and political power, intelligence agencies and diplomacy), jointly protect military installations and safeguard the interests of national defence.",
+      "insert变异翻译": "第三条 各级人民政府和军事机关应当从国家安全（即通过经济、政治、情报、外交等手段管理的国家安全）的利益出发，共同保护军事设施，维护国防利益。",
+      "insert术语翻译": [
+         "国家安全，"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "第三条 各级人民政府和军事机关应当从国家安全的利益出发，共同保护军事设施，维护国防利益。",
+      "原句翻译去括号": "第三条 各级人民政府和军事机关应当从国家安全的需要出发，共同保护军事设施，维护国防利益。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9846123456954956
+      ],
+      "替换变异": [
+         "Article 3 People's governments and military organs at all levels shall, in the interests of national defense, jointly protect military installations and safeguard the interests of national defence."
+      ],
+      "替换术语": [
+         "national defense"
+      ],
+      "替换翻译": [
+         "第三条 各级人民政府和军事机关应当为了国防利益，共同保护军事设施，维护国防利益。"
+      ],
+      "替换术语翻译": [
+         "国防，"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7805255055427551
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "(3) An authorized officer or police officer may exercise any of the powers conferred by subsection (1) without a warrant issued under subsection (2) in respect of any premises not being domestic premises where-": {
+      "序号": 78,
+      "原句": "(3) An authorized officer or police officer may exercise any of the powers conferred by subsection (1) without a warrant issued under subsection (2) in respect of any premises not being domestic premises where-",
+      "术语": "police officer",
+      "原句翻译": "(3) 获授权人员或警务人员可就任何非住宅处所行使第(1)款所授予的任何权力，而无须根据第(2)款发出手令，但─",
+      "原句术语翻译": [
+         "警务人员"
+      ],
+      "insert变异": "(3) An authorized officer or police officer (a peace officer who is a member of a police force) may exercise any of the powers conferred by subsection (1) without a warrant issued under subsection (2) in respect of any premises not being domestic premises where-",
+      "insert变异翻译": "（3） 经授权的官员或警务人员（警察部队中的治安官）可对任何非住宅处所行使第（1）款授予的任何权力，而无需根据第（2）款签发的搜查令，但前提是：",
+      "insert术语翻译": [
+         "警务人员"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": " 经授权的官员或警务人员可对任何非住宅处所行使第款授予的任何权力，而无需根据第款签发的搜查令，但前提是：",
+      "原句翻译去括号": " 获授权人员或警务人员可就任何非住宅处所行使第款所授予的任何权力，而无须根据第款发出手令，但─",
+      "insert和原句翻译去括号部分相似度": [
+         0.901427686214447
+      ],
+      "替换变异": [
+         "(3) An authorized officer or warrant officer may exercise any of the powers conferred by subsection (1) without a warrant issued under subsection (2) in respect of any premises not being domestic premises where-"
+      ],
+      "替换术语": [
+         "warrant officer"
+      ],
+      "替换翻译": [
+         "(3) 获授权人员或准尉可就任何非住宅处所行使第(1)款所授予的任何权力，而无须持有根据第(2)款发出的令状，但─"
+      ],
+      "替换术语翻译": [
+         "准尉"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.42017602920532227
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "(3) A court shall not make a community service order against an offender unless-": {
+      "序号": 79,
+      "原句": "(3) A court shall not make a community service order against an offender unless-",
+      "术语": "community service",
+      "原句翻译": "（3）法院不得对罪犯作出社区服务令，除非：",
+      "原句术语翻译": [
+         "社区服务"
+      ],
+      "insert变异": "(3) A court shall not make a community service (such work done as alternative for a criminal penalty) order against an offender unless-",
+      "insert变异翻译": "（3）法院不得对罪犯作出社区服务令（作为刑事处罚的替代而进行的劳动），除非：",
+      "insert术语翻译": [
+         "社区服务"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0000001192092896
+      ],
+      "insert变异翻译去括号": "法院不得对罪犯作出社区服务令，除非：",
+      "原句翻译去括号": "法院不得对罪犯作出社区服务令，除非：",
+      "insert和原句翻译去括号部分相似度": [
+         1.0
+      ],
+      "替换变异": [
+         "(3) A court shall not make a public service order against an offender unless-",
+         "(3) A court shall not make a community action order against an offender unless-",
+         "(3) A court shall not make a community court order against an offender unless-",
+         "(3) A court shall not make a community protection order against an offender unless-"
+      ],
+      "替换术语": [
+         "public service",
+         "community action",
+         "community court",
+         "community protection"
+      ],
+      "替换翻译": [
+         "(3) 法院不得对罪犯发出公共服务令，除非：",
+         "（3）法院不得针对罪犯发出社区行动令，除非：",
+         "(3) 法院不得针对罪犯发出社区法院命令，除非：",
+         "（3）法院不得针对罪犯发出社区保护令，除非："
+      ],
+      "替换术语翻译": [
+         "公共服务",
+         "社区行动",
+         "社区法院",
+         "社区保护"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7201822996139526,
+         0.7222304940223694,
+         0.6851835250854492,
+         0.7147800922393799
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "The fees paid for pollutant discharge and for excess discharge must be used for prevention and control of water pollution and may not be used for any other purposes.": {
+      "序号": 80,
+      "原句": "The fees paid for pollutant discharge and for excess discharge must be used for prevention and control of water pollution and may not be used for any other purposes.",
+      "术语": "water pollution",
+      "原句翻译": "缴纳的排污费和超额排污费必须用于水污染防治，不得挪作他用。",
+      "原句术语翻译": [
+         "水污染"
+      ],
+      "insert变异": "The fees paid for pollutant discharge and for excess discharge must be used for prevention and control of water pollution (contamination of water, especially surface water, by sewage effluent, fertilizer runoff, industrial chemical discharge, etc.) and may not be used for any other purposes.",
+      "insert变异翻译": "缴纳的排污费和超额排污费必须用于水污染（生活污水、化肥径流、工业化学品排放等对水体特别是地表水的污染）防治，不得挪作他用。",
+      "insert术语翻译": [
+         "水污染"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "缴纳的排污费和超额排污费必须用于水污染防治，不得挪作他用。",
+      "原句翻译去括号": "缴纳的排污费和超额排污费必须用于水污染防治，不得挪作他用。",
+      "insert和原句翻译去括号部分相似度": [
+         1.0
+      ],
+      "替换变异": [
+         "The fees paid for pollutant discharge and for excess discharge must be used for prevention and control of air pollution and may not be used for any other purposes.",
+         "The fees paid for pollutant discharge and for excess discharge must be used for prevention and control of water quality and may not be used for any other purposes."
+      ],
+      "替换术语": [
+         "air pollution",
+         "water quality"
+      ],
+      "替换翻译": [
+         "缴纳的排污费和超额排污费必须用于大气污染防治，不得挪作他用。",
+         "缴纳的排污费和超额排污费必须用于水质防治，不得挪作他用。"
+      ],
+      "替换术语翻译": [
+         "大气污染",
+         "水质"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7457029223442078,
+         0.6718281507492065
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "(f) he may detain, if necessary by the use of reasonable force, a driver, a vehicle or both until they are delivered into the custody of a police officer.": {
+      "序号": 81,
+      "原句": "(f) he may detain, if necessary by the use of reasonable force, a driver, a vehicle or both until they are delivered into the custody of a police officer.",
+      "术语": "police officer",
+      "原句翻译": "(f) 必要时可使用合理武力扣留司机、车辆，或两者，直至将其移交给警察拘押。",
+      "原句术语翻译": [
+         "警察。"
+      ],
+      "insert变异": "(f) he may detain, if necessary by the use of reasonable force, a driver, a vehicle or both until they are delivered into the custody of a police officer (a peace officer who is a member of a police force).",
+      "insert变异翻译": "(f) 如果有必要，可以使用合理武力，扣留司机、车辆，或者两者，直到他们被移交给警官（警察部队中的治安官）。",
+      "insert术语翻译": [
+         "警官。"
+      ],
+      "insert和原句术语翻译相似度": [
+         0.9381116628646851
+      ],
+      "insert变异翻译去括号": " 如果有必要，可以使用合理武力，扣留司机、车辆，或者两者，直到他们被移交给警官。",
+      "原句翻译去括号": " 必要时可使用合理武力扣留司机、车辆，或两者，直至将其移交给警察拘押。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9006387591362
+      ],
+      "替换变异": [
+         "(f) he may detain, if necessary by the use of reasonable force, a driver, a vehicle or both until they are delivered into the custody of a warrant officer."
+      ],
+      "替换术语": [
+         "warrant officer"
+      ],
+      "替换翻译": [
+         "(f) 必要时可使用合理武力扣留驾驶员、车辆，或两者，直至将其移交给准尉扣留。"
+      ],
+      "替换术语翻译": [
+         "准尉。"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.6646712422370911
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "In carrying out highway repairs or maintenance, a time limit should be set for the job. When a highway is under repair, proper measures should be taken to ensure the free passage of vehicles.": {
+      "序号": 82,
+      "原句": "In carrying out highway repairs or maintenance, a time limit should be set for the job. When a highway is under repair, proper measures should be taken to ensure the free passage of vehicles.",
+      "术语": "time limit",
+      "原句翻译": "公路维修、养护应当限定维修时间，维修期间应当采取措施，保证车辆通行。",
+      "原句术语翻译": [
+         "限定时间"
+      ],
+      "insert变异": "In carrying out highway repairs or maintenance, a time limit (a time by which something must be finished) should be set for the job. When a highway is under repair, proper measures should be taken to ensure the free passage of vehicles.",
+      "insert变异翻译": "公路维修、养护作业应当设定工期（即必须在规定的时间内完成）。公路维修期间，应当采取适当措施，保证车辆通行畅通。",
+      "insert术语翻译": [
+         "工期"
+      ],
+      "insert和原句术语翻译相似度": [
+         0.6156696081161499
+      ],
+      "insert变异翻译去括号": "公路维修、养护作业应当设定工期。公路维修期间，应当采取适当措施，保证车辆通行畅通。",
+      "原句翻译去括号": "公路维修、养护应当限定维修时间，维修期间应当采取措施，保证车辆通行。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9419128894805908
+      ],
+      "替换变异": [
+         "In carrying out highway repairs or maintenance, a speed limit should be set for the job. When a highway is under repair, proper measures should be taken to ensure the free passage of vehicles.",
+         "In carrying out highway repairs or maintenance, a time period should be set for the job. When a highway is under repair, proper measures should be taken to ensure the free passage of vehicles.",
+         "In carrying out highway repairs or maintenance, a time frame should be set for the job. When a highway is under repair, proper measures should be taken to ensure the free passage of vehicles."
+      ],
+      "替换术语": [
+         "speed limit",
+         "time period",
+         "time frame"
+      ],
+      "替换翻译": [
+         "公路维修、养护作业应当限制行驶速度，维修期间应当采取适当措施，保证车辆通行畅通。",
+         "公路维修、养护应当规定维修时间，维修期间应当采取适当措施，保证车辆通行。",
+         "公路维修、养护应当规定维修时限，维修期间应当采取适当措施，保证车辆通行畅通。"
+      ],
+      "替换术语翻译": [
+         "限制速度",
+         "时间",
+         "时限"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7205789089202881,
+         0.7107904553413391,
+         0.8656546473503113
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         1,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": "futher check needed"
+   },
+   "Article 100. A stock exchange is provided with a general manager, who is appointed or dismissed by the securities regulatory body of the State Council.": {
+      "序号": 84,
+      "原句": "Article 100. A stock exchange is provided with a general manager, who is appointed or dismissed by the securities regulatory body of the State Council.",
+      "术语": "stock exchange",
+      "原句翻译": "第一百条 证券交易所设总经理，由国务院证券监督管理机构聘任或者解聘。",
+      "原句术语翻译": [
+         "证券交易所"
+      ],
+      "insert变异": "Article 100. A stock exchange (a building that trades stocks in of companies for money and vice versa) is provided with a general manager, who is appointed or dismissed by the securities regulatory body of the State Council.",
+      "insert变异翻译": "第一百条 证券交易所（即买卖公司股票和货币的场所）设总经理，由国务院证券监督管理机构聘任或者解聘。",
+      "insert术语翻译": [
+         "证券交易所"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "第一百条 证券交易所设总经理，由国务院证券监督管理机构聘任或者解聘。",
+      "原句翻译去括号": "第一百条 证券交易所设总经理，由国务院证券监督管理机构聘任或者解聘。",
+      "insert和原句翻译去括号部分相似度": [
+         1.0000001192092896
+      ],
+      "替换变异": [
+         "Article 100. A stock company is provided with a general manager, who is appointed or dismissed by the securities regulatory body of the State Council.",
+         "Article 100. A stock market is provided with a general manager, who is appointed or dismissed by the securities regulatory body of the State Council."
+      ],
+      "替换术语": [
+         "stock company",
+         "stock market"
+      ],
+      "替换翻译": [
+         "第一百条 股份有限公司设总经理，由国务院证券监督管理机构聘任或者解聘。",
+         "第一百条 股票市场设总经理，由国务院证券监督管理机构聘任或者解聘。"
+      ],
+      "替换术语翻译": [
+         "股份有限公司",
+         "股票市场"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.5926637053489685,
+         0.7112411856651306
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "(3) An integrated circuit speciment incorporating a layout-design if put into commercial exploitation; and": {
+      "序号": 85,
+      "原句": "(3) An integrated circuit speciment incorporating a layout-design if put into commercial exploitation; and",
+      "术语": "integrated circuit",
+      "原句翻译": "（三）投入商业利用的包含布图设计的集成电路样品；和",
+      "原句术语翻译": [
+         "集成电路"
+      ],
+      "insert变异": "(3) An integrated circuit (a thin chip, usually of silicon, consisting of at least two interconnected semiconductor devices, mainly transistors) speciment incorporating a layout-design if put into commercial exploitation; and",
+      "insert变异翻译": "（3）集成电路（通常由硅制成，由至少两个相互连接的半导体器件（主要是晶体管）组成的薄芯片）样本，其中包含了布图设计，如果投入商业利用；以及",
+      "insert术语翻译": [
+         "集成电路"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "集成电路样本，其中包含了布图设计，如果投入商业利用；以及",
+      "原句翻译去括号": "投入商业利用的包含布图设计的集成电路样品；和",
+      "insert和原句翻译去括号部分相似度": [
+         0.8915390968322754
+      ],
+      "替换变异": [
+         "(3) An integrated design speciment incorporating a layout-design if put into commercial exploitation; and"
+      ],
+      "替换术语": [
+         "integrated design"
+      ],
+      "替换翻译": [
+         "（3）包含布图设计的整体设计样本，投入商业利用的；"
+      ],
+      "替换术语翻译": [
+         "整体设计"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.4005603790283203
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "Article 18 The state shall adopt a system of eliminating backward equipment that produces serious environmental noise pollution.": {
+      "序号": 86,
+      "原句": "Article 18 The state shall adopt a system of eliminating backward equipment that produces serious environmental noise pollution.",
+      "术语": "noise pollution",
+      "原句翻译": "第十八条 国家实行淘汰产生环境噪声污染严重的落后设备制度。",
+      "原句术语翻译": [
+         "噪声污染。"
+      ],
+      "insert变异": "Article 18 The state shall adopt a system of eliminating backward equipment that produces serious environmental noise pollution (excess noise which is unpleasant or harmful).",
+      "insert变异翻译": "第十八条 国家对产生严重环境噪声污染（产生令人不愉快或者有害的超标噪声）的落后设备实行淘汰制度。",
+      "insert术语翻译": [
+         "噪声污染。"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "第十八条 国家对产生严重环境噪声污染的落后设备实行淘汰制度。",
+      "原句翻译去括号": "第十八条 国家实行淘汰产生环境噪声污染严重的落后设备制度。",
+      "insert和原句翻译去括号部分相似度": [
+         0.986480176448822
+      ],
+      "替换变异": [
+         "Article 18 The state shall adopt a system of eliminating backward equipment that produces serious environmental air pollution."
+      ],
+      "替换术语": [
+         "air pollution"
+      ],
+      "替换翻译": [
+         "第十八条 国家实行淘汰严重环境大气污染的落后设备制度。"
+      ],
+      "替换术语翻译": [
+         "大气污染。"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7886629700660706
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "Article 7 The following conditions shall be satisfied in the application for establishing an insurance company:": {
+      "序号": 87,
+      "原句": "Article 7 The following conditions shall be satisfied in the application for establishing an insurance company:",
+      "术语": "insurance company",
+      "原句翻译": "第七条 申请设立保险公司，应当具备下列条件：",
+      "原句术语翻译": [
+         "保险公司："
+      ],
+      "insert变异": "Article 7 The following conditions shall be satisfied in the application for establishing an insurance company (a company that provides insurance policies):",
+      "insert变异翻译": "第七条 申请设立保险公司（保险产品公司），应当具备下列条件：",
+      "insert术语翻译": [
+         "保险公司："
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "第七条 申请设立保险公司，应当具备下列条件：",
+      "原句翻译去括号": "第七条 申请设立保险公司，应当具备下列条件：",
+      "insert和原句翻译去括号部分相似度": [
+         1.0
+      ],
+      "替换变异": [
+         "Article 7 The following conditions shall be satisfied in the application for establishing an insurance scheme:"
+      ],
+      "替换术语": [
+         "insurance scheme"
+      ],
+      "替换翻译": [
+         "第七条 申请设立保险计划，应当具备下列条件："
+      ],
+      "替换术语翻译": [
+         "保险计划："
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.776752233505249
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "(1) The Board may include in the amount of an award interest at the rate specified in subsection (4) on the whole or any part of the period between the date when the cause of action arose and the date of the award.": {
+      "序号": 88,
+      "原句": "(1) The Board may include in the amount of an award interest at the rate specified in subsection (4) on the whole or any part of the period between the date when the cause of action arose and the date of the award.",
+      "术语": "cause of action",
+      "原句翻译": "(1) 委员会可按照第 (4) 款规定的利率，在裁决金额中计入自诉讼原因产生之日起至裁决作出之日期间的全部或部分时间的利息。",
+      "原句术语翻译": [
+         "诉讼原因"
+      ],
+      "insert变异": "(1) The Board may include in the amount of an award interest at the rate specified in subsection (4) on the whole or any part of the period between the date when the cause of action (a condition under which one party would be entitled to sue another) arose and the date of the award.",
+      "insert变异翻译": "(1) 委员会可按照第 (4) 款规定的利率，在裁决金额中计入从诉因（一方当事人有权起诉另一方的条件）发生之日起至裁决作出之日止的全部或部分期间的利息。",
+      "insert术语翻译": [
+         "从诉因"
+      ],
+      "insert和原句术语翻译相似度": [
+         0.7954349517822266
+      ],
+      "insert变异翻译去括号": " 委员会可按照第 款规定的利率，在裁决金额中计入从诉因发生之日起至裁决作出之日止的全部或部分期间的利息。",
+      "原句翻译去括号": " 委员会可按照第 款规定的利率，在裁决金额中计入自诉讼原因产生之日起至裁决作出之日期间的全部或部分时间的利息。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9876562356948853
+      ],
+      "替换变异": [
+         "(1) The Board may include in the amount of an award interest at the rate specified in subsection (4) on the whole or any part of the period between the date when the date of action arose and the date of the award.",
+         "(1) The Board may include in the amount of an award interest at the rate specified in subsection (4) on the whole or any part of the period between the date when the cause of award arose and the date of the award."
+      ],
+      "替换术语": [
+         "date of action",
+         "cause of award"
+      ],
+      "替换翻译": [
+         "(1) 委员会可按照第 (4) 款规定的利率，在裁决金额中计入从诉讼发生之日起至裁决作出之日期间的全部或部分时间的利息。",
+         "(1) 委员会可按照第 (4) 款规定的利率，在裁决金额中计入从裁决原因产生之日起至裁决生效之日止全部或部分期间的利息。"
+      ],
+      "替换术语翻译": [
+         "诉讼",
+         "裁决原因"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7955210208892822,
+         0.767431914806366
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "unless that person has first had an opportunity to leave the Republic of the Philippines or Hong Kong, as the case may be, and has not done so within forty-five days of having been free to leave or has returned after having left.": {
+      "序号": 89,
+      "原句": "unless that person has first had an opportunity to leave the Republic of the Philippines or Hong Kong, as the case may be, and has not done so within forty-five days of having been free to leave or has returned after having left.",
+      "术语": "Republic of the Philippines",
+      "原句翻译": "除非该人先前有机会离开菲律宾共和国或香港，但在自由离开后四十五天内没有这样做，或在离开后返回。",
+      "原句术语翻译": [
+         "菲律宾共和国"
+      ],
+      "insert变异": "unless that person has first had an opportunity to leave the Republic of the Philippines (official name for Philippines) or Hong Kong, as the case may be, and has not done so within forty-five days of having been free to leave or has returned after having left.",
+      "insert变异翻译": "除非该人先前有机会离开菲律宾共和国（菲律宾的正式名称）或香港（视情况而定），但在自由离开后四十五天内没有这样做，或在离开后返回。",
+      "insert术语翻译": [
+         "菲律宾共和国"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "除非该人先前有机会离开菲律宾共和国或香港，但在自由离开后四十五天内没有这样做，或在离开后返回。",
+      "原句翻译去括号": "除非该人先前有机会离开菲律宾共和国或香港，但在自由离开后四十五天内没有这样做，或在离开后返回。",
+      "insert和原句翻译去括号部分相似度": [
+         1.0000001192092896
+      ],
+      "替换变异": [
+         "unless that person has first had an opportunity to leave the territory of the Philippines or Hong Kong, as the case may be, and has not done so within forty-five days of having been free to leave or has returned after having left.",
+         "unless that person has first had an opportunity to leave the country of the Philippines or Hong Kong, as the case may be, and has not done so within forty-five days of having been free to leave or has returned after having left.",
+         "unless that person has first had an opportunity to leave the island of the Philippines or Hong Kong, as the case may be, and has not done so within forty-five days of having been free to leave or has returned after having left."
+      ],
+      "替换术语": [
+         "territory of the Philippines",
+         "country of the Philippines",
+         "island of the Philippines"
+      ],
+      "替换翻译": [
+         "除非该人事先有机会离开菲律宾或香港领土，但在自由离开后四十五天内没有这样做，或在离开后返回。",
+         "除非该人先前有机会离开菲律宾或香港，但在自由离开后四十五天内没有这样做，或在离开后返回。",
+         "除非该人先前有机会离开菲律宾岛或香港，但在自由离开后四十五天内没有这样做，或在离开后返回。"
+      ],
+      "替换术语翻译": [
+         "菲律宾领土",
+         "菲律宾",
+         "菲律宾岛"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7629835605621338,
+         0.8283104300498962,
+         0.7893243432044983
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "Article 4 A contractual JV may be one with or without the Chinese legal person status.": {
+      "序号": 90,
+      "原句": "Article 4 A contractual JV may be one with or without the Chinese legal person status.",
+      "术语": "legal person",
+      "原句翻译": "第四条 合作企业可以为中国法人企业，也可以为非中国法人企业。",
+      "原句术语翻译": [
+         "法人"
+      ],
+      "insert变异": "Article 4 A contractual JV may be one with or without the Chinese legal person (an aggregate of people, legal entity, or body corporate who have (some of) the legal rights and responsibilities of a natural person under the law) status.",
+      "insert变异翻译": "第四条 合作企业可以是中国法人（依法享有自然人法定权利和承担自然人义务的个人、法人或法人团体的集合体）企业。",
+      "insert术语翻译": [
+         "法人"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "第四条 合作企业可以是中国法人企业。",
+      "原句翻译去括号": "第四条 合作企业可以为中国法人企业，也可以为非中国法人企业。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9483656883239746
+      ],
+      "替换变异": [
+         "Article 4 A contractual JV may be one with or without the Chinese legal tender status."
+      ],
+      "替换术语": [
+         "legal tender"
+      ],
+      "替换翻译": [
+         "第四条 合作企业可以是具有中国法定货币地位的合作企业，也可以是具有中国法定货币地位的合作企业。"
+      ],
+      "替换术语翻译": [
+         "法定货币"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.5484647750854492
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "(5) The sleeping accommodation of at least one radio officer shall be situated as near as practicable to the radiotelegraph operating room.": {
+      "序号": 92,
+      "原句": "(5) The sleeping accommodation of at least one radio officer shall be situated as near as practicable to the radiotelegraph operating room.",
+      "术语": "operating room",
+      "原句翻译": "(5) 至少一名无线电操作员的宿舍应尽可能靠近无线电报操作室。",
+      "原句术语翻译": [
+         "操作室。"
+      ],
+      "insert变异": "(5) The sleeping accommodation of at least one radio officer shall be situated as near as practicable to the radiotelegraph operating room (a room in a hospital used for performing surgical operations).",
+      "insert变异翻译": "(5) 至少一名无线电通讯员的宿舍应尽可能靠近无线电报操作室(医院内用于进行外科手术的房间)。",
+      "insert术语翻译": [
+         "操作室。"
+      ],
+      "insert和原句术语翻译相似度": [
+         0.9999999403953552
+      ],
+      "insert变异翻译去括号": " 至少一名无线电通讯员的宿舍应尽可能靠近无线电报操作室。",
+      "原句翻译去括号": " 至少一名无线电操作员的宿舍应尽可能靠近无线电报操作室。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9852609634399414
+      ],
+      "替换变异": [
+         "(5) The sleeping accommodation of at least one radio officer shall be situated as near as practicable to the radiotelegraph control room.",
+         "(5) The sleeping accommodation of at least one radio officer shall be situated as near as practicable to the radiotelegraph operating area.",
+         "(5) The sleeping accommodation of at least one radio officer shall be situated as near as practicable to the radiotelegraph operating station."
+      ],
+      "替换术语": [
+         "control room",
+         "operating area",
+         "operating station"
+      ],
+      "替换翻译": [
+         "(5) 至少一名无线电操作员的宿舍应尽可能靠近无线电报控制室。",
+         "(5) 至少一名无线电操作员的宿舍应尽可能靠近无线电报操作区。",
+         "(5) 至少一名无线电操作员的宿舍应尽可能靠近无线电报操作站。"
+      ],
+      "替换术语翻译": [
+         "控制室。",
+         "操作区。",
+         "操作站。"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.8374508023262024,
+         0.8644388318061829,
+         0.8881776928901672
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "(1) Notwithstanding any rule of law to the contrary, an appellant may begin and carry on an appeal in the court under this Part by a solicitor or in person.": {
+      "序号": 93,
+      "原句": "(1) Notwithstanding any rule of law to the contrary, an appellant may begin and carry on an appeal in the court under this Part by a solicitor or in person.",
+      "术语": "rule of law",
+      "原句翻译": "(1) 尽管有任何相反的法律规则，上诉人可以由律师或亲自根据本部分向法院提出并进行上诉。",
+      "原句术语翻译": [
+         "的法律规则"
+      ],
+      "insert变异": "(1) Notwithstanding any rule of law (see: rule, law) to the contrary, an appellant may begin and carry on an appeal in the court under this Part by a solicitor or in person.",
+      "insert变异翻译": "（1） 尽管有任何相反的法律规则（参见：规则、法律），上诉人可以根据本部分通过律师或亲自向法院提起和进行上诉。",
+      "insert术语翻译": [
+         "的法律规则"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": " 尽管有任何相反的法律规则，上诉人可以根据本部分通过律师或亲自向法院提起和进行上诉。",
+      "原句翻译去括号": " 尽管有任何相反的法律规则，上诉人可以由律师或亲自根据本部分向法院提出并进行上诉。",
+      "insert和原句翻译去括号部分相似度": [
+         0.985626220703125
+      ],
+      "替换变异": [
+         "(1) Notwithstanding any provision of law to the contrary, an appellant may begin and carry on an appeal in the court under this Part by a solicitor or in person.",
+         "(1) Notwithstanding any breach of law to the contrary, an appellant may begin and carry on an appeal in the court under this Part by a solicitor or in person.",
+         "(1) Notwithstanding any rule of evidence to the contrary, an appellant may begin and carry on an appeal in the court under this Part by a solicitor or in person.",
+         "(1) Notwithstanding any rule of fact to the contrary, an appellant may begin and carry on an appeal in the court under this Part by a solicitor or in person."
+      ],
+      "替换术语": [
+         "provision of law",
+         "breach of law",
+         "rule of evidence",
+         "rule of fact"
+      ],
+      "替换翻译": [
+         "（1）即使法律有任何相反规定，上诉人可以根据本部分通过律师或亲自向法院提起和进行上诉。",
+         "（1）即使有任何相反的法律规定，上诉人仍可以根据本部分通过律师或亲自向法院提起和进行上诉。",
+         "（1）即使有任何相反的证据规则，上诉人可以根据本部分通过律师或亲自向法院提起和进行上诉。",
+         "（1）即使事实规则有相反规定，上诉人仍可根据本部分通过律师或亲自向法院提起和进行上诉。"
+      ],
+      "替换术语翻译": [
+         "法律规定",
+         "的法律",
+         "的证据规则",
+         "事实规定"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.8283427357673645,
+         0.8356771469116211,
+         0.7517507076263428,
+         0.6478661894798279
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "(b) such notice would have been delivered to the company in due course of post not less than 6 weeks before the date of the statutory declaration,": {
+      "序号": 94,
+      "原句": "(b) such notice would have been delivered to the company in due course of post not less than 6 weeks before the date of the statutory declaration,",
+      "术语": "statutory declaration",
+      "原句翻译": "(b) 该通知应在法定声明日期前不少于 6 周的适当邮寄时间送达公司，",
+      "原句术语翻译": [
+         "法定声明，"
+      ],
+      "insert变异": "(b) such notice would have been delivered to the company in due course of post not less than 6 weeks before the date of the statutory declaration (a legal document that is affirmed rather than being sworn under oath),",
+      "insert变异翻译": "(b) 该通知应在法定声明（经确认而非宣誓的法律文件）日期前至少 6 周通过邮递方式送达公司，",
+      "insert术语翻译": [
+         "法定声明，"
+      ],
+      "insert和原句术语翻译相似度": [
+         0.9999998211860657
+      ],
+      "insert变异翻译去括号": " 该通知应在法定声明日期前至少 6 周通过邮递方式送达公司，",
+      "原句翻译去括号": " 该通知应在法定声明日期前不少于 6 周的适当邮寄时间送达公司，",
+      "insert和原句翻译去括号部分相似度": [
+         0.9747523069381714
+      ],
+      "替换变异": [
+         "(b) such notice would have been delivered to the company in due course of post not less than 6 weeks before the date of the statutory notice,",
+         "(b) such notice would have been delivered to the company in due course of post not less than 6 weeks before the date of the statutory date,"
+      ],
+      "替换术语": [
+         "statutory notice",
+         "statutory date"
+      ],
+      "替换翻译": [
+         "(b) 该通知应在法定通知之日前至少 6 周通过邮递方式送达公司，",
+         "(b) 该通知应在法定日期前至少 6 周通过邮递方式送达公司，"
+      ],
+      "替换术语翻译": [
+         "法定通知，",
+         "法定日期，"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.820588231086731,
+         0.7222380638122559
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "Article 4 An entity applying for going through the formalities of quarantine approval (hereinafter referred to as applicant entity) shall be an entity which has the qualification of independent legal person and is able to directly conclude trade contracts or agreements with others.": {
+      "序号": 95,
+      "原句": "Article 4 An entity applying for going through the formalities of quarantine approval (hereinafter referred to as applicant entity) shall be an entity which has the qualification of independent legal person and is able to directly conclude trade contracts or agreements with others.",
+      "术语": "legal person",
+      "原句翻译": "第四条 申请办理检疫审批手续的单位（以下简称申请单位）应当是具有独立法人资格并能够与他人直接签订贸易合同或者协议的单位。",
+      "原句术语翻译": [
+         "法人资格"
+      ],
+      "insert变异": "Article 4 An entity applying for going through the formalities of quarantine approval (hereinafter referred to as applicant entity) shall be an entity which has the qualification of independent legal person (an aggregate of people, legal entity, or body corporate who have (some of) the legal rights and responsibilities of a natural person under the law) and is able to directly conclude trade contracts or agreements with others.",
+      "insert变异翻译": "第四条 申请办理检疫审批手续的单位（以下简称申请单位），应当是具有独立法人资格（依法享有自然人法定权利和责任的自然人集合体、法人或法人团体），并具有直接与他人签订贸易合同或协议的能力。",
+      "insert术语翻译": [
+         "法人资格"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0000001192092896
+      ],
+      "insert变异翻译去括号": "第四条 申请办理检疫审批手续的单位，应当是具有独立法人资格，并具有直接与他人签订贸易合同或协议的能力。",
+      "原句翻译去括号": "第四条 申请办理检疫审批手续的单位应当是具有独立法人资格并能够与他人直接签订贸易合同或者协议的单位。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9822925329208374
+      ],
+      "替换变异": [
+         "Article 4 An entity applying for going through the formalities of quarantine approval (hereinafter referred to as applicant entity) shall be an entity which has the qualification of independent legal entity and is able to directly conclude trade contracts or agreements with others.",
+         "Article 4 An entity applying for going through the formalities of quarantine approval (hereinafter referred to as applicant entity) shall be an entity which has the qualification of independent legal authority and is able to directly conclude trade contracts or agreements with others."
+      ],
+      "替换术语": [
+         "legal entity",
+         "legal authority"
+      ],
+      "替换翻译": [
+         "第四条 申请办理检疫审批手续的单位（以下简称申请单位），应当具有独立法人资格，并具有直接与他人签订贸易合同或者协议的能力。",
+         "第四条 申请办理检疫审批手续的单位（以下简称申请单位），应当是具有独立法人资格并能直接与他人签订贸易合同或者协议的单位。"
+      ],
+      "替换术语翻译": [
+         "法人资格",
+         "法人资格"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         1.0000001192092896,
+         1.0000001192092896
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         1
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         1
+      ],
+      "final_result": [
+         0,
+         0,
+         1
+      ]
+   },
+   "Article 67 In the written notice made according to the first paragraph of the preceding Article the main particulars specified on the bill of exchange shall be recorded and the fact that the said bill has been returned shall clearly be stated.": {
+      "序号": 96,
+      "原句": "Article 67 In the written notice made according to the first paragraph of the preceding Article the main particulars specified on the bill of exchange shall be recorded and the fact that the said bill has been returned shall clearly be stated.",
+      "术语": "bill of exchange",
+      "原句翻译": "第六十七条 依照前条第一款规定发出的书面通知，应当记载汇票载明的主要事项，并载明汇票被退回的情况。",
+      "原句术语翻译": [
+         "汇票"
+      ],
+      "insert变异": "Article 67 In the written notice made according to the first paragraph of the preceding Article the main particulars specified on the bill of exchange (a document demanding payment from another party, especially used in international trade) shall be recorded and the fact that the said bill has been returned shall clearly be stated.",
+      "insert变异翻译": "第六十七条 依照前条第一款规定作出的书面通知，应当记载汇票（一种向对方要求付款的文书，尤其用于国际贸易）的主要事项，并载明该汇票已被退回的事实。",
+      "insert术语翻译": [
+         "汇票"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "第六十七条 依照前条第一款规定作出的书面通知，应当记载汇票的主要事项，并载明该汇票已被退回的事实。",
+      "原句翻译去括号": "第六十七条 依照前条第一款规定发出的书面通知，应当记载汇票载明的主要事项，并载明汇票被退回的情况。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9852924942970276
+      ],
+      "替换变异": [
+         "Article 67 In the written notice made according to the first paragraph of the preceding Article the main particulars specified on the bill of return shall be recorded and the fact that the said bill has been returned shall clearly be stated."
+      ],
+      "替换术语": [
+         "bill of return"
+      ],
+      "替换翻译": [
+         "第六十七条 依照前条第一款规定作出的书面通知，应当记载退回令状的主要事项，并载明该令状已经退回的事实。"
+      ],
+      "替换术语翻译": [
+         "退回令状"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.42439526319503784
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "Cashmere is a vital aspect of China’s high-grade wool textiles, and is a major foreign exchange-earning export item.It is also an important source of income for herdsman in the primary production areas of cashmere.": {
+      "序号": 97,
+      "原句": "Cashmere is a vital aspect of China’s high-grade wool textiles, and is a major foreign exchange-earning export item.It is also an important source of income for herdsman in the primary production areas of cashmere.",
+      "术语": "foreign exchange",
+      "原句翻译": "羊绒是我国高档毛纺织品的重要原料，是我国重要的出口创汇产品，也是羊绒主产区牧民的重要收入来源。",
+      "原句术语翻译": [
+         "出口创汇"
+      ],
+      "insert变异": "Cashmere is a vital aspect of China’s high-grade wool textiles, and is a major foreign exchange (foreign currency)-earning export item.It is also an important source of income for herdsman in the primary production areas of cashmere.",
+      "insert变异翻译": "羊绒是我国高档毛纺织品的重要原料和主要出口创汇产品，也是羊绒主产区牧民的重要收入来源。",
+      "insert术语翻译": [
+         "出口创汇"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "羊绒是我国高档毛纺织品的重要原料和主要出口创汇产品，也是羊绒主产区牧民的重要收入来源。",
+      "原句翻译去括号": "羊绒是我国高档毛纺织品的重要原料，是我国重要的出口创汇产品，也是羊绒主产区牧民的重要收入来源。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9906781911849976
+      ],
+      "替换变异": [
+         "Cashmere is a vital aspect of China’s high-grade wool textiles, and is a major foreign income-earning export item.It is also an important source of income for herdsman in the primary production areas of cashmere.",
+         "Cashmere is a vital aspect of China’s high-grade wool textiles, and is a major foreign wage-earning export item.It is also an important source of income for herdsman in the primary production areas of cashmere."
+      ],
+      "替换术语": [
+         "foreign income",
+         "foreign wage"
+      ],
+      "替换翻译": [
+         "羊绒是我国高档毛纺织品的重要原料，是我国重要的出口创汇产品，也是羊绒主产区牧民的重要收入来源。",
+         "羊绒是我国高档毛纺织品的重要原料，是我国重要的外商投资出口商品，也是羊绒主产区牧民的重要收入来源。"
+      ],
+      "替换术语翻译": [
+         "出口创汇",
+         "外商投资"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         1.0,
+         0.6414148211479187
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         1
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         1
+      ],
+      "final_result": [
+         0,
+         0,
+         1
+      ]
+   },
+   "5. The company shall not take any deposit in Hong Kong unless it is denominated and repayable in a currency other than the Hong Kong dollar.": {
+      "序号": 98,
+      "原句": "5. The company shall not take any deposit in Hong Kong unless it is denominated and repayable in a currency other than the Hong Kong dollar.",
+      "术语": "Hong Kong dollar",
+      "原句翻译": "5. 公司不得在香港接受任何存款，除非该存款是以港币以外的货币计价及偿还的。",
+      "原句术语翻译": [
+         "港币。"
+      ],
+      "insert变异": "5. The company shall not take any deposit in Hong Kong unless it is denominated and repayable in a currency other than the Hong Kong dollar (the currency of SAR Hong Kong).",
+      "insert变异翻译": "5. 公司不得在香港接受任何存款，除非该存款是以港币（香港特别行政区的货币）以外的货币计价及偿还的。",
+      "insert术语翻译": [
+         "港币。"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "5. 公司不得在香港接受任何存款，除非该存款是以港币以外的货币计价及偿还的。",
+      "原句翻译去括号": "5. 公司不得在香港接受任何存款，除非该存款是以港币以外的货币计价及偿还的。",
+      "insert和原句翻译去括号部分相似度": [
+         1.0
+      ],
+      "替换变异": [
+         "5. The company shall not take any deposit in Hong Kong unless it is denominated and repayable in a currency other than the Hong Kong pound."
+      ],
+      "替换术语": [
+         "Hong Kong pound"
+      ],
+      "替换翻译": [
+         "5. 公司不得在香港接受任何存款，除非该存款是以港币以外的货币计价及偿还的。"
+      ],
+      "替换术语翻译": [
+         "港币。"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         1.0
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         1
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         1
+      ],
+      "final_result": [
+         0,
+         0,
+         1
+      ]
+   }
+}

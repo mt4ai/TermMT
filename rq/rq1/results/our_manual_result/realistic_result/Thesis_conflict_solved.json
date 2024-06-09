@@ -1,0 +1,2570 @@
+{
+   "2 ABT rooting powder(100×10 -6 ～200×10 -6 )to treat the cutting wood of rubber tree,etc. for half an hour can make the rooting rate reach 90%～98%. Applying No.": {
+      "序号": 0,
+      "原句": "2 ABT rooting powder(100×10 -6 ～200×10 -6 )to treat the cutting wood of rubber tree,etc. for half an hour can make the rooting rate reach 90%～98%. Applying No.",
+      "术语": "rubber tree",
+      "insert变异": "2 ABT rooting powder(100×10 -6 ～200×10 -6 )to treat the cutting wood of rubber tree (a tropical South American tree, Hevea brasiliensis, the principal source of natural rubber),etc. for half an hour can make the rooting rate reach 90%～98%. Applying No.",
+      "替换变异": [
+         "2 ABT rooting powder(100×10 -6 ～200×10 -6 )to treat the cutting wood of a tree,etc. for half an hour can make the rooting rate reach 90%～98%. Applying No."
+      ],
+      "替换术语": [
+         "a tree"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Applied anatomy for the resection approach of glossopharyngeal nerve and tympanic nerve": {
+      "序号": 1,
+      "原句": "Applied anatomy for the resection approach of glossopharyngeal nerve and tympanic nerve",
+      "术语": "glossopharyngeal nerve",
+      "insert变异": "Applied anatomy for the resection approach of glossopharyngeal nerve (either of the ninth pair of cranial nerves which are mixed nerves that exit the brainstem from the sides of the upper medulla oblongata, carry afferent sensory and efferent motor information, and supply the pharynx, posterior tongue, and parotid gland) and tympanic nerve",
+      "替换变异": [
+         "Applied anatomy for the resection approach of glossopharyngeal muscle and tympanic nerve",
+         "Applied anatomy for the resection approach of glossopharyngeal artery and tympanic nerve",
+         "Applied anatomy for the resection approach of glossopharyngeal bone and tympanic nerve"
+      ],
+      "替换术语": [
+         "glossopharyngeal muscle",
+         "glossopharyngeal artery",
+         "glossopharyngeal bone"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Objective To evaluate the efficacy and toxicity of docetaxel plus pirarubicin(THP) in the neoadjuvant chemotherapy of locally advanced breast cancer(LABC).": {
+      "序号": 2,
+      "原句": "Objective To evaluate the efficacy and toxicity of docetaxel plus pirarubicin(THP) in the neoadjuvant chemotherapy of locally advanced breast cancer(LABC).",
+      "术语": "breast cancer",
+      "insert变异": "Objective To evaluate the efficacy and toxicity of docetaxel plus pirarubicin(THP) in the neoadjuvant chemotherapy of locally advanced breast cancer (cancer of the breast)(LABC).",
+      "替换变异": [
+         "Objective To evaluate the efficacy and toxicity of docetaxel plus pirarubicin(THP) in the neoadjuvant chemotherapy of locally advanced liver cancer(LABC).",
+         "Objective To evaluate the efficacy and toxicity of docetaxel plus pirarubicin(THP) in the neoadjuvant chemotherapy of locally advanced lung cancer(LABC)."
+      ],
+      "替换术语": [
+         "liver cancer",
+         "lung cancer"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "In our experimental teaching of organic chemistry, a way has been worked out to systhesize a kind of Pase Transfer Catalyst, which has improved the systhetic reaction of hexanedioic acid .": {
+      "序号": 3,
+      "原句": "In our experimental teaching of organic chemistry, a way has been worked out to systhesize a kind of Pase Transfer Catalyst, which has improved the systhetic reaction of hexanedioic acid .",
+      "术语": "organic chemistry",
+      "insert变异": "In our experimental teaching of organic chemistry (the chemistry of organic compounds, Category:en:Carbon), a way has been worked out to systhesize a kind of Pase Transfer Catalyst, which has improved the systhetic reaction of hexanedioic acid .",
+      "替换变异": [
+         "In our experimental teaching of organic synthesis, a way has been worked out to systhesize a kind of Pase Transfer Catalyst, which has improved the systhetic reaction of hexanedioic acid ."
+      ],
+      "替换术语": [
+         "organic synthesis"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "METHODS: Cerebral ischemia-reperfusion injury was induced by 90min of middle cerebral artery (MCA) occlusion and followed by 2, 6, 12, 24, 72h reperfusion. Puerarin or saline was ip injected 1h before MCA occlusion and per-six hour post-reperfusion.": {
+      "序号": 4,
+      "原句": "METHODS: Cerebral ischemia-reperfusion injury was induced by 90min of middle cerebral artery (MCA) occlusion and followed by 2, 6, 12, 24, 72h reperfusion. Puerarin or saline was ip injected 1h before MCA occlusion and per-six hour post-reperfusion.",
+      "术语": "cerebral artery",
+      "insert变异": "METHODS: Cerebral ischemia-reperfusion injury was induced by 90min of middle cerebral artery (any of the arteries supplying the cerebral cortex) (MCA) occlusion and followed by 2, 6, 12, 24, 72h reperfusion. Puerarin or saline was ip injected 1h before MCA occlusion and per-six hour post-reperfusion.",
+      "替换变异": [
+         "METHODS: Cerebral ischemia-reperfusion injury was induced by 90min of middle cerebral hemisphere (MCA) occlusion and followed by 2, 6, 12, 24, 72h reperfusion. Puerarin or saline was ip injected 1h before MCA occlusion and per-six hour post-reperfusion.",
+         "METHODS: Cerebral ischemia-reperfusion injury was induced by 90min of middle cerebral cortex (MCA) occlusion and followed by 2, 6, 12, 24, 72h reperfusion. Puerarin or saline was ip injected 1h before MCA occlusion and per-six hour post-reperfusion."
+      ],
+      "替换术语": [
+         "cerebral hemisphere",
+         "cerebral cortex"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "On the rule of law in crime justice of the seductive criminal investigation to drug crime": {
+      "序号": 5,
+      "原句": "On the rule of law in crime justice of the seductive criminal investigation to drug crime",
+      "术语": "rule of law",
+      "insert变异": "On the rule of law (see: rule, law) in crime justice of the seductive criminal investigation to drug crime",
+      "替换变异": [
+         "On the application of law in crime justice of the seductive criminal investigation to drug crime"
+      ],
+      "替换术语": [
+         "application of law"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "The flat-faced CRT with the screen aspect ratio of 16: 9 will become the future standard of CRTs.": {
+      "序号": 6,
+      "原句": "The flat-faced CRT with the screen aspect ratio of 16: 9 will become the future standard of CRTs.",
+      "术语": "aspect ratio",
+      "insert变异": "The flat-faced CRT with the screen aspect ratio (the ratio of an object's longest dimension to its next-longest dimension) of 16: 9 will become the future standard of CRTs.",
+      "替换变异": [
+         "The flat-faced CRT with the screen height ratio of 16: 9 will become the future standard of CRTs.",
+         "The flat-faced CRT with the screen size ratio of 16: 9 will become the future standard of CRTs."
+      ],
+      "替换术语": [
+         "height ratio",
+         "size ratio"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "It is shown that when phase fluctuation of the pump laser beam inoreses the squeezing effects in the resonance fluorescence decrese, and the region of the sub-Poisson distribution of the field in the homodyne detection of the resonance fluorescence becomes less.": {
+      "序号": 7,
+      "原句": "It is shown that when phase fluctuation of the pump laser beam inoreses the squeezing effects in the resonance fluorescence decrese, and the region of the sub-Poisson distribution of the field in the homodyne detection of the resonance fluorescence becomes less.",
+      "术语": "laser beam",
+      "insert变异": "It is shown that when phase fluctuation of the pump laser beam (the light emitted by a laser) inoreses the squeezing effects in the resonance fluorescence decrese, and the region of the sub-Poisson distribution of the field in the homodyne detection of the resonance fluorescence becomes less.",
+      "替换变异": [
+         "It is shown that when phase fluctuation of the pump electron beam inoreses the squeezing effects in the resonance fluorescence decrese, and the region of the sub-Poisson distribution of the field in the homodyne detection of the resonance fluorescence becomes less.",
+         "It is shown that when phase fluctuation of the pump laser field inoreses the squeezing effects in the resonance fluorescence decrese, and the region of the sub-Poisson distribution of the field in the homodyne detection of the resonance fluorescence becomes less."
+      ],
+      "替换术语": [
+         "electron beam",
+         "laser field"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "And then, it analysed the way of the resources-type city’s human resources development.": {
+      "序号": 8,
+      "原句": "And then, it analysed the way of the resources-type city’s human resources development.",
+      "术语": "human resources",
+      "insert变异": "And then, it analysed the way of the resources-type city’s human resources (the personnel employed in an organization) development.",
+      "替换变异": [
+         "And then, it analysed the way of the resources-type city’s human capital development."
+      ],
+      "替换术语": [
+         "human capital"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Risk Determination of Spontaneous Firing of Coal Seam with Fuzzy Mathematics": {
+      "序号": 9,
+      "原句": "Risk Determination of Spontaneous Firing of Coal Seam with Fuzzy Mathematics",
+      "术语": "coal seam",
+      "insert变异": "Risk Determination of Spontaneous Firing of Coal Seam (a stratum of coal between strata of other rocks) with Fuzzy Mathematics",
+      "替换变异": [
+         "Risk Determination of Spontaneous Firing of a Seam with Fuzzy Mathematics"
+      ],
+      "替换术语": [
+         "a Seam"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "The school year system data attribute is unitary while the credit system data attribute is multiplex by analyzing the data element attribute.": {
+      "序号": 10,
+      "原句": "The school year system data attribute is unitary while the credit system data attribute is multiplex by analyzing the data element attribute.",
+      "术语": "school year",
+      "insert变异": "The school year (the academic year of a school) system data attribute is unitary while the credit system data attribute is multiplex by analyzing the data element attribute.",
+      "替换变异": [
+         "The school credit system data attribute is unitary while the credit system data attribute is multiplex by analyzing the data element attribute."
+      ],
+      "替换术语": [
+         "school credit"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Module Access Control Panel is a key composition of accessing subsystem and service processing subsystem of RNC equipments in TD-SCDMA system. It's responsible for local services exchanging and multiplexing/de -multiplexing of data streams in accessing module and service processing module, based on ATM.": {
+      "序号": 11,
+      "原句": "Module Access Control Panel is a key composition of accessing subsystem and service processing subsystem of RNC equipments in TD-SCDMA system. It's responsible for local services exchanging and multiplexing/de -multiplexing of data streams in accessing module and service processing module, based on ATM.",
+      "术语": "control panel",
+      "insert变异": "Module Access Control Panel (a computer display offering a number of controls or options) is a key composition of accessing subsystem and service processing subsystem of RNC equipments in TD-SCDMA system. It's responsible for local services exchanging and multiplexing/de -multiplexing of data streams in accessing module and service processing module, based on ATM.",
+      "替换变异": [
+         "Module Access Control module is a key composition of accessing subsystem and service processing subsystem of RNC equipments in TD-SCDMA system. It's responsible for local services exchanging and multiplexing/de -multiplexing of data streams in accessing module and service processing module, based on ATM."
+      ],
+      "替换术语": [
+         "Control module"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "The study identifies that spheroidization of the cast iron will be significantly improved by means of proper addition of relevant alloy elements, inoculant and spheroidizing agent and appropriate casting process.": {
+      "序号": 12,
+      "原句": "The study identifies that spheroidization of the cast iron will be significantly improved by means of proper addition of relevant alloy elements, inoculant and spheroidizing agent and appropriate casting process.",
+      "术语": "cast iron",
+      "insert变异": "The study identifies that spheroidization of the cast iron (a hard and brittle, but strong, alloy of iron, carbon, and silicon, formed by casting in a mould) will be significantly improved by means of proper addition of relevant alloy elements, inoculant and spheroidizing agent and appropriate casting process.",
+      "替换变异": [
+         "The study identifies that spheroidization of the cast material will be significantly improved by means of proper addition of relevant alloy elements, inoculant and spheroidizing agent and appropriate casting process.",
+         "The study identifies that spheroidization of the cast element will be significantly improved by means of proper addition of relevant alloy elements, inoculant and spheroidizing agent and appropriate casting process."
+      ],
+      "替换术语": [
+         "cast material",
+         "cast element"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "The author used dynamic simulation software DeST for energy consumption of building, and calculated the heating air conditioner energy consumption of the whole year of three different kinds of residential construction and analyzed its energy saving effects by the two methods separately.": {
+      "序号": 13,
+      "原句": "The author used dynamic simulation software DeST for energy consumption of building, and calculated the heating air conditioner energy consumption of the whole year of three different kinds of residential construction and analyzed its energy saving effects by the two methods separately.",
+      "术语": "air conditioner",
+      "insert变异": "The author used dynamic simulation software DeST for energy consumption of building, and calculated the heating air conditioner (a machine that is used to control temperature and humidity in an enclosed space) energy consumption of the whole year of three different kinds of residential construction and analyzed its energy saving effects by the two methods separately.",
+      "替换变异": [
+         "The author used dynamic simulation software DeST for energy consumption of building, and calculated the heating air heater energy consumption of the whole year of three different kinds of residential construction and analyzed its energy saving effects by the two methods separately.",
+         "The author used dynamic simulation software DeST for energy consumption of building, and calculated the heating air filler energy consumption of the whole year of three different kinds of residential construction and analyzed its energy saving effects by the two methods separately.",
+         "The author used dynamic simulation software DeST for energy consumption of building, and calculated the heating air dryer energy consumption of the whole year of three different kinds of residential construction and analyzed its energy saving effects by the two methods separately.",
+         "The author used dynamic simulation software DeST for energy consumption of building, and calculated the heating air chiller energy consumption of the whole year of three different kinds of residential construction and analyzed its energy saving effects by the two methods separately."
+      ],
+      "替换术语": [
+         "air heater",
+         "air filler",
+         "air dryer",
+         "air chiller"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Business, no mutter big or small Because any small business may grow, the only problem is that you have not found an approach, or you have no aspirations or ideals to make it bigger.": {
+      "序号": 14,
+      "原句": "Business, no mutter big or small Because any small business may grow, the only problem is that you have not found an approach, or you have no aspirations or ideals to make it bigger.",
+      "术语": "small business",
+      "insert变异": "Business, no mutter big or small Because any small business (a privately-owned and operated business with relatively small turnover and staff numbers, typically seen as constituting part of a specific commercial or economic sector) may grow, the only problem is that you have not found an approach, or you have no aspirations or ideals to make it bigger.",
+      "替换变异": [
+         "Business, no mutter big or small Because any small company may grow, the only problem is that you have not found an approach, or you have no aspirations or ideals to make it bigger."
+      ],
+      "替换术语": [
+         "small company"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "This paper first reports the application of Auto Cad in marine biology. We used Auto Cad to draw saveral biological pictures.": {
+      "序号": 15,
+      "原句": "This paper first reports the application of Auto Cad in marine biology. We used Auto Cad to draw saveral biological pictures.",
+      "术语": "marine biology",
+      "insert变异": "This paper first reports the application of Auto Cad in marine biology (the branch of biology dealing with organisms that live in the sea). We used Auto Cad to draw saveral biological pictures.",
+      "替换变异": [
+         "This paper first reports the application of Auto Cad in marine photography. We used Auto Cad to draw saveral biological pictures."
+      ],
+      "替换术语": [
+         "marine photography"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Staring from a simple model, this article points out that one cannot simply ascribe the low efficiency of China's stock market to equity structure. Actually, both centralized and dispersive equity structure can be optimum and can lead to maximum of the value of company.": {
+      "序号": 16,
+      "原句": "Staring from a simple model, this article points out that one cannot simply ascribe the low efficiency of China's stock market to equity structure. Actually, both centralized and dispersive equity structure can be optimum and can lead to maximum of the value of company.",
+      "术语": "stock market",
+      "insert变异": "Staring from a simple model, this article points out that one cannot simply ascribe the low efficiency of China's stock market (a market for the trading of company stock) to equity structure. Actually, both centralized and dispersive equity structure can be optimum and can lead to maximum of the value of company.",
+      "替换变异": [
+         "Staring from a simple model, this article points out that one cannot simply ascribe the low efficiency of China's capital market to equity structure. Actually, both centralized and dispersive equity structure can be optimum and can lead to maximum of the value of company.",
+         "Staring from a simple model, this article points out that one cannot simply ascribe the low efficiency of China's labor market to equity structure. Actually, both centralized and dispersive equity structure can be optimum and can lead to maximum of the value of company."
+      ],
+      "替换术语": [
+         "capital market",
+         "labor market"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "This paper optimized the ethanol refluxing extraction process by the orthogonal experiment. The results said that the optimum extraction condition is 10 folds of 70% ethanol, refluxing for 3 times ,1.5h each time, pH=3; The extraction rate of chlorogenic acid is more than 92.5% .": {
+      "序号": 17,
+      "原句": "This paper optimized the ethanol refluxing extraction process by the orthogonal experiment. The results said that the optimum extraction condition is 10 folds of 70% ethanol, refluxing for 3 times ,1.5h each time, pH=3; The extraction rate of chlorogenic acid is more than 92.5% .",
+      "术语": "chlorogenic acid",
+      "insert变异": "This paper optimized the ethanol refluxing extraction process by the orthogonal experiment. The results said that the optimum extraction condition is 10 folds of 70% ethanol, refluxing for 3 times ,1.5h each time, pH=3; The extraction rate of chlorogenic acid (any of a family of phenolic carboxylic acids, found in coffee, that have antioxidant properties) is more than 92.5% .",
+      "替换变异": [
+         "This paper optimized the ethanol refluxing extraction process by the orthogonal experiment. The results said that the optimum extraction condition is 10 folds of 70% ethanol, refluxing for 3 times ,1.5h each time, pH=3; The extraction rate of chlorogenic alcohol is more than 92.5% ."
+      ],
+      "替换术语": [
+         "chlorogenic alcohol"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "There are two obvious weight loss processes in combustion curve of King grass, and twice ignition happens in combustion process of King grass.": {
+      "序号": 18,
+      "原句": "There are two obvious weight loss processes in combustion curve of King grass, and twice ignition happens in combustion process of King grass.",
+      "术语": "weight loss",
+      "insert变异": "There are two obvious weight loss (the reduction of total body mass due to loss of fluid, fat, tissue, etc.) processes in combustion curve of King grass, and twice ignition happens in combustion process of King grass.",
+      "替换变异": [
+         "There are two obvious heat loss processes in combustion curve of King grass, and twice ignition happens in combustion process of King grass.",
+         "There are two obvious ignition loss processes in combustion curve of King grass, and twice ignition happens in combustion process of King grass.",
+         "There are two obvious spark loss processes in combustion curve of King grass, and twice ignition happens in combustion process of King grass.",
+         "There are two obvious energy loss processes in combustion curve of King grass, and twice ignition happens in combustion process of King grass.",
+         "There are two obvious power loss processes in combustion curve of King grass, and twice ignition happens in combustion process of King grass.",
+         "There are two obvious weight bearing processes in combustion curve of King grass, and twice ignition happens in combustion process of King grass.",
+         "There are two obvious weight gain processes in combustion curve of King grass, and twice ignition happens in combustion process of King grass."
+      ],
+      "替换术语": [
+         "heat loss",
+         "ignition loss",
+         "spark loss",
+         "energy loss",
+         "power loss",
+         "weight bearing",
+         "weight gain"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "A Glued Joint Technology of Silicon Steel Sheet at the End of Turbogenerator Stator": {
+      "序号": 19,
+      "原句": "A Glued Joint Technology of Silicon Steel Sheet at the End of Turbogenerator Stator",
+      "术语": "silicon steel",
+      "insert变异": "A Glued Joint Technology of Silicon Steel (an alloy of iron and silicon that has important magnetic properties) Sheet at the End of Turbogenerator Stator",
+      "替换变异": [
+         "A Glued Joint Technology of a Steel Sheet at the End of Turbogenerator Stator"
+      ],
+      "替换术语": [
+         "a Steel"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "The mortgage transfer system, part of the security system, is an important legal system.": {
+      "序号": 20,
+      "原句": "The mortgage transfer system, part of the security system, is an important legal system.",
+      "术语": "legal system",
+      "insert变异": "The mortgage transfer system, part of the security system, is an important legal system (the process by which a governing body enforces the law and legal procedures).",
+      "替换变异": [
+         "The mortgage transfer system, part of the security system, is an important legal tool.",
+         "The mortgage transfer system, part of the security system, is an important legal instrument."
+      ],
+      "替换术语": [
+         "legal tool",
+         "legal instrument"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Th2 cytokine (IL-4, IL-10, IL-13, 20ng/ml) were used to incubate BAECs for 2h before stimulation with TNF-a and then co-incubated for 48h. Transcripts were detected by reverse transcription-PCR and quantitation was achieved by co-amplification of competing internal standard RNA.": {
+      "序号": 21,
+      "原句": "Th2 cytokine (IL-4, IL-10, IL-13, 20ng/ml) were used to incubate BAECs for 2h before stimulation with TNF-a and then co-incubated for 48h. Transcripts were detected by reverse transcription-PCR and quantitation was achieved by co-amplification of competing internal standard RNA.",
+      "术语": "reverse transcription",
+      "insert变异": "Th2 cytokine (IL-4, IL-10, IL-13, 20ng/ml) were used to incubate BAECs for 2h before stimulation with TNF-a and then co-incubated for 48h. Transcripts were detected by reverse transcription (the process of creating double-stranded DNA from a single-stranded RNA template (the reverse of the standard process))-PCR and quantitation was achieved by co-amplification of competing internal standard RNA.",
+      "替换变异": [
+         "Th2 cytokine (IL-4, IL-10, IL-13, 20ng/ml) were used to incubate BAECs for 2h before stimulation with TNF-a and then co-incubated for 48h. Transcripts were detected by reverse anti-PCR and quantitation was achieved by co-amplification of competing internal standard RNA."
+      ],
+      "替换术语": [
+         "reverse anti"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "The experimental results showed that the chemical reaction of the TiO 2 B 2O 3 Mg system consisted of two parts. In the first step,the elements of B and Ti were reduced by Mg powder,and secondly,the TiB 2 was formed by Chemical combination of the two monomer elements.": {
+      "序号": 22,
+      "原句": "The experimental results showed that the chemical reaction of the TiO 2 B 2O 3 Mg system consisted of two parts. In the first step,the elements of B and Ti were reduced by Mg powder,and secondly,the TiB 2 was formed by Chemical combination of the two monomer elements.",
+      "术语": "chemical reaction",
+      "insert变异": "The experimental results showed that the chemical reaction (a process, typically involving the breaking or making of interatomic bonds, in which one or more substances are changed into others) of the TiO 2 B 2O 3 Mg system consisted of two parts. In the first step,the elements of B and Ti were reduced by Mg powder,and secondly,the TiB 2 was formed by Chemical combination of the two monomer elements.",
+      "替换变异": [
+         "The experimental results showed that the chemical structure of the TiO 2 B 2O 3 Mg system consisted of two parts. In the first step,the elements of B and Ti were reduced by Mg powder,and secondly,the TiB 2 was formed by Chemical combination of the two monomer elements.",
+         "The experimental results showed that the chemical composition of the TiO 2 B 2O 3 Mg system consisted of two parts. In the first step,the elements of B and Ti were reduced by Mg powder,and secondly,the TiB 2 was formed by Chemical combination of the two monomer elements."
+      ],
+      "替换术语": [
+         "chemical structure",
+         "chemical composition"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Based on the mainstream theory holding a scorning attitude towards the women audience's affection, The paper focuses on feminism deconstruction and the rebuilding of the gender in the research on the soap opera.": {
+      "序号": 23,
+      "原句": "Based on the mainstream theory holding a scorning attitude towards the women audience's affection, The paper focuses on feminism deconstruction and the rebuilding of the gender in the research on the soap opera.",
+      "术语": "soap opera",
+      "insert变异": "Based on the mainstream theory holding a scorning attitude towards the women audience's affection, The paper focuses on feminism deconstruction and the rebuilding of the gender in the research on the soap opera (such serials in general).",
+      "替换变异": [
+         "Based on the mainstream theory holding a scorning attitude towards the women audience's affection, The paper focuses on feminism deconstruction and the rebuilding of the gender in the research on the feminist opera."
+      ],
+      "替换术语": [
+         "feminist opera"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Using a simple variation fitting method,the exciton binding energies of a sawtooth shaped quantum well are calculated as a function of an electric field,and the explanation of the results is also given.": {
+      "序号": 24,
+      "原句": "Using a simple variation fitting method,the exciton binding energies of a sawtooth shaped quantum well are calculated as a function of an electric field,and the explanation of the results is also given.",
+      "术语": "electric field",
+      "insert变异": "Using a simple variation fitting method,the exciton binding energies of a sawtooth shaped quantum well are calculated as a function of an electric field (see: electric, field),and the explanation of the results is also given.",
+      "替换变异": [
+         "Using a simple variation fitting method,the exciton binding energies of a sawtooth shaped quantum well are calculated as a function of an electric current,and the explanation of the results is also given.",
+         "Using a simple variation fitting method,the exciton binding energies of a sawtooth shaped quantum well are calculated as a function of an electric charge,and the explanation of the results is also given."
+      ],
+      "替换术语": [
+         "electric current",
+         "electric charge"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Conclusion The present study suggests that more ET 1 and TXA 2 are produced in infected nervous system. The changes of the concentations of ET 1,TXB 2 and 6 k PGF 1α in CSF may reflect the severity of cerebral lesion.": {
+      "序号": 25,
+      "原句": "Conclusion The present study suggests that more ET 1 and TXA 2 are produced in infected nervous system. The changes of the concentations of ET 1,TXB 2 and 6 k PGF 1α in CSF may reflect the severity of cerebral lesion.",
+      "术语": "nervous system",
+      "insert变异": "Conclusion The present study suggests that more ET 1 and TXA 2 are produced in infected nervous system (an organ system whose principal constituent is nervous tissue that coordinates the activities of muscles, monitors organs, constructs and processes data received from the senses and initiates actions). The changes of the concentations of ET 1,TXB 2 and 6 k PGF 1α in CSF may reflect the severity of cerebral lesion.",
+      "替换变异": [
+         "Conclusion The present study suggests that more ET 1 and TXA 2 are produced in infected nervous tissue. The changes of the concentations of ET 1,TXB 2 and 6 k PGF 1α in CSF may reflect the severity of cerebral lesion."
+      ],
+      "替换术语": [
+         "nervous tissue"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Therapeutic effect of recombinant human granulocyte-macrophage colony-stimulating factor in treating leukopenia caused by chemotherapy or radiotherapy of lung cancer": {
+      "序号": 26,
+      "原句": "Therapeutic effect of recombinant human granulocyte-macrophage colony-stimulating factor in treating leukopenia caused by chemotherapy or radiotherapy of lung cancer",
+      "术语": "lung cancer",
+      "insert变异": "Therapeutic effect of recombinant human granulocyte-macrophage colony-stimulating factor in treating leukopenia caused by chemotherapy or radiotherapy of lung cancer (cancer of the lung(s))",
+      "替换变异": [
+         "Therapeutic effect of recombinant human granulocyte-macrophage colony-stimulating factor in treating leukopenia caused by chemotherapy or radiotherapy of breast cancer",
+         "Therapeutic effect of recombinant human granulocyte-macrophage colony-stimulating factor in treating leukopenia caused by chemotherapy or radiotherapy of liver cancer"
+      ],
+      "替换术语": [
+         "breast cancer",
+         "liver cancer"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Conclusion: MRI signal - intensity ratios can reflect DNA ploidy in a certain degree. So, it can indirectly reflect the malignant biological behavior of lung cancer.": {
+      "序号": 27,
+      "原句": "Conclusion: MRI signal - intensity ratios can reflect DNA ploidy in a certain degree. So, it can indirectly reflect the malignant biological behavior of lung cancer.",
+      "术语": "lung cancer",
+      "insert变异": "Conclusion: MRI signal - intensity ratios can reflect DNA ploidy in a certain degree. So, it can indirectly reflect the malignant biological behavior of lung cancer (cancer of the lung(s)).",
+      "替换变异": [
+         "Conclusion: MRI signal - intensity ratios can reflect DNA ploidy in a certain degree. So, it can indirectly reflect the malignant biological behavior of breast cancer.",
+         "Conclusion: MRI signal - intensity ratios can reflect DNA ploidy in a certain degree. So, it can indirectly reflect the malignant biological behavior of a cancer.",
+         "Conclusion: MRI signal - intensity ratios can reflect DNA ploidy in a certain degree. So, it can indirectly reflect the malignant biological behavior of lung tissue."
+      ],
+      "替换术语": [
+         "breast cancer",
+         "a cancer",
+         "lung tissue"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "This paper constitutes the performance management system of sales people through the analysis on the status and situation of sales people.": {
+      "序号": 28,
+      "原句": "This paper constitutes the performance management system of sales people through the analysis on the status and situation of sales people.",
+      "术语": "performance management",
+      "insert变异": "This paper constitutes the performance management (the process of ensuring that organisational goals are consistently being met in an effective and efficient manner) system of sales people through the analysis on the status and situation of sales people.",
+      "替换变异": [
+         "This paper constitutes the information management system of sales people through the analysis on the status and situation of sales people.",
+         "This paper constitutes the performance evaluation system of sales people through the analysis on the status and situation of sales people.",
+         "This paper constitutes the performance assessment system of sales people through the analysis on the status and situation of sales people.",
+         "This paper constitutes the performance measurement system of sales people through the analysis on the status and situation of sales people."
+      ],
+      "替换术语": [
+         "information management",
+         "performance evaluation",
+         "performance assessment",
+         "performance measurement"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Based upon the study of CBs'underlying variables: interest rate and stock, the two-factors pricing model of CBs is derived through no-arbitrage principle.": {
+      "序号": 29,
+      "原句": "Based upon the study of CBs'underlying variables: interest rate and stock, the two-factors pricing model of CBs is derived through no-arbitrage principle.",
+      "术语": "interest rate",
+      "insert变异": "Based upon the study of CBs'underlying variables: interest rate (the percentage of an amount of money charged for its use per some period of time (often a year)) and stock, the two-factors pricing model of CBs is derived through no-arbitrage principle.",
+      "替换变异": [
+         "Based upon the study of CBs'underlying variables: exchange rate and stock, the two-factors pricing model of CBs is derived through no-arbitrage principle."
+      ],
+      "替换术语": [
+         "exchange rate"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Methods:GLC-82 cells were inoculated into the armpit of nude mice to establish lung cancer model.": {
+      "序号": 30,
+      "原句": "Methods:GLC-82 cells were inoculated into the armpit of nude mice to establish lung cancer model.",
+      "术语": "lung cancer",
+      "insert变异": "Methods:GLC-82 cells were inoculated into the armpit of nude mice to establish lung cancer (cancer of the lung(s)) model.",
+      "替换变异": [
+         "Methods:GLC-82 cells were inoculated into the armpit of nude mice to establish a cancer model.",
+         "Methods:GLC-82 cells were inoculated into the armpit of nude mice to establish lung function model."
+      ],
+      "替换术语": [
+         "a cancer",
+         "lung function"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Objective To analyze the incidence of pulmonary tuberculosis(TB)in a certain unit from 1992 to 2005,in order to give the references for preventing TB in the Army.": {
+      "序号": 31,
+      "原句": "Objective To analyze the incidence of pulmonary tuberculosis(TB)in a certain unit from 1992 to 2005,in order to give the references for preventing TB in the Army.",
+      "术语": "pulmonary tuberculosis",
+      "insert变异": "Objective To analyze the incidence of pulmonary tuberculosis (the most common form of active tuberculosis (TB) infecting the lungs, generally caused by Mycobacterium tuberculosis)(TB)in a certain unit from 1992 to 2005,in order to give the references for preventing TB in the Army.",
+      "替换变异": [
+         "Objective To analyze the incidence of pulmonary disease(TB)in a certain unit from 1992 to 2005,in order to give the references for preventing TB in the Army."
+      ],
+      "替换术语": [
+         "pulmonary disease"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "During the period of the socialist reformation of the ownership of the means of production, the party successfully accomplished the socialist reformation of private shipping enterprises.": {
+      "序号": 32,
+      "原句": "During the period of the socialist reformation of the ownership of the means of production, the party successfully accomplished the socialist reformation of private shipping enterprises.",
+      "术语": "means of production",
+      "insert变异": "During the period of the socialist reformation of the ownership of the means of production (the combination of the means of labor, such as machines, tools, and equipment, and the subject of labor used by workers to make products), the party successfully accomplished the socialist reformation of private shipping enterprises.",
+      "替换变异": [
+         "During the period of the socialist reformation of the ownership of the means of transportation, the party successfully accomplished the socialist reformation of private shipping enterprises.",
+         "During the period of the socialist reformation of the ownership of the means of transport, the party successfully accomplished the socialist reformation of private shipping enterprises.",
+         "During the period of the socialist reformation of the ownership of the means of trade, the party successfully accomplished the socialist reformation of private shipping enterprises.",
+         "During the period of the socialist reformation of the ownership of the means of navigation, the party successfully accomplished the socialist reformation of private shipping enterprises.",
+         "During the period of the socialist reformation of the ownership of the means of shipping, the party successfully accomplished the socialist reformation of private shipping enterprises."
+      ],
+      "替换术语": [
+         "means of transportation",
+         "means of transport",
+         "means of trade",
+         "means of navigation",
+         "means of shipping"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Comparative study of the situtaion on three-kind school students’ mental health from divorced families": {
+      "序号": 33,
+      "原句": "Comparative study of the situtaion on three-kind school students’ mental health from divorced families",
+      "术语": "mental health",
+      "insert变异": "Comparative study of the situtaion on three-kind school students’ mental health (one's emotional well-being, especially with reference to one's outlook on life, ability to cope with stress or the absence of a mental disorder) from divorced families",
+      "替换变异": [
+         "Comparative study of the situtaion on three-kind school students’ mental illness from divorced families"
+      ],
+      "替换术语": [
+         "mental illness"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Application of natural gamma spectroscopy logging in the west oil field prospecting.": {
+      "序号": 34,
+      "原句": "Application of natural gamma spectroscopy logging in the west oil field prospecting.",
+      "术语": "oil field",
+      "insert变异": "Application of natural gamma spectroscopy logging in the west oil field (an area under which are reserves of petroleum, especially one with productive oil wells) prospecting.",
+      "替换变异": [
+         "Application of natural gamma spectroscopy logging in the west oil shale prospecting."
+      ],
+      "替换术语": [
+         "oil shale"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Principle of measurement atmospheric temperaturepressure profile by means of microware remote sensing": {
+      "序号": 35,
+      "原句": "Principle of measurement atmospheric temperaturepressure profile by means of microware remote sensing",
+      "术语": "remote sensing",
+      "insert变异": "Principle of measurement atmospheric temperaturepressure profile by means of microware remote sensing (remote viewing)",
+      "替换变异": [
+         "Principle of measurement atmospheric temperaturepressure profile by means of microware temperature sensing"
+      ],
+      "替换术语": [
+         "temperature sensing"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Methods 34 patients with recurrent and metastatic breast cancer were treated with Navelbine in this clinical study,and 16 patients were treated by the NP(DDP+NVB)regimen,12 patients by the NA(ADM+NVB)regimen,6 patient by single-agent NVB.34 patients received above regimens for two cycles(3～4 week a cycle).": {
+      "序号": 36,
+      "原句": "Methods 34 patients with recurrent and metastatic breast cancer were treated with Navelbine in this clinical study,and 16 patients were treated by the NP(DDP+NVB)regimen,12 patients by the NA(ADM+NVB)regimen,6 patient by single-agent NVB.34 patients received above regimens for two cycles(3～4 week a cycle).",
+      "术语": "breast cancer",
+      "insert变异": "Methods 34 patients with recurrent and metastatic breast cancer (cancer of the breast) were treated with Navelbine in this clinical study,and 16 patients were treated by the NP(DDP+NVB)regimen,12 patients by the NA(ADM+NVB)regimen,6 patient by single-agent NVB.34 patients received above regimens for two cycles(3～4 week a cycle).",
+      "替换变异": [
+         "Methods 34 patients with recurrent and metastatic lung cancer were treated with Navelbine in this clinical study,and 16 patients were treated by the NP(DDP+NVB)regimen,12 patients by the NA(ADM+NVB)regimen,6 patient by single-agent NVB.34 patients received above regimens for two cycles(3～4 week a cycle)."
+      ],
+      "替换术语": [
+         "lung cancer"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Therapeutic effect on T-lymphocyte sub-population in cor-pulmonal with herbal medicine Astragalus membranaceus (xisch) Bge and ligusticum chanxiong Hort": {
+      "序号": 37,
+      "原句": "Therapeutic effect on T-lymphocyte sub-population in cor-pulmonal with herbal medicine Astragalus membranaceus (xisch) Bge and ligusticum chanxiong Hort",
+      "术语": "herbal medicine",
+      "insert变异": "Therapeutic effect on T-lymphocyte sub-population in cor-pulmonal with herbal medicine (herbalism) Astragalus membranaceus (xisch) Bge and ligusticum chanxiong Hort",
+      "替换变异": [
+         "Therapeutic effect on T-lymphocyte sub-population in cor-pulmonal with herbal tea Astragalus membranaceus (xisch) Bge and ligusticum chanxiong Hort"
+      ],
+      "替换术语": [
+         "herbal tea"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Reinvent market-oriented relations between band and enterprises, develop bond market energetically, cultivate stock market, improve current situation of endogenous financing.": {
+      "序号": 38,
+      "原句": "Reinvent market-oriented relations between band and enterprises, develop bond market energetically, cultivate stock market, improve current situation of endogenous financing.",
+      "术语": "stock market",
+      "insert变异": "Reinvent market-oriented relations between band and enterprises, develop bond market energetically, cultivate stock market (a market for the trading of company stock), improve current situation of endogenous financing.",
+      "替换变异": [
+         "Reinvent market-oriented relations between band and enterprises, develop bond market energetically, cultivate bond market, improve current situation of endogenous financing.",
+         "Reinvent market-oriented relations between band and enterprises, develop bond market energetically, cultivate credit market, improve current situation of endogenous financing.",
+         "Reinvent market-oriented relations between band and enterprises, develop bond market energetically, cultivate capital market, improve current situation of endogenous financing.",
+         "Reinvent market-oriented relations between band and enterprises, develop bond market energetically, cultivate stock exchange, improve current situation of endogenous financing."
+      ],
+      "替换术语": [
+         "bond market",
+         "credit market",
+         "capital market",
+         "stock exchange"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "The detection limit of the method is 0.2 μg/L ClO2 and the linear range is 0.3-180 μg/L. The method is highly selective, simple, sensitive and has been applied to the determination of ClO2 in tap water. The results are satisfactory.": {
+      "序号": 39,
+      "原句": "The detection limit of the method is 0.2 μg/L ClO2 and the linear range is 0.3-180 μg/L. The method is highly selective, simple, sensitive and has been applied to the determination of ClO2 in tap water. The results are satisfactory.",
+      "术语": "tap water",
+      "insert变异": "The detection limit of the method is 0.2 μg/L ClO2 and the linear range is 0.3-180 μg/L. The method is highly selective, simple, sensitive and has been applied to the determination of ClO2 in tap water (water that has come from a tap). The results are satisfactory.",
+      "替换变异": [
+         "The detection limit of the method is 0.2 μg/L ClO2 and the linear range is 0.3-180 μg/L. The method is highly selective, simple, sensitive and has been applied to the determination of ClO2 in liquid water. The results are satisfactory."
+      ],
+      "替换术语": [
+         "liquid water"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Its ideological origins are democratism and the doctrine of respecting human rights.": {
+      "序号": 40,
+      "原句": "Its ideological origins are democratism and the doctrine of respecting human rights.",
+      "术语": "human rights",
+      "insert变异": "Its ideological origins are democratism and the doctrine of respecting human rights (the set of basic rights and freedoms that all humans should be guaranteed, including the right to life and liberty, freedom of thought and expression, and equality before the law).",
+      "替换变异": [
+         "Its ideological origins are democratism and the doctrine of respecting human dignity."
+      ],
+      "替换术语": [
+         "human dignity"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Control of flow ratio for hydrogen chloride and acetylene in the production of polyethylene": {
+      "序号": 41,
+      "原句": "Control of flow ratio for hydrogen chloride and acetylene in the production of polyethylene",
+      "术语": "hydrogen chloride",
+      "insert变异": "Control of flow ratio for hydrogen chloride (an inorganic compound with the formula HCl. Forms hydrochloric acid when dissolved in water) and acetylene in the production of polyethylene",
+      "替换变异": [
+         "Control of flow ratio for sodium chloride and acetylene in the production of polyethylene",
+         "Control of flow ratio for hydrogen gas and acetylene in the production of polyethylene"
+      ],
+      "替换术语": [
+         "sodium chloride",
+         "hydrogen gas"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Methods:Nude mice Balb/CA nu were injected subcutaneously with human lung cancer cell line A549.The success rate of tumor transplantation was investigated. The size of tumor was measured and the tumorous tissue was examined pathologically.": {
+      "序号": 42,
+      "原句": "Methods:Nude mice Balb/CA nu were injected subcutaneously with human lung cancer cell line A549.The success rate of tumor transplantation was investigated. The size of tumor was measured and the tumorous tissue was examined pathologically.",
+      "术语": "lung cancer",
+      "insert变异": "Methods:Nude mice Balb/CA nu were injected subcutaneously with human lung cancer (cancer of the lung(s)) cell line A549.The success rate of tumor transplantation was investigated. The size of tumor was measured and the tumorous tissue was examined pathologically.",
+      "替换变异": [
+         "Methods:Nude mice Balb/CA nu were injected subcutaneously with human breast cancer cell line A549.The success rate of tumor transplantation was investigated. The size of tumor was measured and the tumorous tissue was examined pathologically.",
+         "Methods:Nude mice Balb/CA nu were injected subcutaneously with human lung tumor cell line A549.The success rate of tumor transplantation was investigated. The size of tumor was measured and the tumorous tissue was examined pathologically."
+      ],
+      "替换术语": [
+         "breast cancer",
+         "lung tumor"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Because of the effects created by objective factor, for instance, nature conditions， different starting points of development and spontaneous regulations, economic developments among different regions are not equal naturally, so transfer payment which is used to compensate the economic differences caused by these reasons has the character of allowance.": {
+      "序号": 43,
+      "原句": "Because of the effects created by objective factor, for instance, nature conditions， different starting points of development and spontaneous regulations, economic developments among different regions are not equal naturally, so transfer payment which is used to compensate the economic differences caused by these reasons has the character of allowance.",
+      "术语": "transfer payment",
+      "insert变异": "Because of the effects created by objective factor, for instance, nature conditions， different starting points of development and spontaneous regulations, economic developments among different regions are not equal naturally, so transfer payment (a redistribution of income in the market system initiated by a government, such as welfare, social security, etc.) which is used to compensate the economic differences caused by these reasons has the character of allowance.",
+      "替换变异": [
+         "Because of the effects created by objective factor, for instance, nature conditions， different starting points of development and spontaneous regulations, economic developments among different regions are not equal naturally, so a payment which is used to compensate the economic differences caused by these reasons has the character of allowance."
+      ],
+      "替换术语": [
+         "a payment"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "? Yehuajiao total alkaloids 250,500mg/kg could prolongate the survival time of anoxia induced by sodium nitrite,the time of decapitation's mouth breathing and the survival time induced by ligation of bilateral common corited arteries in mice.": {
+      "序号": 44,
+      "原句": "? Yehuajiao total alkaloids 250,500mg/kg could prolongate the survival time of anoxia induced by sodium nitrite,the time of decapitation's mouth breathing and the survival time induced by ligation of bilateral common corited arteries in mice.",
+      "术语": "mouth breathing",
+      "insert变异": "? Yehuajiao total alkaloids 250,500mg/kg could prolongate the survival time of anoxia induced by sodium nitrite,the time of decapitation's mouth breathing (see: breathing through the mouth) and the survival time induced by ligation of bilateral common corited arteries in mice.",
+      "替换变异": [
+         "? Yehuajiao total alkaloids 250,500mg/kg could prolongate the survival time of anoxia induced by sodium nitrite,the time of decapitation's rapid breathing and the survival time induced by ligation of bilateral common corited arteries in mice.",
+         "? Yehuajiao total alkaloids 250,500mg/kg could prolongate the survival time of anoxia induced by sodium nitrite,the time of decapitation's mouth opening and the survival time induced by ligation of bilateral common corited arteries in mice.",
+         "? Yehuajiao total alkaloids 250,500mg/kg could prolongate the survival time of anoxia induced by sodium nitrite,the time of decapitation's mouth closure and the survival time induced by ligation of bilateral common corited arteries in mice."
+      ],
+      "替换术语": [
+         "rapid breathing",
+         "mouth opening",
+         "mouth closure"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "The results showed that the favorable temperature of α-monobromination of 2,4-dichloroacetophenone was 5℃,and the favorable reaction medium was carbon tetrachloride. At these conditions,the yields of monobromide reached 93%.": {
+      "序号": 45,
+      "原句": "The results showed that the favorable temperature of α-monobromination of 2,4-dichloroacetophenone was 5℃,and the favorable reaction medium was carbon tetrachloride. At these conditions,the yields of monobromide reached 93%.",
+      "术语": "carbon tetrachloride",
+      "insert变异": "The results showed that the favorable temperature of α-monobromination of 2,4-dichloroacetophenone was 5℃,and the favorable reaction medium was carbon tetrachloride (the halogenated hydrocarbon tetrachloromethane; a toxic, nonflammable liquid, used as a solvent, formerly used in dry cleaning and in fire extinguishers). At these conditions,the yields of monobromide reached 93%.",
+      "替换变异": [
+         "The results showed that the favorable temperature of α-monobromination of 2,4-dichloroacetophenone was 5℃,and the favorable reaction medium was sodium tetrachloride. At these conditions,the yields of monobromide reached 93%.",
+         "The results showed that the favorable temperature of α-monobromination of 2,4-dichloroacetophenone was 5℃,and the favorable reaction medium was a tetrachloride. At these conditions,the yields of monobromide reached 93%."
+      ],
+      "替换术语": [
+         "sodium tetrachloride",
+         "a tetrachloride"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "The drug in 3 groups diluted with 0.9% sodium chloride to 3 mL, aerosol inhalation spray inhalation, tid, for 2 5 d.": {
+      "序号": 46,
+      "原句": "The drug in 3 groups diluted with 0.9% sodium chloride to 3 mL, aerosol inhalation spray inhalation, tid, for 2 5 d.",
+      "术语": "sodium chloride",
+      "insert变异": "The drug in 3 groups diluted with 0.9% sodium chloride (common table salt, a compound composed of equal number of sodium and chlorine atoms. Chemical formula NaCl) to 3 mL, aerosol inhalation spray inhalation, tid, for 2 5 d.",
+      "替换变异": [
+         "The drug in 3 groups diluted with 0.9% potassium chloride to 3 mL, aerosol inhalation spray inhalation, tid, for 2 5 d.",
+         "The drug in 3 groups diluted with 0.9% hydrogen chloride to 3 mL, aerosol inhalation spray inhalation, tid, for 2 5 d.",
+         "The drug in 3 groups diluted with 0.9% sodium solution to 3 mL, aerosol inhalation spray inhalation, tid, for 2 5 d.",
+         "The drug in 3 groups diluted with 0.9% sodium equivalent to 3 mL, aerosol inhalation spray inhalation, tid, for 2 5 d.",
+         "The drug in 3 groups diluted with 0.9% sodium concentration to 3 mL, aerosol inhalation spray inhalation, tid, for 2 5 d."
+      ],
+      "替换术语": [
+         "potassium chloride",
+         "hydrogen chloride",
+         "sodium solution",
+         "sodium equivalent",
+         "sodium concentration"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Forming process of auto chair based on sheet metal CNC incremental technology": {
+      "序号": 47,
+      "原句": "Forming process of auto chair based on sheet metal CNC incremental technology",
+      "术语": "sheet metal",
+      "insert变异": "Forming process of auto chair based on sheet metal (metal worked into a thin, flat sheet, used widely as construction material and raw material for a multitude of industrial products, it is thicker than foil and thinner than plate) CNC incremental technology",
+      "替换变异": [
+         "Forming process of auto chair based on sheet steel CNC incremental technology"
+      ],
+      "替换术语": [
+         "sheet steel"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Effect of Tongxinluo on expression of matrix metalloproteinase-9 in a rat model of transient middle cerebral artery occlusion": {
+      "序号": 48,
+      "原句": "Effect of Tongxinluo on expression of matrix metalloproteinase-9 in a rat model of transient middle cerebral artery occlusion",
+      "术语": "cerebral artery",
+      "insert变异": "Effect of Tongxinluo on expression of matrix metalloproteinase-9 in a rat model of transient middle cerebral artery (any of the arteries supplying the cerebral cortex) occlusion",
+      "替换变异": [
+         "Effect of Tongxinluo on expression of matrix metalloproteinase-9 in a rat model of transient middle cerebral cortex occlusion",
+         "Effect of Tongxinluo on expression of matrix metalloproteinase-9 in a rat model of transient middle cerebral lobe occlusion",
+         "Effect of Tongxinluo on expression of matrix metalloproteinase-9 in a rat model of transient middle cerebral hemisphere occlusion"
+      ],
+      "替换术语": [
+         "cerebral cortex",
+         "cerebral lobe",
+         "cerebral hemisphere"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "3. Optimization process of carbon dioxide removal, Controlling the content of surplus organic sulfur and putting forward the advanced sulfur removal process.": {
+      "序号": 49,
+      "原句": "3. Optimization process of carbon dioxide removal, Controlling the content of surplus organic sulfur and putting forward the advanced sulfur removal process.",
+      "术语": "carbon dioxide",
+      "insert变异": "3. Optimization process of carbon dioxide (the normal oxide of carbon, CO₂; a colorless, odorless gas formed during respiration and combustion and consumed by plants during photosynthesis. Category:en:Climate change Category:en:Carbon) removal, Controlling the content of surplus organic sulfur and putting forward the advanced sulfur removal process.",
+      "替换变异": [
+         "3. Optimization process of sulfur dioxide removal, Controlling the content of surplus organic sulfur and putting forward the advanced sulfur removal process."
+      ],
+      "替换术语": [
+         "sulfur dioxide"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "GPS data from the IGS global tracking network from 1994 to 2004 are reprocessed to obtain preciseGPS orbits by use of the ITRF2000 high precision global reference frame, the late geophysical models and appropri-ate error correction models,uniform orbital parameters and Earth rotation models, uniform data processing strategy.": {
+      "序号": 50,
+      "原句": "GPS data from the IGS global tracking network from 1994 to 2004 are reprocessed to obtain preciseGPS orbits by use of the ITRF2000 high precision global reference frame, the late geophysical models and appropri-ate error correction models,uniform orbital parameters and Earth rotation models, uniform data processing strategy.",
+      "术语": "data processing",
+      "insert变异": "GPS data from the IGS global tracking network from 1994 to 2004 are reprocessed to obtain preciseGPS orbits by use of the ITRF2000 high precision global reference frame, the late geophysical models and appropri-ate error correction models,uniform orbital parameters and Earth rotation models, uniform data processing (any of many techniques in which data is retrieved, stored, classified, manipulated, transmitted and/or reported in such a way as to generate information; especially such processing using computers) strategy.",
+      "替换变异": [
+         "GPS data from the IGS global tracking network from 1994 to 2004 are reprocessed to obtain preciseGPS orbits by use of the ITRF2000 high precision global reference frame, the late geophysical models and appropri-ate error correction models,uniform orbital parameters and Earth rotation models, uniform information processing strategy.",
+         "GPS data from the IGS global tracking network from 1994 to 2004 are reprocessed to obtain preciseGPS orbits by use of the ITRF2000 high precision global reference frame, the late geophysical models and appropri-ate error correction models,uniform orbital parameters and Earth rotation models, uniform data collection strategy.",
+         "GPS data from the IGS global tracking network from 1994 to 2004 are reprocessed to obtain preciseGPS orbits by use of the ITRF2000 high precision global reference frame, the late geophysical models and appropri-ate error correction models,uniform orbital parameters and Earth rotation models, uniform data acquisition strategy.",
+         "GPS data from the IGS global tracking network from 1994 to 2004 are reprocessed to obtain preciseGPS orbits by use of the ITRF2000 high precision global reference frame, the late geophysical models and appropri-ate error correction models,uniform orbital parameters and Earth rotation models, uniform data transfer strategy."
+      ],
+      "替换术语": [
+         "information processing",
+         "data collection",
+         "data acquisition",
+         "data transfer"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "The Rise of the Threat of Non-traditional Security and the Evolution of National Security Idea": {
+      "序号": 51,
+      "原句": "The Rise of the Threat of Non-traditional Security and the Evolution of National Security Idea",
+      "术语": "national security",
+      "insert变异": "The Rise of the Threat of Non-traditional Security and the Evolution of National Security (the safety of a country as managed through the exercise of economic and political power, intelligence agencies and diplomacy) Idea",
+      "替换变异": [
+         "The Rise of the Threat of Non-traditional Security and the Evolution of a Security Idea"
+      ],
+      "替换术语": [
+         "a Security"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "The stortage of the specifications in the highmay guality test is proposedcurrently, and puts forward the method of sample check in the highway engineering quality control.": {
+      "序号": 52,
+      "原句": "The stortage of the specifications in the highmay guality test is proposedcurrently, and puts forward the method of sample check in the highway engineering quality control.",
+      "术语": "quality control",
+      "insert变异": "The stortage of the specifications in the highmay guality test is proposedcurrently, and puts forward the method of sample check in the highway engineering quality control (a control, such as inspection or testing, introduced into an industrial or business process to ensure quality).",
+      "替换变异": [
+         "The stortage of the specifications in the highmay guality test is proposedcurrently, and puts forward the method of sample check in the highway engineering quality test.",
+         "The stortage of the specifications in the highmay guality test is proposedcurrently, and puts forward the method of sample check in the highway engineering quality report.",
+         "The stortage of the specifications in the highmay guality test is proposedcurrently, and puts forward the method of sample check in the highway engineering quality study.",
+         "The stortage of the specifications in the highmay guality test is proposedcurrently, and puts forward the method of sample check in the highway engineering quality assessment."
+      ],
+      "替换术语": [
+         "quality test",
+         "quality report",
+         "quality study",
+         "quality assessment"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "(4) The key technologies of the system realization has been expatiate include the vector space model, the method of Baye classifies, communications between kernel space and user space, Chinese segmentation, the text indicated, term selection, session tracking and reverting to original state,and so on.": {
+      "序号": 53,
+      "原句": "(4) The key technologies of the system realization has been expatiate include the vector space model, the method of Baye classifies, communications between kernel space and user space, Chinese segmentation, the text indicated, term selection, session tracking and reverting to original state,and so on.",
+      "术语": "vector space",
+      "insert变异": "(4) The key technologies of the system realization has been expatiate include the vector space (a set of elements called vectors, together with some field and operations called addition (mapping two vectors to a vector) and scalar multiplication (mapping a vector and an element in the field to a vector), satisfying a list of constraints) model, the method of Baye classifies, communications between kernel space and user space, Chinese segmentation, the text indicated, term selection, session tracking and reverting to original state,and so on.",
+      "替换变异": [
+         "(4) The key technologies of the system realization has been expatiate include the kernel space model, the method of Baye classifies, communications between kernel space and user space, Chinese segmentation, the text indicated, term selection, session tracking and reverting to original state,and so on.",
+         "(4) The key technologies of the system realization has been expatiate include the user space model, the method of Baye classifies, communications between kernel space and user space, Chinese segmentation, the text indicated, term selection, session tracking and reverting to original state,and so on.",
+         "(4) The key technologies of the system realization has been expatiate include the vector data model, the method of Baye classifies, communications between kernel space and user space, Chinese segmentation, the text indicated, term selection, session tracking and reverting to original state,and so on.",
+         "(4) The key technologies of the system realization has been expatiate include the vector graphics model, the method of Baye classifies, communications between kernel space and user space, Chinese segmentation, the text indicated, term selection, session tracking and reverting to original state,and so on."
+      ],
+      "替换术语": [
+         "kernel space",
+         "user space",
+         "vector data",
+         "vector graphics"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "On the evaluation method of anti-collapse for fragile Shahejie shale of Liaohe oil field": {
+      "序号": 54,
+      "原句": "On the evaluation method of anti-collapse for fragile Shahejie shale of Liaohe oil field",
+      "术语": "oil field",
+      "insert变异": "On the evaluation method of anti-collapse for fragile Shahejie shale of Liaohe oil field (an area under which are reserves of petroleum, especially one with productive oil wells)",
+      "替换变异": [
+         "On the evaluation method of anti-collapse for fragile Shahejie shale of Liaohe gas field"
+      ],
+      "替换术语": [
+         "gas field"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Then, this thesis studies how the dominant generators implement market power by the two ways of electricity withholding and block potential competitors into the market by constructing mathematic model using the qualitative, quantitative analyses and game theory.": {
+      "序号": 55,
+      "原句": "Then, this thesis studies how the dominant generators implement market power by the two ways of electricity withholding and block potential competitors into the market by constructing mathematic model using the qualitative, quantitative analyses and game theory.",
+      "术语": "game theory",
+      "insert变异": "Then, this thesis studies how the dominant generators implement market power by the two ways of electricity withholding and block potential competitors into the market by constructing mathematic model using the qualitative, quantitative analyses and game theory (a branch of applied mathematics that studies strategic situations in which individuals or organisations choose various actions in an attempt to maximize their returns).",
+      "替换变异": [
+         "Then, this thesis studies how the dominant generators implement market power by the two ways of electricity withholding and block potential competitors into the market by constructing mathematic model using the qualitative, quantitative analyses and market theory.",
+         "Then, this thesis studies how the dominant generators implement market power by the two ways of electricity withholding and block potential competitors into the market by constructing mathematic model using the qualitative, quantitative analyses and model theory."
+      ],
+      "替换术语": [
+         "market theory",
+         "model theory"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "This thesis introduces the construction process and method of PHC pipe pile and the quality control requirements,so as to ensure the construction quality of the prestressed pipe pile and meet the design and specification requirements.": {
+      "序号": 56,
+      "原句": "This thesis introduces the construction process and method of PHC pipe pile and the quality control requirements,so as to ensure the construction quality of the prestressed pipe pile and meet the design and specification requirements.",
+      "术语": "quality control",
+      "insert变异": "This thesis introduces the construction process and method of PHC pipe pile and the quality control (a control, such as inspection or testing, introduced into an industrial or business process to ensure quality) requirements,so as to ensure the construction quality of the prestressed pipe pile and meet the design and specification requirements.",
+      "替换变异": [
+         "This thesis introduces the construction process and method of PHC pipe pile and the design control requirements,so as to ensure the construction quality of the prestressed pipe pile and meet the design and specification requirements.",
+         "This thesis introduces the construction process and method of PHC pipe pile and the construction control requirements,so as to ensure the construction quality of the prestressed pipe pile and meet the design and specification requirements.",
+         "This thesis introduces the construction process and method of PHC pipe pile and the quality assurance requirements,so as to ensure the construction quality of the prestressed pipe pile and meet the design and specification requirements."
+      ],
+      "替换术语": [
+         "design control",
+         "construction control",
+         "quality assurance"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Describes recreational artificial skating rink and its design from refrigeration mode? apparatus choice? floor structure?": {
+      "序号": 57,
+      "原句": "Describes recreational artificial skating rink and its design from refrigeration mode? apparatus choice? floor structure?",
+      "术语": "skating rink",
+      "insert变异": "Describes recreational artificial skating rink (a roller-skating rink; the building that houses such a surface) and its design from refrigeration mode? apparatus choice? floor structure?",
+      "替换变异": [
+         "Describes recreational artificial skating surface and its design from refrigeration mode? apparatus choice? floor structure?",
+         "Describes recreational artificial skating ice and its design from refrigeration mode? apparatus choice? floor structure?"
+      ],
+      "替换术语": [
+         "skating surface",
+         "skating ice"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "The qualitative analysis section, according to the questionnaires and the interviews to the schoolmasters and teachers from the schools located in one District in Shanghai,states the present situation of schoolmaster's decision-making process, and describes the difference in schoolmater's decision-making process of various types.": {
+      "序号": 58,
+      "原句": "The qualitative analysis section, according to the questionnaires and the interviews to the schoolmasters and teachers from the schools located in one District in Shanghai,states the present situation of schoolmaster's decision-making process, and describes the difference in schoolmater's decision-making process of various types.",
+      "术语": "qualitative analysis",
+      "insert变异": "The qualitative analysis (the determination of the elements, functional groups or compounds present in a sample) section, according to the questionnaires and the interviews to the schoolmasters and teachers from the schools located in one District in Shanghai,states the present situation of schoolmaster's decision-making process, and describes the difference in schoolmater's decision-making process of various types.",
+      "替换变异": [
+         "The qualitative evaluation section, according to the questionnaires and the interviews to the schoolmasters and teachers from the schools located in one District in Shanghai,states the present situation of schoolmaster's decision-making process, and describes the difference in schoolmater's decision-making process of various types."
+      ],
+      "替换术语": [
+         "qualitative evaluation"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Realization of internal resistance measurement of lithium battery with auto calibration technology": {
+      "序号": 59,
+      "原句": "Realization of internal resistance measurement of lithium battery with auto calibration technology",
+      "术语": "lithium battery",
+      "insert变异": "Realization of internal resistance measurement of lithium battery (any of a group of electrical batteries that have a lithium anode; used in many portable electronic devices) with auto calibration technology",
+      "替换变异": [
+         "Realization of internal resistance measurement of lithium alloy with auto calibration technology"
+      ],
+      "替换术语": [
+         "lithium alloy"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "As viewed from culture, integration of information technology into curriculum is the course that information culture affects curriculum reformation and development, and is the course of reconstruction for new curriculum culture under the social circumstances of information culture.": {
+      "序号": 60,
+      "原句": "As viewed from culture, integration of information technology into curriculum is the course that information culture affects curriculum reformation and development, and is the course of reconstruction for new curriculum culture under the social circumstances of information culture.",
+      "术语": "information technology",
+      "insert变异": "As viewed from culture, integration of information technology (the practice of creating and/or studying computer systems and applications) into curriculum is the course that information culture affects curriculum reformation and development, and is the course of reconstruction for new curriculum culture under the social circumstances of information culture.",
+      "替换变异": [
+         "As viewed from culture, integration of information culture into curriculum is the course that information culture affects curriculum reformation and development, and is the course of reconstruction for new curriculum culture under the social circumstances of information culture."
+      ],
+      "替换术语": [
+         "information culture"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "When hoisting falling weight in mine shaft applying single barrel hoist or double barrels single hook hoist,the original electric control system TKD can not satisfy the requirement,so applying power directly brake falling load with potential energy,which makes control more reasonable and protectional function better used.": {
+      "序号": 61,
+      "原句": "When hoisting falling weight in mine shaft applying single barrel hoist or double barrels single hook hoist,the original electric control system TKD can not satisfy the requirement,so applying power directly brake falling load with potential energy,which makes control more reasonable and protectional function better used.",
+      "术语": "potential energy",
+      "insert变异": "When hoisting falling weight in mine shaft applying single barrel hoist or double barrels single hook hoist,the original electric control system TKD can not satisfy the requirement,so applying power directly brake falling load with potential energy (the energy possessed by an object because of its position (in a gravitational or electric field), or its condition (as a stretched or compressed spring, as a chemical reactant, or by having rest mass)),which makes control more reasonable and protectional function better used.",
+      "替换变异": [
+         "When hoisting falling weight in mine shaft applying single barrel hoist or double barrels single hook hoist,the original electric control system TKD can not satisfy the requirement,so applying power directly brake falling load with potential impact,which makes control more reasonable and protectional function better used."
+      ],
+      "替换术语": [
+         "potential impact"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Quantitative analysing to the present stage of city environmental noise is a basic work that control effectively city noise pollution.": {
+      "序号": 62,
+      "原句": "Quantitative analysing to the present stage of city environmental noise is a basic work that control effectively city noise pollution.",
+      "术语": "noise pollution",
+      "insert变异": "Quantitative analysing to the present stage of city environmental noise is a basic work that control effectively city noise pollution (excess noise which is unpleasant or harmful).",
+      "替换变异": [
+         "Quantitative analysing to the present stage of city environmental noise is a basic work that control effectively city air pollution.",
+         "Quantitative analysing to the present stage of city environmental noise is a basic work that control effectively city environment pollution."
+      ],
+      "替换术语": [
+         "air pollution",
+         "environment pollution"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Results Working hour distribution of the exposed workers showed:only 75% of the working hours were stayed inside the worksites,other 16.3% and 8.3% of the working hours in the rest room and living room outside the workplace respectively.": {
+      "序号": 63,
+      "原句": "Results Working hour distribution of the exposed workers showed:only 75% of the working hours were stayed inside the worksites,other 16.3% and 8.3% of the working hours in the rest room and living room outside the workplace respectively.",
+      "术语": "living room",
+      "insert变异": "Results Working hour distribution of the exposed workers showed:only 75% of the working hours were stayed inside the worksites,other 16.3% and 8.3% of the working hours in the rest room and living room (a room in a private house used for general social and leisure activities) outside the workplace respectively.",
+      "替换变异": [
+         "Results Working hour distribution of the exposed workers showed:only 75% of the working hours were stayed inside the worksites,other 16.3% and 8.3% of the working hours in the rest room and a room outside the workplace respectively."
+      ],
+      "替换术语": [
+         "a room"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "The fault location and synchronous sample error between two terminals can be solved using positive and negative two terminal voltages and currents based on the distribution parameter model of transmission line. The least-squares iterative method is employed to solve the redundancy equations.": {
+      "序号": 64,
+      "原句": "The fault location and synchronous sample error between two terminals can be solved using positive and negative two terminal voltages and currents based on the distribution parameter model of transmission line. The least-squares iterative method is employed to solve the redundancy equations.",
+      "术语": "transmission line",
+      "insert变异": "The fault location and synchronous sample error between two terminals can be solved using positive and negative two terminal voltages and currents based on the distribution parameter model of transmission line (a set of wires used for long-distance electric power transmission; a power transmission line). The least-squares iterative method is employed to solve the redundancy equations.",
+      "替换变异": [
+         "The fault location and synchronous sample error between two terminals can be solved using positive and negative two terminal voltages and currents based on the distribution parameter model of a line. The least-squares iterative method is employed to solve the redundancy equations."
+      ],
+      "替换术语": [
+         "a line"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "The complete implement of residential mortgage-backed securitization requires a process,so many things have to be solved,including constructing mortgage-backed securitization market,establishing SPV,perfecting mortgage guarantee system,cultivating organization investors,building legal system and so on.": {
+      "序号": 65,
+      "原句": "The complete implement of residential mortgage-backed securitization requires a process,so many things have to be solved,including constructing mortgage-backed securitization market,establishing SPV,perfecting mortgage guarantee system,cultivating organization investors,building legal system and so on.",
+      "术语": "legal system",
+      "insert变异": "The complete implement of residential mortgage-backed securitization requires a process,so many things have to be solved,including constructing mortgage-backed securitization market,establishing SPV,perfecting mortgage guarantee system,cultivating organization investors,building legal system (the process by which a governing body enforces the law and legal procedures) and so on.",
+      "替换变异": [
+         "The complete implement of residential mortgage-backed securitization requires a process,so many things have to be solved,including constructing mortgage-backed securitization market,establishing SPV,perfecting mortgage guarantee system,cultivating organization investors,building legal infrastructure and so on."
+      ],
+      "替换术语": [
+         "legal infrastructure"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Objective To discuss the therapeutic effects of noninvasive postitive pressure ventilation on catabasis chronic obstructive pulmonary disease (COPT) patients.": {
+      "序号": 66,
+      "原句": "Objective To discuss the therapeutic effects of noninvasive postitive pressure ventilation on catabasis chronic obstructive pulmonary disease (COPT) patients.",
+      "术语": "chronic obstructive pulmonary disease",
+      "insert变异": "Objective To discuss the therapeutic effects of noninvasive postitive pressure ventilation on catabasis chronic obstructive pulmonary disease (any of a group of diseases characterized by the pathological limitation of airflow in the airway that is not fully reversible. May be caused by reactive airways, chronic infection, congenital defects, or, most commonly, cigarette smoking. Generally does not include neoplasms, which could also obstruct airways) (COPT) patients.",
+      "替换变异": [
+         "Objective To discuss the therapeutic effects of noninvasive postitive pressure ventilation on catabasis chronic obstructive pulmonary tuberculosis (COPT) patients.",
+         "Objective To discuss the therapeutic effects of noninvasive postitive pressure ventilation on catabasis chronic obstructive pulmonary ventilation (COPT) patients.",
+         "Objective To discuss the therapeutic effects of noninvasive postitive pressure ventilation on catabasis chronic obstructive pulmonary response (COPT) patients.",
+         "Objective To discuss the therapeutic effects of noninvasive postitive pressure ventilation on catabasis chronic obstructive pulmonary syndrome (COPT) patients."
+      ],
+      "替换术语": [
+         "chronic obstructive pulmonary tuberculosis",
+         "chronic obstructive pulmonary ventilation",
+         "chronic obstructive pulmonary response",
+         "chronic obstructive pulmonary syndrome"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "The simulation and test results show that under the power supply of 3.3 V,the circuit has the gain of 117 dB and low quiescent current of 15 μA.": {
+      "序号": 67,
+      "原句": "The simulation and test results show that under the power supply of 3.3 V,the circuit has the gain of 117 dB and low quiescent current of 15 μA.",
+      "术语": "power supply",
+      "insert变异": "The simulation and test results show that under the power supply (see: power, supply) of 3.3 V,the circuit has the gain of 117 dB and low quiescent current of 15 μA.",
+      "替换变异": [
+         "The simulation and test results show that under the power band of 3.3 V,the circuit has the gain of 117 dB and low quiescent current of 15 μA."
+      ],
+      "替换术语": [
+         "power band"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "So the reform is the important method which is to build social market economy system, adapt to WTO rules, to change the functions of government, enhance the honest and clear and oversee the power.": {
+      "序号": 68,
+      "原句": "So the reform is the important method which is to build social market economy system, adapt to WTO rules, to change the functions of government, enhance the honest and clear and oversee the power.",
+      "术语": "market economy",
+      "insert变异": "So the reform is the important method which is to build social market economy (an economy in which goods and services are exchanged in a market, as opposed to a state-controlled economy) system, adapt to WTO rules, to change the functions of government, enhance the honest and clear and oversee the power.",
+      "替换变异": [
+         "So the reform is the important method which is to build social market management system, adapt to WTO rules, to change the functions of government, enhance the honest and clear and oversee the power."
+      ],
+      "替换术语": [
+         "market management"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "With a commission-agency model of the game theory and intormation economics,the multiple commission-agency relationship related with the asymmetric information problem of information market is analyzed,and it is believed that there are multiple commission-agency relationships inthe market.": {
+      "序号": 69,
+      "原句": "With a commission-agency model of the game theory and intormation economics,the multiple commission-agency relationship related with the asymmetric information problem of information market is analyzed,and it is believed that there are multiple commission-agency relationships inthe market.",
+      "术语": "game theory",
+      "insert变异": "With a commission-agency model of the game theory (a branch of applied mathematics that studies strategic situations in which individuals or organisations choose various actions in an attempt to maximize their returns) and intormation economics,the multiple commission-agency relationship related with the asymmetric information problem of information market is analyzed,and it is believed that there are multiple commission-agency relationships inthe market.",
+      "替换变异": [
+         "With a commission-agency model of the market theory and intormation economics,the multiple commission-agency relationship related with the asymmetric information problem of information market is analyzed,and it is believed that there are multiple commission-agency relationships inthe market.",
+         "With a commission-agency model of the information theory and intormation economics,the multiple commission-agency relationship related with the asymmetric information problem of information market is analyzed,and it is believed that there are multiple commission-agency relationships inthe market.",
+         "With a commission-agency model of the game economy and intormation economics,the multiple commission-agency relationship related with the asymmetric information problem of information market is analyzed,and it is believed that there are multiple commission-agency relationships inthe market."
+      ],
+      "替换术语": [
+         "market theory",
+         "information theory",
+         "game economy"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "By comparing the current situation of lady′s underwear markets in Hangzhou with the prevailing trends in 2000, it is believed that the designer and producer of the underwear should give consideration to different age brackets and health care functions, while reducing costs and prices so as to meet consumers′ demands.": {
+      "序号": 70,
+      "原句": "By comparing the current situation of lady′s underwear markets in Hangzhou with the prevailing trends in 2000, it is believed that the designer and producer of the underwear should give consideration to different age brackets and health care functions, while reducing costs and prices so as to meet consumers′ demands.",
+      "术语": "health care",
+      "insert变异": "By comparing the current situation of lady′s underwear markets in Hangzhou with the prevailing trends in 2000, it is believed that the designer and producer of the underwear should give consideration to different age brackets and health care (the prevention, treatment, and management of illness or the preservation of mental and physical well-being through the services offered by the medical, nursing, and allied health professions) functions, while reducing costs and prices so as to meet consumers′ demands.",
+      "替换变异": [
+         "By comparing the current situation of lady′s underwear markets in Hangzhou with the prevailing trends in 2000, it is believed that the designer and producer of the underwear should give consideration to different age brackets and personal care functions, while reducing costs and prices so as to meet consumers′ demands."
+      ],
+      "替换术语": [
+         "personal care"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Techniques of casting large volume reinforced concrete for the arch lining of a large span cavern": {
+      "序号": 71,
+      "原句": "Techniques of casting large volume reinforced concrete for the arch lining of a large span cavern",
+      "术语": "reinforced concrete",
+      "insert变异": "Techniques of casting large volume reinforced concrete (a building material made from Portland cement concrete with a matrix of steel bars or wires (rebars) to increase its tensile strength) for the arch lining of a large span cavern",
+      "替换变异": [
+         "Techniques of casting large volume reinforced steel for the arch lining of a large span cavern"
+      ],
+      "替换术语": [
+         "reinforced steel"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "For the transfo-rmer structure chosen, the leakage field distribution and isomagnetic linesinside the liner, the magnetic flux distribution and equi-flux lines over thewhole device, and the total inductance of the E-coils have been calculated.": {
+      "序号": 72,
+      "原句": "For the transfo-rmer structure chosen, the leakage field distribution and isomagnetic linesinside the liner, the magnetic flux distribution and equi-flux lines over thewhole device, and the total inductance of the E-coils have been calculated.",
+      "术语": "magnetic flux",
+      "insert变异": "For the transfo-rmer structure chosen, the leakage field distribution and isomagnetic linesinside the liner, the magnetic flux (a measure of the strength of a magnetic field in a given area) distribution and equi-flux lines over thewhole device, and the total inductance of the E-coils have been calculated.",
+      "替换变异": [
+         "For the transfo-rmer structure chosen, the leakage field distribution and isomagnetic linesinside the liner, the magnetic field distribution and equi-flux lines over thewhole device, and the total inductance of the E-coils have been calculated."
+      ],
+      "替换术语": [
+         "magnetic field"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Ability standard management: an important carrier for developing human resources in the modern schools": {
+      "序号": 73,
+      "原句": "Ability standard management: an important carrier for developing human resources in the modern schools",
+      "术语": "human resources",
+      "insert变异": "Ability standard management: an important carrier for developing human resources (the personnel employed in an organization) in the modern schools",
+      "替换变异": [
+         "Ability standard management: an important carrier for developing human capacity in the modern schools"
+      ],
+      "替换术语": [
+         "human capacity"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "And onthe basis of these, analyzes the realistic basis of establishing the third instanceprocedure: social development with all-around, the justness idea's transformationand some lessons and legislation cases from another countries and areas withwell-developed legal system which have established the third instance being the final.": {
+      "序号": 74,
+      "原句": "And onthe basis of these, analyzes the realistic basis of establishing the third instanceprocedure: social development with all-around, the justness idea's transformationand some lessons and legislation cases from another countries and areas withwell-developed legal system which have established the third instance being the final.",
+      "术语": "legal system",
+      "insert变异": "And onthe basis of these, analyzes the realistic basis of establishing the third instanceprocedure: social development with all-around, the justness idea's transformationand some lessons and legislation cases from another countries and areas withwell-developed legal system (the process by which a governing body enforces the law and legal procedures) which have established the third instance being the final.",
+      "替换变异": [
+         "And onthe basis of these, analyzes the realistic basis of establishing the third instanceprocedure: social development with all-around, the justness idea's transformationand some lessons and legislation cases from another countries and areas withwell-developed legal framework which have established the third instance being the final."
+      ],
+      "替换术语": [
+         "legal framework"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "1. The primary clinical symptoms of histomoniasis of turkeys were that body temperature hoisted, spirit depressed, appetite reduced, feather dishevelmented，wing and offal drooped. At the beginning, feces was watery and had brick red slime, then feces was sulfureous or brown, some times had white lithate .": {
+      "序号": 75,
+      "原句": "1. The primary clinical symptoms of histomoniasis of turkeys were that body temperature hoisted, spirit depressed, appetite reduced, feather dishevelmented，wing and offal drooped. At the beginning, feces was watery and had brick red slime, then feces was sulfureous or brown, some times had white lithate .",
+      "术语": "body temperature",
+      "insert变异": "1. The primary clinical symptoms of histomoniasis of turkeys were that body temperature (the current temperature of the body of a person or animal, especially when used as a simple guide to health) hoisted, spirit depressed, appetite reduced, feather dishevelmented，wing and offal drooped. At the beginning, feces was watery and had brick red slime, then feces was sulfureous or brown, some times had white lithate .",
+      "替换变异": [
+         "1. The primary clinical symptoms of histomoniasis of turkeys were that skin temperature hoisted, spirit depressed, appetite reduced, feather dishevelmented，wing and offal drooped. At the beginning, feces was watery and had brick red slime, then feces was sulfureous or brown, some times had white lithate .",
+         "1. The primary clinical symptoms of histomoniasis of turkeys were that body weight hoisted, spirit depressed, appetite reduced, feather dishevelmented，wing and offal drooped. At the beginning, feces was watery and had brick red slime, then feces was sulfureous or brown, some times had white lithate ."
+      ],
+      "替换术语": [
+         "skin temperature",
+         "body weight"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "In this thesis, firstly, IoC pattern and AOP rising in software engineering are briefly introduced, and the design ideas and architecture of FrameServer framework are discussed.": {
+      "序号": 76,
+      "原句": "In this thesis, firstly, IoC pattern and AOP rising in software engineering are briefly introduced, and the design ideas and architecture of FrameServer framework are discussed.",
+      "术语": "software engineering",
+      "insert变异": "In this thesis, firstly, IoC pattern and AOP rising in software engineering (the subfield of engineering concerned with applying a systematic, disciplined, quantifiable approach to the development, operation, and maintenance of software) are briefly introduced, and the design ideas and architecture of FrameServer framework are discussed.",
+      "替换变异": [
+         "In this thesis, firstly, IoC pattern and AOP rising in software development are briefly introduced, and the design ideas and architecture of FrameServer framework are discussed.",
+         "In this thesis, firstly, IoC pattern and AOP rising in software design are briefly introduced, and the design ideas and architecture of FrameServer framework are discussed."
+      ],
+      "替换术语": [
+         "software development",
+         "software design"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Methods The nail samples were washed with 2% liquid detergent and digested with 3 ml of nitric acid-perchloric acid system (2 : 1).": {
+      "序号": 77,
+      "原句": "Methods The nail samples were washed with 2% liquid detergent and digested with 3 ml of nitric acid-perchloric acid system (2 : 1).",
+      "术语": "nitric acid",
+      "insert变异": "Methods The nail samples were washed with 2% liquid detergent and digested with 3 ml of nitric acid (a transparent, colorless to pale yellow, fuming corrosive liquid, HNO3; a highly reactive oxidizing agent used in the production of fertilizers, explosives, and rocket fuels and in a wide variety of industrial processes; once called aqua fortis)-perchloric acid system (2 : 1).",
+      "替换变异": [
+         "Methods The nail samples were washed with 2% liquid detergent and digested with 3 ml of nitric oxide-perchloric acid system (2 : 1)."
+      ],
+      "替换术语": [
+         "nitric oxide"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "At 6 months follow up, the NYHA class increased from (3. 5±0.1 to 3.9±0.1, P<0.05) , 2 patients died and 10 patients rehospitalized due to aggravated heart failure.": {
+      "序号": 78,
+      "原句": "At 6 months follow up, the NYHA class increased from (3. 5±0.1 to 3.9±0.1, P<0.05) , 2 patients died and 10 patients rehospitalized due to aggravated heart failure.",
+      "术语": "heart failure",
+      "insert变异": "At 6 months follow up, the NYHA class increased from (3. 5±0.1 to 3.9±0.1, P<0.05) , 2 patients died and 10 patients rehospitalized due to aggravated heart failure (the cessation of the heartbeat; cardiac arrest).",
+      "替换变异": [
+         "At 6 months follow up, the NYHA class increased from (3. 5±0.1 to 3.9±0.1, P<0.05) , 2 patients died and 10 patients rehospitalized due to aggravated kidney failure.",
+         "At 6 months follow up, the NYHA class increased from (3. 5±0.1 to 3.9±0.1, P<0.05) , 2 patients died and 10 patients rehospitalized due to aggravated liver failure.",
+         "At 6 months follow up, the NYHA class increased from (3. 5±0.1 to 3.9±0.1, P<0.05) , 2 patients died and 10 patients rehospitalized due to aggravated heart disease."
+      ],
+      "替换术语": [
+         "kidney failure",
+         "liver failure",
+         "heart disease"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "For example, at the concentration of 600mg/kg on the basis of TP content,peroxide-inhibiting rate of LTP-10 on salad oil incubated at 60 ℃ for 15 days and at room temperature for 120 days were 71 5% and 48 7% respectively,higher than that of TP( 62 4% and 32 0% respectively).": {
+      "序号": 79,
+      "原句": "For example, at the concentration of 600mg/kg on the basis of TP content,peroxide-inhibiting rate of LTP-10 on salad oil incubated at 60 ℃ for 15 days and at room temperature for 120 days were 71 5% and 48 7% respectively,higher than that of TP( 62 4% and 32 0% respectively).",
+      "术语": "room temperature",
+      "insert变异": "For example, at the concentration of 600mg/kg on the basis of TP content,peroxide-inhibiting rate of LTP-10 on salad oil incubated at 60 ℃ for 15 days and at room temperature (a normal temperature of a room in which people live; typically 20 to 23°C (68 to 73°F); neither heated nor cooled) for 120 days were 71 5% and 48 7% respectively,higher than that of TP( 62 4% and 32 0% respectively).",
+      "替换变异": [
+         "For example, at the concentration of 600mg/kg on the basis of TP content,peroxide-inhibiting rate of LTP-10 on salad oil incubated at 60 ℃ for 15 days and at low temperature for 120 days were 71 5% and 48 7% respectively,higher than that of TP( 62 4% and 32 0% respectively).",
+         "For example, at the concentration of 600mg/kg on the basis of TP content,peroxide-inhibiting rate of LTP-10 on salad oil incubated at 60 ℃ for 15 days and at high temperature for 120 days were 71 5% and 48 7% respectively,higher than that of TP( 62 4% and 32 0% respectively)."
+      ],
+      "替换术语": [
+         "low temperature",
+         "high temperature"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "In the theory of criminal law, the penalty methods could be classified into life punishment, freedom punishment, property punishment and capacity penalty according to the contents which the penalty deprives.": {
+      "序号": 80,
+      "原句": "In the theory of criminal law, the penalty methods could be classified into life punishment, freedom punishment, property punishment and capacity penalty according to the contents which the penalty deprives.",
+      "术语": "criminal law",
+      "insert变异": "In the theory of criminal law (the area of law pertaining to crime and punishment), the penalty methods could be classified into life punishment, freedom punishment, property punishment and capacity penalty according to the contents which the penalty deprives.",
+      "替换变异": [
+         "In the theory of criminal justice, the penalty methods could be classified into life punishment, freedom punishment, property punishment and capacity penalty according to the contents which the penalty deprives.",
+         "In the theory of criminal punishment, the penalty methods could be classified into life punishment, freedom punishment, property punishment and capacity penalty according to the contents which the penalty deprives."
+      ],
+      "替换术语": [
+         "criminal justice",
+         "criminal punishment"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Erosion of ductile metal is carried out at different velocities of particles and various angles of impingement, SEM and optic microscope surveys made of single-impact crater and steady state erosion surface to investigate erosion mechanism of ductile metals.": {
+      "序号": 81,
+      "原句": "Erosion of ductile metal is carried out at different velocities of particles and various angles of impingement, SEM and optic microscope surveys made of single-impact crater and steady state erosion surface to investigate erosion mechanism of ductile metals.",
+      "术语": "impact crater",
+      "insert变异": "Erosion of ductile metal is carried out at different velocities of particles and various angles of impingement, SEM and optic microscope surveys made of single-impact crater (a crater formed by a process involving impact (not necessarily a hypervelocity one)) and steady state erosion surface to investigate erosion mechanism of ductile metals.",
+      "替换变异": [
+         "Erosion of ductile metal is carried out at different velocities of particles and various angles of impingement, SEM and optic microscope surveys made of single-crater crater and steady state erosion surface to investigate erosion mechanism of ductile metals.",
+         "Erosion of ductile metal is carried out at different velocities of particles and various angles of impingement, SEM and optic microscope surveys made of single-chamber crater and steady state erosion surface to investigate erosion mechanism of ductile metals.",
+         "Erosion of ductile metal is carried out at different velocities of particles and various angles of impingement, SEM and optic microscope surveys made of single-layer crater and steady state erosion surface to investigate erosion mechanism of ductile metals."
+      ],
+      "替换术语": [
+         "crater crater",
+         "chamber crater",
+         "layer crater"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "With Min-an Bridge of GuangXi Province as an example,the paper has a detail survey and cause analysis on the defect of double-arch bridge and presents a cast-in-place reinforcement method under the main arch rib based on the theoretic calculation result.": {
+      "序号": 82,
+      "原句": "With Min-an Bridge of GuangXi Province as an example,the paper has a detail survey and cause analysis on the defect of double-arch bridge and presents a cast-in-place reinforcement method under the main arch rib based on the theoretic calculation result.",
+      "术语": "arch bridge",
+      "insert变异": "With Min-an Bridge of GuangXi Province as an example,the paper has a detail survey and cause analysis on the defect of double-arch bridge (a bridge with abutments at each end shaped as an arch) and presents a cast-in-place reinforcement method under the main arch rib based on the theoretic calculation result.",
+      "替换变异": [
+         "With Min-an Bridge of GuangXi Province as an example,the paper has a detail survey and cause analysis on the defect of double-span bridge and presents a cast-in-place reinforcement method under the main arch rib based on the theoretic calculation result."
+      ],
+      "替换术语": [
+         "span bridge"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "On this base, the paper tries to design the frame of China's system of deposit insurance and to make suggestions for resoling possible problems when establishing the system.": {
+      "序号": 83,
+      "原句": "On this base, the paper tries to design the frame of China's system of deposit insurance and to make suggestions for resoling possible problems when establishing the system.",
+      "术语": "deposit insurance",
+      "insert变异": "On this base, the paper tries to design the frame of China's system of deposit insurance (a form of insurance that protect bank depositors, in full or in part, from losses caused by a bank's inability to pay its debts when due) and to make suggestions for resoling possible problems when establishing the system.",
+      "替换变异": [
+         "On this base, the paper tries to design the frame of China's system of health insurance and to make suggestions for resoling possible problems when establishing the system.",
+         "On this base, the paper tries to design the frame of China's system of life insurance and to make suggestions for resoling possible problems when establishing the system.",
+         "On this base, the paper tries to design the frame of China's system of unemployment insurance and to make suggestions for resoling possible problems when establishing the system."
+      ],
+      "替换术语": [
+         "health insurance",
+         "life insurance",
+         "unemployment insurance"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Within the first month of the second school year,Gave the second measurement.": {
+      "序号": 84,
+      "原句": "Within the first month of the second school year,Gave the second measurement.",
+      "术语": "school year",
+      "insert变异": "Within the first month of the second school year (the academic year of a school),Gave the second measurement.",
+      "替换变异": [
+         "Within the first month of the second calendar year,Gave the second measurement.",
+         "Within the first month of the second half year,Gave the second measurement."
+      ],
+      "替换术语": [
+         "calendar year",
+         "half year"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "By adopting the main controller P87C591 and ultrasonic distance measuring instrument,researched and designed a new kind of mixture level measurement system in multifunction paver,realized the real time control of the mixture paving thickness.": {
+      "序号": 85,
+      "原句": "By adopting the main controller P87C591 and ultrasonic distance measuring instrument,researched and designed a new kind of mixture level measurement system in multifunction paver,realized the real time control of the mixture paving thickness.",
+      "术语": "real time",
+      "insert变异": "By adopting the main controller P87C591 and ultrasonic distance measuring instrument,researched and designed a new kind of mixture level measurement system in multifunction paver,realized the real time (see: real, time) control of the mixture paving thickness.",
+      "替换变异": [
+         "By adopting the main controller P87C591 and ultrasonic distance measuring instrument,researched and designed a new kind of mixture level measurement system in multifunction paver,realized the real world control of the mixture paving thickness."
+      ],
+      "替换术语": [
+         "real world"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Effect of six-minutes walking training on left ventricular ejection fractions and motor ability in chronic heart failure patients": {
+      "序号": 86,
+      "原句": "Effect of six-minutes walking training on left ventricular ejection fractions and motor ability in chronic heart failure patients",
+      "术语": "heart failure",
+      "insert变异": "Effect of six-minutes walking training on left ventricular ejection fractions and motor ability in chronic heart failure (the cessation of the heartbeat; cardiac arrest) patients",
+      "替换变异": [
+         "Effect of six-minutes walking training on left ventricular ejection fractions and motor ability in chronic kidney failure patients",
+         "Effect of six-minutes walking training on left ventricular ejection fractions and motor ability in chronic heart disease patients"
+      ],
+      "替换术语": [
+         "kidney failure",
+         "heart disease"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Total DNAs of 49 individuals among 4 populations were extracted using High salt low pH method from Ophiopogon xylorrhizus leaves dried through silica gel in the field.": {
+      "序号": 87,
+      "原句": "Total DNAs of 49 individuals among 4 populations were extracted using High salt low pH method from Ophiopogon xylorrhizus leaves dried through silica gel in the field.",
+      "术语": "silica gel",
+      "insert变异": "Total DNAs of 49 individuals among 4 populations were extracted using High salt low pH method from Ophiopogon xylorrhizus leaves dried through silica gel (a granular, porous form of silica made synthetically from sodium silicate and used as a desiccant) in the field.",
+      "替换变异": [
+         "Total DNAs of 49 individuals among 4 populations were extracted using High salt low pH method from Ophiopogon xylorrhizus leaves dried through silica extraction in the field.",
+         "Total DNAs of 49 individuals among 4 populations were extracted using High salt low pH method from Ophiopogon xylorrhizus leaves dried through silica solution in the field.",
+         "Total DNAs of 49 individuals among 4 populations were extracted using High salt low pH method from Ophiopogon xylorrhizus leaves dried through silica treatment in the field."
+      ],
+      "替换术语": [
+         "silica extraction",
+         "silica solution",
+         "silica treatment"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Twenty seven times of observations to the electric field and wind velocity associated with varied sandstorms have been made at the height 16m, 8m, 4m, and 1m at a desert area.": {
+      "序号": 88,
+      "原句": "Twenty seven times of observations to the electric field and wind velocity associated with varied sandstorms have been made at the height 16m, 8m, 4m, and 1m at a desert area.",
+      "术语": "electric field",
+      "insert变异": "Twenty seven times of observations to the electric field (see: electric, field) and wind velocity associated with varied sandstorms have been made at the height 16m, 8m, 4m, and 1m at a desert area.",
+      "替换变异": [
+         "Twenty seven times of observations to the electric current and wind velocity associated with varied sandstorms have been made at the height 16m, 8m, 4m, and 1m at a desert area."
+      ],
+      "替换术语": [
+         "electric current"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "The embryogenic callus could be maintained for over 1 year alternatively cultured on the MS medium supplemented with 1mg/L 2,4-D, 0.25mg/L KT and the other MS mediums containing lmg/L 2,4-D, 0.25mg/L KT and 5mg/LAgNO_3.2. The system of high frequency of somatic embryogenesis and plant regeneration was established.": {
+      "序号": 89,
+      "原句": "The embryogenic callus could be maintained for over 1 year alternatively cultured on the MS medium supplemented with 1mg/L 2,4-D, 0.25mg/L KT and the other MS mediums containing lmg/L 2,4-D, 0.25mg/L KT and 5mg/LAgNO_3.2. The system of high frequency of somatic embryogenesis and plant regeneration was established.",
+      "术语": "high frequency",
+      "insert变异": "The embryogenic callus could be maintained for over 1 year alternatively cultured on the MS medium supplemented with 1mg/L 2,4-D, 0.25mg/L KT and the other MS mediums containing lmg/L 2,4-D, 0.25mg/L KT and 5mg/LAgNO_3.2. The system of high frequency (the frequency area from 3 MHz through 30 MHz, commonly used for radio broadcasting) of somatic embryogenesis and plant regeneration was established.",
+      "替换变异": [
+         "The embryogenic callus could be maintained for over 1 year alternatively cultured on the MS medium supplemented with 1mg/L 2,4-D, 0.25mg/L KT and the other MS mediums containing lmg/L 2,4-D, 0.25mg/L KT and 5mg/LAgNO_3.2. The system of high rates of somatic embryogenesis and plant regeneration was established.",
+         "The embryogenic callus could be maintained for over 1 year alternatively cultured on the MS medium supplemented with 1mg/L 2,4-D, 0.25mg/L KT and the other MS mediums containing lmg/L 2,4-D, 0.25mg/L KT and 5mg/LAgNO_3.2. The system of high efficiency of somatic embryogenesis and plant regeneration was established.",
+         "The embryogenic callus could be maintained for over 1 year alternatively cultured on the MS medium supplemented with 1mg/L 2,4-D, 0.25mg/L KT and the other MS mediums containing lmg/L 2,4-D, 0.25mg/L KT and 5mg/LAgNO_3.2. The system of high control of somatic embryogenesis and plant regeneration was established."
+      ],
+      "替换术语": [
+         "high rates",
+         "high efficiency",
+         "high control"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "To decrease switching dissipation and raise efficiency of the controller switching times can usually be decreased to four during every sampling period by the means of selecting zero vectors properly. Switching frequency is decreased by 33 percents accordingly and switching losses is decrease largely at the same carrier wave frequency.": {
+      "序号": 90,
+      "原句": "To decrease switching dissipation and raise efficiency of the controller switching times can usually be decreased to four during every sampling period by the means of selecting zero vectors properly. Switching frequency is decreased by 33 percents accordingly and switching losses is decrease largely at the same carrier wave frequency.",
+      "术语": "carrier wave",
+      "insert变异": "To decrease switching dissipation and raise efficiency of the controller switching times can usually be decreased to four during every sampling period by the means of selecting zero vectors properly. Switching frequency is decreased by 33 percents accordingly and switching losses is decrease largely at the same carrier wave (a wave that can be modulated, either in amplitude, frequency, or phase, to carry or transmit images, music, speech, or other signals) frequency.",
+      "替换变异": [
+         "To decrease switching dissipation and raise efficiency of the controller switching times can usually be decreased to four during every sampling period by the means of selecting zero vectors properly. Switching frequency is decreased by 33 percents accordingly and switching losses is decrease largely at the same square wave frequency."
+      ],
+      "替换术语": [
+         "square wave"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "In the mid\\|19 th century, with the rapid development of capitalism and the abolition of slave trade, west countries began their search of cheap labor force in Asia.": {
+      "序号": 91,
+      "原句": "In the mid\\|19 th century, with the rapid development of capitalism and the abolition of slave trade, west countries began their search of cheap labor force in Asia.",
+      "术语": "slave trade",
+      "insert变异": "In the mid\\|19 th century, with the rapid development of capitalism and the abolition of slave trade (traffic in slaves), west countries began their search of cheap labor force in Asia.",
+      "替换变异": [
+         "In the mid\\|19 th century, with the rapid development of capitalism and the abolition of free trade, west countries began their search of cheap labor force in Asia.",
+         "In the mid\\|19 th century, with the rapid development of capitalism and the abolition of international trade, west countries began their search of cheap labor force in Asia.",
+         "In the mid\\|19 th century, with the rapid development of capitalism and the abolition of slave labor, west countries began their search of cheap labor force in Asia."
+      ],
+      "替换术语": [
+         "free trade",
+         "international trade",
+         "slave labor"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Instruction Notice on the Set-up Outline of Master's Degree of Landscape Architecture": {
+      "序号": 92,
+      "原句": "Instruction Notice on the Set-up Outline of Master's Degree of Landscape Architecture",
+      "术语": "master's degree",
+      "insert变异": "Instruction Notice on the Set-up Outline of Master's Degree (a postgraduate degree which aims to assist students in developing a mastery for a particular academic field or profession) of Landscape Architecture",
+      "替换变异": [
+         "Instruction Notice on the Set-up Outline of Master's program of Landscape Architecture"
+      ],
+      "替换术语": [
+         "Master's program"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Methods RT PCR method and image pattern analysis semiquantitation method were used to determine IL 6 mRNA gene expression level in PBMC, ECP and FEV 1% in 12 allergic asthmatic patients during acute attack, 8 allergic asthmatic patients in remission and 9 normal subjects.": {
+      "序号": 93,
+      "原句": "Methods RT PCR method and image pattern analysis semiquantitation method were used to determine IL 6 mRNA gene expression level in PBMC, ECP and FEV 1% in 12 allergic asthmatic patients during acute attack, 8 allergic asthmatic patients in remission and 9 normal subjects.",
+      "术语": "gene expression",
+      "insert变异": "Methods RT PCR method and image pattern analysis semiquantitation method were used to determine IL 6 mRNA gene expression (the transcription and translation of a gene into messenger RNA and thus into a protein) level in PBMC, ECP and FEV 1% in 12 allergic asthmatic patients during acute attack, 8 allergic asthmatic patients in remission and 9 normal subjects.",
+      "替换变异": [
+         "Methods RT PCR method and image pattern analysis semiquantitation method were used to determine IL 6 mRNA protein expression level in PBMC, ECP and FEV 1% in 12 allergic asthmatic patients during acute attack, 8 allergic asthmatic patients in remission and 9 normal subjects.",
+         "Methods RT PCR method and image pattern analysis semiquantitation method were used to determine IL 6 mRNA expression expression level in PBMC, ECP and FEV 1% in 12 allergic asthmatic patients during acute attack, 8 allergic asthmatic patients in remission and 9 normal subjects."
+      ],
+      "替换术语": [
+         "protein expression",
+         "expression expression"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Characteristic analysis of machine tool structure using holography in the work-shop": {
+      "序号": 94,
+      "原句": "Characteristic analysis of machine tool structure using holography in the work-shop",
+      "术语": "machine tool",
+      "insert变异": "Characteristic analysis of machine tool (a tool, typically a power-driven machine and typically stationary, used especially for machining (removing hard material via cutting, grinding, or other subtractive processes) and (more broadly) for any mix of subtractive, forming/stamping, or work) structure using holography in the work-shop",
+      "替换变异": [
+         "Characteristic analysis of machine cell structure using holography in the work-shop"
+      ],
+      "替换术语": [
+         "machine cell"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Intussusceptional Roux-en-y hepaticojejunostomy used in iatrogenic bile duct injuries (8 cases report)": {
+      "序号": 95,
+      "原句": "Intussusceptional Roux-en-y hepaticojejunostomy used in iatrogenic bile duct injuries (8 cases report)",
+      "术语": "bile duct",
+      "insert变异": "Intussusceptional Roux-en-y hepaticojejunostomy used in iatrogenic bile duct (any of a number of long tube-like structures that carry bile) injuries (8 cases report)",
+      "替换变异": [
+         "Intussusceptional Roux-en-y hepaticojejunostomy used in iatrogenic sickle duct injuries (8 cases report)"
+      ],
+      "替换术语": [
+         "sickle duct"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "ResultsAfter treatment with perindopril,both systolic and diastolic blood pressure obviously reduced. LVH regressed progressively(P<0.01) and QTd decreased significantly after treatment(P<0.01).": {
+      "序号": 96,
+      "原句": "ResultsAfter treatment with perindopril,both systolic and diastolic blood pressure obviously reduced. LVH regressed progressively(P<0.01) and QTd decreased significantly after treatment(P<0.01).",
+      "术语": "diastolic blood pressure",
+      "insert变异": "ResultsAfter treatment with perindopril,both systolic and diastolic blood pressure (the lowest pressure within the bloodstream, occurring between heart beats, because of a diastole) obviously reduced. LVH regressed progressively(P<0.01) and QTd decreased significantly after treatment(P<0.01).",
+      "替换变异": [
+         "ResultsAfter treatment with perindopril,both systolic and diastolic blood flow obviously reduced. LVH regressed progressively(P<0.01) and QTd decreased significantly after treatment(P<0.01)."
+      ],
+      "替换术语": [
+         "diastolic blood flow"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "This paper sums up the overseas investigation results from 1970 to 1990 about automobile gears made of spheroidal graphite cast iron of OBE substituting for wrought steel and the information on this project in the first, second and third sesssion of international conference (ADI).": {
+      "序号": 97,
+      "原句": "This paper sums up the overseas investigation results from 1970 to 1990 about automobile gears made of spheroidal graphite cast iron of OBE substituting for wrought steel and the information on this project in the first, second and third sesssion of international conference (ADI).",
+      "术语": "cast iron",
+      "insert变异": "This paper sums up the overseas investigation results from 1970 to 1990 about automobile gears made of spheroidal graphite cast iron (a hard and brittle, but strong, alloy of iron, carbon, and silicon, formed by casting in a mould) of OBE substituting for wrought steel and the information on this project in the first, second and third sesssion of international conference (ADI).",
+      "替换变异": [
+         "This paper sums up the overseas investigation results from 1970 to 1990 about automobile gears made of spheroidal graphite cast steel of OBE substituting for wrought steel and the information on this project in the first, second and third sesssion of international conference (ADI)."
+      ],
+      "替换术语": [
+         "cast steel"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "The trial level system is the important contents of the legal system, and a basic procedure system, which embodies the basic trustee of the procedure system, and guarantees the procedure justness and trial efficiency.": {
+      "序号": 98,
+      "原句": "The trial level system is the important contents of the legal system, and a basic procedure system, which embodies the basic trustee of the procedure system, and guarantees the procedure justness and trial efficiency.",
+      "术语": "legal system",
+      "insert变异": "The trial level system is the important contents of the legal system (the process by which a governing body enforces the law and legal procedures), and a basic procedure system, which embodies the basic trustee of the procedure system, and guarantees the procedure justness and trial efficiency.",
+      "替换变异": [
+         "The trial level system is the important contents of the legal code, and a basic procedure system, which embodies the basic trustee of the procedure system, and guarantees the procedure justness and trial efficiency.",
+         "The trial level system is the important contents of the legal process, and a basic procedure system, which embodies the basic trustee of the procedure system, and guarantees the procedure justness and trial efficiency."
+      ],
+      "替换术语": [
+         "legal code",
+         "legal process"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Optimization Design of Spacer Configuration for Carbon Nanotube Field Emission Display": {
+      "序号": 99,
+      "原句": "Optimization Design of Spacer Configuration for Carbon Nanotube Field Emission Display",
+      "术语": "carbon nanotube",
+      "insert变异": "Optimization Design of Spacer Configuration for Carbon Nanotube (any nanostructure, a member of the fullerene family, having graphene layers wrapped into perfect cylinders) Field Emission Display",
+      "替换变异": [
+         "Optimization Design of Spacer Configuration for a Nanotube Field Emission Display"
+      ],
+      "替换术语": [
+         "a Nanotube"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   }
+}

@@ -1,0 +1,2618 @@
+{
+   "A buffer overflow vulnerability has been identified in the Lotus Domino web server.": {
+      "序号": 0,
+      "原句": "A buffer overflow vulnerability has been identified in the Lotus Domino web server.",
+      "术语": "web server",
+      "insert变异": "A buffer overflow vulnerability has been identified in the Lotus Domino web server (the computer on which such software runs).",
+      "替换变异": [
+         "A buffer overflow vulnerability has been identified in the Lotus Domino database server.",
+         "A buffer overflow vulnerability has been identified in the Lotus Domino web browser.",
+         "A buffer overflow vulnerability has been identified in the Lotus Domino web site.",
+         "A buffer overflow vulnerability has been identified in the Lotus Domino web page."
+      ],
+      "替换术语": [
+         "database server",
+         "web browser",
+         "web site",
+         "web page"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "a copy of the contract, which copy may be required to be certified, by a notary public or any other competent public authority, as being in conformity with the original contract;": {
+      "序号": 1,
+      "原句": "a copy of the contract, which copy may be required to be certified, by a notary public or any other competent public authority, as being in conformity with the original contract;",
+      "术语": "notary public",
+      "insert变异": "a copy of the contract, which copy may be required to be certified, by a notary public (an officer who can administer oaths and statutory declarations, witness and authenticate documents and perform certain other acts varying from jurisdiction to jurisdiction) or any other competent public authority, as being in conformity with the original contract;",
+      "替换变异": [
+         "a copy of the contract, which copy may be required to be certified, by a notary general or any other competent public authority, as being in conformity with the original contract;"
+      ],
+      "替换术语": [
+         "notary general"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "\"Her Body temperature dropped to normal within three days and her lung condition improved markedly. She was discharged on July 17,1995.\"": {
+      "序号": 2,
+      "原句": "\"Her Body temperature dropped to normal within three days and her lung condition improved markedly. She was discharged on July 17,1995.\"",
+      "术语": "body temperature",
+      "insert变异": "\"Her Body temperature (the current temperature of the body of a person or animal, especially when used as a simple guide to health) dropped to normal within three days and her lung condition improved markedly. She was discharged on July 17,1995.\"",
+      "替换变异": [
+         "\"Her Body weight dropped to normal within three days and her lung condition improved markedly. She was discharged on July 17,1995.\""
+      ],
+      "替换术语": [
+         "Body weight"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Technical specifications for remote sensing of hydrogeological investigation of water supply": {
+      "序号": 3,
+      "原句": "Technical specifications for remote sensing of hydrogeological investigation of water supply",
+      "术语": "remote sensing",
+      "insert变异": "Technical specifications for remote sensing (remote viewing) of hydrogeological investigation of water supply",
+      "替换变异": [
+         "Technical specifications for remote control of hydrogeological investigation of water supply"
+      ],
+      "替换术语": [
+         "remote control"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Criteria for nuclear reactor instrumentation--Part 4: Liquid-metal cooled fast reactors": {
+      "序号": 4,
+      "原句": "Criteria for nuclear reactor instrumentation--Part 4: Liquid-metal cooled fast reactors",
+      "术语": "nuclear reactor",
+      "insert变异": "Criteria for nuclear reactor (any device in which a controlled chain reaction is maintained for the purpose of creating heat (for power generation) or for creating neutrons and other fission products for experimental, medical or other purposes) instrumentation--Part 4: Liquid-metal cooled fast reactors",
+      "替换变异": [
+         "Criteria for nuclear test instrumentation--Part 4: Liquid-metal cooled fast reactors"
+      ],
+      "替换术语": [
+         "nuclear test"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Role of the public sector in promoting the economic development of developing countries": {
+      "序号": 5,
+      "原句": "Role of the public sector in promoting the economic development of developing countries",
+      "术语": "public sector",
+      "insert变异": "Role of the public sector (any government and all entities that are controlled or funded by it) in promoting the economic development of developing countries",
+      "替换变异": [
+         "Role of the public interest in promoting the economic development of developing countries",
+         "Role of the public service in promoting the economic development of developing countries"
+      ],
+      "替换术语": [
+         "public interest",
+         "public service"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "The function of free-flight testing is to obtain the limited amount of information necessary to provide a correct frame of reference for the tunnel results": {
+      "序号": 6,
+      "原句": "The function of free-flight testing is to obtain the limited amount of information necessary to provide a correct frame of reference for the tunnel results",
+      "术语": "frame of reference",
+      "insert变异": "The function of free-flight testing is to obtain the limited amount of information necessary to provide a correct frame of reference (a set of axes which enable an observer to measure the position and motion of all bodies in some system relative to the reference frame) for the tunnel results",
+      "替换变异": [
+         "The function of free-flight testing is to obtain the limited amount of information necessary to provide a correct point of reference for the tunnel results"
+      ],
+      "替换术语": [
+         "point of reference"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Applying % or % OV 17/chromosorb W AW DMCS as stationary phase, the analytic method of gas chromatography, which 5kinds of pesticide products can analysized at the same packed chromatgraphic column, was investigated.": {
+      "序号": 7,
+      "原句": "Applying % or % OV 17/chromosorb W AW DMCS as stationary phase, the analytic method of gas chromatography, which 5kinds of pesticide products can analysized at the same packed chromatgraphic column, was investigated.",
+      "术语": "stationary phase",
+      "insert变异": "Applying % or % OV 17/chromosorb W AW DMCS as stationary phase (the solid or liquid phase of a chromatography system on which the materials are to be separated or selectively absorbed), the analytic method of gas chromatography, which 5kinds of pesticide products can analysized at the same packed chromatgraphic column, was investigated.",
+      "替换变异": [
+         "Applying % or % OV 17/chromosorb W AW DMCS as stationary solution, the analytic method of gas chromatography, which 5kinds of pesticide products can analysized at the same packed chromatgraphic column, was investigated."
+      ],
+      "替换术语": [
+         "stationary solution"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "A parent company that has less than 10per cent ownership of a subsidiary must deduct the earnings (or losses)attributable to minority shareholders (called minority interests) in its profit and loss account.": {
+      "序号": 8,
+      "原句": "A parent company that has less than 10per cent ownership of a subsidiary must deduct the earnings (or losses)attributable to minority shareholders (called minority interests) in its profit and loss account.",
+      "术语": "parent company",
+      "insert变异": "A parent company (a company that owns or controls one or more other companies) that has less than 10per cent ownership of a subsidiary must deduct the earnings (or losses)attributable to minority shareholders (called minority interests) in its profit and loss account.",
+      "替换变异": [
+         "A public company that has less than 10per cent ownership of a subsidiary must deduct the earnings (or losses)attributable to minority shareholders (called minority interests) in its profit and loss account.",
+         "A private company that has less than 10per cent ownership of a subsidiary must deduct the earnings (or losses)attributable to minority shareholders (called minority interests) in its profit and loss account.",
+         "A parent corporation that has less than 10per cent ownership of a subsidiary must deduct the earnings (or losses)attributable to minority shareholders (called minority interests) in its profit and loss account."
+      ],
+      "替换术语": [
+         "public company",
+         "private company",
+         "parent corporation"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "\"When an enterprise as legal person is disbanded, it shall establish a liquidation organization and go into liquidation.\"": {
+      "序号": 9,
+      "原句": "\"When an enterprise as legal person is disbanded, it shall establish a liquidation organization and go into liquidation.\"",
+      "术语": "legal person",
+      "insert变异": "\"When an enterprise as legal person (an aggregate of people, legal entity, or body corporate who have (some of) the legal rights and responsibilities of a natural person under the law) is disbanded, it shall establish a liquidation organization and go into liquidation.\"",
+      "替换变异": [
+         "\"When an enterprise as legal entity is disbanded, it shall establish a liquidation organization and go into liquidation.\""
+      ],
+      "替换术语": [
+         "legal entity"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Bread baking quality of wheat flour--Straight dough method": {
+      "序号": 10,
+      "原句": "Bread baking quality of wheat flour--Straight dough method",
+      "术语": "wheat flour",
+      "insert变异": "Bread baking quality of wheat flour (flour made from wheat)--Straight dough method",
+      "替换变异": [
+         "Bread baking quality of rice flour--Straight dough method",
+         "Bread baking quality of wheat bread--Straight dough method"
+      ],
+      "替换术语": [
+         "rice flour",
+         "wheat bread"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "\"Therefore, the mentality of the whole general public can be improved and modernization can be fulfilled more smoothly and quickly, among which,\" human modernization \"will be the most fundamental\"": {
+      "序号": 11,
+      "原句": "\"Therefore, the mentality of the whole general public can be improved and modernization can be fulfilled more smoothly and quickly, among which,\" human modernization \"will be the most fundamental\"",
+      "术语": "general public",
+      "insert变异": "\"Therefore, the mentality of the whole general public (members of the public not in the attentive public of any given issue; laypeople) can be improved and modernization can be fulfilled more smoothly and quickly, among which,\" human modernization \"will be the most fundamental\"",
+      "替换变异": [
+         "\"Therefore, the mentality of the whole general population can be improved and modernization can be fulfilled more smoothly and quickly, among which,\" human modernization \"will be the most fundamental\"",
+         "\"Therefore, the mentality of the whole general society can be improved and modernization can be fulfilled more smoothly and quickly, among which,\" human modernization \"will be the most fundamental\"",
+         "\"Therefore, the mentality of the whole general system can be improved and modernization can be fulfilled more smoothly and quickly, among which,\" human modernization \"will be the most fundamental\""
+      ],
+      "替换术语": [
+         "general population",
+         "general society",
+         "general system"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Application fo GPS ECM on information warfare": {
+      "序号": 12,
+      "原句": "Application fo GPS ECM on information warfare",
+      "术语": "information warfare",
+      "insert变异": "Application fo GPS ECM on information warfare (the use and management of information in pursuit of an advantage over an opponent, such as propaganda, disinformation, and gathering assurances that one's own information is accurate)",
+      "替换变异": [
+         "Application fo GPS ECM on chemical warfare"
+      ],
+      "替换术语": [
+         "chemical warfare"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "By requesting a URL composed of explorer.php and the ../ string in the value of the \"folder\" variable, it is possible for a remote user to gain read access to any file or browse any directory for which the Web server has read access.": {
+      "序号": 13,
+      "原句": "By requesting a URL composed of explorer.php and the ../ string in the value of the \"folder\" variable, it is possible for a remote user to gain read access to any file or browse any directory for which the Web server has read access.",
+      "术语": "web server",
+      "insert变异": "By requesting a URL composed of explorer.php and the ../ string in the value of the \"folder\" variable, it is possible for a remote user to gain read access to any file or browse any directory for which the Web server (the computer on which such software runs) has read access.",
+      "替换变异": [
+         "By requesting a URL composed of explorer.php and the ../ string in the value of the \"folder\" variable, it is possible for a remote user to gain read access to any file or browse any directory for which the file server has read access.",
+         "By requesting a URL composed of explorer.php and the ../ string in the value of the \"folder\" variable, it is possible for a remote user to gain read access to any file or browse any directory for which the Web browser has read access.",
+         "By requesting a URL composed of explorer.php and the ../ string in the value of the \"folder\" variable, it is possible for a remote user to gain read access to any file or browse any directory for which the Web user has read access.",
+         "By requesting a URL composed of explorer.php and the ../ string in the value of the \"folder\" variable, it is possible for a remote user to gain read access to any file or browse any directory for which the Web application has read access.",
+         "By requesting a URL composed of explorer.php and the ../ string in the value of the \"folder\" variable, it is possible for a remote user to gain read access to any file or browse any directory for which the Web site has read access."
+      ],
+      "替换术语": [
+         "file server",
+         "Web browser",
+         "Web user",
+         "Web application",
+         "Web site"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "The flaw occurs when owner documents of specific elements transition to a null state upon garbage collection.": {
+      "序号": 14,
+      "原句": "The flaw occurs when owner documents of specific elements transition to a null state upon garbage collection.",
+      "术语": "garbage collection",
+      "insert变异": "The flaw occurs when owner documents of specific elements transition to a null state upon garbage collection (an automatic mechanism that frees up resources (such as allocated memory) that are no longer in use).",
+      "替换变异": [
+         "The flaw occurs when owner documents of specific elements transition to a null state upon data collection."
+      ],
+      "替换术语": [
+         "data collection"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "sex stereotyping in the mass media and advertising": {
+      "序号": 15,
+      "原句": "sex stereotyping in the mass media and advertising",
+      "术语": "mass media",
+      "insert变异": "sex stereotyping in the mass media (collectively, the communications media, especially television, radio, and newspapers, that reach the mass of the people) and advertising",
+      "替换变异": [
+         "sex stereotyping in the mainstream media and advertising",
+         "sex stereotyping in the print media and advertising",
+         "sex stereotyping in the news media and advertising"
+      ],
+      "替换术语": [
+         "mainstream media",
+         "print media",
+         "news media"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Test method for measuring compressive properties of mineral wool products": {
+      "序号": 16,
+      "原句": "Test method for measuring compressive properties of mineral wool products",
+      "术语": "mineral wool",
+      "insert变异": "Test method for measuring compressive properties of mineral wool (any fibrous material formed by spinning or drawing molten mineral or rock materials such as slag and ceramics) products",
+      "替换变异": [
+         "Test method for measuring compressive properties of mineral waste products"
+      ],
+      "替换术语": [
+         "mineral waste"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "A: Another woman has accused the politician of sexual harassment! But he's denying it again.": {
+      "序号": 17,
+      "原句": "A: Another woman has accused the politician of sexual harassment! But he's denying it again.",
+      "术语": "sexual harassment",
+      "insert变异": "A: Another woman has accused the politician of sexual harassment (harassment in the form of unwelcome sexual advances and/or remarks)! But he's denying it again.",
+      "替换变异": [
+         "A: Another woman has accused the politician of sexual assault! But he's denying it again.",
+         "A: Another woman has accused the politician of sexual misconduct! But he's denying it again.",
+         "A: Another woman has accused the politician of sexual abuse! But he's denying it again."
+      ],
+      "替换术语": [
+         "sexual assault",
+         "sexual misconduct",
+         "sexual abuse"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Whichever entity or individual establishes a Chinese-foreign joint venture enterprise, Chinese-foreign cooperative enterprise or wholly-owned foreign enterprise that engages in distributive sale of books, newspapers or periodicals,": {
+      "序号": 18,
+      "原句": "Whichever entity or individual establishes a Chinese-foreign joint venture enterprise, Chinese-foreign cooperative enterprise or wholly-owned foreign enterprise that engages in distributive sale of books, newspapers or periodicals,",
+      "术语": "joint venture",
+      "insert变异": "Whichever entity or individual establishes a Chinese-foreign joint venture (a cooperative partnership between two individuals or businesses in which profits and risks are shared) enterprise, Chinese-foreign cooperative enterprise or wholly-owned foreign enterprise that engages in distributive sale of books, newspapers or periodicals,",
+      "替换变异": [
+         "Whichever entity or individual establishes a Chinese-foreign joint stock enterprise, Chinese-foreign cooperative enterprise or wholly-owned foreign enterprise that engages in distributive sale of books, newspapers or periodicals,"
+      ],
+      "替换术语": [
+         "joint stock"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "\"The interaction of electric and magnetic fields produces an electromagnetic field, which has its own existence in space apart from the charges involved.\"": {
+      "序号": 19,
+      "原句": "\"The interaction of electric and magnetic fields produces an electromagnetic field, which has its own existence in space apart from the charges involved.\"",
+      "术语": "electromagnetic field",
+      "insert变异": "\"The interaction of electric and magnetic fields produces an electromagnetic field (the field of force that is due to the interaction of electric and magnetic forces of charged bodies), which has its own existence in space apart from the charges involved.\"",
+      "替换变异": [
+         "\"The interaction of electric and magnetic fields produces an electromagnetic wave, which has its own existence in space apart from the charges involved.\"",
+         "\"The interaction of electric and magnetic fields produces an electromagnetic force, which has its own existence in space apart from the charges involved.\"",
+         "\"The interaction of electric and magnetic fields produces an electromagnetic radiation, which has its own existence in space apart from the charges involved.\""
+      ],
+      "替换术语": [
+         "electromagnetic wave",
+         "electromagnetic force",
+         "electromagnetic radiation"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "This is the number of attacks (value) that can occur in a set time frame (interval).": {
+      "序号": 20,
+      "原句": "This is the number of attacks (value) that can occur in a set time frame (interval).",
+      "术语": "time frame",
+      "insert变异": "This is the number of attacks (value) that can occur in a set time frame (the period of time during which something is expected to occur, or does occur) (interval).",
+      "替换变异": [
+         "This is the number of attacks (value) that can occur in a set time interval (interval).",
+         "This is the number of attacks (value) that can occur in a set time period (interval)."
+      ],
+      "替换术语": [
+         "time interval",
+         "time period"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "This means that anyone with access to the file system can create a file containing whatever code they like, which can then be executed with all the permissions of the JSP server.": {
+      "序号": 21,
+      "原句": "This means that anyone with access to the file system can create a file containing whatever code they like, which can then be executed with all the permissions of the JSP server.",
+      "术语": "file system",
+      "insert变异": "This means that anyone with access to the file system (a set of blocks that are organized in this way) can create a file containing whatever code they like, which can then be executed with all the permissions of the JSP server.",
+      "替换变异": [
+         "This means that anyone with access to the file database can create a file containing whatever code they like, which can then be executed with all the permissions of the JSP server."
+      ],
+      "替换术语": [
+         "file database"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "All prices are subject to a 15% service charge.": {
+      "序号": 22,
+      "原句": "All prices are subject to a 15% service charge.",
+      "术语": "service charge",
+      "insert变异": "All prices are subject to a 15% service charge (a fee charged for a service, typically to cover administration or processing costs).",
+      "替换变异": [
+         "All prices are subject to a 15% service rate.",
+         "All prices are subject to a 15% service discount."
+      ],
+      "替换术语": [
+         "service rate",
+         "service discount"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Latin phrase meaning A guiltyact y: act which be forbid by the criminal law, one of the two element of a crime": {
+      "序号": 23,
+      "原句": "Latin phrase meaning A guiltyact y: act which be forbid by the criminal law, one of the two element of a crime",
+      "术语": "criminal law",
+      "insert变异": "Latin phrase meaning A guiltyact y: act which be forbid by the criminal law (the area of law pertaining to crime and punishment), one of the two element of a crime",
+      "替换变异": [
+         "Latin phrase meaning A guiltyact y: act which be forbid by the criminal act, one of the two element of a crime"
+      ],
+      "替换术语": [
+         "criminal act"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "反常识"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "If it does not exist, create the entry with a DWORD data type.": {
+      "序号": 24,
+      "原句": "If it does not exist, create the entry with a DWORD data type.",
+      "术语": "data type",
+      "insert变异": "If it does not exist, create the entry with a DWORD data type (a classification or category of various types of data, that states the possible values that can be taken, how they are stored, and what range of operations are allowed on them).",
+      "替换变异": [
+         "If it does not exist, create the entry with a DWORD data entry.",
+         "If it does not exist, create the entry with a DWORD data value."
+      ],
+      "替换术语": [
+         "data entry",
+         "data value"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Measurements of process performance should cover the needs and expectations of interested parties in a balanced manner. Examples include capability, reaction time, cycle time or throughput,": {
+      "序号": 25,
+      "原句": "Measurements of process performance should cover the needs and expectations of interested parties in a balanced manner. Examples include capability, reaction time, cycle time or throughput,",
+      "术语": "reaction time",
+      "insert变异": "Measurements of process performance should cover the needs and expectations of interested parties in a balanced manner. Examples include capability, reaction time (the interval between the reception of a stimulus and the initiation of a response), cycle time or throughput,",
+      "替换变异": [
+         "Measurements of process performance should cover the needs and expectations of interested parties in a balanced manner. Examples include capability, cycle time, cycle time or throughput,"
+      ],
+      "替换术语": [
+         "cycle time"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "反常识"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "反常识"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "反常识"
+      }
+   },
+   "Study Group on food and Agricultural Statistics in Europe": {
+      "序号": 26,
+      "原句": "Study Group on food and Agricultural Statistics in Europe",
+      "术语": "study group",
+      "insert变异": "Study Group (a small group of people who meet regularly to discuss a shared field of study) on food and Agricultural Statistics in Europe",
+      "替换变异": [
+         "Study series on food and Agricultural Statistics in Europe"
+      ],
+      "替换术语": [
+         "Study series"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Guide to design of nuclear fuel rods for PWR": {
+      "序号": 27,
+      "原句": "Guide to design of nuclear fuel rods for PWR",
+      "术语": "nuclear fuel",
+      "insert变异": "Guide to design of nuclear fuel (a radioactive material, such as uranium, used to power a nuclear reactor) rods for PWR",
+      "替换变异": [
+         "Guide to design of nuclear power rods for PWR",
+         "Guide to design of nuclear control rods for PWR"
+      ],
+      "替换术语": [
+         "nuclear power",
+         "nuclear control"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "As a new value-added service in communications industry, secretary desk-top system develops vapidly and has become the important aspect of information construction.": {
+      "序号": 28,
+      "原句": "As a new value-added service in communications industry, secretary desk-top system develops vapidly and has become the important aspect of information construction.",
+      "术语": "value-added service",
+      "insert变异": "As a new value-added service (a service used to promote the primary business of an enterprise that is provided at little or no cost) in communications industry, secretary desk-top system develops vapidly and has become the important aspect of information construction.",
+      "替换变异": [
+         "As a new value - added tool in communications industry, secretary desk-top system develops vapidly and has become the important aspect of information construction.",
+         "As a new value - added technology in communications industry, secretary desk-top system develops vapidly and has become the important aspect of information construction.",
+         "As a new value - added measure in communications industry, secretary desk-top system develops vapidly and has become the important aspect of information construction."
+      ],
+      "替换术语": [
+         "value - added tool",
+         "value - added technology",
+         "value - added measure"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "It's generally agreed that watching a fashion show is a kind of aesthetic enjoyment": {
+      "序号": 29,
+      "原句": "It's generally agreed that watching a fashion show is a kind of aesthetic enjoyment",
+      "术语": "fashion show",
+      "insert变异": "It's generally agreed that watching a fashion show (an event at which fashionable clothes are modelled for an audience) is a kind of aesthetic enjoyment",
+      "替换变异": [
+         "It's generally agreed that watching a television show is a kind of aesthetic enjoyment"
+      ],
+      "替换术语": [
+         "television show"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Among primary bone tumors, osteosarcoma, mostly found in the adolescent age group, has the highest incidence with the incidence of 20%.": {
+      "序号": 30,
+      "原句": "Among primary bone tumors, osteosarcoma, mostly found in the adolescent age group, has the highest incidence with the incidence of 20%.",
+      "术语": "age group",
+      "insert变异": "Among primary bone tumors, osteosarcoma, mostly found in the adolescent age group (a demographic grouping based on age), has the highest incidence with the incidence of 20%.",
+      "替换变异": [
+         "Among primary bone tumors, osteosarcoma, mostly found in the adolescent age range, has the highest incidence with the incidence of 20%."
+      ],
+      "替换术语": [
+         "age range"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Currently, there is no solution for this problem. Since phf is not a necessary component of your Web server, you can remove \"phf\" from the cgi-bin directory as a workaround.": {
+      "序号": 31,
+      "原句": "Currently, there is no solution for this problem. Since phf is not a necessary component of your Web server, you can remove \"phf\" from the cgi-bin directory as a workaround.",
+      "术语": "web server",
+      "insert变异": "Currently, there is no solution for this problem. Since phf is not a necessary component of your Web server (the computer on which such software runs), you can remove \"phf\" from the cgi-bin directory as a workaround.",
+      "替换变异": [
+         "Currently, there is no solution for this problem. Since phf is not a necessary component of your file server, you can remove \"phf\" from the cgi-bin directory as a workaround.",
+         "Currently, there is no solution for this problem. Since phf is not a necessary component of your Web browser, you can remove \"phf\" from the cgi-bin directory as a workaround.",
+         "Currently, there is no solution for this problem. Since phf is not a necessary component of your Web site, you can remove \"phf\" from the cgi-bin directory as a workaround.",
+         "Currently, there is no solution for this problem. Since phf is not a necessary component of your Web application, you can remove \"phf\" from the cgi-bin directory as a workaround."
+      ],
+      "替换术语": [
+         "file server",
+         "Web browser",
+         "Web site",
+         "Web application"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "AIM: To observe the effect of β3-adrenoceptor (AR) on ventricle fibrillation threshold (VFT) and effective refractory period (ERP) in rats with heart failure.": {
+      "序号": 32,
+      "原句": "AIM: To observe the effect of β3-adrenoceptor (AR) on ventricle fibrillation threshold (VFT) and effective refractory period (ERP) in rats with heart failure.",
+      "术语": "heart failure",
+      "insert变异": "AIM: To observe the effect of β3-adrenoceptor (AR) on ventricle fibrillation threshold (VFT) and effective refractory period (ERP) in rats with heart failure (the cessation of the heartbeat; cardiac arrest).",
+      "替换变异": [
+         "AIM: To observe the effect of β3-adrenoceptor (AR) on ventricle fibrillation threshold (VFT) and effective refractory period (ERP) in rats with kidney failure.",
+         "AIM: To observe the effect of β3-adrenoceptor (AR) on ventricle fibrillation threshold (VFT) and effective refractory period (ERP) in rats with liver failure.",
+         "AIM: To observe the effect of β3-adrenoceptor (AR) on ventricle fibrillation threshold (VFT) and effective refractory period (ERP) in rats with heart disease."
+      ],
+      "替换术语": [
+         "kidney failure",
+         "liver failure",
+         "heart disease"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "A mesoscopic transmission line composed with periodic series of LC circuits is studied in this paper.": {
+      "序号": 33,
+      "原句": "A mesoscopic transmission line composed with periodic series of LC circuits is studied in this paper.",
+      "术语": "transmission line",
+      "insert变异": "A mesoscopic transmission line (a structure such as a waveguide or stripline constructed so as to pass electric signals with fidelity and little loss) composed with periodic series of LC circuits is studied in this paper.",
+      "替换变异": [
+         "A mesoscopic cell line composed with periodic series of LC circuits is studied in this paper.",
+         "A mesoscopic transmission network composed with periodic series of LC circuits is studied in this paper.",
+         "A mesoscopic transmission system composed with periodic series of LC circuits is studied in this paper.",
+         "A mesoscopic transmission circuit composed with periodic series of LC circuits is studied in this paper."
+      ],
+      "替换术语": [
+         "cell line",
+         "transmission network",
+         "transmission system",
+         "transmission circuit"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Aon't worry,sir.I think it's a seller's market now.": {
+      "序号": 34,
+      "原句": "Aon't worry,sir.I think it's a seller's market now.",
+      "术语": "seller's market",
+      "insert变异": "Aon't worry,sir.I think it's a seller's market (an excess of demand over supply, leading to abnormally high prices; a market condition favoring the seller) now.",
+      "替换变异": [
+         "Aon't worry,sir.I think it's a farmer's market now.",
+         "Aon't worry,sir.I think it's a seller's house now."
+      ],
+      "替换术语": [
+         "farmer's market",
+         "seller's house"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "A third version of the text written in the language of a third country may added when necessary. The third version shall govern should divergences in interpretation arise.": {
+      "序号": 35,
+      "原句": "A third version of the text written in the language of a third country may added when necessary. The third version shall govern should divergences in interpretation arise.",
+      "术语": "third country",
+      "insert变异": "A third version of the text written in the language of a third country (a country not party to a particular treaty in general) may added when necessary. The third version shall govern should divergences in interpretation arise.",
+      "替换变异": [
+         "A third version of the text written in the language of a third language may added when necessary. The third version shall govern should divergences in interpretation arise."
+      ],
+      "替换术语": [
+         "third language"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Open a web browser and type in the IP of the router followed by a colon with the port.": {
+      "序号": 36,
+      "原句": "Open a web browser and type in the IP of the router followed by a colon with the port.",
+      "术语": "web browser",
+      "insert变异": "Open a web browser (a computer program used to navigate the World Wide Web, chiefly by viewing web pages and following hyperlinks) and type in the IP of the router followed by a colon with the port.",
+      "替换变异": [
+         "Open a web server and type in the IP of the router followed by a colon with the port.",
+         "Open a web page and type in the IP of the router followed by a colon with the port.",
+         "Open a web interface and type in the IP of the router followed by a colon with the port."
+      ],
+      "替换术语": [
+         "web server",
+         "web page",
+         "web interface"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "\"a draft payable on demand drawn by him upon himself, whether payable at the head office or some other office of his bank,\"": {
+      "序号": 37,
+      "原句": "\"a draft payable on demand drawn by him upon himself, whether payable at the head office or some other office of his bank,\"",
+      "术语": "head office",
+      "insert变异": "\"a draft payable on demand drawn by him upon himself, whether payable at the head office (the main administrative centre for a company or organisation) or some other office of his bank,\"",
+      "替换变异": [
+         "\"a draft payable on demand drawn by him upon himself, whether payable at the bank office or some other office of his bank,\"",
+         "\"a draft payable on demand drawn by him upon himself, whether payable at the head bank or some other office of his bank,\""
+      ],
+      "替换术语": [
+         "bank office",
+         "head bank"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Methods for chemical analysis of aluminium oxide--The diphenyl carbazide photometric method for the determination of chromium sesquioxide content": {
+      "序号": 38,
+      "原句": "Methods for chemical analysis of aluminium oxide--The diphenyl carbazide photometric method for the determination of chromium sesquioxide content",
+      "术语": "aluminium oxide",
+      "insert变异": "Methods for chemical analysis of aluminium oxide (the solid, Al2O3, commonly known as alumina; it occurs as bauxite, sapphire, ruby and other forms; it is used in the manufacture of ceramics)--The diphenyl carbazide photometric method for the determination of chromium sesquioxide content",
+      "替换变异": [
+         "Methods for chemical analysis of zinc oxide--The diphenyl carbazide photometric method for the determination of chromium sesquioxide content",
+         "Methods for chemical analysis of iron oxide--The diphenyl carbazide photometric method for the determination of chromium sesquioxide content",
+         "Methods for chemical analysis of uranium oxide--The diphenyl carbazide photometric method for the determination of chromium sesquioxide content",
+         "Methods for chemical analysis of aluminium alloy--The diphenyl carbazide photometric method for the determination of chromium sesquioxide content"
+      ],
+      "替换术语": [
+         "zinc oxide",
+         "iron oxide",
+         "uranium oxide",
+         "aluminium alloy"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "\"Casablanca: A city of northwest Morocco on the Atlantic Ocean south-southwest of Tangier. Founded by the Portuguese in the 16th century, it became a center of French influence in Africa after 1907. It is now Morocco's largest city. Population, 2,139,204.\"": {
+      "序号": 39,
+      "原句": "\"Casablanca: A city of northwest Morocco on the Atlantic Ocean south-southwest of Tangier. Founded by the Portuguese in the 16th century, it became a center of French influence in Africa after 1907. It is now Morocco's largest city. Population, 2,139,204.\"",
+      "术语": "Atlantic Ocean",
+      "insert变异": "\"Casablanca: A city of northwest Morocco on the Atlantic Ocean (the ocean lying between the Americas to the west and Europe and Africa to the east) south-southwest of Tangier. Founded by the Portuguese in the 16th century, it became a center of French influence in Africa after 1907. It is now Morocco's largest city. Population, 2,139,204.\"",
+      "替换变异": [
+         "\"Casablanca: A city of northwest Morocco on the Atlantic coast south-southwest of Tangier. Founded by the Portuguese in the 16th century, it became a center of French influence in Africa after 1907. It is now Morocco's largest city. Population, 2,139,204.\""
+      ],
+      "替换术语": [
+         "Atlantic coast"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Artificial induction of ovulation in Japanese eel Anguilla japonica": {
+      "序号": 40,
+      "原句": "Artificial induction of ovulation in Japanese eel Anguilla japonica",
+      "术语": "Japanese eel",
+      "insert变异": "Artificial induction of ovulation in Japanese eel (am eel of species Anguilla japonica, found in Japan, Korea, China, Taiwan, and Vietnam, as well as the northern Philippines) Anguilla japonica",
+      "替换变异": [
+         "Artificial induction of ovulation in Japanese bowel Anguilla japonica"
+      ],
+      "替换术语": [
+         "Japanese bowel"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "语法错误"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "语法错误"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "语法错误"
+      }
+   },
+   "pit one's wits against the bureaucracy of the tax office": {
+      "序号": 41,
+      "原句": "pit one's wits against the bureaucracy of the tax office",
+      "术语": "tax office",
+      "insert变异": "pit one's wits against the bureaucracy of the tax office (a government-established place (building, office, shop, or counter) offering advice on tax affairs)",
+      "替换变异": [
+         "pit one's wits against the bureaucracy of the high office",
+         "pit one's wits against the bureaucracy of the public office"
+      ],
+      "替换术语": [
+         "high office",
+         "public office"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "A Web page with a specially crafted file link can trigger a logic error.": {
+      "序号": 42,
+      "原句": "A Web page with a specially crafted file link can trigger a logic error.",
+      "术语": "web page",
+      "insert变异": "A Web page (a website, by extension from the home page of the site) with a specially crafted file link can trigger a logic error.",
+      "替换变异": [
+         "A Web browser with a specially crafted file link can trigger a logic error.",
+         "A Web application with a specially crafted file link can trigger a logic error.",
+         "A Web server with a specially crafted file link can trigger a logic error.",
+         "A Web site with a specially crafted file link can trigger a logic error."
+      ],
+      "替换术语": [
+         "Web browser",
+         "Web application",
+         "Web server",
+         "Web site"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "As for the calculation of the energy level of the heteronuclear molecules the following equation for hetoronuclear molecules must used. : E=(a_1+a_2)/2+2βcosω (1+((a_1-a_2)/4βcosω))~(1/2) This equation has been derived Dong Cong-hao.": {
+      "序号": 43,
+      "原句": "As for the calculation of the energy level of the heteronuclear molecules the following equation for hetoronuclear molecules must used. : E=(a_1+a_2)/2+2βcosω (1+((a_1-a_2)/4βcosω))~(1/2) This equation has been derived Dong Cong-hao.",
+      "术语": "energy level",
+      "insert变异": "As for the calculation of the energy level (see: energy, level) of the heteronuclear molecules the following equation for hetoronuclear molecules must used. : E=(a_1+a_2)/2+2βcosω (1+((a_1-a_2)/4βcosω))~(1/2) This equation has been derived Dong Cong-hao.",
+      "替换变异": [
+         "As for the calculation of the energy density of the heteronuclear molecules the following equation for hetoronuclear molecules must used. : E=(a_1+a_2)/2+2βcosω (1+((a_1-a_2)/4βcosω))~(1/2) This equation has been derived Dong Cong-hao.",
+         "As for the calculation of the energy distribution of the heteronuclear molecules the following equation for hetoronuclear molecules must used. : E=(a_1+a_2)/2+2βcosω (1+((a_1-a_2)/4βcosω))~(1/2) This equation has been derived Dong Cong-hao."
+      ],
+      "替换术语": [
+         "energy density",
+         "energy distribution"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Agent is showing the shop's floor plan to the clients.": {
+      "序号": 44,
+      "原句": "Agent is showing the shop's floor plan to the clients.",
+      "术语": "floor plan",
+      "insert变异": "Agent is showing the shop's floor plan (a diagram, usually to scale, showing the layout of a building) to the clients.",
+      "替换变异": [
+         "Agent is showing the shop's business plan to the clients.",
+         "Agent is showing the shop's master plan to the clients."
+      ],
+      "替换术语": [
+         "business plan",
+         "master plan"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "In case the Party B is the licensor, he shall be responsible for the stable production of qualified products of the joint venture company in the light of design capacity within the stipulated period;": {
+      "序号": 45,
+      "原句": "In case the Party B is the licensor, he shall be responsible for the stable production of qualified products of the joint venture company in the light of design capacity within the stipulated period;",
+      "术语": "joint venture",
+      "insert变异": "In case the Party B is the licensor, he shall be responsible for the stable production of qualified products of the joint venture (a cooperative partnership between two individuals or businesses in which profits and risks are shared) company in the light of design capacity within the stipulated period;",
+      "替换变异": [
+         "In case the Party B is the licensor, he shall be responsible for the stable production of qualified products of the joint stock company in the light of design capacity within the stipulated period;"
+      ],
+      "替换术语": [
+         "joint stock"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Most accident can be explained by cock - up rather than conspiracy theory": {
+      "序号": 46,
+      "原句": "Most accident can be explained by cock - up rather than conspiracy theory",
+      "术语": "conspiracy theory",
+      "insert变异": "Most accident can be explained by cock - up rather than conspiracy theory (hypothetical speculation that is commonly considered untrue or outlandish)",
+      "替换变异": [
+         "Most accident can be explained by cock - up rather than a theory"
+      ],
+      "替换术语": [
+         "a theory"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "This event indicates a buffer overflow attack attempted against the web server through a request made to Microsoft Internet Information Server (IIS).": {
+      "序号": 47,
+      "原句": "This event indicates a buffer overflow attack attempted against the web server through a request made to Microsoft Internet Information Server (IIS).",
+      "术语": "web server",
+      "insert变异": "This event indicates a buffer overflow attack attempted against the web server (the computer on which such software runs) through a request made to Microsoft Internet Information Server (IIS).",
+      "替换变异": [
+         "This event indicates a buffer overflow attack attempted against the database server through a request made to Microsoft Internet Information Server (IIS).",
+         "This event indicates a buffer overflow attack attempted against the application server through a request made to Microsoft Internet Information Server (IIS).",
+         "This event indicates a buffer overflow attack attempted against the web browser through a request made to Microsoft Internet Information Server (IIS)."
+      ],
+      "替换术语": [
+         "database server",
+         "application server",
+         "web browser"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "All the cross-river tunnels, slope climbing cableways, ferries and yachts peculiar to the city will continue to serve as a supplement to the city's public transport and will therefore play a very important role.": {
+      "序号": 48,
+      "原句": "All the cross-river tunnels, slope climbing cableways, ferries and yachts peculiar to the city will continue to serve as a supplement to the city's public transport and will therefore play a very important role.",
+      "术语": "public transport",
+      "insert变异": "All the cross-river tunnels, slope climbing cableways, ferries and yachts peculiar to the city will continue to serve as a supplement to the city's public transport (any form of transport that can be used by a member of public (who usually pays a fare); as opposed to private ownership of e.g. cars) and will therefore play a very important role.",
+      "替换变异": [
+         "All the cross-river tunnels, slope climbing cableways, ferries and yachts peculiar to the city will continue to serve as a supplement to the city's public infrastructure and will therefore play a very important role.",
+         "All the cross-river tunnels, slope climbing cableways, ferries and yachts peculiar to the city will continue to serve as a supplement to the city's public services and will therefore play a very important role."
+      ],
+      "替换术语": [
+         "public infrastructure",
+         "public services"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Milk powder and formula foods for infant and young children--Determination of whey protein": {
+      "序号": 49,
+      "原句": "Milk powder and formula foods for infant and young children--Determination of whey protein",
+      "术语": "milk powder",
+      "insert变异": "Milk powder (cream) and formula foods for infant and young children--Determination of whey protein",
+      "替换变异": [
+         "Milk milk and formula foods for infant and young children--Determination of whey protein"
+      ],
+      "替换术语": [
+         "Milk milk"
+      ],
+      "manual_1_result": {
+         "info_insert": "反常识",
+         "bert_replace": "语法错误"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "语法错误"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "语法错误"
+      }
+   },
+   "And the academic monopolization resulted in the scarcity of the private law relief for self-governance.": {
+      "序号": 50,
+      "原句": "And the academic monopolization resulted in the scarcity of the private law relief for self-governance.",
+      "术语": "private law",
+      "insert变异": "And the academic monopolization resulted in the scarcity of the private law (the area of law pertaining to the relationships between private persons (natural or legal persons including corporations), as opposed to relations between the state and private persons) relief for self-governance.",
+      "替换变异": [
+         "And the academic monopolization resulted in the scarcity of the private sector relief for self-governance.",
+         "And the academic monopolization resulted in the scarcity of the private debt relief for self-governance."
+      ],
+      "替换术语": [
+         "private sector",
+         "private debt"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "present (a case) to a court of law": {
+      "序号": 51,
+      "原句": "present (a case) to a court of law",
+      "术语": "court of law",
+      "insert变异": "present (a case) to a court of law (a court presided over by a judge which is empowered to decide all aspects of legal disputes)",
+      "替换变异": [
+         "present (a case) to a rule of law",
+         "present (a case) to a question of law"
+      ],
+      "替换术语": [
+         "rule of law",
+         "question of law"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "反常识"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "反常识"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "反常识"
+      }
+   },
+   "Analysis of liquefied petroleum gas composition by gas chromatography": {
+      "序号": 52,
+      "原句": "Analysis of liquefied petroleum gas composition by gas chromatography",
+      "术语": "liquefied petroleum gas",
+      "insert变异": "Analysis of liquefied petroleum gas (a mixture of propane and butane with traces of some other gases, which is kept in a liquid state at high pressure in metal bottles, and used as a source of gas for cooking, heating and as a fuel in internal combustion engines in vehicles) composition by gas chromatography",
+      "替换变异": [
+         "Analysis of liquefied natural gas composition by gas chromatography",
+         "Analysis of liquefied liquid gas composition by gas chromatography",
+         "Analysis of liquefied petroleum chemical composition by gas chromatography"
+      ],
+      "替换术语": [
+         "liquefied natural gas",
+         "liquefied liquid gas",
+         "liquefied petroleum chemical"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "反常识"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "反常识"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "反常识"
+      }
+   },
+   "After dicussing the necessity of studing DSS automatic generation system based on linear model,this paper puts forward a BNF description of linear model. According to the description,the structures of model base and date base as well as algorithm of automatic generation for two bases are designed. Finally,a structured design idea of human?computer exchange system and its realizable flow chart with computer is presented in the paper.": {
+      "序号": 53,
+      "原句": "After dicussing the necessity of studing DSS automatic generation system based on linear model,this paper puts forward a BNF description of linear model. According to the description,the structures of model base and date base as well as algorithm of automatic generation for two bases are designed. Finally,a structured design idea of human?computer exchange system and its realizable flow chart with computer is presented in the paper.",
+      "术语": "flow chart",
+      "insert变异": "After dicussing the necessity of studing DSS automatic generation system based on linear model,this paper puts forward a BNF description of linear model. According to the description,the structures of model base and date base as well as algorithm of automatic generation for two bases are designed. Finally,a structured design idea of human?computer exchange system and its realizable flow chart (a schematic representation of how the different stages in a process are interconnected) with computer is presented in the paper.",
+      "替换变异": [
+         "After dicussing the necessity of studing DSS automatic generation system based on linear model,this paper puts forward a BNF description of linear model. According to the description,the structures of model base and date base as well as algorithm of automatic generation for two bases are designed. Finally,a structured design idea of human?computer exchange system and its realizable flow relationship with computer is presented in the paper."
+      ],
+      "替换术语": [
+         "flow relationship"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Voters who may have only a mild preference for one party or candidate before the election campaign starts are often worked up by the mass media to a point": {
+      "序号": 54,
+      "原句": "Voters who may have only a mild preference for one party or candidate before the election campaign starts are often worked up by the mass media to a point",
+      "术语": "mass media",
+      "insert变异": "Voters who may have only a mild preference for one party or candidate before the election campaign starts are often worked up by the mass media (collectively, the communications media, especially television, radio, and newspapers, that reach the mass of the people) to a point",
+      "替换变异": [
+         "Voters who may have only a mild preference for one party or candidate before the election campaign starts are often worked up by the news media to a point",
+         "Voters who may have only a mild preference for one party or candidate before the election campaign starts are often worked up by the local media to a point",
+         "Voters who may have only a mild preference for one party or candidate before the election campaign starts are often worked up by the national media to a point"
+      ],
+      "替换术语": [
+         "news media",
+         "local media",
+         "national media"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "mobilize the general public throughout the country to control the outbreak": {
+      "序号": 55,
+      "原句": "mobilize the general public throughout the country to control the outbreak",
+      "术语": "general public",
+      "insert变异": "mobilize the general public (members of the public not in the attentive public of any given issue; laypeople) throughout the country to control the outbreak",
+      "替换变异": [
+         "mobilize the general population throughout the country to control the outbreak",
+         "mobilize the general populace throughout the country to control the outbreak"
+      ],
+      "替换术语": [
+         "general population",
+         "general populace"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "An improved scheme for the nonlinear adaptive prediction coding of speech signals is presented the combining a neural network with Levinson-Durbin algorithm in this paper.": {
+      "序号": 56,
+      "原句": "An improved scheme for the nonlinear adaptive prediction coding of speech signals is presented the combining a neural network with Levinson-Durbin algorithm in this paper.",
+      "术语": "neural network",
+      "insert变异": "An improved scheme for the nonlinear adaptive prediction coding of speech signals is presented the combining a neural network (any network of neurons etc., that function together to achieve a common purpose) with Levinson-Durbin algorithm in this paper.",
+      "替换变异": [
+         "An improved scheme for the nonlinear adaptive prediction coding of speech signals is presented the combining a neural algorithm with Levinson-Durbin algorithm in this paper.",
+         "An improved scheme for the nonlinear adaptive prediction coding of speech signals is presented the combining a neural model with Levinson-Durbin algorithm in this paper."
+      ],
+      "替换术语": [
+         "neural algorithm",
+         "neural model"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "By submitting a specially crafted HTTP request to the Oracle9iAS Web Server an attacker is able to execute arbitrary Javascript code.": {
+      "序号": 57,
+      "原句": "By submitting a specially crafted HTTP request to the Oracle9iAS Web Server an attacker is able to execute arbitrary Javascript code.",
+      "术语": "web server",
+      "insert变异": "By submitting a specially crafted HTTP request to the Oracle9iAS Web Server (the computer on which such software runs) an attacker is able to execute arbitrary Javascript code.",
+      "替换变异": [
+         "By submitting a specially crafted HTTP request to the Oracle9iAS Web browser an attacker is able to execute arbitrary Javascript code.",
+         "By submitting a specially crafted HTTP request to the Oracle9iAS Web site an attacker is able to execute arbitrary Javascript code."
+      ],
+      "替换术语": [
+         "Web browser",
+         "Web site"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Electromagnetic compatibility test specification for electronic measuring instruments--Non-operating magnetic field interference test": {
+      "序号": 58,
+      "原句": "Electromagnetic compatibility test specification for electronic measuring instruments--Non-operating magnetic field interference test",
+      "术语": "magnetic field",
+      "insert变异": "Electromagnetic compatibility test specification for electronic measuring instruments--Non-operating magnetic field (a condition in the space around a magnet or electric current in which there is a detectable magnetic force and two magnetic poles are present) interference test",
+      "替换变异": [
+         "Electromagnetic compatibility test specification for electronic measuring instruments--Non-operating magnetic resonance interference test"
+      ],
+      "替换术语": [
+         "magnetic resonance"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "A sit-in at the city council offices": {
+      "序号": 59,
+      "原句": "A sit-in at the city council offices",
+      "术语": "city council",
+      "insert变异": "A sit-in at the city council (a governing body of people elected to oversee management of a city and represent the interests of residents) offices",
+      "替换变异": [
+         "A sit-in at the local council offices",
+         "A sit-in at the city government offices"
+      ],
+      "替换术语": [
+         "local council",
+         "city government"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "A steam engine transforms heat into power": {
+      "序号": 60,
+      "原句": "A steam engine transforms heat into power",
+      "术语": "steam engine",
+      "insert变异": "A steam engine (a steam locomotive) transforms heat into power",
+      "替换变异": [
+         "A heat engine transforms heat into power",
+         "A steam turbine transforms heat into power",
+         "A steam boiler transforms heat into power"
+      ],
+      "替换术语": [
+         "heat engine",
+         "steam turbine",
+         "steam boiler"
+      ],
+      "manual_1_result": {
+         "info_insert": "反常识",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "反常识",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "反常识",
+         "bert_replace": "真实"
+      }
+   },
+   "Equipments and components used in cabled distribution systems primarily intended for television and television signals--Part 9: Generic specifications of equipments for power supply": {
+      "序号": 61,
+      "原句": "Equipments and components used in cabled distribution systems primarily intended for television and television signals--Part 9: Generic specifications of equipments for power supply",
+      "术语": "power supply",
+      "insert变异": "Equipments and components used in cabled distribution systems primarily intended for television and television signals--Part 9: Generic specifications of equipments for power supply (see: power, supply)",
+      "替换变异": [
+         "Equipments and components used in cabled distribution systems primarily intended for television and television signals--Part 9: Generic specifications of equipments for electricity supply"
+      ],
+      "替换术语": [
+         "electricity supply"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Article 14: Three days prior to the shareholders' general meeting, the listed company shall post on the stock exchange's website the names of the largest public shareholders, the number of shares they hold and their shareholding percentages on record on the trading day preceding the announcement of the board's Share buyback resolution and on the date of record for the shareholders' general meeting.": {
+      "序号": 62,
+      "原句": "Article 14: Three days prior to the shareholders' general meeting, the listed company shall post on the stock exchange's website the names of the largest public shareholders, the number of shares they hold and their shareholding percentages on record on the trading day preceding the announcement of the board's Share buyback resolution and on the date of record for the shareholders' general meeting.",
+      "术语": "stock exchange",
+      "insert变异": "Article 14: Three days prior to the shareholders' general meeting, the listed company shall post on the stock exchange (an organisation that trades stocks in of companies for money and vice versa)'s website the names of the largest public shareholders, the number of shares they hold and their shareholding percentages on record on the trading day preceding the announcement of the board's Share buyback resolution and on the date of record for the shareholders' general meeting.",
+      "替换变异": [
+         "Article 14: Three days prior to the shareholders' general meeting, the listed company shall post on the stock company's website the names of the largest public shareholders, the number of shares they hold and their shareholding percentages on record on the trading day preceding the announcement of the board's Share buyback resolution and on the date of record for the shareholders' general meeting."
+      ],
+      "替换术语": [
+         "stock company"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "A grease/carbon steel panel exposure associated with salt spray tests was recommanded to evaluate the weathering and corrosion prevention performance of greases.": {
+      "序号": 63,
+      "原句": "A grease/carbon steel panel exposure associated with salt spray tests was recommanded to evaluate the weathering and corrosion prevention performance of greases.",
+      "术语": "carbon steel",
+      "insert变异": "A grease/carbon steel (any of a range of alloys of iron and carbon whose properties depend on the proportion of carbon) panel exposure associated with salt spray tests was recommanded to evaluate the weathering and corrosion prevention performance of greases.",
+      "替换变异": [
+         "A grease/carbon dioxide panel exposure associated with salt spray tests was recommanded to evaluate the weathering and corrosion prevention performance of greases."
+      ],
+      "替换术语": [
+         "carbon dioxide"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "to recall central bank loans (to financial institutions)": {
+      "序号": 64,
+      "原句": "to recall central bank loans (to financial institutions)",
+      "术语": "central bank",
+      "insert变异": "to recall central bank (the principal monetary authority of a polity or monetary union; it normally regulates the supply of money, issues currency and controls interest rates, it usually oversees banking activity within its country's borders) loans (to financial institutions)",
+      "替换变异": [
+         "to recall central government loans (to financial institutions)"
+      ],
+      "替换术语": [
+         "central government"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Application of inhomogeneous longitudinal magnetic field in single frequency He-Ne laser": {
+      "序号": 65,
+      "原句": "Application of inhomogeneous longitudinal magnetic field in single frequency He-Ne laser",
+      "术语": "magnetic field",
+      "insert变异": "Application of inhomogeneous longitudinal magnetic field (a condition in the space around a magnet or electric current in which there is a detectable magnetic force and two magnetic poles are present) in single frequency He-Ne laser",
+      "替换变异": [
+         "Application of inhomogeneous longitudinal magnetic resonance in single frequency He-Ne laser"
+      ],
+      "替换术语": [
+         "magnetic resonance"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "A memory corruption condition could occur in the virtual machine hardware.": {
+      "序号": 66,
+      "原句": "A memory corruption condition could occur in the virtual machine hardware.",
+      "术语": "virtual machine",
+      "insert变异": "A memory corruption condition could occur in the virtual machine (a computer system that is implemented in software rather than hardware and that runs bytecode) hardware.",
+      "替换变异": [
+         "A memory corruption condition could occur in the virtual memory hardware."
+      ],
+      "替换术语": [
+         "virtual memory"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Falling Interest rate present the firm with a new problem": {
+      "序号": 67,
+      "原句": "Falling Interest rate present the firm with a new problem",
+      "术语": "interest rate",
+      "insert变异": "Falling Interest rate (the percentage of an amount of money charged for its use per some period of time (often a year)) present the firm with a new problem",
+      "替换变异": [
+         "Falling tax rate present the firm with a new problem",
+         "Falling Interest will present the firm with a new problem"
+      ],
+      "替换术语": [
+         "tax rate",
+         "Interest will"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Although operation method is very much, but what apply more extensive, effect to affirm quite at present is: One coronary artery builds aorta bridge art.": {
+      "序号": 68,
+      "原句": "Although operation method is very much, but what apply more extensive, effect to affirm quite at present is: One coronary artery builds aorta bridge art.",
+      "术语": "coronary artery",
+      "insert变异": "Although operation method is very much, but what apply more extensive, effect to affirm quite at present is: One coronary artery (an artery arising from aorta) builds aorta bridge art.",
+      "替换变异": [
+         "Although operation method is very much, but what apply more extensive, effect to affirm quite at present is: One coronary surgeon builds aorta bridge art.",
+         "Although operation method is very much, but what apply more extensive, effect to affirm quite at present is: One coronary patient builds aorta bridge art."
+      ],
+      "替换术语": [
+         "coronary surgeon",
+         "coronary patient"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "反常识"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "反常识"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "反常识"
+      }
+   },
+   "A Bayesian Back-Propagation (BBP) Neural Network was studied, whose generalization was improved Bayesian Arithmetic. And the model was applied to predict the eutrophication of West Lake in Hangzhou.": {
+      "序号": 69,
+      "原句": "A Bayesian Back-Propagation (BBP) Neural Network was studied, whose generalization was improved Bayesian Arithmetic. And the model was applied to predict the eutrophication of West Lake in Hangzhou.",
+      "术语": "neural network",
+      "insert变异": "A Bayesian Back-Propagation (BBP) Neural Network (any network of neurons etc., that function together to achieve a common purpose) was studied, whose generalization was improved Bayesian Arithmetic. And the model was applied to predict the eutrophication of West Lake in Hangzhou.",
+      "替换变异": [
+         "A Bayesian Back-Propagation (BBP) Neural model was studied, whose generalization was improved Bayesian Arithmetic. And the model was applied to predict the eutrophication of West Lake in Hangzhou."
+      ],
+      "替换术语": [
+         "Neural model"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "If a Trojan horse version of the expected file (for example explorer.exe) is present, it will be run at startup instead of the correct one in the security context of the user.": {
+      "序号": 70,
+      "原句": "If a Trojan horse version of the expected file (for example explorer.exe) is present, it will be run at startup instead of the correct one in the security context of the user.",
+      "术语": "Trojan horse",
+      "insert变异": "If a Trojan horse (a malicious program that is disguised as legitimate software) version of the expected file (for example explorer.exe) is present, it will be run at startup instead of the correct one in the security context of the user.",
+      "替换变异": [
+         "If a wild horse version of the expected file (for example explorer.exe) is present, it will be run at startup instead of the correct one in the security context of the user.",
+         "If a red horse version of the expected file (for example explorer.exe) is present, it will be run at startup instead of the correct one in the security context of the user."
+      ],
+      "替换术语": [
+         "wild horse",
+         "red horse"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "反常识"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Although its independence and development were late more relative to some other antique mathematical course such as Analytics, Algebra, Euclidean Geometry and Number theory, through over one hundred years, especially the vivid development from the 1940s to the 1970s , general topology are getting increasingly mature and perfect.": {
+      "序号": 71,
+      "原句": "Although its independence and development were late more relative to some other antique mathematical course such as Analytics, Algebra, Euclidean Geometry and Number theory, through over one hundred years, especially the vivid development from the 1940s to the 1970s , general topology are getting increasingly mature and perfect.",
+      "术语": "number theory",
+      "insert变异": "Although its independence and development were late more relative to some other antique mathematical course such as Analytics, Algebra, Euclidean Geometry and Number theory (the branch of pure mathematics concerned with the properties of integers), through over one hundred years, especially the vivid development from the 1940s to the 1970s , general topology are getting increasingly mature and perfect.",
+      "替换变异": [
+         "Although its independence and development were late more relative to some other antique mathematical course such as Analytics, Algebra, Euclidean Geometry and set theory, through over one hundred years, especially the vivid development from the 1940s to the 1970s , general topology are getting increasingly mature and perfect.",
+         "Although its independence and development were late more relative to some other antique mathematical course such as Analytics, Algebra, Euclidean Geometry and graph theory, through over one hundred years, especially the vivid development from the 1940s to the 1970s , general topology are getting increasingly mature and perfect."
+      ],
+      "替换术语": [
+         "set theory",
+         "graph theory"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Something the individual knows 2. Something the individual possesses 3. Something the individual is According to NIST 800-53, these authentication and authorization procedures should be included in the organization's general information security policy.": {
+      "序号": 72,
+      "原句": "Something the individual knows 2. Something the individual possesses 3. Something the individual is According to NIST 800-53, these authentication and authorization procedures should be included in the organization's general information security policy.",
+      "术语": "information security",
+      "insert变异": "Something the individual knows 2. Something the individual possesses 3. Something the individual is According to NIST 800-53, these authentication and authorization procedures should be included in the organization's general information security (the protection of information and information systems from unauthorized access and disruption) policy.",
+      "替换变异": [
+         "Something the individual knows 2. Something the individual possesses 3. Something the individual is According to NIST 800-53, these authentication and authorization procedures should be included in the organization's general national security policy.",
+         "Something the individual knows 2. Something the individual possesses 3. Something the individual is According to NIST 800-53, these authentication and authorization procedures should be included in the organization's general information management policy.",
+         "Something the individual knows 2. Something the individual possesses 3. Something the individual is According to NIST 800-53, these authentication and authorization procedures should be included in the organization's general information disclosure policy.",
+         "Something the individual knows 2. Something the individual possesses 3. Something the individual is According to NIST 800-53, these authentication and authorization procedures should be included in the organization's general information assurance policy."
+      ],
+      "替换术语": [
+         "national security",
+         "information management",
+         "information disclosure",
+         "information assurance"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "A remote unauthenticated attacker can exploit this vulnerability by sending an HTTP request containing crafted header data to the target server, potentially causing information disclosure or execution of malicious scripts in the security context of the web server.": {
+      "序号": 73,
+      "原句": "A remote unauthenticated attacker can exploit this vulnerability by sending an HTTP request containing crafted header data to the target server, potentially causing information disclosure or execution of malicious scripts in the security context of the web server.",
+      "术语": "web server",
+      "insert变异": "A remote unauthenticated attacker can exploit this vulnerability by sending an HTTP request containing crafted header data to the target server, potentially causing information disclosure or execution of malicious scripts in the security context of the web server (the computer on which such software runs).",
+      "替换变异": [
+         "A remote unauthenticated attacker can exploit this vulnerability by sending an HTTP request containing crafted header data to the target server, potentially causing information disclosure or execution of malicious scripts in the security context of the target server.",
+         "A remote unauthenticated attacker can exploit this vulnerability by sending an HTTP request containing crafted header data to the target server, potentially causing information disclosure or execution of malicious scripts in the security context of the web page.",
+         "A remote unauthenticated attacker can exploit this vulnerability by sending an HTTP request containing crafted header data to the target server, potentially causing information disclosure or execution of malicious scripts in the security context of the web application.",
+         "A remote unauthenticated attacker can exploit this vulnerability by sending an HTTP request containing crafted header data to the target server, potentially causing information disclosure or execution of malicious scripts in the security context of the web browser.",
+         "A remote unauthenticated attacker can exploit this vulnerability by sending an HTTP request containing crafted header data to the target server, potentially causing information disclosure or execution of malicious scripts in the security context of the web site."
+      ],
+      "替换术语": [
+         "target server",
+         "web page",
+         "web application",
+         "web browser",
+         "web site"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Greek alphabet coded character set for bibliographic information interchange": {
+      "序号": 74,
+      "原句": "Greek alphabet coded character set for bibliographic information interchange",
+      "术语": "character set",
+      "insert变异": "Greek alphabet coded character set (a set of characters together with a character encoding) for bibliographic information interchange",
+      "替换变异": [
+         "Greek alphabet coded data set for bibliographic information interchange",
+         "Greek alphabet coded instruction set for bibliographic information interchange"
+      ],
+      "替换术语": [
+         "data set",
+         "instruction set"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "When a client connects to an attacker's web server, the attacker can replay the client's credentials and then execute code n the context of the logged-on client.": {
+      "序号": 75,
+      "原句": "When a client connects to an attacker's web server, the attacker can replay the client's credentials and then execute code n the context of the logged-on client.",
+      "术语": "web server",
+      "insert变异": "When a client connects to an attacker's web server (the computer on which such software runs), the attacker can replay the client's credentials and then execute code n the context of the logged-on client.",
+      "替换变异": [
+         "When a client connects to an attacker's client server, the attacker can replay the client's credentials and then execute code n the context of the logged-on client.",
+         "When a client connects to an attacker's web page, the attacker can replay the client's credentials and then execute code n the context of the logged-on client.",
+         "When a client connects to an attacker's web site, the attacker can replay the client's credentials and then execute code n the context of the logged-on client.",
+         "When a client connects to an attacker's web browser, the attacker can replay the client's credentials and then execute code n the context of the logged-on client."
+      ],
+      "替换术语": [
+         "client server",
+         "web page",
+         "web site",
+         "web browser"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "According to the fluid mechanics, Euler's method, and the concepts of traffic flow system and control field are proposed.": {
+      "序号": 76,
+      "原句": "According to the fluid mechanics, Euler's method, and the concepts of traffic flow system and control field are proposed.",
+      "术语": "fluid mechanics",
+      "insert变异": "According to the fluid mechanics (the branch of mechanics dealing with gases and liquids, either at rest or in motion), Euler's method, and the concepts of traffic flow system and control field are proposed.",
+      "替换变异": [
+         "According to the fluid model, Euler's method, and the concepts of traffic flow system and control field are proposed.",
+         "According to the fluid theory, Euler's method, and the concepts of traffic flow system and control field are proposed."
+      ],
+      "替换术语": [
+         "fluid model",
+         "fluid theory"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "It is possible to crash IE by viewing a web page that contains a malformed STYLE tag.": {
+      "序号": 77,
+      "原句": "It is possible to crash IE by viewing a web page that contains a malformed STYLE tag.",
+      "术语": "web page",
+      "insert变异": "It is possible to crash IE by viewing a web page (a website, by extension from the home page of the site) that contains a malformed STYLE tag.",
+      "替换变异": [
+         "It is possible to crash IE by viewing a web browser that contains a malformed STYLE tag."
+      ],
+      "替换术语": [
+         "web browser"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "IIS allows an attacker to view the source code to any file on the target system, and can be used to garner sensitive information.": {
+      "序号": 78,
+      "原句": "IIS allows an attacker to view the source code to any file on the target system, and can be used to garner sensitive information.",
+      "术语": "source code",
+      "insert变异": "IIS allows an attacker to view the source code (human-readable instructions in a programming language, to be transformed into machine instructions by a compiler, assembler or other translator, or to be carried out directly by an interpreter) to any file on the target system, and can be used to garner sensitive information.",
+      "替换变异": [
+         "IIS allows an attacker to view the target code to any file on the target system, and can be used to garner sensitive information.",
+         "IIS allows an attacker to view the source file to any file on the target system, and can be used to garner sensitive information.",
+         "IIS allows an attacker to view the source link to any file on the target system, and can be used to garner sensitive information."
+      ],
+      "替换术语": [
+         "target code",
+         "source file",
+         "source link"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "A test of temperature correction of copper column is arranged according to the orthonormal theory. Based on the experimental correction coefficients of copper column, the effect of column temperature, pressure and lot number on the correction coefficients are obtained means of pole difference analysis and variance analysis. ?": {
+      "序号": 79,
+      "原句": "A test of temperature correction of copper column is arranged according to the orthonormal theory. Based on the experimental correction coefficients of copper column, the effect of column temperature, pressure and lot number on the correction coefficients are obtained means of pole difference analysis and variance analysis. ?",
+      "术语": "lot number",
+      "insert变异": "A test of temperature correction of copper column is arranged according to the orthonormal theory. Based on the experimental correction coefficients of copper column, the effect of column temperature, pressure and lot number (an identification number assigned to a particular quantity or lot of material from a single manufacturer) on the correction coefficients are obtained means of pole difference analysis and variance analysis. ?",
+      "替换变异": [
+         "A test of temperature correction of copper column is arranged according to the orthonormal theory. Based on the experimental correction coefficients of copper column, the effect of column temperature, pressure and lot pressure on the correction coefficients are obtained means of pole difference analysis and variance analysis. ?"
+      ],
+      "替换术语": [
+         "lot pressure"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "语法错误"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "语法错误"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "语法错误"
+      }
+   },
+   "A fishing rod is a stick with a hook at one end and a fool at the other": {
+      "序号": 80,
+      "原句": "A fishing rod is a stick with a hook at one end and a fool at the other",
+      "术语": "fishing rod",
+      "insert变异": "A fishing rod (a rod, often made in sections, which carries a line used for angling and is used to support both the line and the reel and to cast the line) is a stick with a hook at one end and a fool at the other",
+      "替换变异": [
+         "A hook rod is a stick with a hook at one end and a fool at the other",
+         "A rod rod is a stick with a hook at one end and a fool at the other",
+         "A fishing stick is a stick with a hook at one end and a fool at the other",
+         "A fishing hook is a stick with a hook at one end and a fool at the other"
+      ],
+      "替换术语": [
+         "hook rod",
+         "rod rod",
+         "fishing stick",
+         "fishing hook"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "反常识"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "反常识"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "反常识"
+      }
+   },
+   "co ^ 2 laser cutting and carving machine tool": {
+      "序号": 81,
+      "原句": "co ^ 2 laser cutting and carving machine tool",
+      "术语": "machine tool",
+      "insert变异": "co ^ 2 laser cutting and carving machine tool (a tool, typically a power-driven machine and typically stationary, used especially for machining (removing hard material via cutting, grinding, or other subtractive processes) and (more broadly) for any mix of subtractive, forming/stamping, or work)",
+      "替换变异": [
+         "co ^ 2 laser cutting and carving cutting tool"
+      ],
+      "替换术语": [
+         "cutting tool"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "A forest fire left hundreds of people homeless.": {
+      "序号": 82,
+      "原句": "A forest fire left hundreds of people homeless.",
+      "术语": "forest fire",
+      "insert变异": "A forest fire (a fire, often large, that consumes a forest or woodland) left hundreds of people homeless.",
+      "替换变异": [
+         "A large fire left hundreds of people homeless.",
+         "A second fire left hundreds of people homeless.",
+         "A major fire left hundreds of people homeless."
+      ],
+      "替换术语": [
+         "large fire",
+         "second fire",
+         "major fire"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "A solution has not yet been found to the fundamental problems of industrial relations.": {
+      "序号": 83,
+      "原句": "A solution has not yet been found to the fundamental problems of industrial relations.",
+      "术语": "industrial relations",
+      "insert变异": "A solution has not yet been found to the fundamental problems of industrial relations (the relationship between management and workers in a given industry).",
+      "替换变异": [
+         "A solution has not yet been found to the fundamental problems of industrial development.",
+         "A solution has not yet been found to the fundamental problems of industrial engineering.",
+         "A solution has not yet been found to the fundamental problems of industrial production."
+      ],
+      "替换术语": [
+         "industrial development",
+         "industrial engineering",
+         "industrial production"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "However, normal file system permissions would prevent the creation of these misplaced directories.": {
+      "序号": 84,
+      "原句": "However, normal file system permissions would prevent the creation of these misplaced directories.",
+      "术语": "file system",
+      "insert变异": "However, normal file system (a set of blocks that are organized in this way) permissions would prevent the creation of these misplaced directories.",
+      "替换变异": [
+         "However, normal file access permissions would prevent the creation of these misplaced directories.",
+         "However, normal file sharing permissions would prevent the creation of these misplaced directories.",
+         "However, normal file format permissions would prevent the creation of these misplaced directories.",
+         "However, normal file transfer permissions would prevent the creation of these misplaced directories."
+      ],
+      "替换术语": [
+         "file access",
+         "file sharing",
+         "file format",
+         "file transfer"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "an extract of the contract showing the change in ownership, which extract may be required to be certified, by a notary public or any other competent public authority, as being a true extract of the contract;": {
+      "序号": 85,
+      "原句": "an extract of the contract showing the change in ownership, which extract may be required to be certified, by a notary public or any other competent public authority, as being a true extract of the contract;",
+      "术语": "notary public",
+      "insert变异": "an extract of the contract showing the change in ownership, which extract may be required to be certified, by a notary public (an officer who can administer oaths and statutory declarations, witness and authenticate documents and perform certain other acts varying from jurisdiction to jurisdiction) or any other competent public authority, as being a true extract of the contract;",
+      "替换变异": [
+         "an extract of the contract showing the change in ownership, which extract may be required to be certified, by a notary general or any other competent public authority, as being a true extract of the contract;"
+      ],
+      "替换术语": [
+         "notary general"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "The self-examination report shall be submitted to a CSRC's dispatched office where the company is located within the prescribed time limit for record,": {
+      "序号": 86,
+      "原句": "The self-examination report shall be submitted to a CSRC's dispatched office where the company is located within the prescribed time limit for record,",
+      "术语": "time limit",
+      "insert变异": "The self-examination report shall be submitted to a CSRC's dispatched office where the company is located within the prescribed time limit (a time by which something must be finished) for record,",
+      "替换变异": [
+         "The self-examination report shall be submitted to a CSRC's dispatched office where the company is located within the prescribed time period for record,",
+         "The self-examination report shall be submitted to a CSRC's dispatched office where the company is located within the prescribed time frame for record,"
+      ],
+      "替换术语": [
+         "time period",
+         "time frame"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "This alert indicates that shellcode was detected in the headers of an HTTP request made to a Web server.": {
+      "序号": 87,
+      "原句": "This alert indicates that shellcode was detected in the headers of an HTTP request made to a Web server.",
+      "术语": "web server",
+      "insert变异": "This alert indicates that shellcode was detected in the headers of an HTTP request made to a Web server (software that delivers Web pages and other documents to browsers using the HTTP protocol).",
+      "替换变异": [
+         "This alert indicates that shellcode was detected in the headers of an HTTP request made to a Web page.",
+         "This alert indicates that shellcode was detected in the headers of an HTTP request made to a Web application.",
+         "This alert indicates that shellcode was detected in the headers of an HTTP request made to a Web site.",
+         "This alert indicates that shellcode was detected in the headers of an HTTP request made to a Web browser."
+      ],
+      "替换术语": [
+         "Web page",
+         "Web application",
+         "Web site",
+         "Web browser"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "An immunohislochemical study of McAb Lc-against human lung cancer was performed A. method in 2G bronchoscopic biopsy specimens.": {
+      "序号": 88,
+      "原句": "An immunohislochemical study of McAb Lc-against human lung cancer was performed A. method in 2G bronchoscopic biopsy specimens.",
+      "术语": "lung cancer",
+      "insert变异": "An immunohislochemical study of McAb Lc-against human lung cancer (cancer of the lung(s)) was performed A. method in 2G bronchoscopic biopsy specimens.",
+      "替换变异": [
+         "An immunohislochemical study of McAb Lc-against human breast cancer was performed A. method in 2G bronchoscopic biopsy specimens.",
+         "An immunohislochemical study of McAb Lc-against human lung tissue was performed A. method in 2G bronchoscopic biopsy specimens."
+      ],
+      "替换术语": [
+         "breast cancer",
+         "lung tissue"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "An image retrieval scheme fusing the features of text, speech and image is presented, and a new image retrieval system is constructed on the MATLAB platform using speech recognition techniques.": {
+      "序号": 89,
+      "原句": "An image retrieval scheme fusing the features of text, speech and image is presented, and a new image retrieval system is constructed on the MATLAB platform using speech recognition techniques.",
+      "术语": "speech recognition",
+      "insert变异": "An image retrieval scheme fusing the features of text, speech and image is presented, and a new image retrieval system is constructed on the MATLAB platform using speech recognition (the function of a front-end software system which processes input in the form of spoken language into a sequence of phonemes or characters, or into electronic commands for a computing system) techniques.",
+      "替换变异": [
+         "An image retrieval scheme fusing the features of text, speech and image is presented, and a new image retrieval system is constructed on the MATLAB platform using pattern recognition techniques.",
+         "An image retrieval scheme fusing the features of text, speech and image is presented, and a new image retrieval system is constructed on the MATLAB platform using image recognition techniques.",
+         "An image retrieval scheme fusing the features of text, speech and image is presented, and a new image retrieval system is constructed on the MATLAB platform using handwriting recognition techniques."
+      ],
+      "替换术语": [
+         "pattern recognition",
+         "image recognition",
+         "handwriting recognition"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "At that time, SMT industry was in its infancy in Taiwan and I-HUA Trading Co., Ltd. was one of the pioneers in this field with a market share over 30%.": {
+      "序号": 90,
+      "原句": "At that time, SMT industry was in its infancy in Taiwan and I-HUA Trading Co., Ltd. was one of the pioneers in this field with a market share over 30%.",
+      "术语": "market share",
+      "insert变异": "At that time, SMT industry was in its infancy in Taiwan and I-HUA Trading Co., Ltd. was one of the pioneers in this field with a market share (the percentage of some market held by a company, country, (sub)sector or any other actor or aggregate) over 30%.",
+      "替换变异": [
+         "At that time, SMT industry was in its infancy in Taiwan and I-HUA Trading Co., Ltd. was one of the pioneers in this field with a market growth over 30%.",
+         "At that time, SMT industry was in its infancy in Taiwan and I-HUA Trading Co., Ltd. was one of the pioneers in this field with a market penetration over 30%."
+      ],
+      "替换术语": [
+         "market growth",
+         "market penetration"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "A wide bore HP-fast GC residual solvent column was performed, and the effects of the equilibrium temperature and equilibrium time on the determination of ethyl acetate were studied.": {
+      "序号": 91,
+      "原句": "A wide bore HP-fast GC residual solvent column was performed, and the effects of the equilibrium temperature and equilibrium time on the determination of ethyl acetate were studied.",
+      "术语": "ethyl acetate",
+      "insert变异": "A wide bore HP-fast GC residual solvent column was performed, and the effects of the equilibrium temperature and equilibrium time on the determination of ethyl acetate (the ethyl ester of acetic acid; CH3COOCH2CH3) were studied.",
+      "替换变异": [
+         "A wide bore HP-fast GC residual solvent column was performed, and the effects of the equilibrium temperature and equilibrium time on the determination of diethyl acetate were studied."
+      ],
+      "替换术语": [
+         "diethyl acetate"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "To establish the socialist market economy is a pioneering enterprise never tried before, therefore, it must be accomplished step by step without prejudice to social stability": {
+      "序号": 92,
+      "原句": "To establish the socialist market economy is a pioneering enterprise never tried before, therefore, it must be accomplished step by step without prejudice to social stability",
+      "术语": "market economy",
+      "insert变异": "To establish the socialist market economy (an economy in which goods and services are exchanged in a market, as opposed to a state-controlled economy) is a pioneering enterprise never tried before, therefore, it must be accomplished step by step without prejudice to social stability",
+      "替换变异": [
+         "To establish the socialist national economy is a pioneering enterprise never tried before, therefore, it must be accomplished step by step without prejudice to social stability",
+         "To establish the socialist market socialism is a pioneering enterprise never tried before, therefore, it must be accomplished step by step without prejudice to social stability"
+      ],
+      "替换术语": [
+         "national economy",
+         "market socialism"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "when startup getright, do obey speed limit.": {
+      "序号": 93,
+      "原句": "when startup getright, do obey speed limit.",
+      "术语": "speed limit",
+      "insert变异": "when startup getright, do obey speed limit (the maximum speed permitted by law for vehicles).",
+      "替换变异": [
+         "when startup getright, do obey speed control.",
+         "when startup getright, do obey speed dial.",
+         "when startup getright, do obey speed command."
+      ],
+      "替换术语": [
+         "speed control",
+         "speed dial",
+         "speed command"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "反常识"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "反常识"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "反常识"
+      }
+   },
+   "Abstract: In this paper, the problems met in designing, producing and use of the rotary-vane vacuum pump are discussed. The solution methods and the research direction are given.": {
+      "序号": 94,
+      "原句": "Abstract: In this paper, the problems met in designing, producing and use of the rotary-vane vacuum pump are discussed. The solution methods and the research direction are given.",
+      "术语": "vacuum pump",
+      "insert变异": "Abstract: In this paper, the problems met in designing, producing and use of the rotary-vane vacuum pump (a piece of equipment used for extraction of gas or vapour from an enclosed space, leaving the container with a partial vacuum) are discussed. The solution methods and the research direction are given.",
+      "替换变异": [
+         "Abstract: In this paper, the problems met in designing, producing and use of the rotary-vane gas pump are discussed. The solution methods and the research direction are given.",
+         "Abstract: In this paper, the problems met in designing, producing and use of the rotary-vane water pump are discussed. The solution methods and the research direction are given.",
+         "Abstract: In this paper, the problems met in designing, producing and use of the rotary-vane heat pump are discussed. The solution methods and the research direction are given.",
+         "Abstract: In this paper, the problems met in designing, producing and use of the rotary-vane vacuum system are discussed. The solution methods and the research direction are given.",
+         "Abstract: In this paper, the problems met in designing, producing and use of the rotary-vane vacuum tube are discussed. The solution methods and the research direction are given."
+      ],
+      "替换术语": [
+         "gas pump",
+         "water pump",
+         "heat pump",
+         "vacuum system",
+         "vacuum tube"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "trading and settlement committee [stock exchange of hong kong limited]": {
+      "序号": 95,
+      "原句": "trading and settlement committee [stock exchange of hong kong limited]",
+      "术语": "stock exchange",
+      "insert变异": "trading and settlement committee [stock exchange (an organisation that trades stocks in of companies for money and vice versa) of hong kong limited]",
+      "替换变异": [
+         "trading and settlement committee [stock market of hong kong limited]"
+      ],
+      "替换术语": [
+         "stock market"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "After Alfred Nobel Economics Price was granted to tow economist on researching information economics in 1996, economist in the whole are more and more interested in information economics. And Economists combine information economics theory with researching on venture capital function mechanism continually.": {
+      "序号": 96,
+      "原句": "After Alfred Nobel Economics Price was granted to tow economist on researching information economics in 1996, economist in the whole are more and more interested in information economics. And Economists combine information economics theory with researching on venture capital function mechanism continually.",
+      "术语": "venture capital",
+      "insert变异": "After Alfred Nobel Economics Price was granted to tow economist on researching information economics in 1996, economist in the whole are more and more interested in information economics. And Economists combine information economics theory with researching on venture capital (money invested in an innovative enterprise in which both the potential for profit and the risk of loss are considerable) function mechanism continually.",
+      "替换变异": [
+         "After Alfred Nobel Economics Price was granted to tow economist on researching information economics in 1996, economist in the whole are more and more interested in information economics. And Economists combine information economics theory with researching on a capital function mechanism continually."
+      ],
+      "替换术语": [
+         "a capital"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "If Web Publishing is enabled, the Netscape Enterprise web server will respond to non-standard HTTP INDEX requests.": {
+      "序号": 97,
+      "原句": "If Web Publishing is enabled, the Netscape Enterprise web server will respond to non-standard HTTP INDEX requests.",
+      "术语": "web server",
+      "insert变异": "If Web Publishing is enabled, the Netscape Enterprise web server (the computer on which such software runs) will respond to non-standard HTTP INDEX requests.",
+      "替换变异": [
+         "If Web Publishing is enabled, the Netscape Enterprise web browser will respond to non-standard HTTP INDEX requests.",
+         "If Web Publishing is enabled, the Netscape Enterprise web site will respond to non-standard HTTP INDEX requests.",
+         "If Web Publishing is enabled, the Netscape Enterprise web page will respond to non-standard HTTP INDEX requests.",
+         "If Web Publishing is enabled, the Netscape Enterprise web service will respond to non-standard HTTP INDEX requests."
+      ],
+      "替换术语": [
+         "web browser",
+         "web site",
+         "web page",
+         "web service"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Methods for chemical analysis of aluminium oxide--The flame photometric method for the determination of sodium oxide content": {
+      "序号": 98,
+      "原句": "Methods for chemical analysis of aluminium oxide--The flame photometric method for the determination of sodium oxide content",
+      "术语": "aluminium oxide",
+      "insert变异": "Methods for chemical analysis of aluminium oxide (the solid, Al2O3, commonly known as alumina; it occurs as bauxite, sapphire, ruby and other forms; it is used in the manufacture of ceramics)--The flame photometric method for the determination of sodium oxide content",
+      "替换变异": [
+         "Methods for chemical analysis of sodium oxide--The flame photometric method for the determination of sodium oxide content"
+      ],
+      "替换术语": [
+         "sodium oxide"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Oil-changing criterion for tractor diesel engine oil in use": {
+      "序号": 99,
+      "原句": "Oil-changing criterion for tractor diesel engine oil in use",
+      "术语": "diesel engine",
+      "insert变异": "Oil-changing criterion for tractor diesel engine (a diesel locomotive) oil in use",
+      "替换变异": [
+         "Oil-changing criterion for tractor oil engine oil in use",
+         "Oil-changing criterion for tractor diesel fuel oil in use"
+      ],
+      "替换术语": [
+         "oil engine",
+         "diesel fuel"
+      ],
+      "manual_1_result": {
+         "info_insert": "反常识",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "反常识",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "反常识",
+         "bert_replace": "真实"
+      }
+   }
+}

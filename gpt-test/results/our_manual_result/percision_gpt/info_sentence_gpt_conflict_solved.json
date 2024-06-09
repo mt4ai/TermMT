@@ -1,0 +1,26 @@
+{
+   "Tei Tong Tsai Fresh Water Break Pressure Tank": {
+      "序号": 0,
+      "原句": "Tei Tong Tsai Fresh Water Break Pressure Tank",
+      "原句翻译": "提桑在新水断压罐",
+      "insert变异": "Tei Tong Tsai Fresh Water (water with a very low content of dissolved salt, as opposed to brackish water or salt water) Break Pressure Tank",
+      "insert变异翻译": "Tei Tong Tsai淡水（含有非常低溶解盐含量的水，与咸水或盐水相对）断压罐",
+      "insert变异翻译去括号": "Tei Tong Tsai淡水断压罐",
+      "原句翻译去括号": "提桑在新水断压罐",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "ISOLATION AND IDENTIFICATION OF FATTY ACID COMPONENT FROM SEED OIL OF MICROULA SIKKIMENSIS(CLARKE)HEMSL": {
+      "序号": 1,
+      "原句": "ISOLATION AND IDENTIFICATION OF FATTY ACID COMPONENT FROM SEED OIL OF MICROULA SIKKIMENSIS(CLARKE)HEMSL",
+      "原句翻译": "从锡金小梅(Microula sikkimensis (Clarke) Hemsley)种子油中分离和鉴定脂肪酸成分",
+      "insert变异": "ISOLATION AND IDENTIFICATION OF FATTY ACID (any of a class of aliphatic carboxylic acids, of general formula CnH2n+1COOH, that occur combined with glycerol as animal or vegetable oils and fats. Only those with an even number of carbon atoms are normally found in natural fats) COMPONENT FROM SEED OIL OF MICROULA SIKKIMENSIS(CLARKE)HEMSL",
+      "insert变异翻译": "孤立和鉴定来自锡金小果油籽油的脂肪酸（一类脂肪族羧酸，通式为CnH2n+1COOH，通常与甘油结合形成动植物油脂。只有碳原子数为偶数的脂肪酸通常存在于天然脂肪中）成分。",
+      "insert变异翻译去括号": "孤立和鉴定来自锡金小果油籽油的脂肪酸成分。",
+      "原句翻译去括号": "从锡金小梅种子油中分离和鉴定脂肪酸成分",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   }
+}

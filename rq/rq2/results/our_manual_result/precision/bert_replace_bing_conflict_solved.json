@@ -1,0 +1,2674 @@
+{
+   "Some of national debt and bonds were issued by the means of marketing rate in 1998. From the year 1998 to 1999, there was twice increasing the float range of rate, by 10% to 30% of the tiptop float range.": {
+      "序号": 0,
+      "原句": "Some of national debt and bonds were issued by the means of marketing rate in 1998. From the year 1998 to 1999, there was twice increasing the float range of rate, by 10% to 30% of the tiptop float range.",
+      "术语": "national debt",
+      "原句翻译": "1998年，一些国债和国债是按市场利率发行的。从1998年到1999年，浮动利率范围两次增加，即最高浮动范围的10%至30%。",
+      "原句术语翻译": [
+         "国债"
+      ],
+      "bert替换变异": "['Some of national stocks and bonds were issued by the means of marketing rate in 1998. From the year 1998 to 1999, there was twice increasing the float range of rate, by 10% to 30% of the tiptop float range.']",
+      "替换术语": [
+         "national stocks"
+      ],
+      "替换翻译": [
+         "1998年，部分国债按市场汇率发行。从1998年到1999年，浮动利率范围两次增加，即最高浮动范围的10%至30%。"
+      ],
+      "替换术语翻译": [
+         "国债"
+      ],
+      "gpt建议": "{'national stocks': 'NO\\nDifferent translations: <national debt: 国债, national stocks: 国家股票>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Article  6 A taxpayer engaging in production or business operations shall file a written application for taxation registration with the relevant tax authority within the stipulated time limit and shall accurately complete a tax registration form. The main contents of the tax registration form shall include:": {
+      "序号": 1,
+      "原句": "Article  6 A taxpayer engaging in production or business operations shall file a written application for taxation registration with the relevant tax authority within the stipulated time limit and shall accurately complete a tax registration form. The main contents of the tax registration form shall include:",
+      "术语": "time limit",
+      "原句翻译": "第六条 纳税人从事生产经营活动的，应当在规定的期限内向有关税务机关提出书面税务登记申请，并应当准确填写税务登记表。税务登记表的主要内容包括：",
+      "原句术语翻译": [
+         "期限"
+      ],
+      "bert替换变异": "['Article  6 A taxpayer engaging in production or business operations shall file a written application for taxation registration with the relevant tax authority within the stipulated term limit and shall accurately complete a tax registration form. The main contents of the tax registration form shall include:', 'Article  6 A taxpayer engaging in production or business operations shall file a written application for taxation registration with the relevant tax authority within the stipulated age limit and shall accurately complete a tax registration form. The main contents of the tax registration form shall include:', 'Article  6 A taxpayer engaging in production or business operations shall file a written application for taxation registration with the relevant tax authority within the stipulated time period and shall accurately complete a tax registration form. The main contents of the tax registration form shall include:', 'Article  6 A taxpayer engaging in production or business operations shall file a written application for taxation registration with the relevant tax authority within the stipulated time frame and shall accurately complete a tax registration form. The main contents of the tax registration form shall include:']",
+      "替换术语": [
+         "term limit",
+         "age limit",
+         "time period",
+         "time frame"
+      ],
+      "替换翻译": [
+         "第六条 纳税人从事生产经营活动，应当在规定的期限内向有关税务机关提出书面税务登记申请，并应当准确填写税务登记表。税务登记表的主要内容包括：",
+         "第六条 纳税人从事生产经营活动，应当在规定的年龄期限内向有关税务机关提出书面税务登记申请，并应当准确填写税务登记表。税务登记表的主要内容包括：",
+         "第六条 纳税人从事生产经营活动的，应当在规定的期限内向有关税务机关提出书面税务登记申请，并应当准确填写税务登记表。税务登记表的主要内容包括：",
+         "第六条 纳税人从事生产经营活动，应当在规定的期限内向有关税务机关提出书面税务登记申请，并应当准确填写税务登记表。税务登记表的主要内容包括："
+      ],
+      "替换术语翻译": [
+         "期限",
+         "年龄期限",
+         "期限",
+         "期限"
+      ],
+      "gpt建议": "{'term limit': 'NO\\nDifferent translations: <time limit: 时间限制, term limit: 期限>', 'time period': 'YES', 'time frame': 'YES'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "According to the doctor's diagnosis, Party B cannot resume normal work after a continued 3days sick leave.": {
+      "序号": 2,
+      "原句": "According to the doctor's diagnosis, Party B cannot resume normal work after a continued 3days sick leave.",
+      "术语": "sick leave",
+      "原句翻译": "根据医生的诊断，乙方在连续病假3天后无法恢复正常工作。",
+      "原句术语翻译": [
+         "病假。"
+      ],
+      "bert替换变异": "[\"According to the doctor's diagnosis, Party B cannot resume normal work after a continued 3days sick period.\", \"According to the doctor's diagnosis, Party B cannot resume normal work after a continued 3days sick time.\"]",
+      "替换术语": [
+         "sick period",
+         "sick time"
+      ],
+      "替换翻译": [
+         "根据医生的诊断，乙方在连续病假3天后无法恢复正常工作。",
+         "根据医生的诊断，乙方在连续病假3天后无法恢复正常工作。"
+      ],
+      "替换术语翻译": [
+         "病假。",
+         "病假。"
+      ],
+      "gpt建议": "{'sick period': 'NO\\nDifferent translations: <sick leave: 病假, sick period: 病期>', 'sick time': 'NO\\nDifferent translations: <sick leave: 病假, sick time: 病假时间>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "those people who have shared their knowledge and good faith and trust with me --": {
+      "序号": 3,
+      "原句": "those people who have shared their knowledge and good faith and trust with me --",
+      "术语": "good faith",
+      "原句翻译": "那些与我分享知识、善意和信任的人——",
+      "原句术语翻译": [
+         "善意"
+      ],
+      "bert替换变异": "['those people who have shared their knowledge and good will and trust with me --']",
+      "替换术语": [
+         "good will"
+      ],
+      "替换翻译": [
+         "那些与我分享知识、善意和信任的人——"
+      ],
+      "替换术语翻译": [
+         "善意"
+      ],
+      "gpt建议": "{'good will': 'NO\\nDifferent translations: <good faith: 诚信, good will: 善意>'}",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "Article 8 The time limit for institution of legal proceedings pertaining to disputes over the right to inheritance is two years, counting from the day the successor became or should have become aware of the violation of his right to inheritance.": {
+      "序号": 4,
+      "原句": "Article 8 The time limit for institution of legal proceedings pertaining to disputes over the right to inheritance is two years, counting from the day the successor became or should have become aware of the violation of his right to inheritance.",
+      "术语": "time limit",
+      "原句翻译": "第八条 继承权纠纷提起法律诉讼的期限为两年，从继承人知悉继承权受到侵犯之日起算。",
+      "原句术语翻译": [
+         "期限"
+      ],
+      "bert替换变异": "['Article 8 The age limit for institution of legal proceedings pertaining to disputes over the right to inheritance is two years, counting from the day the successor became or should have become aware of the violation of his right to inheritance.', 'Article 8 The term limit for institution of legal proceedings pertaining to disputes over the right to inheritance is two years, counting from the day the successor became or should have become aware of the violation of his right to inheritance.', 'Article 8 The time period for institution of legal proceedings pertaining to disputes over the right to inheritance is two years, counting from the day the successor became or should have become aware of the violation of his right to inheritance.']",
+      "替换术语": [
+         "age limit",
+         "term limit",
+         "time period"
+      ],
+      "替换翻译": [
+         "第八条 就继承权纠纷提起法律诉讼的年龄为两年，从继承人意识到继承权受到侵犯或者应该知道其继承权受到侵犯之日起计算。",
+         "第八条 继承权纠纷提起法律诉讼的期限为两年，自继承人知悉继承权受到侵犯之日起计算。",
+         "第八条 继承权纠纷提起法律诉讼的期限为两年，自继承人知悉其继承权受到侵犯之日起计算。"
+      ],
+      "替换术语翻译": [
+         "年龄",
+         "期限",
+         "期限"
+      ],
+      "gpt建议": "{'term limit': 'NO\\nDifferent translations: <time limit: 时限, term limit: 条款限制>.', 'time period': 'YES'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Following a detailed analysis of China's recapitalization strategy, this paper suggests that bond - bad debt swaps are the best option for dealing with NPLs.": {
+      "序号": 5,
+      "原句": "Following a detailed analysis of China's recapitalization strategy, this paper suggests that bond - bad debt swaps are the best option for dealing with NPLs.",
+      "术语": "bad debt",
+      "原句翻译": "在详细分析了中国的资本重组战略之后，本文认为债券坏账互换是处理不良贷款的最佳选择。",
+      "原句术语翻译": [
+         "坏账不良贷款"
+      ],
+      "bert替换变异": "[\"Following a detailed analysis of China's recapitalization strategy, this paper suggests that bond - bad loan swaps are the best option for dealing with NPLs.\"]",
+      "替换术语": [
+         "bad loan"
+      ],
+      "替换翻译": [
+         "在详细分析了中国的资本重组战略之后，本文认为债券-坏账互换是处理不良贷款的最佳选择。"
+      ],
+      "替换术语翻译": [
+         "坏账不良贷款"
+      ],
+      "gpt建议": "{'bad loan': 'NO\\nDifferent translations: <bad debt: 坏账, bad loan: 不良贷款>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "Such conduct not only infringes the image of local governments at the grass- roots level and reduce the authoritativeness of the state central government, but also hinders the modernized construction of our country from developing smoothly.": {
+      "序号": 6,
+      "原句": "Such conduct not only infringes the image of local governments at the grass- roots level and reduce the authoritativeness of the state central government, but also hinders the modernized construction of our country from developing smoothly.",
+      "术语": "central government",
+      "原句翻译": "这种行为不仅损害了地方政府在基层的形象，削弱了中央政府的权威，而且阻碍了我国现代化建设的顺利发展。",
+      "原句术语翻译": [
+         "中央政府，"
+      ],
+      "bert替换变异": "['Such conduct not only infringes the image of local governments at the grass- roots level and reduce the authoritativeness of the state central administration, but also hinders the modernized construction of our country from developing smoothly.']",
+      "替换术语": [
+         "central administration"
+      ],
+      "替换翻译": [
+         "这种行为不仅损害了地方政府在基层的形象，削弱了中央政府的权威性，而且阻碍了我国现代化建设的顺利发展。"
+      ],
+      "替换术语翻译": [
+         "中央政府，"
+      ],
+      "gpt建议": "{'central administration': 'NO\\nDifferent translations: <central government: 中央政府, central administration: 中央行政机构>'}",
+      "manual_1_result": 0,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "A citizen, a legal person or any other organization may, within the scope of cases acceptable to the people's courts, apply to an administrative organ at the next higher level or to an administrative organ as prescribed by the law or regulations for reconsideration, anyone who refuses to accept the reconsideration decision may bring a suit before a people's court": {
+      "序号": 7,
+      "原句": "A citizen, a legal person or any other organization may, within the scope of cases acceptable to the people's courts, apply to an administrative organ at the next higher level or to an administrative organ as prescribed by the law or regulations for reconsideration, anyone who refuses to accept the reconsideration decision may bring a suit before a people's court",
+      "术语": "legal person",
+      "原句翻译": "公民、法人或者其他组织可以在人民法院受理的案件范围内，向上一级行政机关或者法律、法规规定的行政机关申请复议，拒绝接受复议决定的，可以向人民法院提起诉讼",
+      "原句术语翻译": [
+         "法人"
+      ],
+      "bert替换变异": "[\"A citizen, a legal institution or any other organization may, within the scope of cases acceptable to the people's courts, apply to an administrative organ at the next higher level or to an administrative organ as prescribed by the law or regulations for reconsideration, anyone who refuses to accept the reconsideration decision may bring a suit before a people's court\", \"A citizen, a legal entity or any other organization may, within the scope of cases acceptable to the people's courts, apply to an administrative organ at the next higher level or to an administrative organ as prescribed by the law or regulations for reconsideration, anyone who refuses to accept the reconsideration decision may bring a suit before a people's court\", \"A citizen, a legal body or any other organization may, within the scope of cases acceptable to the people's courts, apply to an administrative organ at the next higher level or to an administrative organ as prescribed by the law or regulations for reconsideration, anyone who refuses to accept the reconsideration decision may bring a suit before a people's court\", \"A citizen, a legal organization or any other organization may, within the scope of cases acceptable to the people's courts, apply to an administrative organ at the next higher level or to an administrative organ as prescribed by the law or regulations for reconsideration, anyone who refuses to accept the reconsideration decision may bring a suit before a people's court\", \"A citizen, a legal party or any other organization may, within the scope of cases acceptable to the people's courts, apply to an administrative organ at the next higher level or to an administrative organ as prescribed by the law or regulations for reconsideration, anyone who refuses to accept the reconsideration decision may bring a suit before a people's court\"]",
+      "替换术语": [
+         "legal institution",
+         "legal entity",
+         "legal body",
+         "legal organization",
+         "legal party"
+      ],
+      "替换翻译": [
+         "公民、法人机构或者其他组织可以在人民法院受理的案件范围内，向上一级行政机关或者法律、法规规定的行政机关申请复议，拒不接受复议决定的，可以向人民法院提起诉讼",
+         "公民、法人或者其他组织可以在人民法院受理的案件范围内，向上一级行政机关或者法律、法规规定的行政机关申请复议，拒不接受复议决定的，可以向人民法院提起诉讼",
+         "公民、法人团体或者其他组织，在人民法院受理的案件范围内，可以向上一级行政机关或者法律、法规规定的行政机关申请复议，拒不接受复议决定的，可以向人民法院提起诉讼",
+         "公民、法人组织或者其他组织，在人民法院受理的案件范围内，可以向上一级行政机关或者法律、法规规定的行政机关申请复议，拒不接受复议决定的，可以向人民法院提起诉讼",
+         "公民、法人或者其他组织可以在人民法院受理的案件范围内，向上一级行政机关或者法律、法规规定的行政机关申请复议，拒绝接受复议决定的，可以向人民法院提起诉讼"
+      ],
+      "替换术语翻译": [
+         "法人机构",
+         "法人",
+         "法人团体",
+         "法人组织",
+         "法人"
+      ],
+      "gpt建议": "{'legal entity': 'YES', 'legal party': 'NO\\nDifferent translations: <legal person: 法人, legal party: 法定当事人>'}",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "3. A chopping board is necessary for laying out the leaves.": {
+      "序号": 8,
+      "原句": "3. A chopping board is necessary for laying out the leaves.",
+      "术语": "chopping board",
+      "原句翻译": "3.铺设叶子需要一块砧板。",
+      "原句术语翻译": [
+         "砧板"
+      ],
+      "bert替换变异": "['3. A chopping block is necessary for laying out the leaves.', '3. A chopping knife is necessary for laying out the leaves.', '3. A chopping stick is necessary for laying out the leaves.', '3. A chopping tool is necessary for laying out the leaves.']",
+      "替换术语": [
+         "chopping block",
+         "chopping knife",
+         "chopping stick",
+         "chopping tool"
+      ],
+      "替换翻译": [
+         "3.铺设叶子需要一块砧板。",
+         "3.需要一把切碎刀来布置叶子。",
+         "3.铺设叶子需要一根砧子。",
+         "3.需要切碎工具来布置叶子。"
+      ],
+      "替换术语翻译": [
+         "砧板",
+         "切碎刀来",
+         "砧子",
+         "切碎工具"
+      ],
+      "gpt建议": "{'chopping block': 'NO\\nDifferent translations: <chopping board: 砧板, chopping block: 砧块>'}",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "This group of countries also includes the special administrative region(SAR) of Macau.": {
+      "序号": 9,
+      "原句": "This group of countries also includes the special administrative region(SAR) of Macau.",
+      "术语": "administrative region",
+      "原句翻译": "该组国家还包括澳门特别行政区（SAR）。",
+      "原句术语翻译": [
+         "澳门特别行政区（SAR）"
+      ],
+      "bert替换变异": "['This group of countries also includes the special administrative district(SAR) of Macau.', 'This group of countries also includes the special administrative area(SAR) of Macau.', 'This group of countries also includes the special administrative zone(SAR) of Macau.']",
+      "替换术语": [
+         "administrative district",
+         "administrative area",
+         "administrative zone"
+      ],
+      "替换翻译": [
+         "这组国家还包括澳门特别行政区（SAR）。",
+         "这组国家还包括澳门特别行政区（SAR）。",
+         "这组国家还包括澳门特别行政区（SAR）。"
+      ],
+      "替换术语翻译": [
+         "澳门特别行政区（SAR）",
+         "澳门特别行政区（SAR）",
+         "澳门特别行政区（SAR）"
+      ],
+      "gpt建议": "{'administrative district': 'NO\\nDifferent translations: <administrative region: 行政区, administrative district: 行政区>', 'administrative area': 'YES', 'administrative zone': 'YES'}",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "A panel of British lawmakers warns that Afghanistan could implode and Iraq become a failed state, without strong support from the West and neighboring countries.": {
+      "序号": 10,
+      "原句": "A panel of British lawmakers warns that Afghanistan could implode and Iraq become a failed state, without strong support from the West and neighboring countries.",
+      "术语": "failed state",
+      "原句翻译": "一个由英国议员组成的小组警告说，如果没有西方和邻国的大力支持，阿富汗可能会崩溃，伊拉克成为一个失败的国家。",
+      "原句术语翻译": [
+         "，失败国家"
+      ],
+      "bert替换变异": "['A panel of British lawmakers warns that Afghanistan could implode and Iraq become a failed country, without strong support from the West and neighboring countries.', 'A panel of British lawmakers warns that Afghanistan could implode and Iraq become a failed republic, without strong support from the West and neighboring countries.', 'A panel of British lawmakers warns that Afghanistan could implode and Iraq become a failed nation, without strong support from the West and neighboring countries.']",
+      "替换术语": [
+         "failed country",
+         "failed republic",
+         "failed nation"
+      ],
+      "替换翻译": [
+         "一个由英国议员组成的小组警告说，如果没有西方和邻国的大力支持，阿富汗可能会崩溃，伊拉克成为一个失败的国家。",
+         "一个由英国议员组成的小组警告说，如果没有西方和邻国的大力支持，阿富汗可能会崩溃，伊拉克成为一个失败的共和国。",
+         "一个由英国议员组成的小组警告说，如果没有西方和邻国的大力支持，阿富汗可能会崩溃，伊拉克成为一个失败的国家。"
+      ],
+      "替换术语翻译": [
+         "，失败国家",
+         "失败共和国",
+         "，失败国家"
+      ],
+      "gpt建议": "{'failed country': 'YES', 'failed nation': 'NO\\nDifferent translations: <failed state: 失败国家, failed nation: 失败国家>.'}",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "Article 7The time limit for the payment of a note shall not exceed two months from the date of issue.": {
+      "序号": 11,
+      "原句": "Article 7The time limit for the payment of a note shall not exceed two months from the date of issue.",
+      "术语": "time limit",
+      "原句翻译": "第七条 票据的支付期限自签发之日起不超过两个月。",
+      "原句术语翻译": [
+         "期限"
+      ],
+      "bert替换变异": "['Article 7The term limit for the payment of a note shall not exceed two months from the date of issue.', 'Article 7The age limit for the payment of a note shall not exceed two months from the date of issue.']",
+      "替换术语": [
+         "term limit",
+         "age limit"
+      ],
+      "替换翻译": [
+         "第七条 票据的支付期限自发行之日起不超过两个月。",
+         "第七条 票据的缴付期限自签发之日起不得超过两个月。"
+      ],
+      "替换术语翻译": [
+         "期限",
+         "期限"
+      ],
+      "gpt建议": "{'term limit': 'NO\\nDifferent translations: <time limit: 时限, term limit: 期限>', 'age limit': 'NO\\nDifferent translations: <time limit: 期限, age limit: 年龄限制>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "In this paper, a projected based approach is proposed which possesses two advantages: Firstly, the Sweep surface can be presented exactly if spine is line segment or arc curve.": {
+      "序号": 12,
+      "原句": "In this paper, a projected based approach is proposed which possesses two advantages: Firstly, the Sweep surface can be presented exactly if spine is line segment or arc curve.",
+      "术语": "line segment",
+      "原句翻译": "该文提出了一种基于投影的方法，该方法具有两个优点：首先，如果脊柱是线段或弧曲线，则可以精确地呈现扫描面。",
+      "原句术语翻译": [
+         "线段"
+      ],
+      "bert替换变异": "['In this paper, a projected based approach is proposed which possesses two advantages: Firstly, the Sweep surface can be presented exactly if spine is a segment or arc curve.', 'In this paper, a projected based approach is proposed which possesses two advantages: Firstly, the Sweep surface can be presented exactly if spine is line curve or arc curve.']",
+      "替换术语": [
+         "a segment",
+         "line curve"
+      ],
+      "替换翻译": [
+         "该文提出了一种基于投影的方法，该方法具有两个优点：首先，如果脊柱是线段或弧曲线，则可以精确地呈现扫描曲面。",
+         "该文提出一种基于投影的方法，该方法具有两个优点：首先，如果脊柱是直线曲线或弧曲线，则可以精确地呈现扫描曲面。"
+      ],
+      "替换术语翻译": [
+         "线段",
+         "直线曲线"
+      ],
+      "gpt建议": "{'a segment': 'NO\\nDifferent translations: <line segment: 线段, a segment: 一段>.'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Article 10 For import commodities which are subject to inspection by the commodity inspection authorities in accordance with this Law, the consignee shall apply to the same authorities for inspection in places and within the time limit specified by them.": {
+      "序号": 13,
+      "原句": "Article 10 For import commodities which are subject to inspection by the commodity inspection authorities in accordance with this Law, the consignee shall apply to the same authorities for inspection in places and within the time limit specified by them.",
+      "术语": "time limit",
+      "原句翻译": "第十条 对依照本法规定须由商检机关检验的进口商品，收货人应当在商品检验机关规定的地点和期限内向该机关申请检验。",
+      "原句术语翻译": [
+         "期限"
+      ],
+      "bert替换变异": "['Article 10 For import commodities which are subject to inspection by the commodity inspection authorities in accordance with this Law, the consignee shall apply to the same authorities for inspection in places and within the time period specified by them.']",
+      "替换术语": [
+         "time period"
+      ],
+      "替换翻译": [
+         "第十条 对依照本法规定应由商检机关检验的进口商品，收货人应当在商品检验机关规定的地点和期限内向该机关申请检验。"
+      ],
+      "替换术语翻译": [
+         "期限"
+      ],
+      "gpt建议": "{'time period': \"NO\\nDifferent translations: time limit: ['期限'], time period: ['时间段']\"}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "(b) in the case of a refusal under section 13 (3) (b), to put those parts of the lift or escalator affected by the lift works or escalator works in safe working order.": {
+      "序号": 14,
+      "原句": "(b) in the case of a refusal under section 13 (3) (b), to put those parts of the lift or escalator affected by the lift works or escalator works in safe working order.",
+      "术语": "working order",
+      "原句翻译": "（b） 如根据第13（3）（b）条拒绝将受升降机工程或自动梯工程影响的升降机或自动梯部分置于安全工作状态。",
+      "原句术语翻译": [
+         "工作状态。"
+      ],
+      "bert替换变异": "['(b) in the case of a refusal under section 13 (3) (b), to put those parts of the lift or escalator affected by the lift works or escalator works in safe working condition.', '(b) in the case of a refusal under section 13 (3) (b), to put those parts of the lift or escalator affected by the lift works or escalator works in safe working conditions.']",
+      "替换术语": [
+         "working condition",
+         "working conditions"
+      ],
+      "替换翻译": [
+         "（b） 如根据第13（3）（b）条拒绝将受升降机工程或自动梯工程影响的升降机或自动梯部分置于安全工作状态。",
+         "（b） 如根据第13（3）（b）条拒绝将受升降机工程或自动梯工程影响的升降机或自动梯部分置于安全的工作条件下。"
+      ],
+      "替换术语翻译": [
+         "工作状态。",
+         "工作条件。"
+      ],
+      "gpt建议": "{'working condition': 'NO\\nDifferent translations: \\nworking order: 工作状态\\nworking condition: 工作状况'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "I've seen many a man ruined through having ground floor rooms in the front quad.": {
+      "序号": 15,
+      "原句": "I've seen many a man ruined through having ground floor rooms in the front quad.",
+      "术语": "ground floor",
+      "原句翻译": "我见过很多人因为在前四边形的一楼房间而毁了。",
+      "原句术语翻译": [
+         "一楼"
+      ],
+      "bert替换变异": "[\"I've seen many a man ruined through having first floor rooms in the front quad.\", \"I've seen many a man ruined through having second floor rooms in the front quad.\", \"I've seen many a man ruined through having third floor rooms in the front quad.\", \"I've seen many a man ruined through having ground level rooms in the front quad.\"]",
+      "替换术语": [
+         "first floor",
+         "second floor",
+         "third floor",
+         "ground level"
+      ],
+      "替换翻译": [
+         "我见过很多人因为在前四边形的一楼房间而毁了。",
+         "我见过很多人因为在前四边形的二楼房间而毁了。",
+         "我见过很多人因为在前四边房里有三楼的房间而毁了。",
+         "我见过很多人因为在前四边形的底层房间而被毁了。"
+      ],
+      "替换术语翻译": [
+         "一楼",
+         "二楼",
+         "有三楼",
+         "底层"
+      ],
+      "gpt建议": "{'first floor': 'NO\\nDifferent translations: <ground floor: 底楼, first floor: 一楼>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "\"The most important shipping document is the bill of lading. It is firstly, a contract between the shipper and the shipping company; secondly, a receipt for the consignment;\"": {
+      "序号": 16,
+      "原句": "\"The most important shipping document is the bill of lading. It is firstly, a contract between the shipper and the shipping company; secondly, a receipt for the consignment;\"",
+      "术语": "bill of lading",
+      "原句翻译": "“最重要的运输文件是提单。首先，它是托运人与船公司之间的合同;第二，托运收据;”",
+      "原句术语翻译": [
+         "提单。"
+      ],
+      "bert替换变异": "['\"The most important shipping document is the contract of lading. It is firstly, a contract between the shipper and the shipping company; secondly, a receipt for the consignment;\"', '\"The most important shipping document is the law of lading. It is firstly, a contract between the shipper and the shipping company; secondly, a receipt for the consignment;\"', '\"The most important shipping document is the deed of lading. It is firstly, a contract between the shipper and the shipping company; secondly, a receipt for the consignment;\"']",
+      "替换术语": [
+         "contract of lading",
+         "law of lading",
+         "deed of lading"
+      ],
+      "替换翻译": [
+         "“最重要的运输文件是提货合同。首先，它是托运人与船公司之间的合同;第二，托运收据;”",
+         "“最重要的运输单证是提单法。首先，它是托运人与船公司之间的合同;第二，托运收据;”",
+         "“最重要的运输文件是提单。首先，它是托运人与船公司之间的合同;第二，托运收据;”"
+      ],
+      "替换术语翻译": [
+         "提货合同。",
+         "提单法。",
+         "提单。"
+      ],
+      "gpt建议": "{'deed of lading': 'NO\\nDifferent translations: <bill of lading: 提单, deed of lading: 提货单>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Temperature,moisture,dust,static electricity and vir us are the main factors which influence the safty of the computers. It will be easy for the computers to break down without any attention and protection.": {
+      "序号": 17,
+      "原句": "Temperature,moisture,dust,static electricity and vir us are the main factors which influence the safty of the computers. It will be easy for the computers to break down without any attention and protection.",
+      "术语": "static electricity",
+      "原句翻译": "温度、湿度、灰尘、静电和空气是影响计算机安全性的主要因素。在没有任何注意和保护的情况下，计算机很容易发生故障。",
+      "原句术语翻译": [
+         "温度、湿度、灰尘、静电"
+      ],
+      "bert替换变异": "['Temperature,moisture,dust,static heat and vir us are the main factors which influence the safty of the computers. It will be easy for the computers to break down without any attention and protection.', 'Temperature,moisture,dust,static charge and vir us are the main factors which influence the safty of the computers. It will be easy for the computers to break down without any attention and protection.']",
+      "替换术语": [
+         "static heat",
+         "static charge"
+      ],
+      "替换翻译": [
+         "温度、湿度、灰尘、静热和温度是影响计算机安全性的主要因素。在没有任何注意和保护的情况下，计算机很容易发生故障。",
+         "温度、湿度、灰尘、静电荷和空气是影响计算机安全性的主要因素。在没有任何注意和保护的情况下，计算机很容易发生故障。"
+      ],
+      "替换术语翻译": [
+         "温度、湿度、灰尘、静热",
+         "温度、湿度、灰尘、静电荷"
+      ],
+      "gpt建议": "{}",
+      "manual_1_result": 1,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "Leonard Shelby from the insurance company gives her the seed of doubts.": {
+      "序号": 18,
+      "原句": "Leonard Shelby from the insurance company gives her the seed of doubts.",
+      "术语": "insurance company",
+      "原句翻译": "保险公司的伦纳德·谢尔比（Leonard Shelby）给了她怀疑的种子。",
+      "原句术语翻译": [
+         "保险公司"
+      ],
+      "bert替换变异": "['Leonard Shelby from the insurance agency gives her the seed of doubts.']",
+      "替换术语": [
+         "insurance agency"
+      ],
+      "替换翻译": [
+         "保险公司的伦纳德·谢尔比（Leonard Shelby）给了她怀疑的种子。"
+      ],
+      "替换术语翻译": [
+         "保险公司"
+      ],
+      "gpt建议": "{'insurance agency': 'NO\\nDifferent translations: <insurance company: 保险公司, insurance agency: 保险代理处>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "The relevant departments for economic and trade under the State Council shall issue a directory of production technologies, processes and equipment and products to be eliminated within the time limit, jointly with other relevant administrative departments in the State Council.": {
+      "序号": 19,
+      "原句": "The relevant departments for economic and trade under the State Council shall issue a directory of production technologies, processes and equipment and products to be eliminated within the time limit, jointly with other relevant administrative departments in the State Council.",
+      "术语": "time limit",
+      "原句翻译": "国务院经贸有关部门应当会同国务院其他有关行政主管部门印发限期淘汰的生产技术、工艺和设备、产品目录。",
+      "原句术语翻译": [
+         "限期"
+      ],
+      "bert替换变异": "['The relevant departments for economic and trade under the State Council shall issue a directory of production technologies, processes and equipment and products to be eliminated within the time frame, jointly with other relevant administrative departments in the State Council.', 'The relevant departments for economic and trade under the State Council shall issue a directory of production technologies, processes and equipment and products to be eliminated within the time period, jointly with other relevant administrative departments in the State Council.']",
+      "替换术语": [
+         "time frame",
+         "time period"
+      ],
+      "替换翻译": [
+         "国务院经贸有关部门应当会同国务院其他有关行政部门发布限期淘汰的生产技术、工艺和设备、产品目录。",
+         "国务院经贸有关部门应当会同国务院其他有关行政部门出具限期淘汰的生产技术、工艺和设备产品目录。"
+      ],
+      "替换术语翻译": [
+         "限期",
+         "限期"
+      ],
+      "gpt建议": "{'time frame': 'YES', 'time period': 'NO\\nDifferent translations: \\ntime limit: 限期\\ntime period: 时间段/时间期限'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Donald Tsang, Hong Kong's chief executive, the successor to the governor, was formerly a senior member of Lord Patten's administration.": {
+      "序号": 20,
+      "原句": "Donald Tsang, Hong Kong's chief executive, the successor to the governor, was formerly a senior member of Lord Patten's administration.",
+      "术语": "chief executive",
+      "原句翻译": "香港行政长官曾荫权是香港总督的继任者，曾是彭定康勋爵政府的高级官员。",
+      "原句术语翻译": [
+         "行政长官"
+      ],
+      "bert替换变异": "[\"Donald Tsang, Hong Kong's chief minister, the successor to the governor, was formerly a senior member of Lord Patten's administration.\", \"Donald Tsang, Hong Kong's chief justice, the successor to the governor, was formerly a senior member of Lord Patten's administration.\"]",
+      "替换术语": [
+         "chief minister",
+         "chief justice"
+      ],
+      "替换翻译": [
+         "香港特区行政长官曾荫权是香港总督的继任者，曾是彭定康勋爵政府的高级官员。",
+         "香港首席大法官曾荫权是香港总督的继任者，曾是彭定康勋爵政府的高级官员。"
+      ],
+      "替换术语翻译": [
+         "行政长官",
+         "首席大法官"
+      ],
+      "gpt建议": "{'chief minister': 'NO\\nDifferent translations: <chief executive: 行政长官, chief minister: 首席部长>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "But Banerjee says a downturn will be eased somewhat by the strength in domestic consumption in Asia, with most governments holding substantial foreign exchange reserves. He says the medium term outlook is favorable.": {
+      "序号": 21,
+      "原句": "But Banerjee says a downturn will be eased somewhat by the strength in domestic consumption in Asia, with most governments holding substantial foreign exchange reserves. He says the medium term outlook is favorable.",
+      "术语": "foreign exchange",
+      "原句翻译": "但Banerjee表示，亚洲国内消费的强劲将在一定程度上缓解经济下滑，因为大多数政府都持有大量外汇储备。他说，中期前景是有利的。",
+      "原句术语翻译": [
+         "外汇储备"
+      ],
+      "bert替换变异": "['But Banerjee says a downturn will be eased somewhat by the strength in domestic consumption in Asia, with most governments holding substantial foreign currency reserves. He says the medium term outlook is favorable.', 'But Banerjee says a downturn will be eased somewhat by the strength in domestic consumption in Asia, with most governments holding substantial foreign energy reserves. He says the medium term outlook is favorable.', 'But Banerjee says a downturn will be eased somewhat by the strength in domestic consumption in Asia, with most governments holding substantial foreign oil reserves. He says the medium term outlook is favorable.']",
+      "替换术语": [
+         "foreign currency",
+         "foreign energy",
+         "foreign oil"
+      ],
+      "替换翻译": [
+         "但Banerjee表示，亚洲国内消费的强劲将在一定程度上缓解经济下滑，因为大多数政府都持有大量外汇储备。他说，中期前景是有利的。",
+         "但Banerjee表示，亚洲国内消费的强劲将在一定程度上缓解经济下滑，因为大多数政府都持有大量的外国能源储备。他说，中期前景是有利的。",
+         "但Banerjee表示，亚洲国内消费的强劲将在一定程度上缓解经济下滑，因为大多数政府都持有大量的外国石油储备。他说，中期前景是有利的。"
+      ],
+      "替换术语翻译": [
+         "外汇储备",
+         "外国能源",
+         "外国石油"
+      ],
+      "gpt建议": "{'foreign currency': 'NO\\nDifferent translations: <foreign exchange: 外汇储备, foreign currency: 外币储备>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "After all, they’re cold-blooded, so their body temperature is pretty close to the temperature around them!": {
+      "序号": 22,
+      "原句": "After all, they’re cold-blooded, so their body temperature is pretty close to the temperature around them!",
+      "术语": "body temperature",
+      "原句翻译": "毕竟，它们是冷血动物，所以它们的体温与周围的温度非常接近！",
+      "原句术语翻译": [
+         "体温"
+      ],
+      "bert替换变异": "['After all, they’re cold-blooded, so their blood temperature is pretty close to the temperature around them!', 'After all, they’re cold-blooded, so their skin temperature is pretty close to the temperature around them!', 'After all, they’re cold-blooded, so their body heat is pretty close to the temperature around them!']",
+      "替换术语": [
+         "blood temperature",
+         "skin temperature",
+         "body heat"
+      ],
+      "替换翻译": [
+         "毕竟，他们是冷血动物，所以他们的血液温度与周围的温度非常接近！",
+         "毕竟，它们是冷血动物，所以它们的体温与周围的温度非常接近！",
+         "毕竟，他们是冷血动物，所以它们的体温与周围的温度非常接近！"
+      ],
+      "替换术语翻译": [
+         "血液温度",
+         "体温",
+         "体温"
+      ],
+      "gpt建议": "{'skin temperature': 'YES', 'body heat': 'NO\\nDifferent translations: \\nbody temperature: 体温\\nbody heat: 体热'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "The group then selected a market segment in which HBS does not currently have an offering.": {
+      "序号": 23,
+      "原句": "The group then selected a market segment in which HBS does not currently have an offering.",
+      "术语": "market segment",
+      "原句翻译": "然后，该小组选择了哈佛商学院目前没有产品的细分市场。",
+      "原句术语翻译": [
+         "市场"
+      ],
+      "bert替换变异": "['The group then selected a programming segment in which HBS does not currently have an offering.', 'The group then selected a market area in which HBS does not currently have an offering.', 'The group then selected a market niche in which HBS does not currently have an offering.', 'The group then selected a market share in which HBS does not currently have an offering.']",
+      "替换术语": [
+         "programming segment",
+         "market area",
+         "market niche",
+         "market share"
+      ],
+      "替换翻译": [
+         "然后，该小组选择了哈佛商学院目前没有课程的节目部分。",
+         "然后，该小组选择了哈佛商学院目前没有产品的市场领域。",
+         "然后，该小组选择了哈佛商学院目前没有产品的利基市场。",
+         "然后，该集团选择了哈佛商学院目前没有产品的市场份额。"
+      ],
+      "替换术语翻译": [
+         "节目部分",
+         "市场领域",
+         "市场",
+         "市场份额"
+      ],
+      "gpt建议": "{'market niche': 'NO\\nDifferent translations: \\nmarket segment: 市场细分 \\nmarket niche: 市场利基'}",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "(5) the term of the share offer and a statement to the effect that subscribers may withdraw their share subscriptions if all the shares are not taken up within the time limit.": {
+      "序号": 24,
+      "原句": "(5) the term of the share offer and a statement to the effect that subscribers may withdraw their share subscriptions if all the shares are not taken up within the time limit.",
+      "术语": "time limit",
+      "原句翻译": "（5） 股份要约的条款，以及一份声明，即如果所有股份未在期限内被认购，认购人可以撤回其股份认购。",
+      "原句术语翻译": [
+         "期限内。"
+      ],
+      "bert替换变异": "['(5) the term of the share offer and a statement to the effect that subscribers may withdraw their share subscriptions if all the shares are not taken up within the price limit.', '(5) the term of the share offer and a statement to the effect that subscribers may withdraw their share subscriptions if all the shares are not taken up within the time period.']",
+      "替换术语": [
+         "price limit",
+         "time period"
+      ],
+      "替换翻译": [
+         "（5） 股份要约的条款，以及一份声明，即如果所有股份未在价格限制内被认购，认购人可以撤回其股份认购。",
+         "（5） 股份要约的条款，以及一份声明，即如果所有股份在期限内没有被认购，认购人可以撤回其股份认购。"
+      ],
+      "替换术语翻译": [
+         "价格限制。",
+         "期限内。"
+      ],
+      "gpt建议": "{'time period': 'NO\\nDifferent translations: \\ntime limit: 期限\\ntime period: 时间段'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Aston University has insta*ed a local area network (LAN) linking 200terminals.": {
+      "序号": 25,
+      "原句": "Aston University has insta*ed a local area network (LAN) linking 200terminals.",
+      "术语": "local area network",
+      "原句翻译": "阿斯顿大学已经建立了一个连接200个终端的局域网（LAN）。",
+      "原句术语翻译": [
+         "局域网"
+      ],
+      "bert替换变异": "['Aston University has insta*ed a local area map (LAN) linking 200terminals.']",
+      "替换术语": [
+         "local area map"
+      ],
+      "替换翻译": [
+         "阿斯顿大学（Aston University）已经建立了一个连接200个终端的局域网（LAN）。"
+      ],
+      "替换术语翻译": [
+         "局域网"
+      ],
+      "gpt建议": "{'local area map': 'NO\\nDifferent translations: <local area network: 局域网, local area map: 局域图>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Article 13. Where an application for technology import is approved, the competent foreign trade department under the State Council shall issue an letter of intent for licensing the technology import.": {
+      "序号": 26,
+      "原句": "Article 13. Where an application for technology import is approved, the competent foreign trade department under the State Council shall issue an letter of intent for licensing the technology import.",
+      "术语": "letter of intent",
+      "原句翻译": "第13条.技术进口申请获批的，由国务院外贸主管部门出具技术进口许可意向书。",
+      "原句术语翻译": [
+         "意向书"
+      ],
+      "bert替换变异": "['Article 13. Where an application for technology import is approved, the competent foreign trade department under the State Council shall issue an order of intent for licensing the technology import.', 'Article 13. Where an application for technology import is approved, the competent foreign trade department under the State Council shall issue an notice of intent for licensing the technology import.', 'Article 13. Where an application for technology import is approved, the competent foreign trade department under the State Council shall issue an announcement of intent for licensing the technology import.', 'Article 13. Where an application for technology import is approved, the competent foreign trade department under the State Council shall issue an letter of approval for licensing the technology import.', 'Article 13. Where an application for technology import is approved, the competent foreign trade department under the State Council shall issue an letter of recommendation for licensing the technology import.', 'Article 13. Where an application for technology import is approved, the competent foreign trade department under the State Council shall issue an letter of application for licensing the technology import.']",
+      "替换术语": [
+         "order of intent",
+         "notice of intent",
+         "announcement of intent",
+         "letter of approval",
+         "letter of recommendation",
+         "letter of application"
+      ],
+      "替换翻译": [
+         "第13条.技术进口申请获批的，由国务院外贸主管部门出具技术进口许可意向书。",
+         "第13条.技术进口申请获批的，由国务院外贸主管部门出具技术进口许可意向通知书。",
+         "第13条.技术进口申请获批的，由国务院对外贸易主管部门出具技术进口许可意向公告。",
+         "第13条.技术进口申请获批的，由国务院对外贸易主管部门出具技术进口许可批准书。",
+         "第13条.技术进口申请获批的，由国务院对外贸易主管部门出具技术进口许可推荐书。",
+         "第13条.技术进口申请获批的，由国务院外贸主管部门出具技术进口许可申请书。"
+      ],
+      "替换术语翻译": [
+         "意向书",
+         "意向通知书",
+         "意向公告",
+         "批准书",
+         "许可推荐书",
+         "许可申请书"
+      ],
+      "gpt建议": "{'order of intent': 'NO\\nDifferent translations: <letter of intent: 意向书, order of intent: 订单意向书>.'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "(b) is not the holder of a valid HKSAR passport or valid permanent identity card; and": {
+      "序号": 27,
+      "原句": "(b) is not the holder of a valid HKSAR passport or valid permanent identity card; and",
+      "术语": "identity card",
+      "原句翻译": "（b） 并非持有有效的香港特区护照或有效永久性居民身份证;和",
+      "原句术语翻译": [
+         "居民身份证;"
+      ],
+      "bert替换变异": "['(b) is not the holder of a valid HKSAR passport or valid permanent residency card; and', '(b) is not the holder of a valid HKSAR passport or valid permanent residence card; and', '(b) is not the holder of a valid HKSAR passport or valid permanent resident card; and', '(b) is not the holder of a valid HKSAR passport or valid permanent identity document; and']",
+      "替换术语": [
+         "residency card",
+         "residence card",
+         "resident card",
+         "identity document"
+      ],
+      "替换翻译": [
+         "（b） 并非持有有效的香港特区护照或有效的永久性居民身份证;和",
+         "（b） 并非持有有效的香港特区护照或有效的永久性居民证;和",
+         "（b） 并非持有有效的香港特区护照或有效的永久性居民证;和",
+         "（b） 并非持有有效的香港特区护照或有效的永久性居民身份证明文件;和"
+      ],
+      "替换术语翻译": [
+         "居民身份证;",
+         "居民证;",
+         "居民证;",
+         "居民身份证文件;"
+      ],
+      "gpt建议": "{'residency card': 'NO\\nDifferent translations: <identity card: 身份证, residency card: 居留证>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Luanda, Angola, 7 Sept–Angola posted a balance of trade surplus in the first quarter of the year of US$9.4 billion, above all due to oil exports, the acting director-general of the National Statistics Institute(INE) said Monday.": {
+      "序号": 28,
+      "原句": "Luanda, Angola, 7 Sept–Angola posted a balance of trade surplus in the first quarter of the year of US$9.4 billion, above all due to oil exports, the acting director-general of the National Statistics Institute(INE) said Monday.",
+      "术语": "balance of trade",
+      "原句翻译": "安哥拉罗安达，9月7日 - 安哥拉国家统计局（INE）代理总干事周一表示，今年第一季度的贸易顺差为94亿美元，主要是由于石油出口。",
+      "原句术语翻译": [
+         "贸易顺差"
+      ],
+      "bert替换变异": "['Luanda, Angola, 7 Sept–Angola posted a level of trade surplus in the first quarter of the year of US$9.4 billion, above all due to oil exports, the acting director-general of the National Statistics Institute(INE) said Monday.', 'Luanda, Angola, 7 Sept–Angola posted a state of trade surplus in the first quarter of the year of US$9.4 billion, above all due to oil exports, the acting director-general of the National Statistics Institute(INE) said Monday.', 'Luanda, Angola, 7 Sept–Angola posted a record of trade surplus in the first quarter of the year of US$9.4 billion, above all due to oil exports, the acting director-general of the National Statistics Institute(INE) said Monday.']",
+      "替换术语": [
+         "level of trade",
+         "state of trade",
+         "record of trade"
+      ],
+      "替换翻译": [
+         "安哥拉罗安达，9月7日 - 安哥拉国家统计局（INE）代理总干事周一表示，今年第一季度的贸易顺差水平为94亿美元，主要是由于石油出口。",
+         "安哥拉罗安达，9月7日 - 安哥拉国家统计局（INE）代理总干事周一表示，今年第一季度的贸易顺差为94亿美元，主要是由于石油出口。",
+         "安哥拉罗安达，9月7日 - 安哥拉国家统计局（INE）代理总干事周一表示，今年第一季度的贸易顺差达到创纪录的94亿美元，主要是由于石油出口。"
+      ],
+      "替换术语翻译": [
+         "的贸易顺差水平",
+         "贸易顺差",
+         "的贸易顺差创纪录"
+      ],
+      "gpt建议": "{'state of trade': 'NO\\nDifferent translations: <balance of trade: 贸易顺差, state of trade: 贸易状况>.'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "A 10% service charge will added to your bill.": {
+      "序号": 29,
+      "原句": "A 10% service charge will added to your bill.",
+      "术语": "service charge",
+      "原句翻译": "10%的服务费将添加到您的账单中。",
+      "原句术语翻译": [
+         "服务费"
+      ],
+      "bert替换变异": "['A 10% extra charge will added to your bill.', 'A 10% service rate will added to your bill.', 'A 10% service fee will added to your bill.', 'A 10% service bill will added to your bill.', 'A 10% service increase will added to your bill.']",
+      "替换术语": [
+         "extra charge",
+         "service rate",
+         "service fee",
+         "service bill",
+         "service increase"
+      ],
+      "替换翻译": [
+         "10%的额外费用将添加到您的账单中。",
+         "10% 的服务费将添加到您的账单中。",
+         "10%的服务费将添加到您的账单中。",
+         "10% 的服务账单将添加到您的账单中。",
+         "10% 的服务增加将添加到您的账单中。"
+      ],
+      "替换术语翻译": [
+         "额外费用",
+         "服务费",
+         "服务费",
+         "服务账单",
+         "服务增加"
+      ],
+      "gpt建议": "{'service rate': 'NO\\nDifferent translations: <service charge: 服务费, service rate: 服务费>', 'service fee': 'YES'}",
+      "manual_1_result": 1,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "Analysis on the relationship between plasma Lipid level and risk degree of coronary heart disease (CHD)in 115 cases of different types of hyperlip": {
+      "序号": 30,
+      "原句": "Analysis on the relationship between plasma Lipid level and risk degree of coronary heart disease (CHD)in 115 cases of different types of hyperlip",
+      "术语": "coronary heart disease",
+      "原句翻译": "115例不同类型高血压患者血浆脂质水平与冠心病（CHD）风险程度的关系分析",
+      "原句术语翻译": [
+         "冠心病"
+      ],
+      "bert替换变异": "['Analysis on the relationship between plasma Lipid level and risk degree of coronary heart failure (CHD)in 115 cases of different types of hyperlip']",
+      "替换术语": [
+         "coronary heart failure"
+      ],
+      "替换翻译": [
+         "115例不同类型唇型高血压患者血浆脂质水平与冠心病（CHD）风险程度的关系分析"
+      ],
+      "替换术语翻译": [
+         "冠心病"
+      ],
+      "gpt建议": "{'coronary heart failure': 'NO\\nDifferent translations: coronary heart disease: 冠心病, coronary heart failure: 冠心衰竭'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "We go, Rach, you do a plenary session.": {
+      "序号": 31,
+      "原句": "We go, Rach, you do a plenary session.",
+      "术语": "plenary session",
+      "原句翻译": "我们去吧，拉赫，你开个全体会议。",
+      "原句术语翻译": [
+         "全体会议。"
+      ],
+      "bert替换变异": "['We go, Rach, you do a plenary vote.', 'We go, Rach, you do a plenary count.', 'We go, Rach, you do a plenary call.']",
+      "替换术语": [
+         "plenary vote",
+         "plenary count",
+         "plenary call"
+      ],
+      "替换翻译": [
+         "我们去吧，拉赫，你进行全体投票。",
+         "我们去吧，拉赫，你做一个全体计数。",
+         "我们去吧，拉赫，你来个全体会议。"
+      ],
+      "替换术语翻译": [
+         "全体投票。",
+         "全体计数。",
+         "全体会议。"
+      ],
+      "gpt建议": "{'plenary call': 'NO\\nDifferent translations: <plenary session: 全体会议, plenary call: 全体电话会议>.'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "With Standard Bank’s London commodity trading operations, ICBC would increase its footprint in the global trading of crude oil, copper and other raw materials.": {
+      "序号": 32,
+      "原句": "With Standard Bank’s London commodity trading operations, ICBC would increase its footprint in the global trading of crude oil, copper and other raw materials.",
+      "术语": "crude oil",
+      "原句翻译": "通过标准银行的伦敦商品交易业务，中国工商银行将扩大其在全球原油、铜和其他原材料贸易中的足迹。",
+      "原句术语翻译": [
+         "原油、"
+      ],
+      "bert替换变异": "['With Standard Bank’s London commodity trading operations, ICBC would increase its footprint in the global trading of crude petroleum, copper and other raw materials.']",
+      "替换术语": [
+         "crude petroleum"
+      ],
+      "替换翻译": [
+         "随着标准银行在伦敦的商品交易业务，中国工商银行将扩大其在全球原油、铜和其他原材料贸易中的足迹。"
+      ],
+      "替换术语翻译": [
+         "原油、"
+      ],
+      "gpt建议": "{'crude petroleum': \"NO\\nDifferent translations: <crude oil: ['原油'], crude petroleum: ['原油']>\"}",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "This connects the extreme systematising patterns of thought which make a good mathematician with the preponderance of men among those with Asperger's syndrome, a form of autism that does not harm a person's general intelligence.": {
+      "序号": 33,
+      "原句": "This connects the extreme systematising patterns of thought which make a good mathematician with the preponderance of men among those with Asperger's syndrome, a form of autism that does not harm a person's general intelligence.",
+      "术语": "Asperger's syndrome",
+      "原句翻译": "这将使优秀的数学家成为极端系统化的思维模式与阿斯伯格综合症患者中男性的优势联系起来，阿斯伯格综合症是一种不会损害一个人的一般智力的自闭症形式。",
+      "原句术语翻译": [
+         "阿斯伯格综合症，"
+      ],
+      "bert替换变异": "[\"This connects the extreme systematising patterns of thought which make a good mathematician with the preponderance of men among those with Asperger's disease, a form of autism that does not harm a person's general intelligence.\"]",
+      "替换术语": [
+         "Asperger's disease"
+      ],
+      "替换翻译": [
+         "这将极端系统化的思维模式与阿斯伯格综合症患者中男性的优势联系起来，阿斯伯格综合症是一种不会损害一个人的一般智力的自闭症。"
+      ],
+      "替换术语翻译": [
+         "阿斯伯格，综合症"
+      ],
+      "gpt建议": "{}",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "Results:There was siganificant differences in the level of ET and NO in plasma between hypertension group and normal blood pressure group(P<0.05);": {
+      "序号": 34,
+      "原句": "Results:There was siganificant differences in the level of ET and NO in plasma between hypertension group and normal blood pressure group(P<0.05);",
+      "术语": "blood pressure",
+      "原句翻译": "结果：高血压组与正常血压组血浆ET和NO水平差异显著（P<0.05）;",
+      "原句术语翻译": [
+         "血压"
+      ],
+      "bert替换变异": "['Results:There was siganificant differences in the level of ET and NO in plasma between hypertension group and normal plasma pressure group(P<0.05);', 'Results:There was siganificant differences in the level of ET and NO in plasma between hypertension group and normal blood flow group(P<0.05);']",
+      "替换术语": [
+         "plasma pressure",
+         "blood flow"
+      ],
+      "替换翻译": [
+         "结果：高血压组与正常血压组血浆中ET和NO水平差异显著（P<0.05）;",
+         "结果：高血压组与正常血流组血浆ET和NO水平差异显著（P<0.05）;"
+      ],
+      "替换术语翻译": [
+         "血压",
+         "血流"
+      ],
+      "gpt建议": "{'plasma pressure': 'NO\\nDifferent translations: <blood pressure: 血压, plasma pressure: 血浆压力>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "(6) Subregulations (1), (3) and (4) shall not apply to a motor vehicle.": {
+      "序号": 35,
+      "原句": "(6) Subregulations (1), (3) and (4) shall not apply to a motor vehicle.",
+      "术语": "motor vehicle",
+      "原句翻译": "（6）第（1）、（3）和（4）款不适用于机动车辆。",
+      "原句术语翻译": [
+         "机动车辆。"
+      ],
+      "bert替换变异": "['(6) Subregulations (1), (3) and (4) shall not apply to a motor car.']",
+      "替换术语": [
+         "motor car"
+      ],
+      "替换翻译": [
+         "（6）第（1）、（3）和（4）款不适用于机动车。"
+      ],
+      "替换术语翻译": [
+         "机动车。"
+      ],
+      "gpt建议": "{}",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "Where the amendment of a company's articles of association does not relate to the registered items": {
+      "序号": 36,
+      "原句": "Where the amendment of a company's articles of association does not relate to the registered items",
+      "术语": "articles of association",
+      "原句翻译": "公司章程的修改与注册项目无关",
+      "原句术语翻译": [
+         "公司章程"
+      ],
+      "bert替换变异": "[\"Where the amendment of a company's articles of law does not relate to the registered items\"]",
+      "替换术语": [
+         "articles of law"
+      ],
+      "替换翻译": [
+         "公司章程的修改与注册项目无关"
+      ],
+      "替换术语翻译": [
+         "公司章程"
+      ],
+      "gpt建议": "{'articles of law': 'NO\\nDifferent translations: <articles of association: 公司章程, articles of law: 法律条文>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Nearly 12 years later, she qualified for her first Olympic Games at this year's African Championship and will represent Senegal in London.": {
+      "序号": 37,
+      "原句": "Nearly 12 years later, she qualified for her first Olympic Games at this year's African Championship and will represent Senegal in London.",
+      "术语": "Olympic Games",
+      "原句翻译": "近12年后，她在今年的非洲锦标赛上首次获得奥运会参赛资格，并将代表塞内加尔参加伦敦奥运会。",
+      "原句术语翻译": [
+         "奥运会"
+      ],
+      "bert替换变异": "[\"Nearly 12 years later, she qualified for her first Olympic appearance at this year's African Championship and will represent Senegal in London.\", \"Nearly 12 years later, she qualified for her first Olympic tournament at this year's African Championship and will represent Senegal in London.\"]",
+      "替换术语": [
+         "Olympic appearance",
+         "Olympic tournament"
+      ],
+      "替换翻译": [
+         "近12年后，她在今年的非洲锦标赛上首次获得奥运参赛资格，并将代表塞内加尔参加伦敦奥运会。",
+         "近12年后，她在今年的非洲锦标赛上首次获得奥运会参赛资格，并将代表塞内加尔参加伦敦奥运会。"
+      ],
+      "替换术语翻译": [
+         "奥运参赛",
+         "奥运会"
+      ],
+      "gpt建议": "{'Olympic tournament': 'NO\\nDifferent translations: <Olympic Games: 奥运会, Olympic tournament: 奥林匹克比赛>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 0,
+      "final_result": 1
+   },
+   "In Chinese penal code, such crime is not only lighter than general unpremeditated crimes, but other professional unpremeditated crimes, which is diametrically opposed to our criminal law.": {
+      "序号": 38,
+      "原句": "In Chinese penal code, such crime is not only lighter than general unpremeditated crimes, but other professional unpremeditated crimes, which is diametrically opposed to our criminal law.",
+      "术语": "criminal law",
+      "原句翻译": "在我国刑法中，这种犯罪不仅比一般的无预谋犯罪轻，而且比其他专业的无预谋犯罪要轻，这与我国刑法截然相反。",
+      "原句术语翻译": [
+         "刑法。"
+      ],
+      "bert替换变异": "['In Chinese penal code, such crime is not only lighter than general unpremeditated crimes, but other professional unpremeditated crimes, which is diametrically opposed to our criminal code.', 'In Chinese penal code, such crime is not only lighter than general unpremeditated crimes, but other professional unpremeditated crimes, which is diametrically opposed to our criminal system.']",
+      "替换术语": [
+         "criminal code",
+         "criminal system"
+      ],
+      "替换翻译": [
+         "在我国刑法中，这种犯罪不仅比一般的无预谋犯罪轻，而且比其他专业无预谋的犯罪要轻，这与我国刑法截然相反。",
+         "在中国刑法中，这种犯罪不仅比一般的无预谋犯罪轻，而且其他专业的无预谋犯罪，这与我们的刑法制度截然相反。"
+      ],
+      "替换术语翻译": [
+         "刑法。",
+         "刑法制度。"
+      ],
+      "gpt建议": "{'criminal code': 'NO\\nDifferent translations: <criminal law: 刑法, criminal code: 刑法典>'}",
+      "manual_1_result": 0,
+      "manual_2_result": 1,
+      "final_result": 0
+   },
+   "Article 128 A supervisor shall faithfully perform his duties of supervision in accordance with the law, the administrative rules and regulations and the articles of association of the company.": {
+      "序号": 39,
+      "原句": "Article 128 A supervisor shall faithfully perform his duties of supervision in accordance with the law, the administrative rules and regulations and the articles of association of the company.",
+      "术语": "articles of association",
+      "原句翻译": "第一百二十八条 监事应当依照法律、行政法规和公司章程的规定，忠实履行监督职责。",
+      "原句术语翻译": [
+         ""
+      ],
+      "bert替换变异": "['Article 128 A supervisor shall faithfully perform his duties of supervision in accordance with the law, the administrative rules and regulations and the law of association of the company.', 'Article 128 A supervisor shall faithfully perform his duties of supervision in accordance with the law, the administrative rules and regulations and the articles of law of the company.']",
+      "替换术语": [
+         "law of association",
+         "articles of law"
+      ],
+      "替换翻译": [
+         "第一百二十八条 监事应当依照公司法律、行政法规和公司章程的规定，忠实履行监督职责。",
+         "第一百二十八条 监事应当依照法律、行政法规和公司章程的规定，忠实履行监督职责。"
+      ],
+      "替换术语翻译": [
+         "",
+         ""
+      ],
+      "gpt建议": "{'law of association': 'NO\\nDifferent translations: articles of association: 公司章程, law of association: 协会法', 'articles of law': 'NO\\nDifferent translations: <articles of association: 公司章程, articles of law: 法律条文>.'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "carbide t-slot milling cutter 硬质合金t形槽铣刀 carbide taper shank endmill with helical teeth": {
+      "序号": 40,
+      "原句": "carbide t-slot milling cutter 硬质合金t形槽铣刀 carbide taper shank endmill with helical teeth",
+      "术语": "milling cutter",
+      "原句翻译": "硬质合金T型槽铣刀 硬质合金T形槽铣刀 硬质合金锥柄立铣刀带斜齿",
+      "原句术语翻译": [
+         ""
+      ],
+      "bert替换变异": "['carbide t-slot milling machine 硬质合金t形槽铣刀 carbide taper shank endmill with helical teeth', 'carbide t-slot milling device 硬质合金t形槽铣刀 carbide taper shank endmill with helical teeth']",
+      "替换术语": [
+         "milling machine",
+         "milling device"
+      ],
+      "替换翻译": [
+         "硬质合金T型槽铣床硬质合金T形槽铣刀硬质合金锥柄立铣刀带斜齿",
+         "硬质合金T型槽铣削装置 硬质合金T形槽铣刀 硬质合金锥柄立铣刀带斜齿"
+      ],
+      "替换术语翻译": [
+         "",
+         "铣削装置"
+      ],
+      "gpt建议": "{'milling machine': 'NO\\nDifferent translations: <milling cutter: 铣刀, milling machine: 铣床>'}",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "It should master its concept and characteristic so that discriminate it from other close concepts, combined with the western practice of rule of law.": {
+      "序号": 41,
+      "原句": "It should master its concept and characteristic so that discriminate it from other close concepts, combined with the western practice of rule of law.",
+      "术语": "rule of law",
+      "原句翻译": "它应该掌握其概念和特点，以便将其与其他紧密的概念区分开来，并结合西方的法治实践。",
+      "原句术语翻译": [
+         "法治。"
+      ],
+      "bert替换变异": "['It should master its concept and characteristic so that discriminate it from other close concepts, combined with the western practice of philosophy of law.', 'It should master its concept and characteristic so that discriminate it from other close concepts, combined with the western practice of rule of mind.']",
+      "替换术语": [
+         "philosophy of law",
+         "rule of mind"
+      ],
+      "替换翻译": [
+         "它应该掌握它的概念和特点，以便将其与其他接近的概念区分开来，并结合西方的法哲学实践。",
+         "它应该掌握它的概念和特点，以便将其与其他紧密的概念区分开来，并结合西方的法治实践。"
+      ],
+      "替换术语翻译": [
+         "法哲学。",
+         "法治。"
+      ],
+      "gpt建议": "{'rule of mind': 'NO\\nDifferent translations: <rule of law: 法治, rule of mind: 心灵法则>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "A total US$ 9.4 million will be released to Maputo under the latest IMF support package. Credit from the international financial body carries a 0.5 percent annual interest rate to be paid back over 10 years, with deferment period of over five years for repayment of main instalments.": {
+      "序号": 42,
+      "原句": "A total US$ 9.4 million will be released to Maputo under the latest IMF support package. Credit from the international financial body carries a 0.5 percent annual interest rate to be paid back over 10 years, with deferment period of over five years for repayment of main instalments.",
+      "术语": "interest rate",
+      "原句翻译": "根据国际货币基金组织最新的一揽子支持计划，将向马普托发放总额为940万美元。来自国际金融机构的信贷年利率为0.5%，分10年偿还，主要分期付款的延期期超过5年。",
+      "原句术语翻译": [
+         "年利率"
+      ],
+      "bert替换变异": "['A total US$ 9.4 million will be released to Maputo under the latest IMF support package. Credit from the international financial body carries a 0.5 percent annual exchange rate to be paid back over 10 years, with deferment period of over five years for repayment of main instalments.']",
+      "替换术语": [
+         "exchange rate"
+      ],
+      "替换翻译": [
+         "根据国际货币基金组织最新的一揽子支持计划，将向马普托发放总额为940万美元。国际金融机构的信贷年利率为0.5%，分10年偿还，主要分期付款的延期期超过5年。"
+      ],
+      "替换术语翻译": [
+         "年利率"
+      ],
+      "gpt建议": "{'exchange rate': 'NO\\nDifferent translations: <interest rate: 利率, exchange rate: 汇率>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "According to the new thought, in order to push the industrialization of Yunnan and take a new road to industrialization, we should coordinate the development of industry, agriculture and servce industry, and develop industry into the base and driving force of agriculture and service industry; integrate speed, quality and efficiency, and truly make the industry of Yunnan to have a strong competitive force; integrate the enhancement of industrial production force and the capacity of consuming demand, and mutually promote the industry development and the change of consuming demand; coordinate the technology progress, efficiency increase, and full employment, and let more people share the fruit and benefit of industrialization; join the current development and the future development, respect the law of nature and the law of economic development, take a road of civilized development, realize the harmonious development of man and nature, and realize the sustainable development.": {
+      "序号": 43,
+      "原句": "According to the new thought, in order to push the industrialization of Yunnan and take a new road to industrialization, we should coordinate the development of industry, agriculture and servce industry, and develop industry into the base and driving force of agriculture and service industry; integrate speed, quality and efficiency, and truly make the industry of Yunnan to have a strong competitive force; integrate the enhancement of industrial production force and the capacity of consuming demand, and mutually promote the industry development and the change of consuming demand; coordinate the technology progress, efficiency increase, and full employment, and let more people share the fruit and benefit of industrialization; join the current development and the future development, respect the law of nature and the law of economic development, take a road of civilized development, realize the harmonious development of man and nature, and realize the sustainable development.",
+      "术语": "sustainable development",
+      "原句翻译": "按照新思想，要推动云南工业化，走工业化新路，就要统筹发展工业、农业、服务业，把工业发展成为农业和服务业的基础和动力;集速度、质量、效率于一体，真正使云南工业具有强大的竞争力;整合工业生产力量的增强和消费需求的能力，促进行业发展和消费需求的变化;统筹技术进步、增效、充分就业，让更多人共享产业化的成果和效益;结合当前发展和未来发展，尊重自然规律和经济发展规律，走文明发展道路，实现人与自然的和谐发展，实现可持续发展。",
+      "原句术语翻译": [
+         "持续发展。"
+      ],
+      "bert替换变异": "['According to the new thought, in order to push the industrialization of Yunnan and take a new road to industrialization, we should coordinate the development of industry, agriculture and servce industry, and develop industry into the base and driving force of agriculture and service industry; integrate speed, quality and efficiency, and truly make the industry of Yunnan to have a strong competitive force; integrate the enhancement of industrial production force and the capacity of consuming demand, and mutually promote the industry development and the change of consuming demand; coordinate the technology progress, efficiency increase, and full employment, and let more people share the fruit and benefit of industrialization; join the current development and the future development, respect the law of nature and the law of economic development, take a road of civilized development, realize the harmonious development of man and nature, and realize the sustainable future.', 'According to the new thought, in order to push the industrialization of Yunnan and take a new road to industrialization, we should coordinate the development of industry, agriculture and servce industry, and develop industry into the base and driving force of agriculture and service industry; integrate speed, quality and efficiency, and truly make the industry of Yunnan to have a strong competitive force; integrate the enhancement of industrial production force and the capacity of consuming demand, and mutually promote the industry development and the change of consuming demand; coordinate the technology progress, efficiency increase, and full employment, and let more people share the fruit and benefit of industrialization; join the current development and the future development, respect the law of nature and the law of economic development, take a road of civilized development, realize the harmonious development of man and nature, and realize the sustainable growth.']",
+      "替换术语": [
+         "sustainable future",
+         "sustainable growth"
+      ],
+      "替换翻译": [
+         "按照新思想，要推动云南工业化，走工业化新路，就要统筹发展工业、农业、服务业，把工业发展成为农业和服务业的基础和动力;集速度、质量、效率于一体，真正使云南工业具有强大的竞争力;整合工业生产力量的增强和消费需求的能力，促进行业发展和消费需求的变化;统筹技术进步、增效、充分就业，让更多人共享产业化的成果和效益;结合当前发展和未来发展，尊重自然规律和经济发展规律，走文明发展之路，实现人与自然和谐发展，实现可持续的未来。",
+         "按照新思想，要推动云南工业化，走工业化新路，就要统筹发展工业、农业、服务业，把工业发展成为农业和服务业的基础和动力;集速度、质量、效率于一体，真正使云南工业具有强大的竞争力;整合工业生产力量的增强和消费需求的能力，促进行业发展和消费需求的变化;统筹技术进步、增效、充分就业，让更多人共享产业化的成果和效益;结合当前发展和未来发展，尊重自然规律和经济发展规律，走文明发展道路，实现人与自然和谐发展，实现可持续发展。"
+      ],
+      "替换术语翻译": [
+         "持续未来。",
+         "持续发展。"
+      ],
+      "gpt建议": "{'sustainable growth': \"NO\\nDifferent translations: \\nsustainable development: ['可持续发展。']\\nsustainable growth: ['可持续增长。']\"}",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "Give kids disposable cameras and have an afternoon of photo-taking; make cookies for an assisted living center; head to the local ice rink, museum or aquarium; drag out the markers and paints and make homemade New Year's cards.": {
+      "序号": 44,
+      "原句": "Give kids disposable cameras and have an afternoon of photo-taking; make cookies for an assisted living center; head to the local ice rink, museum or aquarium; drag out the markers and paints and make homemade New Year's cards.",
+      "术语": "ice rink",
+      "原句翻译": "给孩子们一次性相机，并有一个下午的拍照时间;为辅助生活中心制作饼干;前往当地的溜冰场、博物馆或水族馆;拖出记号笔和颜料，自制新年贺卡。",
+      "原句术语翻译": [
+         "溜冰场、"
+      ],
+      "bert替换变异": "[\"Give kids disposable cameras and have an afternoon of photo-taking; make cookies for an assisted living center; head to the local roller rink, museum or aquarium; drag out the markers and paints and make homemade New Year's cards.\", \"Give kids disposable cameras and have an afternoon of photo-taking; make cookies for an assisted living center; head to the local ice house, museum or aquarium; drag out the markers and paints and make homemade New Year's cards.\"]",
+      "替换术语": [
+         "roller rink",
+         "ice house"
+      ],
+      "替换翻译": [
+         "给孩子们一次性相机，并有一个下午的拍照时间;为辅助生活中心制作饼干;前往当地的溜冰场、博物馆或水族馆;拖出记号笔和颜料，自制新年贺卡。",
+         "给孩子们一次性相机，并有一个下午的拍照时间;为辅助生活中心制作饼干;前往当地的冰屋、博物馆或水族馆;拖出记号笔和颜料，自制新年贺卡。"
+      ],
+      "替换术语翻译": [
+         "溜冰场、",
+         "冰屋、"
+      ],
+      "gpt建议": "{'roller rink': 'NO\\nDifferent translations: <ice rink: 溜冰场, roller rink: 滑轮溜冰场>'}",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "In national economic evaluation, fixed exchange rate system cause government make shade price and social discount rate middle finger mark set time to be too long, reality, with stipulating the disconnection.": {
+      "序号": 45,
+      "原句": "In national economic evaluation, fixed exchange rate system cause government make shade price and social discount rate middle finger mark set time to be too long, reality, with stipulating the disconnection.",
+      "术语": "exchange rate",
+      "原句翻译": "在国民经济评价中，固定汇率制度导致政府制定遮蔽价格和社会贴现率中指标记的时间过长，现实中，与规定脱节。",
+      "原句术语翻译": [
+         "固定汇率"
+      ],
+      "bert替换变异": "['In national economic evaluation, fixed discount rate system cause government make shade price and social discount rate middle finger mark set time to be too long, reality, with stipulating the disconnection.', 'In national economic evaluation, fixed exchange price system cause government make shade price and social discount rate middle finger mark set time to be too long, reality, with stipulating the disconnection.']",
+      "替换术语": [
+         "discount rate",
+         "exchange price"
+      ],
+      "替换翻译": [
+         "在国民经济评价中，固定贴现率制度导致政府制定遮蔽价格和社会贴现率中指标记的时间过长，现实中，与规定脱节。",
+         "在国民经济评价中，固定汇率制度导致政府制定的阴影价格和社会贴现率中指标记设置时间过长，现实中，与规定脱节。"
+      ],
+      "替换术语翻译": [
+         "贴现率",
+         "固定汇率"
+      ],
+      "gpt建议": "{'exchange price': 'NO\\nDifferent translations: <exchange rate: 汇率, exchange price: 交易价格>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "In any of the following situations, the presiding hearer may decide to postpone the hearing: A party concerned is unable to be present due to causes of force majeure;": {
+      "序号": 46,
+      "原句": "In any of the following situations, the presiding hearer may decide to postpone the hearing: A party concerned is unable to be present due to causes of force majeure;",
+      "术语": "force majeure",
+      "原句翻译": "有下列情形之一的，主审听证人可以决定延期开庭：当事人因不可抗力原因不能到场;",
+      "原句术语翻译": [
+         "不可抗力;"
+      ],
+      "bert替换变异": "['In any of the following situations, the presiding hearer may decide to postpone the hearing: A party concerned is unable to be present due to causes of state majeure;', 'In any of the following situations, the presiding hearer may decide to postpone the hearing: A party concerned is unable to be present due to causes of property majeure;', 'In any of the following situations, the presiding hearer may decide to postpone the hearing: A party concerned is unable to be present due to causes of public majeure;', 'In any of the following situations, the presiding hearer may decide to postpone the hearing: A party concerned is unable to be present due to causes of court majeure;']",
+      "替换术语": [
+         "state majeure",
+         "property majeure",
+         "public majeure",
+         "court majeure"
+      ],
+      "替换翻译": [
+         "有下列情形之一的，主审听证人可以决定延期开庭：当事人因不可抗力不能到场;",
+         "有下列情形之一的，主审听证人可以决定延期开庭：当事人因财产不可抗力不能到场;",
+         "有下列情形之一的，主审听证人可以决定延期开庭：当事人因不可抗力原因不能到庭;",
+         "有下列情形之一的，主审听证人可以决定延期开庭：当事人因法院不可抗力不能到庭;"
+      ],
+      "替换术语翻译": [
+         "不可抗力;",
+         "财产不可抗力;",
+         ";",
+         "法院不可抗力;"
+      ],
+      "gpt建议": "{'state majeure': 'NO\\nDifferent translations: <force majeure: 不可抗力, state majeure: 国家力量>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "The Judiciary Administrator may, by order published in the Gazette, prescribe the fees to be paid to a registered medical practitioner, not being a public officer or an employee of the Hospital Authority established under the Hospital Authority Ordinance (Cap 113), who has performed an autopsy.": {
+      "序号": 47,
+      "原句": "The Judiciary Administrator may, by order published in the Gazette, prescribe the fees to be paid to a registered medical practitioner, not being a public officer or an employee of the Hospital Authority established under the Hospital Authority Ordinance (Cap 113), who has performed an autopsy.",
+      "术语": "medical practitioner",
+      "原句翻译": "司法机构行政长官可透过宪报刊登的命令，订明已进行尸体解剖的注册医生须缴付的费用，而该注册医生并非根据《医院管理局条例》（第113章）成立的医院管理局的公职人员或雇员。",
+      "原句术语翻译": [
+         "医生，"
+      ],
+      "bert替换变异": "['The Judiciary Administrator may, by order published in the Gazette, prescribe the fees to be paid to a registered medical person, not being a public officer or an employee of the Hospital Authority established under the Hospital Authority Ordinance (Cap 113), who has performed an autopsy.', 'The Judiciary Administrator may, by order published in the Gazette, prescribe the fees to be paid to a registered medical doctor, not being a public officer or an employee of the Hospital Authority established under the Hospital Authority Ordinance (Cap 113), who has performed an autopsy.', 'The Judiciary Administrator may, by order published in the Gazette, prescribe the fees to be paid to a registered medical professional, not being a public officer or an employee of the Hospital Authority established under the Hospital Authority Ordinance (Cap 113), who has performed an autopsy.']",
+      "替换术语": [
+         "medical person",
+         "medical doctor",
+         "medical professional"
+      ],
+      "替换翻译": [
+         "司法机构行政长官可透过宪报刊登的命令，订明已进行尸体解剖的注册医生须缴付的费用，而该注册医生并非根据《医院管理局条例》（第113章）成立的医院管理局的公职人员或雇员。",
+         "司法机构行政长官可藉在宪报刊登命令，订明已进行尸体解剖的注册医生须缴付的费用，而该注册医生并非根据《医院管理局条例》（第113章）成立的医院管理局的公职人员或雇员。",
+         "司法机构行政长官可透过宪报刊登的命令，订明已进行尸体解剖的注册医疗专业人员须缴付的费用，而该注册医务人员并非根据《医院管理局条例》（第113章）成立的医院管理局的公职人员或雇员。"
+      ],
+      "替换术语翻译": [
+         "医生，",
+         "医生，",
+         "医疗专业，"
+      ],
+      "gpt建议": "{'medical person': 'NO\\nDifferent translations: <medical practitioner: 医生, medical person: 医务人员>', 'medical doctor': 'YES'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Therefore,external disciplinarian should be followed,and relative advantage should be fully exerted to advance competitive abilities and realize sustainable development of resoruces cities.": {
+      "序号": 48,
+      "原句": "Therefore,external disciplinarian should be followed,and relative advantage should be fully exerted to advance competitive abilities and realize sustainable development of resoruces cities.",
+      "术语": "sustainable development",
+      "原句翻译": "因此，应遵循外部纪律，充分发挥相对优势，提高竞争力，实现资源城市的可持续发展。",
+      "原句术语翻译": [
+         "持续发展"
+      ],
+      "bert替换变异": "['Therefore,external disciplinarian should be followed,and relative advantage should be fully exerted to advance competitive abilities and realize sustainable use of resoruces cities.', 'Therefore,external disciplinarian should be followed,and relative advantage should be fully exerted to advance competitive abilities and realize sustainable growth of resoruces cities.']",
+      "替换术语": [
+         "sustainable use",
+         "sustainable growth"
+      ],
+      "替换翻译": [
+         "因此，应遵循外部纪律，充分发挥相对优势，提高竞争力，实现资源城市的可持续利用。",
+         "因此，应遵循外部纪律，充分发挥相对优势，提高竞争力，实现资源城市的可持续发展。"
+      ],
+      "替换术语翻译": [
+         "持续利用",
+         "持续发展"
+      ],
+      "gpt建议": "{'sustainable growth': 'NO\\nDifferent translations: <sustainable development: 可持续发展, sustainable growth: 可持续增长>'}",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "Methods From March 2000 to January 2003, to investigate the prevalence and occurred factors of metabolic syndrome for 3 152 resdents aged morn than 35 receiving body checked in Hu Jia Lou community, doing unconditional Logistic regression analysis.": {
+      "序号": 49,
+      "原句": "Methods From March 2000 to January 2003, to investigate the prevalence and occurred factors of metabolic syndrome for 3 152 resdents aged morn than 35 receiving body checked in Hu Jia Lou community, doing unconditional Logistic regression analysis.",
+      "术语": "metabolic syndrome",
+      "原句翻译": "方法 2000年3月至2003年1月，调查胡家楼社区3 152例年龄在35岁以上的接受者，进行无条件Logistic回归分析。",
+      "原句术语翻译": [
+         ""
+      ],
+      "bert替换变异": "['Methods From March 2000 to January 2003, to investigate the prevalence and occurred factors of metabolic disease for 3 152 resdents aged morn than 35 receiving body checked in Hu Jia Lou community, doing unconditional Logistic regression analysis.']",
+      "替换术语": [
+         "metabolic disease"
+      ],
+      "替换翻译": [
+         "方法 2000年3月至2003年1月，调查胡家楼社区3 152例年龄在35岁以上的受体体患病率及发生因素，进行无条件Logistic回归分析。"
+      ],
+      "替换术语翻译": [
+         ""
+      ],
+      "gpt建议": "{'metabolic disease': 'NO\\nDifferent translations: metabolic syndrome: 代谢综合征, metabolic disease: 代谢疾病'}",
+      "manual_1_result": 0,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "To take a hard line In trade union negotiation": {
+      "序号": 50,
+      "原句": "To take a hard line In trade union negotiation",
+      "术语": "trade union",
+      "原句翻译": "在工会谈判中采取强硬立场",
+      "原句术语翻译": [
+         "工会"
+      ],
+      "bert替换变异": "['To take a hard line In a union negotiation']",
+      "替换术语": [
+         "a union"
+      ],
+      "替换翻译": [
+         "在工会谈判中采取强硬立场"
+      ],
+      "替换术语翻译": [
+         "工会"
+      ],
+      "gpt建议": "{'a union': 'NO\\nDifferent translations: <trade union: 工会, a union: 一个工会>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "CSR is a crucial factor in harmonious development of economy and society, and it is also an important guide line of sustainable development to corporate.": {
+      "序号": 51,
+      "原句": "CSR is a crucial factor in harmonious development of economy and society, and it is also an important guide line of sustainable development to corporate.",
+      "术语": "sustainable development",
+      "原句翻译": "企业社会责任是经济社会和谐发展的关键因素，也是企业可持续发展的重要指引。",
+      "原句术语翻译": [
+         "持续发展"
+      ],
+      "bert替换变异": "['CSR is a crucial factor in harmonious development of economy and society, and it is also an important guide line of sustainable growth to corporate.']",
+      "替换术语": [
+         "sustainable growth"
+      ],
+      "替换翻译": [
+         "企业社会责任是经济社会和谐发展的关键因素，也是企业可持续发展的重要指引。"
+      ],
+      "替换术语翻译": [
+         "持续发展"
+      ],
+      "gpt建议": "{'sustainable growth': 'NO\\nDifferent translations: <sustainable development: 可持续发展, sustainable growth: 可持续增长>'}",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "Those who violate the provisions of these Regulations and the criminal law and are punished for criminal liability in accordance with law shall be prohibited from engaging in activities of Chinese-foreign cooperation in running schools within ten years starting from the date of completion of service of criminal punishments.": {
+      "序号": 52,
+      "原句": "Those who violate the provisions of these Regulations and the criminal law and are punished for criminal liability in accordance with law shall be prohibited from engaging in activities of Chinese-foreign cooperation in running schools within ten years starting from the date of completion of service of criminal punishments.",
+      "术语": "criminal law",
+      "原句翻译": "违反本条例和刑法规定，依法追究刑事责任的，自刑罚服满之日起十年内，禁止从事中外合作办学活动。",
+      "原句术语翻译": [
+         "刑法"
+      ],
+      "bert替换变异": "['Those who violate the provisions of these Regulations and the criminal code and are punished for criminal liability in accordance with law shall be prohibited from engaging in activities of Chinese-foreign cooperation in running schools within ten years starting from the date of completion of service of criminal punishments.']",
+      "替换术语": [
+         "criminal code"
+      ],
+      "替换翻译": [
+         "违反本条例和刑法规定，依法追究刑事责任的，自刑罚服满之日起十年内，禁止从事中外合作办学活动。"
+      ],
+      "替换术语翻译": [
+         "刑法"
+      ],
+      "gpt建议": "{'criminal code': 'NO\\nDifferent translations: <criminal law: 刑法, criminal code: 刑法典>'}",
+      "manual_1_result": 0,
+      "manual_2_result": 1,
+      "final_result": 0
+   },
+   "Some observers believe his desire to serve the public good is so strong he may even run for president himself one day.": {
+      "序号": 53,
+      "原句": "Some observers believe his desire to serve the public good is so strong he may even run for president himself one day.",
+      "术语": "public good",
+      "原句翻译": "一些观察家认为，他为公共利益服务的愿望如此强烈，以至于有一天他自己可能会竞选总统。",
+      "原句术语翻译": [
+         "公共利益"
+      ],
+      "bert替换变异": "['Some observers believe his desire to serve the public interest is so strong he may even run for president himself one day.']",
+      "替换术语": [
+         "public interest"
+      ],
+      "替换翻译": [
+         "一些观察家认为，他为公共利益服务的愿望如此强烈，以至于有一天他自己可能会竞选总统。"
+      ],
+      "替换术语翻译": [
+         "公共利益"
+      ],
+      "gpt建议": "{'public interest': 'NO\\nDifferent translations: <public good: 公共利益, public interest: 公共利益>'}",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "The difference between the proportion of seven new gender role type in male and female is statistically non-significant .": {
+      "序号": 54,
+      "原句": "The difference between the proportion of seven new gender role type in male and female is statistically non-significant .",
+      "术语": "gender role",
+      "原句翻译": "7种新性别角色类型在男性和女性中所占比例的差异在统计学上不显著。",
+      "原句术语翻译": [
+         "性别角色"
+      ],
+      "bert替换变异": "['The difference between the proportion of seven new sex role type in male and female is statistically non-significant .']",
+      "替换术语": [
+         "sex role"
+      ],
+      "替换翻译": [
+         "男性和女性中7种新性别角色类型比例的差异在统计学上不显著。"
+      ],
+      "替换术语翻译": [
+         "性别角色"
+      ],
+      "gpt建议": "{'sex role': 'NO\\nDifferent translations: <gender role: 性别角色, sex role: 性别角色>.'}",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "The enterprise shall obtain the status of a legal person in accordance with law and bear civil liability with the property which the state has authorized it to operate and manage.": {
+      "序号": 55,
+      "原句": "The enterprise shall obtain the status of a legal person in accordance with law and bear civil liability with the property which the state has authorized it to operate and manage.",
+      "术语": "legal person",
+      "原句翻译": "企业依法取得法人资格，对国家授权经营管理的财产承担民事责任。",
+      "原句术语翻译": [
+         "法人资格"
+      ],
+      "bert替换变异": "['The enterprise shall obtain the status of a legal entity in accordance with law and bear civil liability with the property which the state has authorized it to operate and manage.', 'The enterprise shall obtain the status of a legal enterprise in accordance with law and bear civil liability with the property which the state has authorized it to operate and manage.', 'The enterprise shall obtain the status of a legal corporation in accordance with law and bear civil liability with the property which the state has authorized it to operate and manage.']",
+      "替换术语": [
+         "legal entity",
+         "legal enterprise",
+         "legal corporation"
+      ],
+      "替换翻译": [
+         "企业依法取得法人地位，对国家授权经营管理的财产承担民事责任。",
+         "企业依法取得合法企业地位，对国家授权经营管理的财产承担民事责任。",
+         "企业依法取得法人资格，对国家授权经营管理的财产承担民事责任。"
+      ],
+      "替换术语翻译": [
+         "法人地位",
+         "合法企业",
+         "法人资格"
+      ],
+      "gpt建议": "{'legal corporation': 'NO\\nDifferent translations: <legal person: 法人, legal corporation: 法人资格>.'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "(1) The employer of a registered seafarer or the master of the ship in which the seafarer is employed may, by notice in writing, lodge with the Superintendent a complaint against the seafarer, which notice shall, where the Superintendent so requests, be accompanied by a statutory declaration verifying the complaint.": {
+      "序号": 56,
+      "原句": "(1) The employer of a registered seafarer or the master of the ship in which the seafarer is employed may, by notice in writing, lodge with the Superintendent a complaint against the seafarer, which notice shall, where the Superintendent so requests, be accompanied by a statutory declaration verifying the complaint.",
+      "术语": "statutory declaration",
+      "原句翻译": "（1） 注册海员的雇主或受雇海员所属船舶的船长可以书面通知向船长提出对海员的投诉，如果船长要求，该通知应附有一份确认投诉的法定声明。",
+      "原句术语翻译": [
+         "法定声明"
+      ],
+      "bert替换变异": "['(1) The employer of a registered seafarer or the master of the ship in which the seafarer is employed may, by notice in writing, lodge with the Superintendent a complaint against the seafarer, which notice shall, where the Superintendent so requests, be accompanied by a statutory statement verifying the complaint.', '(1) The employer of a registered seafarer or the master of the ship in which the seafarer is employed may, by notice in writing, lodge with the Superintendent a complaint against the seafarer, which notice shall, where the Superintendent so requests, be accompanied by a statutory instrument verifying the complaint.', '(1) The employer of a registered seafarer or the master of the ship in which the seafarer is employed may, by notice in writing, lodge with the Superintendent a complaint against the seafarer, which notice shall, where the Superintendent so requests, be accompanied by a statutory notice verifying the complaint.', '(1) The employer of a registered seafarer or the master of the ship in which the seafarer is employed may, by notice in writing, lodge with the Superintendent a complaint against the seafarer, which notice shall, where the Superintendent so requests, be accompanied by a statutory certificate verifying the complaint.', '(1) The employer of a registered seafarer or the master of the ship in which the seafarer is employed may, by notice in writing, lodge with the Superintendent a complaint against the seafarer, which notice shall, where the Superintendent so requests, be accompanied by a statutory document verifying the complaint.']",
+      "替换术语": [
+         "statutory statement",
+         "statutory instrument",
+         "statutory notice",
+         "statutory certificate",
+         "statutory document"
+      ],
+      "替换翻译": [
+         "（1） 注册海员的雇主或受雇于该海员的船舶的船长可以书面通知向总监提出针对该海员的投诉，如果总监要求，该通知应附有一份法定声明，以核实该投诉。",
+         "（1） 注册海员的雇主或雇用该海员的船长可以书面通知向总监提出针对该海员的投诉，如果总监要求，该通知应附有一份核实投诉的法定文书。",
+         "（1） 注册海员的雇主或受雇海员所属船舶的船长可以书面通知向船长提出针对海员的投诉，如果船长要求，该通知应附有一份法定通知，以核实投诉。",
+         "（1） 注册海员的雇主或受雇于该海员的船长可以书面通知向船长提出对海员的投诉，如果船长要求，该通知应附有证明投诉的法定证书。",
+         "（1） 注册海员的雇主或受雇于该海员的船长可以书面通知向总监提出针对该海员的投诉，如果总监要求，该通知应附有一份证明投诉的法定文件。"
+      ],
+      "替换术语翻译": [
+         "法定声明",
+         "法定文书",
+         "法定通知",
+         "法定证书",
+         "法定文件"
+      ],
+      "gpt建议": "{'statutory statement': 'NO\\nDifferent translations: <statutory declaration: 法定声明, statutory statement: 法定声明>'}",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "(a) operates simultaneously one or more direction indicators on each side of the motor vehicle;": {
+      "序号": 57,
+      "原句": "(a) operates simultaneously one or more direction indicators on each side of the motor vehicle;",
+      "术语": "motor vehicle",
+      "原句翻译": "（a） 在机动车辆的每一侧同时操作一个或多个方向指示器;",
+      "原句术语翻译": [
+         "机动车辆;"
+      ],
+      "bert替换变异": "['(a) operates simultaneously one or more direction indicators on each side of the control vehicle;', '(a) operates simultaneously one or more direction indicators on each side of the launch vehicle;', '(a) operates simultaneously one or more direction indicators on each side of the motor car;']",
+      "替换术语": [
+         "control vehicle",
+         "launch vehicle",
+         "motor car"
+      ],
+      "替换翻译": [
+         "（a） 在控制车辆的每一侧同时操作一个或多个方向指示器;",
+         "（a） 在运载火箭的每一侧同时操作一个或多个方向指示器;",
+         "（a） 在机动车的每一侧同时操作一个或多个方向指示器;"
+      ],
+      "替换术语翻译": [
+         "控制车辆;",
+         "运载火箭;",
+         "机动车;"
+      ],
+      "gpt建议": "{}",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "Formulation of regulations on the development of medium-sized and small enterprises will speeded up and regulations and supporting organizations for the non-public sector improved.": {
+      "序号": 58,
+      "原句": "Formulation of regulations on the development of medium-sized and small enterprises will speeded up and regulations and supporting organizations for the non-public sector improved.",
+      "术语": "public sector",
+      "原句翻译": "加快制定中小企业发展法规，完善非公有制法规和配套组织。",
+      "原句术语翻译": [
+         "非公有制"
+      ],
+      "bert替换变异": "['Formulation of regulations on the development of medium-sized and small enterprises will speeded up and regulations and supporting organizations for the non-public are improved.']",
+      "替换术语": [
+         "public are"
+      ],
+      "替换翻译": [
+         "加快制定中小企业发展法规，完善非公有制法规和配套组织。"
+      ],
+      "替换术语翻译": [
+         "非公有制"
+      ],
+      "gpt建议": "{'public are': 'NO\\nDifferent translations: <public sector: 公有制, public are: 公有>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "(4) A trainee solicitor may apply for approval from the Society that his secondment to a law firm in a jurisdiction outside Hong Kong is effective employment under his trainee solicitor contract. (L.N. 220 of 1998)": {
+      "序号": 59,
+      "原句": "(4) A trainee solicitor may apply for approval from the Society that his secondment to a law firm in a jurisdiction outside Hong Kong is effective employment under his trainee solicitor contract. (L.N. 220 of 1998)",
+      "术语": "law firm",
+      "原句翻译": "（4） 实习律师可向本会申请批准，根据其实习律师合约，其被借调至香港以外司法管辖区的律师事务所是有效的受雇。（1998年第220号法律公告）",
+      "原句术语翻译": [
+         "司法事务所"
+      ],
+      "bert替换变异": "['(4) A trainee solicitor may apply for approval from the Society that his secondment to a law practice in a jurisdiction outside Hong Kong is effective employment under his trainee solicitor contract. (L.N. 220 of 1998)', '(4) A trainee solicitor may apply for approval from the Society that his secondment to a law school in a jurisdiction outside Hong Kong is effective employment under his trainee solicitor contract. (L.N. 220 of 1998)']",
+      "替换术语": [
+         "law practice",
+         "law school"
+      ],
+      "替换翻译": [
+         "（4） 实习律师可向本会申请批准，根据其实习律师合约，其借调到香港以外司法管辖区的律师事务所是有效的受雇。（1998年第220号法律公告）",
+         "（4） 实习律师可向本会申请批准，证明其借调至香港以外司法管辖区的一所法学院，即为根据其实习律师合约有效受雇。（1998年第220号法律公告）"
+      ],
+      "替换术语翻译": [
+         "司法事务所",
+         "法学院"
+      ],
+      "gpt建议": "{'law practice': 'NO\\nDifferent translations: <law firm: 律师事务所, law practice: 法律实务>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "A civil lawsuit initiated against a legal person or any other organization shall be under the jurisdiction of the people's court in the place where the defendant has its domicile.": {
+      "序号": 60,
+      "原句": "A civil lawsuit initiated against a legal person or any other organization shall be under the jurisdiction of the people's court in the place where the defendant has its domicile.",
+      "术语": "legal person",
+      "原句翻译": "对法人或者其他组织提起的民事诉讼，由被告住所地人民法院管辖。",
+      "原句术语翻译": [
+         "法人"
+      ],
+      "bert替换变异": "[\"A civil lawsuit initiated against a legal entity or any other organization shall be under the jurisdiction of the people's court in the place where the defendant has its domicile.\", \"A civil lawsuit initiated against a legal organization or any other organization shall be under the jurisdiction of the people's court in the place where the defendant has its domicile.\", \"A civil lawsuit initiated against a legal party or any other organization shall be under the jurisdiction of the people's court in the place where the defendant has its domicile.\", \"A civil lawsuit initiated against a legal institution or any other organization shall be under the jurisdiction of the people's court in the place where the defendant has its domicile.\"]",
+      "替换术语": [
+         "legal entity",
+         "legal organization",
+         "legal party",
+         "legal institution"
+      ],
+      "替换翻译": [
+         "对法人或者其他组织提起的民事诉讼，由被告住所地人民法院管辖。",
+         "对合法组织或者其他组织提起的民事诉讼，由被告住所地人民法院管辖。",
+         "对法人或者其他组织提起的民事诉讼，由被告住所地人民法院管辖。",
+         "对法律机构或者其他组织提起的民事诉讼，由被告住所地人民法院管辖。"
+      ],
+      "替换术语翻译": [
+         "法人",
+         "合法组织",
+         "法人",
+         "法律机构"
+      ],
+      "gpt建议": "{'legal entity': 'YES', 'legal party': 'NO\\nDifferent translations: <legal person: 法人, legal party: 法定当事人>'}",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "This method used no solvent, but improves quality and shortens reaction time, the yield reaches 96.55%, mp124.5~125 °C .": {
+      "序号": 61,
+      "原句": "This method used no solvent, but improves quality and shortens reaction time, the yield reaches 96.55%, mp124.5~125 °C .",
+      "术语": "reaction time",
+      "原句翻译": "该方法不使用溶剂，但提高了质量，缩短了反应时间，收率达到96.55%，mp124.5~125°C。",
+      "原句术语翻译": [
+         "反应时间，"
+      ],
+      "bert替换变异": "['This method used no solvent, but improves quality and shortens processing time, the yield reaches 96.55%, mp124.5~125 °C .', 'This method used no solvent, but improves quality and shortens production time, the yield reaches 96.55%, mp124.5~125 °C .', 'This method used no solvent, but improves quality and shortens reaction duration, the yield reaches 96.55%, mp124.5~125 °C .']",
+      "替换术语": [
+         "processing time",
+         "production time",
+         "reaction duration"
+      ],
+      "替换翻译": [
+         "该方法不使用溶剂，但提高了质量，缩短了加工时间，收率达到96.55%，mp124.5~125°C。",
+         "该方法不使用溶剂，但提高了质量，缩短了生产时间，收率达到96.55%，mp124.5~125°C。",
+         "该方法不使用溶剂，但提高了质量，缩短了反应时间，收率达到96.55%，mp124.5~125°C。"
+      ],
+      "替换术语翻译": [
+         "加工时间，",
+         "生产时间，",
+         "反应时间，"
+      ],
+      "gpt建议": "{'reaction duration': 'NO\\nDifferent translations: <reaction time: 反应时间, reaction duration: 反应持续时间>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "There is sparkling on-screen chemistry between Chao and Huang as the righteous cop and the smart-mouthed gangster. The two partners progress through finely choreographed set pieces that make good use of the diverse landscapes that the port city offers.": {
+      "序号": 62,
+      "原句": "There is sparkling on-screen chemistry between Chao and Huang as the righteous cop and the smart-mouthed gangster. The two partners progress through finely choreographed set pieces that make good use of the diverse landscapes that the port city offers.",
+      "术语": "port city",
+      "原句翻译": "赵和黄之间在银幕上有着闪闪发光的化学反应，分别是正义的警察和聪明的黑帮老大。两位合作伙伴通过精心编排的布景取得进展，这些布景充分利用了港口城市提供的多样化景观。",
+      "原句术语翻译": [
+         "港口城市"
+      ],
+      "bert替换变异": "['There is sparkling on-screen chemistry between Chao and Huang as the righteous cop and the smart-mouthed gangster. The two partners progress through finely choreographed set pieces that make good use of the diverse landscapes that the port town offers.', 'There is sparkling on-screen chemistry between Chao and Huang as the righteous cop and the smart-mouthed gangster. The two partners progress through finely choreographed set pieces that make good use of the diverse landscapes that the port area offers.']",
+      "替换术语": [
+         "port town",
+         "port area"
+      ],
+      "替换翻译": [
+         "赵和黄之间在银幕上有着闪闪发光的化学反应，分别是正义的警察和聪明的黑帮老大。两位合作伙伴通过精心编排的布景来取得进展，这些布景充分利用了港口城市提供的多样化景观。",
+         "赵和黄之间在银幕上有着闪闪发光的化学反应，分别是正义的警察和聪明的黑帮老大。两位合作伙伴通过精心编排的布景取得进展，这些布景充分利用了港口区提供的多样化景观。"
+      ],
+      "替换术语翻译": [
+         "港口城市",
+         "港口区"
+      ],
+      "gpt建议": "{'port town': 'NO\\nDifferent translations: <port city: 港口城市, port town: 港口小镇>'}",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "Italian men are in joint pole position with their French cousins, with 55 per cent of males from both countries saying that they have had sexual relations with a woman other than the person they were in a relationship with.": {
+      "序号": 63,
+      "原句": "Italian men are in joint pole position with their French cousins, with 55 per cent of males from both countries saying that they have had sexual relations with a woman other than the person they were in a relationship with.",
+      "术语": "sexual relations",
+      "原句翻译": "意大利男性与法国表亲并列，两国55%的男性表示他们与女性发生过性关系，而不是与他们有关系的人。",
+      "原句术语翻译": [
+         "性关系"
+      ],
+      "bert替换变异": "['Italian men are in joint pole position with their French cousins, with 55 per cent of males from both countries saying that they have had sexual intercourse with a woman other than the person they were in a relationship with.']",
+      "替换术语": [
+         "sexual intercourse"
+      ],
+      "替换翻译": [
+         "意大利男性与法国表亲并列，两国55%的男性表示，他们与有关系的人以外的女性发生过性关系。"
+      ],
+      "替换术语翻译": [
+         "性关系"
+      ],
+      "gpt建议": "{'sexual intercourse': 'NO\\nDifferent translations: <sexual relations: 性关系, sexual intercourse: 性交>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "God the Father who's a physical man with a body of flesh and bone is probably about 6' tall, lives on a place called Kolob, had sexual relations with Mary-- remember he's a man.": {
+      "序号": 64,
+      "原句": "God the Father who's a physical man with a body of flesh and bone is probably about 6' tall, lives on a place called Kolob, had sexual relations with Mary-- remember he's a man.",
+      "术语": "sexual relations",
+      "原句翻译": "父神是一个有血有肉的人，大约有6英尺高，住在一个叫科洛布的地方，与玛丽发生过性关系——记住他是一个男人。",
+      "原句术语翻译": [
+         "性关系"
+      ],
+      "bert替换变异": "[\"God the Father who's a physical man with a body of flesh and bone is probably about 6' tall, lives on a place called Kolob, had sexual intercourse with Mary-- remember he's a man.\"]",
+      "替换术语": [
+         "sexual intercourse"
+      ],
+      "替换翻译": [
+         "父神是一个有血有肉的人，大约有6英尺高，住在一个叫科洛布的地方，与马利亚发生过性关系——记住他是一个男人。"
+      ],
+      "替换术语翻译": [
+         "性关系"
+      ],
+      "gpt建议": "{'sexual intercourse': 'NO\\nDifferent translations: <sexual relations: 性关系, sexual intercourse: 性交>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "The makeovers began after a local resident put a sofa and table inside the bus stop, but over the years extra facilities have been added - including an Amstrad computer and amicrowave.": {
+      "序号": 65,
+      "原句": "The makeovers began after a local resident put a sofa and table inside the bus stop, but over the years extra facilities have been added - including an Amstrad computer and amicrowave.",
+      "术语": "bus stop",
+      "原句翻译": "在当地居民在公交车站内放置沙发和桌子后，改造开始了，但多年来增加了额外的设施 - 包括 Amstrad 电脑和微波炉。",
+      "原句术语翻译": [
+         "公交车站，"
+      ],
+      "bert替换变异": "['The makeovers began after a local resident put a sofa and table inside the truck stop, but over the years extra facilities have been added - including an Amstrad computer and amicrowave.', 'The makeovers began after a local resident put a sofa and table inside the bus station, but over the years extra facilities have been added - including an Amstrad computer and amicrowave.', 'The makeovers began after a local resident put a sofa and table inside the bus shelter, but over the years extra facilities have been added - including an Amstrad computer and amicrowave.']",
+      "替换术语": [
+         "truck stop",
+         "bus station",
+         "bus shelter"
+      ],
+      "替换翻译": [
+         "在当地居民在卡车停靠站内放置沙发和桌子后，改造开始了，但多年来增加了额外的设施 - 包括 Amstrad 电脑和微波炉。",
+         "在当地居民在公交车站内放置沙发和桌子后，改造开始了，但多年来增加了额外的设施 - 包括 Amstrad 电脑和微波炉。",
+         "在当地居民在候车亭内放置沙发和桌子后，改造开始了，但多年来增加了额外的设施 - 包括 Amstrad 电脑和微波炉。"
+      ],
+      "替换术语翻译": [
+         "卡车停靠站，",
+         "公交车站，",
+         "候车亭，"
+      ],
+      "gpt建议": "{'bus station': 'NO\\nDifferent translations: <bus stop: 公交车站, bus station: 公交车站>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "double-click the ruler to open the ruler and units tab of the general program preferences dialog box.": {
+      "序号": 66,
+      "原句": "double-click the ruler to open the ruler and units tab of the general program preferences dialog box.",
+      "术语": "dialog box",
+      "原句翻译": "双击标尺以打开“常规程序首选项”对话框的“标尺和单位”选项卡。",
+      "原句术语翻译": [
+         "对话框选项卡。"
+      ],
+      "bert替换变异": "['double-click the ruler to open the ruler and units tab of the general program preferences dialog table.']",
+      "替换术语": [
+         "dialog table"
+      ],
+      "替换翻译": [
+         "双击标尺以打开“常规程序首选项”对话框表格的“标尺和单位”选项卡。"
+      ],
+      "替换术语翻译": [
+         "对话框选项卡。"
+      ],
+      "gpt建议": "{'dialog table': 'NO\\nDifferent translations: <dialog box: 对话框, dialog table: 对话表>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "holding a Koran and having a suicide bomber belt around them": {
+      "序号": 67,
+      "原句": "holding a Koran and having a suicide bomber belt around them",
+      "术语": "suicide bomber",
+      "原句翻译": "拿着一本古兰经，周围系着自杀式炸弹腰带",
+      "原句术语翻译": [
+         "自杀式炸弹"
+      ],
+      "bert替换变异": "['holding a Koran and having a black bomber belt around them', 'holding a Koran and having a heavy bomber belt around them', 'holding a Koran and having a suicide bomb belt around them']",
+      "替换术语": [
+         "black bomber",
+         "heavy bomber",
+         "suicide bomb"
+      ],
+      "替换翻译": [
+         "拿着一本古兰经，周围系着一条黑色飞行员腰带",
+         "拿着一本古兰经，周围有一条沉重的轰炸机腰带",
+         "拿着一本古兰经，周围系着自杀式炸弹腰带"
+      ],
+      "替换术语翻译": [
+         "黑色飞行员",
+         "沉重轰炸机",
+         "自杀式炸弹"
+      ],
+      "gpt建议": "{'suicide bomb': 'NO\\nDifferent translations: <suicide bomber: 自杀式炸弹袭击者, suicide bomb: 自杀式炸弹>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Article 30 Rules of procedure and voting procedures of the meeting of board or joint management committee shall be regulated in the venture's articles of association except for the those regulated in this detailed rules.": {
+      "序号": 68,
+      "原句": "Article 30 Rules of procedure and voting procedures of the meeting of board or joint management committee shall be regulated in the venture's articles of association except for the those regulated in this detailed rules.",
+      "术语": "articles of association",
+      "原句翻译": "第三十条 董事会或者联席管理委员会会议的议事规则和表决程序，除本细则规定的外，由企业章程规定。",
+      "原句术语翻译": [
+         "章程"
+      ],
+      "bert替换变异": "[\"Article 30 Rules of procedure and voting procedures of the meeting of board or joint management committee shall be regulated in the venture's articles of law except for the those regulated in this detailed rules.\"]",
+      "替换术语": [
+         "articles of law"
+      ],
+      "替换翻译": [
+         "第三十条 董事会或者联席管理委员会会议的议事规则和表决程序，除本细则规定的外，由企业章程规定。"
+      ],
+      "替换术语翻译": [
+         "章程"
+      ],
+      "gpt建议": "{'articles of law': 'NO\\nDifferent translations: <articles of association: 章程, articles of law: 法规>.'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "And it also studies the dynamics process between 2,4-DCP concentration and aerobic microorganism breathing rate,which is proved to the bio-chemical first class dynamics reaction.": {
+      "序号": 69,
+      "原句": "And it also studies the dynamics process between 2,4-DCP concentration and aerobic microorganism breathing rate,which is proved to the bio-chemical first class dynamics reaction.",
+      "术语": "first class",
+      "原句翻译": "并研究了2,4-DCP浓度与好氧微生物呼吸频率之间的动力学过程，为生化一级动力学反应提供了证明。",
+      "原句术语翻译": [
+         "一级"
+      ],
+      "bert替换变异": "['And it also studies the dynamics process between 2,4-DCP concentration and aerobic microorganism breathing rate,which is proved to the bio-chemical first order dynamics reaction.', 'And it also studies the dynamics process between 2,4-DCP concentration and aerobic microorganism breathing rate,which is proved to the bio-chemical first phase dynamics reaction.', 'And it also studies the dynamics process between 2,4-DCP concentration and aerobic microorganism breathing rate,which is proved to the bio-chemical first generation dynamics reaction.', 'And it also studies the dynamics process between 2,4-DCP concentration and aerobic microorganism breathing rate,which is proved to the bio-chemical first step dynamics reaction.']",
+      "替换术语": [
+         "first order",
+         "first phase",
+         "first generation",
+         "first step"
+      ],
+      "替换翻译": [
+         "并研究了2,4-DCP浓度与好氧微生物呼吸频率之间的动力学过程，证明了生化一级动力学反应。",
+         "并研究了2,4-DCP浓度与好氧微生物呼吸频率之间的动力学过程，证明了生化第一相动力学反应。",
+         "并研究了2,4-DCP浓度与好氧微生物呼吸频率之间的动力学过程，证明了生化第一代动力学反应。",
+         "并研究了2,4-DCP浓度与好氧微生物呼吸频率之间的动力学过程，证明了生化第一步动力学反应。"
+      ],
+      "替换术语翻译": [
+         "一级",
+         "第一相",
+         "第一代",
+         "第一步"
+      ],
+      "gpt建议": "{'first order': 'NO\\nDifferent translations: <first class: 第一类, first order: 一阶>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "“This authorisation brings an end to the offshore branch which has been converted into a branch with a full license to work with residents and also to carry out operations in local currency, ”the director of the Macau branch, Jo ão P ãosinho told Portuguese news agency Lusa.": {
+      "序号": 70,
+      "原句": "“This authorisation brings an end to the offshore branch which has been converted into a branch with a full license to work with residents and also to carry out operations in local currency, ”the director of the Macau branch, Jo ão P ãosinho told Portuguese news agency Lusa.",
+      "术语": "news agency",
+      "原句翻译": "澳门分行行长Jo ão P ãosinho告诉葡新社：“这项授权结束了离岸分行，该分行已转变为一个拥有与居民合作并以当地货币开展业务的完全许可证的分行。",
+      "原句术语翻译": [
+         "葡新社"
+      ],
+      "bert替换变异": "['“This authorisation brings an end to the offshore branch which has been converted into a branch with a full license to work with residents and also to carry out operations in local currency, ”the director of the Macau branch, Jo ão P ãosinho told Portuguese news portal Lusa.', '“This authorisation brings an end to the offshore branch which has been converted into a branch with a full license to work with residents and also to carry out operations in local currency, ”the director of the Macau branch, Jo ão P ãosinho told Portuguese news channel Lusa.']",
+      "替换术语": [
+         "news portal",
+         "news channel"
+      ],
+      "替换翻译": [
+         "澳门分行行长Jo ão P ãosinho告诉葡萄牙新闻门户网站Lusa：“这项授权结束了离岸分行，该分行已转变为一个拥有与居民合作并以当地货币开展业务的完全许可证的分行。",
+         "澳门分行行长Jo ão P ãosinho告诉葡新社：“这项授权结束了离岸分行，该分行已转变为一个拥有与居民合作并以当地货币开展业务的正式许可证的分行。"
+      ],
+      "替换术语翻译": [
+         "新闻门户网站",
+         "葡新社"
+      ],
+      "gpt建议": "{'news channel': 'NO\\nDifferent translations: <news agency: 新闻机构, news channel: 新闻频道>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Some of them, particularly those that live in the gut, are positively beneficial, helping with digestion and keeping the intestines in good working order.": {
+      "序号": 71,
+      "原句": "Some of them, particularly those that live in the gut, are positively beneficial, helping with digestion and keeping the intestines in good working order.",
+      "术语": "working order",
+      "原句翻译": "其中一些，尤其是那些生活在肠道中的物质，是有益的，有助于消化并保持肠道处于良好的工作状态。",
+      "原句术语翻译": [
+         "工作状态。"
+      ],
+      "bert替换变异": "['Some of them, particularly those that live in the gut, are positively beneficial, helping with digestion and keeping the intestines in good food order.', 'Some of them, particularly those that live in the gut, are positively beneficial, helping with digestion and keeping the intestines in good eating order.', 'Some of them, particularly those that live in the gut, are positively beneficial, helping with digestion and keeping the intestines in good working condition.']",
+      "替换术语": [
+         "food order",
+         "eating order",
+         "working condition"
+      ],
+      "替换翻译": [
+         "其中一些，尤其是那些生活在肠道中的物质，是有益的，有助于消化和保持肠道处于良好的食物秩序。",
+         "其中一些，尤其是那些生活在肠道中的物质，是有益的，有助于消化和保持肠道处于良好的饮食秩序。",
+         "其中一些，尤其是那些生活在肠道中的物质，是有益的，有助于消化并保持肠道处于良好的工作状态。"
+      ],
+      "替换术语翻译": [
+         "食物秩序。",
+         "饮食秩序。",
+         "工作状态。"
+      ],
+      "gpt建议": "{'working condition': 'NO\\nDifferent translations: <working order: 工作状态, working condition: 工作状况>.'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "John explained away his unfinished task by showing his boss a certificate for sick leave.": {
+      "序号": 72,
+      "原句": "John explained away his unfinished task by showing his boss a certificate for sick leave.",
+      "术语": "sick leave",
+      "原句翻译": "约翰向老板出示了病假证明，从而解释了他未完成的任务。",
+      "原句术语翻译": [
+         "病假。"
+      ],
+      "bert替换变异": "['John explained away his unfinished task by showing his boss a certificate for sick care.']",
+      "替换术语": [
+         "sick care"
+      ],
+      "替换翻译": [
+         "约翰向他的老板出示了一份病假证明，以此来解释他未完成的任务。"
+      ],
+      "替换术语翻译": [
+         "病假。"
+      ],
+      "gpt建议": "{'sick care': 'NO\\nDifferent translations: <sick leave: 病假, sick care: 病症护理>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Article 13 A railway transport enterprise shall take effective measures to serve the passengers well in a courteous, attentive, warm and cultured manner, keep the station premises and passenger cars clean and sanitary, provide boiled drinking water and good catering services on the train.": {
+      "序号": 73,
+      "原句": "Article 13 A railway transport enterprise shall take effective measures to serve the passengers well in a courteous, attentive, warm and cultured manner, keep the station premises and passenger cars clean and sanitary, provide boiled drinking water and good catering services on the train.",
+      "术语": "drinking water",
+      "原句翻译": "第十三条 铁路运输企业应当采取有效措施，礼貌、用心、热情、有教养地为旅客服务，保持车站场所和客车清洁卫生，在列车上提供开水和良好的餐饮服务。",
+      "原句术语翻译": [
+         "开水"
+      ],
+      "bert替换变异": "['Article 13 A railway transport enterprise shall take effective measures to serve the passengers well in a courteous, attentive, warm and cultured manner, keep the station premises and passenger cars clean and sanitary, provide boiled running water and good catering services on the train.']",
+      "替换术语": [
+         "running water"
+      ],
+      "替换翻译": [
+         "第十三条 铁路运输企业应当采取有效措施，礼貌、用心、热情、有教养地为旅客服务好，保持车站场所和客车清洁卫生，提供开水和列车上良好的餐饮服务。"
+      ],
+      "替换术语翻译": [
+         "开水"
+      ],
+      "gpt建议": "{'running water': 'NO\\nDifferent translations: <drinking water: 饮用水, running water: 自来水>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "(b) duly certified as a true copy by a notary public of such other jurisdiction.": {
+      "序号": 74,
+      "原句": "(b) duly certified as a true copy by a notary public of such other jurisdiction.",
+      "术语": "notary public",
+      "原句翻译": "（b） 经该其他司法管辖区的公证人正式核证为真实副本。",
+      "原句术语翻译": [
+         "公证人"
+      ],
+      "bert替换变异": "['(b) duly certified as a true copy by a notary general of such other jurisdiction.']",
+      "替换术语": [
+         "notary general"
+      ],
+      "替换翻译": [
+         "（b） 经该其他司法管辖区的公证人正式核证为真实副本。"
+      ],
+      "替换术语翻译": [
+         "公证人"
+      ],
+      "gpt建议": "{'notary general': 'NO\\nDifferent translations: \\nnotary public: 公证人\\nnotary general: 公证大臣'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Milk powder and formula foods for infant and young children--Determination of phosphorus": {
+      "序号": 75,
+      "原句": "Milk powder and formula foods for infant and young children--Determination of phosphorus",
+      "术语": "milk powder",
+      "原句翻译": "婴幼儿奶粉及配方食品--磷的测定",
+      "原句术语翻译": [
+         "奶粉"
+      ],
+      "bert替换变异": "['Milk milk and formula foods for infant and young children--Determination of phosphorus']",
+      "替换术语": [
+         "Milk milk"
+      ],
+      "替换翻译": [
+         "婴幼儿奶粉和配方食品--磷的测定"
+      ],
+      "替换术语翻译": [
+         "奶粉"
+      ],
+      "gpt建议": "{'Milk milk': 'NO\\nDifferent translations: <Milk powder: 奶粉, Milk milk: 牛奶>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Article 5Whoever, in violation of the State financial or accounting rules, misappropriates or intercepts sports funds shall ordered the authorities at higher levels to return the misappropriated or intercepted funds within a time limit; the responsible persons directly in charge and other persons directly responsible for the offense shall subject to administrative sanctions in accordance with law; if the case constitutes a crime, the offender shall investigated for criminal responsibility in accordance with law.": {
+      "序号": 76,
+      "原句": "Article 5Whoever, in violation of the State financial or accounting rules, misappropriates or intercepts sports funds shall ordered the authorities at higher levels to return the misappropriated or intercepted funds within a time limit; the responsible persons directly in charge and other persons directly responsible for the offense shall subject to administrative sanctions in accordance with law; if the case constitutes a crime, the offender shall investigated for criminal responsibility in accordance with law.",
+      "术语": "time limit",
+      "原句翻译": "第五条 违反国家财务、会计规定，挪用、截取体育经费的，应当责令上级主管部门限期返还挪用、截取的资金;对直接负责的主管人员和其他直接责任人员依法给予行政处分;构成犯罪的，应当依法追究刑事责任。",
+      "原句术语翻译": [
+         "限期;"
+      ],
+      "bert替换变异": "['Article 5Whoever, in violation of the State financial or accounting rules, misappropriates or intercepts sports funds shall ordered the authorities at higher levels to return the misappropriated or intercepted funds within a time period; the responsible persons directly in charge and other persons directly responsible for the offense shall subject to administrative sanctions in accordance with law; if the case constitutes a crime, the offender shall investigated for criminal responsibility in accordance with law.', 'Article 5Whoever, in violation of the State financial or accounting rules, misappropriates or intercepts sports funds shall ordered the authorities at higher levels to return the misappropriated or intercepted funds within a time frame; the responsible persons directly in charge and other persons directly responsible for the offense shall subject to administrative sanctions in accordance with law; if the case constitutes a crime, the offender shall investigated for criminal responsibility in accordance with law.']",
+      "替换术语": [
+         "time period",
+         "time frame"
+      ],
+      "替换翻译": [
+         "第五条 违反国家财务、会计规定，挪用、截取体育经费的，应当责令上级主管部门限期返还被挪用或者截取的资金;对直接负责的主管人员和其他直接责任人员依法给予行政处分;构成犯罪的，应当依法追究刑事责任。",
+         "第五条 违反国家财务、会计规定，挪用、截取体育经费的，应当责令上级主管部门限期返还挪用或者截取的经费;对直接负责的主管人员和其他直接责任人员依法给予行政处分;构成犯罪的，应当依法追究刑事责任。"
+      ],
+      "替换术语翻译": [
+         "限期;",
+         "限期;"
+      ],
+      "gpt建议": "{'time period': 'YES', 'time frame': 'NO\\nDifferent translations: <time limit: 限期, time frame: 时间范围>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Behavioural risk factors are responsible for about 80% of coronary heart disease and cerebrovascular disease.": {
+      "序号": 77,
+      "原句": "Behavioural risk factors are responsible for about 80% of coronary heart disease and cerebrovascular disease.",
+      "术语": "coronary heart disease",
+      "原句翻译": "行为危险因素约占冠心病和脑血管疾病的80%。",
+      "原句术语翻译": [
+         "冠心病"
+      ],
+      "bert替换变异": "['Behavioural risk factors are responsible for about 80% of coronary heart failure and cerebrovascular disease.']",
+      "替换术语": [
+         "coronary heart failure"
+      ],
+      "替换翻译": [
+         "行为危险因素导致约80%的冠心病和脑血管疾病。"
+      ],
+      "替换术语翻译": [
+         "冠心病"
+      ],
+      "gpt建议": "{'coronary heart failure': 'NO\\nDifferent translations: <coronary heart disease: 冠心病, coronary heart failure: 冠心衰竭>'}",
+      "manual_1_result": 0,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "The glasses have a tiny video screen and a camera that connect wirelessly to the Internet through WIFI, a smartphone, or a tablet computer.": {
+      "序号": 78,
+      "原句": "The glasses have a tiny video screen and a camera that connect wirelessly to the Internet through WIFI, a smartphone, or a tablet computer.",
+      "术语": "tablet computer",
+      "原句翻译": "这款眼镜有一个微小的视频屏幕和一个摄像头，可通过 WIFI、智能手机或平板电脑无线连接到互联网。",
+      "原句术语翻译": [
+         "平板电脑。"
+      ],
+      "bert替换变异": "['The glasses have a tiny video screen and a camera that connect wirelessly to the Internet through WIFI, a smartphone, or a laptop computer.', 'The glasses have a tiny video screen and a camera that connect wirelessly to the Internet through WIFI, a smartphone, or a personal computer.', 'The glasses have a tiny video screen and a camera that connect wirelessly to the Internet through WIFI, a smartphone, or a desktop computer.', 'The glasses have a tiny video screen and a camera that connect wirelessly to the Internet through WIFI, a smartphone, or a tablet phone.']",
+      "替换术语": [
+         "laptop computer",
+         "personal computer",
+         "desktop computer",
+         "tablet phone"
+      ],
+      "替换翻译": [
+         "这款眼镜有一个小巧的视频屏幕和一个摄像头，可通过 WIFI、智能手机或笔记本电脑无线连接到互联网。",
+         "这款眼镜有一个小巧的视频屏幕和一个摄像头，可通过 WIFI、智能手机或个人电脑无线连接到互联网。",
+         "这款眼镜有一个小巧的视频屏幕和一个摄像头，可通过 WIFI、智能手机或台式电脑无线连接到互联网。",
+         "这款眼镜有一个小巧的视频屏幕和一个摄像头，可通过 WIFI、智能手机或平板电脑无线连接到互联网。"
+      ],
+      "替换术语翻译": [
+         "笔记本电脑。",
+         "个人电脑。",
+         "台式电脑。",
+         "平板电脑。"
+      ],
+      "gpt建议": "{'tablet phone': 'NO\\nDifferent translations: <tablet computer: 平板电脑, tablet phone: 平板手机>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "(ii) an oversea company within the meaning of the Companies Ordinance (Cap. 32), it is left with, or sent by post to, the person resident in Hong Kong who is authorized to accept service of process and notices on its behalf for the purposes of Part XI of that Ordinance;": {
+      "序号": 79,
+      "原句": "(ii) an oversea company within the meaning of the Companies Ordinance (Cap. 32), it is left with, or sent by post to, the person resident in Hong Kong who is authorized to accept service of process and notices on its behalf for the purposes of Part XI of that Ordinance;",
+      "术语": "service of process",
+      "原句翻译": "（ii） 《公司条例》（第32章）所指的海外公司，而该公司须交由获授权代表该公司接受法律程序及通知送达的香港居民，或以邮递方式寄送该人士，以该条例第XI部为目的;",
+      "原句术语翻译": [
+         "程序"
+      ],
+      "bert替换变异": "['(ii) an oversea company within the meaning of the Companies Ordinance (Cap. 32), it is left with, or sent by post to, the person resident in Hong Kong who is authorized to accept proof of process and notices on its behalf for the purposes of Part XI of that Ordinance;', '(ii) an oversea company within the meaning of the Companies Ordinance (Cap. 32), it is left with, or sent by post to, the person resident in Hong Kong who is authorized to accept notice of process and notices on its behalf for the purposes of Part XI of that Ordinance;', '(ii) an oversea company within the meaning of the Companies Ordinance (Cap. 32), it is left with, or sent by post to, the person resident in Hong Kong who is authorized to accept letters of process and notices on its behalf for the purposes of Part XI of that Ordinance;', '(ii) an oversea company within the meaning of the Companies Ordinance (Cap. 32), it is left with, or sent by post to, the person resident in Hong Kong who is authorized to accept service of information and notices on its behalf for the purposes of Part XI of that Ordinance;', '(ii) an oversea company within the meaning of the Companies Ordinance (Cap. 32), it is left with, or sent by post to, the person resident in Hong Kong who is authorized to accept service of letters and notices on its behalf for the purposes of Part XI of that Ordinance;']",
+      "替换术语": [
+         "proof of process",
+         "notice of process",
+         "letters of process",
+         "service of information",
+         "service of letters"
+      ],
+      "替换翻译": [
+         "（ii） 《公司条例》（第32章）所指的海外公司，而该海外公司须交由获授权代表该公司接受程序证明及通知的香港居民，或以邮寄方式寄送给该条例第十一部分所指的香港居民;",
+         "（ii） 《公司条例》（第32章）所指的海外公司，而该公司须交由获授权代表该条例第XI部接受法律程序通知及通知的香港居民，或以邮寄方式寄送该人;",
+         "（ii） 《公司条例》（第32章）所指的海外公司，而该海外公司须交由获授权代表该公司就该条例第XI部接受法律程序及通知书的香港居民，或以邮递方式寄送予该人;",
+         "（ii） 《公司条例》（第32章）所指的海外公司，而该海外公司须交由获授权代表该公司接受资料及通知的香港居民，或以邮递方式寄送该人士，以该条例第XI部为目的;",
+         "（ii） 《公司条例》（第32章）所指的海外公司，须交由获授权为该条例第XI部之目的而代表其接受信件及通知送达的香港居民，或以邮递方式寄送该人;"
+      ],
+      "替换术语翻译": [
+         "程序证明",
+         "程序通知",
+         "程序",
+         "资料",
+         "信件"
+      ],
+      "gpt建议": "{'letters of process': 'NO\\nDifferent translations: service of process: 传票服务, letters of process: 传票信函'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Another seemed to show a larger piece of debris peeling off the exterior fuel tank.": {
+      "序号": 80,
+      "原句": "Another seemed to show a larger piece of debris peeling off the exterior fuel tank.",
+      "术语": "fuel tank",
+      "原句翻译": "另一张照片似乎显示，从外部油箱上剥落了一大块碎片。",
+      "原句术语翻译": [
+         "油箱。"
+      ],
+      "bert替换变异": "['Another seemed to show a larger piece of debris peeling off the exterior water tank.', 'Another seemed to show a larger piece of debris peeling off the exterior gas tank.', 'Another seemed to show a larger piece of debris peeling off the exterior fuel line.']",
+      "替换术语": [
+         "water tank",
+         "gas tank",
+         "fuel line"
+      ],
+      "替换翻译": [
+         "另一张照片似乎显示，外部水箱上有一块更大的碎片正在剥落。",
+         "另一个似乎显示一块更大的碎片从外部油箱上剥落。",
+         "另一张照片似乎显示，外部燃油管路上有一块更大的碎片剥落。"
+      ],
+      "替换术语翻译": [
+         "水箱。",
+         "油箱。",
+         "燃油管路上。"
+      ],
+      "gpt建议": "{'gas tank': \"NO\\nDifferent translations: \\nfuel tank: ['燃油箱'], gas tank: ['汽油箱']\"}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "(2) The patients with lower total protein (TP, less than 60g/L), lower albumin(ALB, less than 35g/L), lower total lymphocyte (TLC, less than 1.5×109/L)of blood were spotted mostly in the internal medicine departments.": {
+      "序号": 81,
+      "原句": "(2) The patients with lower total protein (TP, less than 60g/L), lower albumin(ALB, less than 35g/L), lower total lymphocyte (TLC, less than 1.5×109/L)of blood were spotted mostly in the internal medicine departments.",
+      "术语": "internal medicine",
+      "原句翻译": "（2）血液总蛋白（TP，小于60g/L）、白蛋白（ALB，小于35g/L）、总淋巴细胞（TLC，小于1.5×109/L）的患者多见于内科。",
+      "原句术语翻译": [
+         "内科"
+      ],
+      "bert替换变异": "['(2) The patients with lower total protein (TP, less than 60g/L), lower albumin(ALB, less than 35g/L), lower total lymphocyte (TLC, less than 1.5×109/L)of blood were spotted mostly in the internal health departments.']",
+      "替换术语": [
+         "internal health"
+      ],
+      "替换翻译": [
+         "（2）总蛋白（TP，小于60g/L）、白蛋白（ALB，小于35g/L）、总淋巴细胞（TLC，小于1.5×109/L）的患者多见于内科。"
+      ],
+      "替换术语翻译": [
+         "内科"
+      ],
+      "gpt建议": "{'internal health': 'NO\\nDifferent translations: <internal medicine: 内科, internal health: 内部健康>.'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "(iv) in the case of a franchised bus, at a designated bus stop, and then only for so long as may be reasonably necessary for persons to get on or off the bus;": {
+      "序号": 82,
+      "原句": "(iv) in the case of a franchised bus, at a designated bus stop, and then only for so long as may be reasonably necessary for persons to get on or off the bus;",
+      "术语": "bus stop",
+      "原句翻译": "（iv） 如属专营巴士，则在指定的巴士站，且只在人士上下车合理需要的期限内;",
+      "原句术语翻译": [
+         "巴士站，"
+      ],
+      "bert替换变异": "['(iv) in the case of a franchised bus, at a designated intermediate stop, and then only for so long as may be reasonably necessary for persons to get on or off the bus;', '(iv) in the case of a franchised bus, at a designated bus station, and then only for so long as may be reasonably necessary for persons to get on or off the bus;']",
+      "替换术语": [
+         "intermediate stop",
+         "bus station"
+      ],
+      "替换翻译": [
+         "（iv） 如属专营巴士，则在指定的中间站，且只在人士上下车合理需要的时间内;",
+         "（iv） 如属专营巴士，则在指定的巴士站，且只在人士上下车合理需要的范围内;"
+      ],
+      "替换术语翻译": [
+         "中间站，",
+         "巴士站，"
+      ],
+      "gpt建议": "{'bus station': 'NO\\nDifferent translations: <bus stop: 巴士站, bus station: 巴士站>.'}",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "An ideal traction motive power for fast transportation of special goods DF_(8BG) diesel locomotives": {
+      "序号": 83,
+      "原句": "An ideal traction motive power for fast transportation of special goods DF_(8BG) diesel locomotives",
+      "术语": "motive power",
+      "原句翻译": "用于快速运输特殊货物DF_（8BG）内燃机车的理想牵引动力",
+      "原句术语翻译": [
+         "牵引动力"
+      ],
+      "bert替换变异": "['An ideal traction motive force for fast transportation of special goods DF_(8BG) diesel locomotives']",
+      "替换术语": [
+         "motive force"
+      ],
+      "替换翻译": [
+         "快速运输特种货物DF_（8BG）内燃机车的理想牵引动力"
+      ],
+      "替换术语翻译": [
+         "牵引动力"
+      ],
+      "gpt建议": "{'motive force': 'NO\\nDifferent translations: <motive power: 动力, motive force: 牵引力>'}",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "\"\" \"Five Love\" \": love the motherland, the people, labor, and science and take good care of public property.\"": {
+      "序号": 84,
+      "原句": "\"\" \"Five Love\" \": love the motherland, the people, labor, and science and take good care of public property.\"",
+      "术语": "public property",
+      "原句翻译": ">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>",
+      "原句术语翻译": [
+         ">"
+      ],
+      "bert替换变异": "['\"\" \"Five Love\" \": love the motherland, the people, labor, and science and take good care of public health.\"', '\"\" \"Five Love\" \": love the motherland, the people, labor, and science and take good care of public affairs.\"', '\"\" \"Five Love\" \": love the motherland, the people, labor, and science and take good care of public safety.\"']",
+      "替换术语": [
+         "public health",
+         "public affairs",
+         "public safety"
+      ],
+      "替换翻译": [
+         ">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>",
+         ">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>",
+         ">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>"
+      ],
+      "替换术语翻译": [
+         ">",
+         ">",
+         ">"
+      ],
+      "gpt建议": "{'public health': 'NO\\nDifferent translations: public property: 公共财产, public health: 公共卫生', 'public affairs': 'NO\\nDifferent translations: public property: 公共财产, public affairs: 公共事务', 'public safety': 'NO\\nDifferent translations: public property: 公共财产, public safety: 公共安全.'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Governments at all levels shall engage in the measures of publicity, education or training to encourage the public to purchase and use products conducive to energy and water conservation, waste reuse, environmental protection and resource conservation.": {
+      "序号": 85,
+      "原句": "Governments at all levels shall engage in the measures of publicity, education or training to encourage the public to purchase and use products conducive to energy and water conservation, waste reuse, environmental protection and resource conservation.",
+      "术语": "environmental protection",
+      "原句翻译": "各级政府应当采取宣传、教育、培训等措施，鼓励公众购买使用有利于节能节水、废物再利用、环境保护、资源节约的产品。",
+      "原句术语翻译": [
+         "环境保护"
+      ],
+      "bert替换变异": "['Governments at all levels shall engage in the measures of publicity, education or training to encourage the public to purchase and use products conducive to energy and water conservation, waste reuse, environmental health and resource conservation.', 'Governments at all levels shall engage in the measures of publicity, education or training to encourage the public to purchase and use products conducive to energy and water conservation, waste reuse, environmental conservation and resource conservation.']",
+      "替换术语": [
+         "environmental health",
+         "environmental conservation"
+      ],
+      "替换翻译": [
+         "各级政府应当采取宣传、教育、培训等措施，鼓励公众购买使用有利于节能节水、废物再利用、环境健康、资源节约等产品。",
+         "各级政府应当采取宣传、教育、培训等措施，鼓励公众购买使用有利于节能节水、废物再利用、环境保护、资源节约的产品。"
+      ],
+      "替换术语翻译": [
+         "环境健康",
+         "环境保护"
+      ],
+      "gpt建议": "{'environmental conservation': 'NO\\nDifferent translations: <environmental protection: 环境保护, environmental conservation: 环境保护>'}",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "Results: The incidences of pneumorrhagia in the premature infant and the low birth weight newborn and the normal term newborn were 66.7%, 69.4% and 30.5%,respectively.": {
+      "序号": 86,
+      "原句": "Results: The incidences of pneumorrhagia in the premature infant and the low birth weight newborn and the normal term newborn were 66.7%, 69.4% and 30.5%,respectively.",
+      "术语": "birth weight",
+      "原句翻译": "结果：早产儿、低出生体重新生儿和正常足月新生儿肺炎发生率分别为66.7%、69.4%和30.5%。",
+      "原句术语翻译": [
+         "出生"
+      ],
+      "bert替换变异": "['Results: The incidences of pneumorrhagia in the premature infant and the low birth term newborn and the normal term newborn were 66.7%, 69.4% and 30.5%,respectively.']",
+      "替换术语": [
+         "birth term"
+      ],
+      "替换翻译": [
+         "结果：早产儿、低出生儿和正常足月新生儿肺出血发生率分别为66.7%、69.4%和30.5%。"
+      ],
+      "替换术语翻译": [
+         "出生"
+      ],
+      "gpt建议": "{'birth term': 'NO\\nDifferent translations: <birth weight: 出生体重, birth term: 分娩期>'}",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "Article 2A taxpayer or tax with holding agent must, with in the declaration period stipulated the law and administrative legislation or determined taxation authorities pursuant to the provisions of the law and administrative legislation, lodge a tax return or a report on tax withheld or collected and handed over on behalf of others with the responsible taxation authority.": {
+      "序号": 87,
+      "原句": "Article 2A taxpayer or tax with holding agent must, with in the declaration period stipulated the law and administrative legislation or determined taxation authorities pursuant to the provisions of the law and administrative legislation, lodge a tax return or a report on tax withheld or collected and handed over on behalf of others with the responsible taxation authority.",
+      "术语": "tax return",
+      "原句翻译": "第二条 纳税人或者有持有代理人的纳税人，必须在法律、行政法规规定的申报期内或者依照法律、行政法规的规定确定的税务机关，代为向他人提交纳税申报或者代缴税款报告。",
+      "原句术语翻译": [
+         "纳税申报"
+      ],
+      "bert替换变异": "['Article 2A taxpayer or tax with holding agent must, with in the declaration period stipulated the law and administrative legislation or determined taxation authorities pursuant to the provisions of the law and administrative legislation, lodge a tax notice or a report on tax withheld or collected and handed over on behalf of others with the responsible taxation authority.', 'Article 2A taxpayer or tax with holding agent must, with in the declaration period stipulated the law and administrative legislation or determined taxation authorities pursuant to the provisions of the law and administrative legislation, lodge a tax inquiry or a report on tax withheld or collected and handed over on behalf of others with the responsible taxation authority.', 'Article 2A taxpayer or tax with holding agent must, with in the declaration period stipulated the law and administrative legislation or determined taxation authorities pursuant to the provisions of the law and administrative legislation, lodge a tax report or a report on tax withheld or collected and handed over on behalf of others with the responsible taxation authority.', 'Article 2A taxpayer or tax with holding agent must, with in the declaration period stipulated the law and administrative legislation or determined taxation authorities pursuant to the provisions of the law and administrative legislation, lodge a tax assessment or a report on tax withheld or collected and handed over on behalf of others with the responsible taxation authority.']",
+      "替换术语": [
+         "tax notice",
+         "tax inquiry",
+         "tax report",
+         "tax assessment"
+      ],
+      "替换翻译": [
+         "第二条 纳税人或者有持有代理人的纳税人，必须在法律、行政法规规定的申报期内或者依照法律、行政法规的规定确定的税务机关，代为代缴税款，向主管税务机关提交税务通知或者代缴税款报告。",
+         "第二条 纳税人或者有持有代理人的纳税人，必须在法律、行政法规规定的申报期限内或者依照法律、行政法规的规定确定的税务机关，代为向他人提出税务查询或者代缴税款报告。",
+         "第二条 纳税人或者有持有代理人的纳税人，必须在法律、行政法规规定的申报期限内，或者依照法律、行政法规的规定确定的税务机关，向主管税务机关提交纳税申报或者代缴税款申报报告。",
+         "第二条 纳税人或者有持有代理人的纳税人，必须在申报期限内，依照法律、行政法规的规定或者依照法律、行政法规的规定确定的税务机关，代为向他人申报纳税评估或者代缴税款申报。"
+      ],
+      "替换术语翻译": [
+         "税务通知",
+         "税务查询",
+         "纳税申报",
+         "纳税评估"
+      ],
+      "gpt建议": "{'tax report': 'NO\\nDifferent translations: <tax return: 纳税申报, tax report: 纳税报告>.'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "According to statistics from the recruitment website of social workers in Beijing in April, 460,000 candidates competed for this year’s 1,000 positions - much higher than the 13:1 civil servant recruitment ratio.": {
+      "序号": 88,
+      "原句": "According to statistics from the recruitment website of social workers in Beijing in April, 460,000 candidates competed for this year’s 1,000 positions - much higher than the 13:1 civil servant recruitment ratio.",
+      "术语": "civil servant",
+      "原句翻译": "根据北京社工招聘网站4月份的统计，今年1000个职位共有46万名应聘者竞争，远高于13：1的公务员招聘比例。",
+      "原句术语翻译": [
+         "公务员"
+      ],
+      "bert替换变异": "['According to statistics from the recruitment website of social workers in Beijing in April, 460,000 candidates competed for this year’s 1,000 positions - much higher than the 13:1 civil service recruitment ratio.', 'According to statistics from the recruitment website of social workers in Beijing in April, 460,000 candidates competed for this year’s 1,000 positions - much higher than the 13:1 civil society recruitment ratio.']",
+      "替换术语": [
+         "civil service",
+         "civil society"
+      ],
+      "替换翻译": [
+         "根据北京社工招聘网站4月份的统计，今年1000个职位共有46万名应聘者竞争，远高于13：1的公务员招聘比例。",
+         "根据北京社工招聘网站4月份的统计，今年1000个职位共有46万名应聘者竞争，远高于13：1的民间社会招聘比例。"
+      ],
+      "替换术语翻译": [
+         "公务员",
+         "民间社会"
+      ],
+      "gpt建议": "{'civil service': 'NO\\nDifferent translations: <civil servant: 公务员, civil service: 公共服务>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "As the main part of the thesis, we studied the absolute proper motions of NGC 224in detail, using photographic plates of Shanghai Observatory, which were taken with the 40cm double astrograph of focal length 6.9m at sheshan, with a time span of 3years.": {
+      "序号": 89,
+      "原句": "As the main part of the thesis, we studied the absolute proper motions of NGC 224in detail, using photographic plates of Shanghai Observatory, which were taken with the 40cm double astrograph of focal length 6.9m at sheshan, with a time span of 3years.",
+      "术语": "focal length",
+      "原句翻译": "作为论文的主要部分，我们使用上海天文台的照相底片，详细研究了NGC 224的绝对正确运动，这些照相板是在佘山用焦距6.9m的40cm双天文仪拍摄的，时间跨度为3年。",
+      "原句术语翻译": [
+         "焦距"
+      ],
+      "bert替换变异": "['As the main part of the thesis, we studied the absolute proper motions of NGC 224in detail, using photographic plates of Shanghai Observatory, which were taken with the 40cm double astrograph of focal distance 6.9m at sheshan, with a time span of 3years.', 'As the main part of the thesis, we studied the absolute proper motions of NGC 224in detail, using photographic plates of Shanghai Observatory, which were taken with the 40cm double astrograph of focal height 6.9m at sheshan, with a time span of 3years.']",
+      "替换术语": [
+         "focal distance",
+         "focal height"
+      ],
+      "替换翻译": [
+         "作为论文的主要部分，我们使用上海天文台的照相底片，详细研究了NGC 224的绝对正确运动，这些照片是用焦距6.9m的40cm双天文仪在佘山拍摄的，时间跨度为3年。",
+         "作为论文的主要部分，我们使用上海天文台的照相底片，详细研究了NGC 224的绝对正确运动，这些照片是用40厘米双天文仪拍摄的，焦距为6.9m，时间跨度为3年。"
+      ],
+      "替换术语翻译": [
+         "焦距",
+         "焦距"
+      ],
+      "gpt建议": "{'focal distance': 'NO\\nDifferent translations: <focal length: 焦距, focal distance: 焦距>.', 'focal height': 'NO\\nDifferent translations: <focal length: 焦距, focal height: 焦高>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "HENRY: Yes. I caught a number 7 bus yesterday, and I had to wait for half an hour at the bus stop.": {
+      "序号": 90,
+      "原句": "HENRY: Yes. I caught a number 7 bus yesterday, and I had to wait for half an hour at the bus stop.",
+      "术语": "bus stop",
+      "原句翻译": "亨利：是的。昨天我坐了7路公交车，在公交车站等了半个小时。",
+      "原句术语翻译": [
+         "公交车站。"
+      ],
+      "bert替换变异": "['HENRY: Yes. I caught a number 7 bus yesterday, and I had to wait for half an hour at the last stop.', 'HENRY: Yes. I caught a number 7 bus yesterday, and I had to wait for half an hour at the bus station.']",
+      "替换术语": [
+         "last stop",
+         "bus station"
+      ],
+      "替换翻译": [
+         "亨利：是的。昨天我赶上了7路公交车，在最后一站等了半个小时。",
+         "亨利：是的。昨天我坐了7路公交车，在公交站等了半个小时。"
+      ],
+      "替换术语翻译": [
+         "最后一站。",
+         "公交站。"
+      ],
+      "gpt建议": "{}",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "Article 18 The State applies a system of nine-year compulsory education.": {
+      "序号": 91,
+      "原句": "Article 18 The State applies a system of nine-year compulsory education.",
+      "术语": "compulsory education",
+      "原句翻译": "第十八条 国家实行九年义务教育制度。",
+      "原句术语翻译": [
+         "义务教育。"
+      ],
+      "bert替换变异": "['Article 18 The State applies a system of nine-year compulsory schooling.']",
+      "替换术语": [
+         "compulsory schooling"
+      ],
+      "替换翻译": [
+         "第十八条 国家实行九年义务教育制度。"
+      ],
+      "替换术语翻译": [
+         "义务教育。"
+      ],
+      "gpt建议": "{'compulsory schooling': 'NO\\nDifferent translations: <compulsory education: 义务教育, compulsory schooling: 义务教育>.'}",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "(1). the name, sex, age, nationality, occupation, employer and address of the party, or the name, address and name and position of the legal representative or principal person in charge of the legal person or other organization;": {
+      "序号": 92,
+      "原句": "(1). the name, sex, age, nationality, occupation, employer and address of the party, or the name, address and name and position of the legal representative or principal person in charge of the legal person or other organization;",
+      "术语": "legal person",
+      "原句翻译": "（一）当事人的姓名、性别、年龄、国籍、职业、用人单位、地址，或者法人或者其他组织的法定代表人或者主要负责人的姓名、地址和名称、职务;",
+      "原句术语翻译": [
+         ""
+      ],
+      "bert替换变异": "['(1). the name, sex, age, nationality, occupation, employer and address of the party, or the name, address and name and position of the legal representative or principal person in charge of the legal party or other organization;']",
+      "替换术语": [
+         "legal party"
+      ],
+      "替换翻译": [
+         "（一）当事人的姓名、性别、年龄、国籍、职业、用人单位和地址，或者法律当事人或者其他组织的法定代表人或者主要负责人的姓名、地址和名称、职务;"
+      ],
+      "替换术语翻译": [
+         ""
+      ],
+      "gpt建议": "{'legal party': 'NO\\nDifferent translations: legal person: 法人, legal party: 法定当事人'}",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "Enhance the capacity to earn foreign exchange through export": {
+      "序号": 93,
+      "原句": "Enhance the capacity to earn foreign exchange through export",
+      "术语": "foreign exchange",
+      "原句翻译": "提高出口创汇能力",
+      "原句术语翻译": [
+         "出口创汇"
+      ],
+      "bert替换变异": "['Enhance the capacity to earn foreign currency through export', 'Enhance the capacity to earn foreign investment through export']",
+      "替换术语": [
+         "foreign currency",
+         "foreign investment"
+      ],
+      "替换翻译": [
+         "提高出口创汇能力",
+         "提高通过出口获得外资的能力"
+      ],
+      "替换术语翻译": [
+         "出口创汇",
+         "外资"
+      ],
+      "gpt建议": "{'foreign currency': 'NO\\nDifferent translations: <foreign exchange: 外汇, foreign currency: 外币>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "7.  Alteration of investors or equities due to failure on the part of an investor in the enterprise to perform investment duties as stipulated in enterprise contracts or in articles of association, with approval from departments in charge of examination and approval.": {
+      "序号": 94,
+      "原句": "7.  Alteration of investors or equities due to failure on the part of an investor in the enterprise to perform investment duties as stipulated in enterprise contracts or in articles of association, with approval from departments in charge of examination and approval.",
+      "术语": "articles of association",
+      "原句翻译": "7.因企业投资者未履行企业合同或者公司章程规定的投资义务而变更投资者或者股权，并经审批主管部门批准。",
+      "原句术语翻译": [
+         "公司章程，"
+      ],
+      "bert替换变异": "['7.  Alteration of investors or equities due to failure on the part of an investor in the enterprise to perform investment duties as stipulated in enterprise contracts or in letters of association, with approval from departments in charge of examination and approval.', '7.  Alteration of investors or equities due to failure on the part of an investor in the enterprise to perform investment duties as stipulated in enterprise contracts or in articles of contract, with approval from departments in charge of examination and approval.', '7.  Alteration of investors or equities due to failure on the part of an investor in the enterprise to perform investment duties as stipulated in enterprise contracts or in articles of agreement, with approval from departments in charge of examination and approval.', '7.  Alteration of investors or equities due to failure on the part of an investor in the enterprise to perform investment duties as stipulated in enterprise contracts or in articles of law, with approval from departments in charge of examination and approval.']",
+      "替换术语": [
+         "letters of association",
+         "articles of contract",
+         "articles of agreement",
+         "articles of law"
+      ],
+      "替换翻译": [
+         "7.因企业投资者未履行企业合同或公司章程规定的投资义务而变更投资者或股权，并经审批主管部门批准。",
+         "7.因企业投资者未履行企业合同或者合同章程规定的投资义务而变更投资者或者股权的，并经审批主管部门批准。",
+         "7.因企业投资者未履行企业合同或者协议条款规定的投资义务而变更投资者或股权的，并经审批主管部门批准。",
+         "7.因企业投资者未履行企业合同或者法律条款规定的投资义务而变更投资者或者股权，并经审批主管部门批准。"
+      ],
+      "替换术语翻译": [
+         "公司章程，",
+         "合同，",
+         "协议条款，",
+         "法律条款，"
+      ],
+      "gpt建议": "{'letters of association': 'NO\\nDifferent translations: <articles of association: 公司章程, letters of association: 协会信函>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "(1) The Chief Electoral Officer must supply to the Presiding Officer a list of the names of the polling officers appointed for the polling station for which that Presiding Officer is appointed.": {
+      "序号": 95,
+      "原句": "(1) The Chief Electoral Officer must supply to the Presiding Officer a list of the names of the polling officers appointed for the polling station for which that Presiding Officer is appointed.",
+      "术语": "polling station",
+      "原句翻译": "（1） 首席选举主任必须向投票站主任提供一份为该投票站主任所任命的投票站任命的投票主任名单。",
+      "原句术语翻译": [
+         "投票站投票站"
+      ],
+      "bert替换变异": "['(1) The Chief Electoral Officer must supply to the Presiding Officer a list of the names of the polling officers appointed for the polling district for which that Presiding Officer is appointed.', '(1) The Chief Electoral Officer must supply to the Presiding Officer a list of the names of the polling officers appointed for the polling area for which that Presiding Officer is appointed.', '(1) The Chief Electoral Officer must supply to the Presiding Officer a list of the names of the polling officers appointed for the polling precinct for which that Presiding Officer is appointed.']",
+      "替换术语": [
+         "polling district",
+         "polling area",
+         "polling precinct"
+      ],
+      "替换翻译": [
+         "（1） 首席选举主任必须向主持选举的官员提供一份为该投票主任被任命的投票区任命的投票主任名单。",
+         "（1） 首席选举主任必须向投票站主任提供一份为该投票站主任所指任的投票站主任的名单。",
+         "（1） 首席选举主任必须向投票站主任提供一份为该投票站主任所任命的投票站主任的名单。"
+      ],
+      "替换术语翻译": [
+         "投票区",
+         "投票站投票站",
+         "投票站投票站"
+      ],
+      "gpt建议": "{'polling area': 'NO\\nDifferent translations: <polling station: 投票站, polling area: 投票区>', 'polling precinct': 'YES'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "China is a multi - ethnic group country with a long history.": {
+      "序号": 96,
+      "原句": "China is a multi - ethnic group country with a long history.",
+      "术语": "ethnic group",
+      "原句翻译": "中国是一个历史悠久的多民族国家。",
+      "原句术语翻译": [
+         "民族"
+      ],
+      "bert替换变异": "['China is a multi - ethnic minority country with a long history.']",
+      "替换术语": [
+         "ethnic minority"
+      ],
+      "替换翻译": [
+         "中国是一个历史悠久的多民族国家。"
+      ],
+      "替换术语翻译": [
+         "民族"
+      ],
+      "gpt建议": "{'ethnic minority': 'NO\\nDifferent translations: <ethnic group: 民族, ethnic minority: 少数民族>'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Based on the Star Schema for a data warehouse, this paper introduces a new algorithm M Join for the multi table join.": {
+      "序号": 97,
+      "原句": "Based on the Star Schema for a data warehouse, this paper introduces a new algorithm M Join for the multi table join.",
+      "术语": "data warehouse",
+      "原句翻译": "基于数据仓库的星型模式，该文介绍了一种用于多表连接的新算法M Join。",
+      "原句术语翻译": [
+         "数据仓库，"
+      ],
+      "bert替换变异": "['Based on the Star Schema for a database warehouse, this paper introduces a new algorithm M Join for the multi table join.', 'Based on the Star Schema for a data link, this paper introduces a new algorithm M Join for the multi table join.', 'Based on the Star Schema for a data structure, this paper introduces a new algorithm M Join for the multi table join.']",
+      "替换术语": [
+         "database warehouse",
+         "data link",
+         "data structure"
+      ],
+      "替换翻译": [
+         "基于数据库仓库的星型模式，该文介绍了一种用于多表连接的新算法M Join。",
+         "基于数据链路的星型模式，该文介绍了一种新的多表连接算法M Join。",
+         "基于数据结构的星型模式，该文介绍了一种新的多表连接算法M Join。"
+      ],
+      "替换术语翻译": [
+         "数据库仓库，",
+         "数据链路，",
+         "数据结构，"
+      ],
+      "gpt建议": "{}",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "General examination for applicants with education background equivalent to college graduates for master's degree": {
+      "序号": 98,
+      "原句": "General examination for applicants with education background equivalent to college graduates for master's degree",
+      "术语": "master's degree",
+      "原句翻译": "具有相当于大学毕业生教育背景的申请人的一般考试",
+      "原句术语翻译": [
+         ""
+      ],
+      "bert替换变异": "[\"General examination for applicants with education background equivalent to college graduates for bachelor's degree\"]",
+      "替换术语": [
+         "bachelor's degree"
+      ],
+      "替换翻译": [
+         "具有相当于本科毕业生教育背景的申请人的一般考试"
+      ],
+      "替换术语翻译": [
+         ""
+      ],
+      "gpt建议": "{\"bachelor's degree\": \"NO\\nDifferent translations: master's degree: 硕士学位, bachelor's degree: 学士学位\"}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "(g) the reference number and letters of the bill of lading, air waybill or air consignment note issued in respect of the consignment of the cargo;": {
+      "序号": 99,
+      "原句": "(g) the reference number and letters of the bill of lading, air waybill or air consignment note issued in respect of the consignment of the cargo;",
+      "术语": "bill of lading",
+      "原句翻译": "（g） 就货物托运签发的提单、空运提单或空运托运单的参考编号和字母;",
+      "原句术语翻译": [
+         "提单、"
+      ],
+      "bert替换变异": "['(g) the reference number and letters of the letter of lading, air waybill or air consignment note issued in respect of the consignment of the cargo;', '(g) the reference number and letters of the type of lading, air waybill or air consignment note issued in respect of the consignment of the cargo;', '(g) the reference number and letters of the bill of fueling, air waybill or air consignment note issued in respect of the consignment of the cargo;', '(g) the reference number and letters of the bill of forwarding, air waybill or air consignment note issued in respect of the consignment of the cargo;', '(g) the reference number and letters of the bill of billing, air waybill or air consignment note issued in respect of the consignment of the cargo;']",
+      "替换术语": [
+         "letter of lading",
+         "type of lading",
+         "bill of fueling",
+         "bill of forwarding",
+         "bill of billing"
+      ],
+      "替换翻译": [
+         "（g） 就货物托运签发的提单、空运提单或空运托运单的参考编号和字母;",
+         "（g） 就货物托运签发的提单、空运提单或空运单类型的参考编号和字母;",
+         "（g） 就货物托运签发的加油单、空运提单或空运托运单的参考编号和字母;",
+         "（g） 就货物托运签发的货运提单、空运提单或空运托运单的参考编号和信函;",
+         "（g） 就货物托运签发的开票单、空运提单或空运托运单的参考编号和字母;"
+      ],
+      "替换术语翻译": [
+         "提单、",
+         "提单、类型",
+         "加油、",
+         "提单、",
+         "开票、"
+      ],
+      "gpt建议": "{'letter of lading': 'NO\\nDifferent translations: bill of lading: 提单, letter of lading: 提单据', 'bill of forwarding': 'YES'}",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   }
+}

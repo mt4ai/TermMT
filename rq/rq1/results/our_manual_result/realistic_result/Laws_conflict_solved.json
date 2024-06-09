@@ -1,0 +1,2644 @@
+{
+   "(2) refusing or obstructing the environmental protection department that is conducting an on-the-spot inspection, or practising fraud in the on-the-spot inspection.": {
+      "序号": 0,
+      "原句": "(2) refusing or obstructing the environmental protection department that is conducting an on-the-spot inspection, or practising fraud in the on-the-spot inspection.",
+      "术语": "environmental protection",
+      "insert变异": "(2) refusing or obstructing the environmental protection (the practice of protecting the natural environment by individuals, organizations and governments) department that is conducting an on-the-spot inspection, or practising fraud in the on-the-spot inspection.",
+      "替换变异": [
+         "(2) refusing or obstructing the environmental control department that is conducting an on-the-spot inspection, or practising fraud in the on-the-spot inspection.",
+         "(2) refusing or obstructing the environmental health department that is conducting an on-the-spot inspection, or practising fraud in the on-the-spot inspection.",
+         "(2) refusing or obstructing the environmental services department that is conducting an on-the-spot inspection, or practising fraud in the on-the-spot inspection."
+      ],
+      "替换术语": [
+         "environmental control",
+         "environmental health",
+         "environmental services"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "After a construction project is completed, the effect of control over occupational poisoning hazards shall be evaluated, and the project shall be subject to the inspection for acceptance by the administrative department for public health.": {
+      "序号": 1,
+      "原句": "After a construction project is completed, the effect of control over occupational poisoning hazards shall be evaluated, and the project shall be subject to the inspection for acceptance by the administrative department for public health.",
+      "术语": "public health",
+      "insert变异": "After a construction project is completed, the effect of control over occupational poisoning hazards shall be evaluated, and the project shall be subject to the inspection for acceptance by the administrative department for public health (the science and practice of community hygiene; includes preventive medicine, health education, sanitation and environmental safety).",
+      "替换变异": [
+         "After a construction project is completed, the effect of control over occupational poisoning hazards shall be evaluated, and the project shall be subject to the inspection for acceptance by the administrative department for public safety.",
+         "After a construction project is completed, the effect of control over occupational poisoning hazards shall be evaluated, and the project shall be subject to the inspection for acceptance by the administrative department for public works."
+      ],
+      "替换术语": [
+         "public safety",
+         "public works"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "(b) subject in each case to the approval of the Commissioner, any regulatory traffic sign, road marking or light signal of the size, colour and type shown in Schedules 1, 2 and 3 to the Road Traffic (Traffic Control) Regulations (Cap 374 sub. leg.).": {
+      "序号": 2,
+      "原句": "(b) subject in each case to the approval of the Commissioner, any regulatory traffic sign, road marking or light signal of the size, colour and type shown in Schedules 1, 2 and 3 to the Road Traffic (Traffic Control) Regulations (Cap 374 sub. leg.).",
+      "术语": "traffic sign",
+      "insert变异": "(b) subject in each case to the approval of the Commissioner, any regulatory traffic sign (a sign for the control of traffic or the information of drivers), road marking or light signal of the size, colour and type shown in Schedules 1, 2 and 3 to the Road Traffic (Traffic Control) Regulations (Cap 374 sub. leg.).",
+      "替换变异": [
+         "(b) subject in each case to the approval of the Commissioner, any regulatory road sign, road marking or light signal of the size, colour and type shown in Schedules 1, 2 and 3 to the Road Traffic (Traffic Control) Regulations (Cap 374 sub. leg.).",
+         "(b) subject in each case to the approval of the Commissioner, any regulatory warning sign, road marking or light signal of the size, colour and type shown in Schedules 1, 2 and 3 to the Road Traffic (Traffic Control) Regulations (Cap 374 sub. leg.).",
+         "(b) subject in each case to the approval of the Commissioner, any regulatory traffic signal, road marking or light signal of the size, colour and type shown in Schedules 1, 2 and 3 to the Road Traffic (Traffic Control) Regulations (Cap 374 sub. leg.).",
+         "(b) subject in each case to the approval of the Commissioner, any regulatory traffic light, road marking or light signal of the size, colour and type shown in Schedules 1, 2 and 3 to the Road Traffic (Traffic Control) Regulations (Cap 374 sub. leg.)."
+      ],
+      "替换术语": [
+         "road sign",
+         "warning sign",
+         "traffic signal",
+         "traffic light"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "(1) An agreement for sale to which head 1 (1A) in the First Schedule applies is chargeable with stamp duty even if the agreement is cancelled, annulled, or rescinded or is for any other reason not performed.": {
+      "序号": 3,
+      "原句": "(1) An agreement for sale to which head 1 (1A) in the First Schedule applies is chargeable with stamp duty even if the agreement is cancelled, annulled, or rescinded or is for any other reason not performed.",
+      "术语": "stamp duty",
+      "insert变异": "(1) An agreement for sale to which head 1 (1A) in the First Schedule applies is chargeable with stamp duty (a tax levied upon certain documents, a stamp being applied to show that tax has been paid) even if the agreement is cancelled, annulled, or rescinded or is for any other reason not performed.",
+      "替换变异": [
+         "(1) An agreement for sale to which head 1 (1A) in the First Schedule applies is chargeable with a duty even if the agreement is cancelled, annulled, or rescinded or is for any other reason not performed."
+      ],
+      "替换术语": [
+         "a duty"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "(iii) in the case of a weighing device or any other apparatus designed and used for the purpose of ascertaining the laden or unladen weight of a motor vehicle, by a person authorized in this behalf by the Commissioner for Transport,": {
+      "序号": 4,
+      "原句": "(iii) in the case of a weighing device or any other apparatus designed and used for the purpose of ascertaining the laden or unladen weight of a motor vehicle, by a person authorized in this behalf by the Commissioner for Transport,",
+      "术语": "motor vehicle",
+      "insert变异": "(iii) in the case of a weighing device or any other apparatus designed and used for the purpose of ascertaining the laden or unladen weight of a motor vehicle (any land-based means of transportation in the form of a machine that operates primarily through a motor to provide power to rotate the tires), by a person authorized in this behalf by the Commissioner for Transport,",
+      "替换变异": [
+         "(iii) in the case of a weighing device or any other apparatus designed and used for the purpose of ascertaining the laden or unladen weight of a motor car, by a person authorized in this behalf by the Commissioner for Transport,"
+      ],
+      "替换术语": [
+         "motor car"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "(1) All questions coming or arising before a meeting of the Council or of the standing committee shall be decided by a majority of the members present and voting thereon.": {
+      "序号": 5,
+      "原句": "(1) All questions coming or arising before a meeting of the Council or of the standing committee shall be decided by a majority of the members present and voting thereon.",
+      "术语": "standing committee",
+      "insert变异": "(1) All questions coming or arising before a meeting of the Council or of the standing committee (an established parliamentary or congressional committee to which all proposed legislation, messages, petitions, memorials and other matters regarding a defined scope of subjects get referred to and then returned to parliament or congress along with a recommended measure) shall be decided by a majority of the members present and voting thereon.",
+      "替换变异": [
+         "(1) All questions coming or arising before a meeting of the Council or of the executive committee shall be decided by a majority of the members present and voting thereon."
+      ],
+      "替换术语": [
+         "executive committee"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Article 42 Applicants shall use the technology export license or certificate of registration of the technology import contract to go through the foreign exchange, banking, taxation and customs formalities.": {
+      "序号": 6,
+      "原句": "Article 42 Applicants shall use the technology export license or certificate of registration of the technology import contract to go through the foreign exchange, banking, taxation and customs formalities.",
+      "术语": "foreign exchange",
+      "insert变异": "Article 42 Applicants shall use the technology export license or certificate of registration of the technology import contract to go through the foreign exchange (foreign currency), banking, taxation and customs formalities.",
+      "替换变异": [
+         "Article 42 Applicants shall use the technology export license or certificate of registration of the technology import contract to go through the foreign trade, banking, taxation and customs formalities."
+      ],
+      "替换术语": [
+         "foreign trade"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "(4) failing to make up medical records in emergency treatment within the specified time limit;": {
+      "序号": 7,
+      "原句": "(4) failing to make up medical records in emergency treatment within the specified time limit;",
+      "术语": "time limit",
+      "insert变异": "(4) failing to make up medical records in emergency treatment within the specified time limit (a duration beyond which something may not exceed);",
+      "替换变异": [
+         "(4) failing to make up medical records in emergency treatment within the specified age limit;",
+         "(4) failing to make up medical records in emergency treatment within the specified time frame;",
+         "(4) failing to make up medical records in emergency treatment within the specified time period;"
+      ],
+      "替换术语": [
+         "age limit",
+         "time frame",
+         "time period"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "(2) the quantity of manpower, machines and tools, vessels and  eliminating materials put in, and the unit price and the method of calculating;": {
+      "序号": 8,
+      "原句": "(2) the quantity of manpower, machines and tools, vessels and  eliminating materials put in, and the unit price and the method of calculating;",
+      "术语": "unit price",
+      "insert变异": "(2) the quantity of manpower, machines and tools, vessels and  eliminating materials put in, and the unit price (the price of a standard amount of a good, as of weight or volume) and the method of calculating;",
+      "替换变异": [
+         "(2) the quantity of manpower, machines and tools, vessels and  eliminating materials put in, and the labor price and the method of calculating;",
+         "(2) the quantity of manpower, machines and tools, vessels and  eliminating materials put in, and the market price and the method of calculating;",
+         "(2) the quantity of manpower, machines and tools, vessels and  eliminating materials put in, and the unit number and the method of calculating;",
+         "(2) the quantity of manpower, machines and tools, vessels and  eliminating materials put in, and the unit system and the method of calculating;"
+      ],
+      "替换术语": [
+         "labor price",
+         "market price",
+         "unit number",
+         "unit system"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Article 8 The following persons may obtain legal aid without examination:": {
+      "序号": 9,
+      "原句": "Article 8 The following persons may obtain legal aid without examination:",
+      "术语": "legal aid",
+      "insert变异": "Article 8 The following persons may obtain legal aid (free or low-cost service in the field of law, for the indigent) without examination:",
+      "替换变异": [
+         "Article 8 The following persons may obtain legal protection without examination:",
+         "Article 8 The following persons may obtain legal immunity without examination:",
+         "Article 8 The following persons may obtain legal status without examination:",
+         "Article 8 The following persons may obtain legal representation without examination:"
+      ],
+      "替换术语": [
+         "legal protection",
+         "legal immunity",
+         "legal status",
+         "legal representation"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "(c) it is expedient, in connection with a worldwide merger of the respective undertakings of Royal Bank of Scotland and Williams & Glyn's Bank public limited company, that the said undertakings should be transferred to the Bank;": {
+      "序号": 10,
+      "原句": "(c) it is expedient, in connection with a worldwide merger of the respective undertakings of Royal Bank of Scotland and Williams & Glyn's Bank public limited company, that the said undertakings should be transferred to the Bank;",
+      "术语": "public limited company",
+      "insert变异": "(c) it is expedient, in connection with a worldwide merger of the respective undertakings of Royal Bank of Scotland and Williams & Glyn's Bank public limited company (a publicly traded limited liability company in the United Kingdom and some other jurisdictions), that the said undertakings should be transferred to the Bank;",
+      "替换变异": [
+         "(c) it is expedient, in connection with a worldwide merger of the respective undertakings of Royal Bank of Scotland and Williams & Glyn's Bank public limited liability, that the said undertakings should be transferred to the Bank;"
+      ],
+      "替换术语": [
+         "public limited liability"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "(b) prepare a report on the year's working of the registered society to be presented to the annual general meeting.": {
+      "序号": 11,
+      "原句": "(b) prepare a report on the year's working of the registered society to be presented to the annual general meeting.",
+      "术语": "annual general meeting",
+      "insert变异": "(b) prepare a report on the year's working of the registered society to be presented to the annual general meeting (a meeting that official bodies, associations and companies hold each year to elect the board of directors and inform their members of previous and future activities. Commonly abbreviated as AGM).",
+      "替换变异": [
+         "(b) prepare a report on the year's working of the registered society to be presented to the annual general assembly."
+      ],
+      "替换术语": [
+         "annual general assembly"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Article 49 The liquidation of a contractual JV shall be carried out in accordance with laws, decrees and stipulations of the contractual JV agreement, contract and articles of association.": {
+      "序号": 12,
+      "原句": "Article 49 The liquidation of a contractual JV shall be carried out in accordance with laws, decrees and stipulations of the contractual JV agreement, contract and articles of association.",
+      "术语": "articles of association",
+      "insert变异": "Article 49 The liquidation of a contractual JV shall be carried out in accordance with laws, decrees and stipulations of the contractual JV agreement, contract and articles of association (a document which, along with the memorandum of association, forms a company's constitution, defines the responsibilities of the directors, the kind of business to be undertaken, and the means by which the shareholders exert control over the board of directors).",
+      "替换变异": [
+         "Article 49 The liquidation of a contractual JV shall be carried out in accordance with laws, decrees and stipulations of the contractual JV agreement, contract and law of association.",
+         "Article 49 The liquidation of a contractual JV shall be carried out in accordance with laws, decrees and stipulations of the contractual JV agreement, contract and freedom of association.",
+         "Article 49 The liquidation of a contractual JV shall be carried out in accordance with laws, decrees and stipulations of the contractual JV agreement, contract and articles of contract.",
+         "Article 49 The liquidation of a contractual JV shall be carried out in accordance with laws, decrees and stipulations of the contractual JV agreement, contract and articles of agreement.",
+         "Article 49 The liquidation of a contractual JV shall be carried out in accordance with laws, decrees and stipulations of the contractual JV agreement, contract and articles of law."
+      ],
+      "替换术语": [
+         "law of association",
+         "freedom of association",
+         "articles of contract",
+         "articles of agreement",
+         "articles of law"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Article 23. Environmental protection authorities of People's Governments at various levels shall exercise unified supervision and administration over the prevention of exhaust pollution by motor vehicles and vessels.": {
+      "序号": 13,
+      "原句": "Article 23. Environmental protection authorities of People's Governments at various levels shall exercise unified supervision and administration over the prevention of exhaust pollution by motor vehicles and vessels.",
+      "术语": "environmental protection",
+      "insert变异": "Article 23. Environmental protection (the practice of protecting the natural environment by individuals, organizations and governments) authorities of People's Governments at various levels shall exercise unified supervision and administration over the prevention of exhaust pollution by motor vehicles and vessels.",
+      "替换变异": [
+         "Article 23. Environmental health authorities of People's Governments at various levels shall exercise unified supervision and administration over the prevention of exhaust pollution by motor vehicles and vessels."
+      ],
+      "替换术语": [
+         "Environmental health"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "The expenses of legal aid shall be met by the Director from moneys provided by the Legislative Council: (Amended 54 of 1984 s.24)": {
+      "序号": 14,
+      "原句": "The expenses of legal aid shall be met by the Director from moneys provided by the Legislative Council: (Amended 54 of 1984 s.24)",
+      "术语": "legal aid",
+      "insert变异": "The expenses of legal aid (free or low-cost service in the field of law, for the indigent) shall be met by the Director from moneys provided by the Legislative Council: (Amended 54 of 1984 s.24)",
+      "替换变异": [
+         "The expenses of legal services shall be met by the Director from moneys provided by the Legislative Council: (Amended 54 of 1984 s.24)",
+         "The expenses of legal practice shall be met by the Director from moneys provided by the Legislative Council: (Amended 54 of 1984 s.24)",
+         "The expenses of legal representation shall be met by the Director from moneys provided by the Legislative Council: (Amended 54 of 1984 s.24)"
+      ],
+      "替换术语": [
+         "legal services",
+         "legal practice",
+         "legal representation"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "(b) sell, supply or permit the sale or supply of marked oil for the purpose of being used as a fuel in any motor vehicle or pleasure vessel;": {
+      "序号": 15,
+      "原句": "(b) sell, supply or permit the sale or supply of marked oil for the purpose of being used as a fuel in any motor vehicle or pleasure vessel;",
+      "术语": "motor vehicle",
+      "insert变异": "(b) sell, supply or permit the sale or supply of marked oil for the purpose of being used as a fuel in any motor vehicle (any land-based means of transportation in the form of a machine that operates primarily through a motor to provide power to rotate the tires) or pleasure vessel;",
+      "替换变异": [
+         "(b) sell, supply or permit the sale or supply of marked oil for the purpose of being used as a fuel in any commercial vehicle or pleasure vessel;",
+         "(b) sell, supply or permit the sale or supply of marked oil for the purpose of being used as a fuel in any motor vessel or pleasure vessel;",
+         "(b) sell, supply or permit the sale or supply of marked oil for the purpose of being used as a fuel in any motor boat or pleasure vessel;",
+         "(b) sell, supply or permit the sale or supply of marked oil for the purpose of being used as a fuel in any motor yacht or pleasure vessel;"
+      ],
+      "替换术语": [
+         "commercial vehicle",
+         "motor vessel",
+         "motor boat",
+         "motor yacht"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "The drug dealer unit and the medical treatment unit are not allowed to alter the purchasing certificates and the prescriptions for psychotropic drugs.": {
+      "序号": 16,
+      "原句": "The drug dealer unit and the medical treatment unit are not allowed to alter the purchasing certificates and the prescriptions for psychotropic drugs.",
+      "术语": "drug dealer",
+      "insert变异": "The drug dealer (one who illegally sells recreational drugs) unit and the medical treatment unit are not allowed to alter the purchasing certificates and the prescriptions for psychotropic drugs.",
+      "替换变异": [
+         "The drug testing unit and the medical treatment unit are not allowed to alter the purchasing certificates and the prescriptions for psychotropic drugs.",
+         "The drug collection unit and the medical treatment unit are not allowed to alter the purchasing certificates and the prescriptions for psychotropic drugs."
+      ],
+      "替换术语": [
+         "drug testing",
+         "drug collection"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "(2) If any regulation made under this section is contravened by any person the master of the passenger ship involved in the contravention commits an offence and is liable to a fine of $10000.": {
+      "序号": 17,
+      "原句": "(2) If any regulation made under this section is contravened by any person the master of the passenger ship involved in the contravention commits an offence and is liable to a fine of $10000.",
+      "术语": "passenger ship",
+      "insert变异": "(2) If any regulation made under this section is contravened by any person the master of the passenger ship (a ship whose primary function is to carry passengers) involved in the contravention commits an offence and is liable to a fine of $10000.",
+      "替换变异": [
+         "(2) If any regulation made under this section is contravened by any person the master of the cruise ship involved in the contravention commits an offence and is liable to a fine of $10000.",
+         "(2) If any regulation made under this section is contravened by any person the master of the merchant ship involved in the contravention commits an offence and is liable to a fine of $10000.",
+         "(2) If any regulation made under this section is contravened by any person the master of the cargo ship involved in the contravention commits an offence and is liable to a fine of $10000.",
+         "(2) If any regulation made under this section is contravened by any person the master of the sailing ship involved in the contravention commits an offence and is liable to a fine of $10000.",
+         "(2) If any regulation made under this section is contravened by any person the master of the passenger car involved in the contravention commits an offence and is liable to a fine of $10000.",
+         "(2) If any regulation made under this section is contravened by any person the master of the passenger train involved in the contravention commits an offence and is liable to a fine of $10000.",
+         "(2) If any regulation made under this section is contravened by any person the master of the passenger vehicle involved in the contravention commits an offence and is liable to a fine of $10000.",
+         "(2) If any regulation made under this section is contravened by any person the master of the passenger vessel involved in the contravention commits an offence and is liable to a fine of $10000."
+      ],
+      "替换术语": [
+         "cruise ship",
+         "merchant ship",
+         "cargo ship",
+         "sailing ship",
+         "passenger car",
+         "passenger train",
+         "passenger vehicle",
+         "passenger vessel"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "(h) a person convicted of any offence may be granted legal aid under these rules for any appeal to, or any application for leave to appeal to, the Court of Final Appeal and any proceedings preliminary or incidental thereto; (L.N. 122 of 1982; 79 of 1995 s. 50)": {
+      "序号": 18,
+      "原句": "(h) a person convicted of any offence may be granted legal aid under these rules for any appeal to, or any application for leave to appeal to, the Court of Final Appeal and any proceedings preliminary or incidental thereto; (L.N. 122 of 1982; 79 of 1995 s. 50)",
+      "术语": "legal aid",
+      "insert变异": "(h) a person convicted of any offence may be granted legal aid (free or low-cost service in the field of law, for the indigent) under these rules for any appeal to, or any application for leave to appeal to, the Court of Final Appeal and any proceedings preliminary or incidental thereto; (L.N. 122 of 1982; 79 of 1995 s. 50)",
+      "替换变异": [
+         "(h) a person convicted of any offence may be granted legal immunity under these rules for any appeal to, or any application for leave to appeal to, the Court of Final Appeal and any proceedings preliminary or incidental thereto; (L.N. 122 of 1982; 79 of 1995 s. 50)",
+         "(h) a person convicted of any offence may be granted legal protection under these rules for any appeal to, or any application for leave to appeal to, the Court of Final Appeal and any proceedings preliminary or incidental thereto; (L.N. 122 of 1982; 79 of 1995 s. 50)",
+         "(h) a person convicted of any offence may be granted legal leave under these rules for any appeal to, or any application for leave to appeal to, the Court of Final Appeal and any proceedings preliminary or incidental thereto; (L.N. 122 of 1982; 79 of 1995 s. 50)",
+         "(h) a person convicted of any offence may be granted legal standing under these rules for any appeal to, or any application for leave to appeal to, the Court of Final Appeal and any proceedings preliminary or incidental thereto; (L.N. 122 of 1982; 79 of 1995 s. 50)"
+      ],
+      "替换术语": [
+         "legal immunity",
+         "legal protection",
+         "legal leave",
+         "legal standing"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "(d) in the case of a body corporate other than a company or a unincorporated body of persons other than a partnership, to the principal place of business of the body;": {
+      "序号": 19,
+      "原句": "(d) in the case of a body corporate other than a company or a unincorporated body of persons other than a partnership, to the principal place of business of the body;",
+      "术语": "body corporate",
+      "insert变异": "(d) in the case of a body corporate (a legal person) other than a company or a unincorporated body of persons other than a partnership, to the principal place of business of the body;",
+      "替换变异": [
+         "(d) in the case of a corporation corporate other than a company or a unincorporated body of persons other than a partnership, to the principal place of business of the body;",
+         "(d) in the case of a person corporate other than a company or a unincorporated body of persons other than a partnership, to the principal place of business of the body;"
+      ],
+      "替换术语": [
+         "corporation corporate",
+         "person corporate"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "(4) Where the receiver is appointed under the powers contained in any instrument, this section shall have effect with the substitution for references to the court of references to the Official Receiver and for references to an affidavit of references to a statutory declaration.": {
+      "序号": 20,
+      "原句": "(4) Where the receiver is appointed under the powers contained in any instrument, this section shall have effect with the substitution for references to the court of references to the Official Receiver and for references to an affidavit of references to a statutory declaration.",
+      "术语": "statutory declaration",
+      "insert变异": "(4) Where the receiver is appointed under the powers contained in any instrument, this section shall have effect with the substitution for references to the court of references to the Official Receiver and for references to an affidavit of references to a statutory declaration (a legal document that is affirmed rather than being sworn under oath).",
+      "替换变异": [
+         "(4) Where the receiver is appointed under the powers contained in any instrument, this section shall have effect with the substitution for references to the court of references to the Official Receiver and for references to an affidavit of references to a statutory instrument.",
+         "(4) Where the receiver is appointed under the powers contained in any instrument, this section shall have effect with the substitution for references to the court of references to the Official Receiver and for references to an affidavit of references to a statutory authority."
+      ],
+      "替换术语": [
+         "statutory instrument",
+         "statutory authority"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "(1) Investing in technological or other venture capital enterprises and projects;": {
+      "序号": 21,
+      "原句": "(1) Investing in technological or other venture capital enterprises and projects;",
+      "术语": "venture capital",
+      "insert变异": "(1) Investing in technological or other venture capital (money invested in an innovative enterprise in which both the potential for profit and the risk of loss are considerable) enterprises and projects;",
+      "替换变异": [
+         "(1) Investing in technological or other natural capital enterprises and projects;"
+      ],
+      "替换术语": [
+         "natural capital"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "(i) if the market value of the securities is less than or equal to their subscription price, the aggregate of-": {
+      "序号": 22,
+      "原句": "(i) if the market value of the securities is less than or equal to their subscription price, the aggregate of-",
+      "术语": "market value",
+      "insert变异": "(i) if the market value (the price which a seller or insurer might reasonably expect to fetch for goods, services or securities on the open market) of the securities is less than or equal to their subscription price, the aggregate of-",
+      "替换变异": [
+         "(i) if the aggregate value of the securities is less than or equal to their subscription price, the aggregate of-"
+      ],
+      "替换术语": [
+         "aggregate value"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "To provide for the establishment of a single, unified stock exchange in Hong Kong; to provide for an Exchange Company to operate the Unified Exchange; to provide for the winding up of existing exchanges; and to provide for related matters.": {
+      "序号": 23,
+      "原句": "To provide for the establishment of a single, unified stock exchange in Hong Kong; to provide for an Exchange Company to operate the Unified Exchange; to provide for the winding up of existing exchanges; and to provide for related matters.",
+      "术语": "stock exchange",
+      "insert变异": "To provide for the establishment of a single, unified stock exchange (an organisation that trades stocks in of companies for money and vice versa) in Hong Kong; to provide for an Exchange Company to operate the Unified Exchange; to provide for the winding up of existing exchanges; and to provide for related matters.",
+      "替换变异": [
+         "To provide for the establishment of a single, unified telephone exchange in Hong Kong; to provide for an Exchange Company to operate the Unified Exchange; to provide for the winding up of existing exchanges; and to provide for related matters."
+      ],
+      "替换术语": [
+         "telephone exchange"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Article 40 The laborer can have the occupational disease diagnosed by the occupational-disease-specific healthcare agency at the location of the Employer or at the residential place of the laborer.": {
+      "序号": 24,
+      "原句": "Article 40 The laborer can have the occupational disease diagnosed by the occupational-disease-specific healthcare agency at the location of the Employer or at the residential place of the laborer.",
+      "术语": "occupational disease",
+      "insert变异": "Article 40 The laborer can have the occupational disease (any ailment that occurs as a result of work or occupational activity) diagnosed by the occupational-disease-specific healthcare agency at the location of the Employer or at the residential place of the laborer.",
+      "替换变异": [
+         "Article 40 The laborer can have the occupational illness diagnosed by the occupational-disease-specific healthcare agency at the location of the Employer or at the residential place of the laborer.",
+         "Article 40 The laborer can have the occupational condition diagnosed by the occupational-disease-specific healthcare agency at the location of the Employer or at the residential place of the laborer."
+      ],
+      "替换术语": [
+         "occupational illness",
+         "occupational condition"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Any accounts receivable, proved and confirmed to be definitely uncollectible, shall be recognized as bed debts and written off against provision for bad debts or charged to current profit or loss as bad debts loss, if such provision is not set up.": {
+      "序号": 25,
+      "原句": "Any accounts receivable, proved and confirmed to be definitely uncollectible, shall be recognized as bed debts and written off against provision for bad debts or charged to current profit or loss as bad debts loss, if such provision is not set up.",
+      "术语": "accounts receivable",
+      "insert变异": "Any accounts receivable (the total monetary amount owed to a financial entity due to debts arising from sales on credit or on account), proved and confirmed to be definitely uncollectible, shall be recognized as bed debts and written off against provision for bad debts or charged to current profit or loss as bad debts loss, if such provision is not set up.",
+      "替换变异": [
+         "Any debt receivable, proved and confirmed to be definitely uncollectible, shall be recognized as bed debts and written off against provision for bad debts or charged to current profit or loss as bad debts loss, if such provision is not set up.",
+         "Any property receivable, proved and confirmed to be definitely uncollectible, shall be recognized as bed debts and written off against provision for bad debts or charged to current profit or loss as bad debts loss, if such provision is not set up."
+      ],
+      "替换术语": [
+         "debt receivable",
+         "property receivable"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "(6) For the purposes of subsection (5) (a), the net equity standing at the beginning of any calendar month shall be treated as including any cash deposits made to, and as excluding any cash withdrawal made from, the account by the client during that month.": {
+      "序号": 26,
+      "原句": "(6) For the purposes of subsection (5) (a), the net equity standing at the beginning of any calendar month shall be treated as including any cash deposits made to, and as excluding any cash withdrawal made from, the account by the client during that month.",
+      "术语": "calendar month",
+      "insert变异": "(6) For the purposes of subsection (5) (a), the net equity standing at the beginning of any calendar month (the period of duration from the first date of one month to the last date of the same month, which can thus vary from 28 to 31 days in length) shall be treated as including any cash deposits made to, and as excluding any cash withdrawal made from, the account by the client during that month.",
+      "替换变异": [
+         "(6) For the purposes of subsection (5) (a), the net equity standing at the beginning of any given month shall be treated as including any cash deposits made to, and as excluding any cash withdrawal made from, the account by the client during that month.",
+         "(6) For the purposes of subsection (5) (a), the net equity standing at the beginning of any tax month shall be treated as including any cash deposits made to, and as excluding any cash withdrawal made from, the account by the client during that month.",
+         "(6) For the purposes of subsection (5) (a), the net equity standing at the beginning of any particular month shall be treated as including any cash deposits made to, and as excluding any cash withdrawal made from, the account by the client during that month."
+      ],
+      "替换术语": [
+         "given month",
+         "tax month",
+         "particular month"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Article 200 A case of first instance where an Intermediate People's Court has imposed a death sentence and the defendant does not appeal shall be reviewed by a Higher People's Court and submitted to the Supreme People's Court for approval.": {
+      "序号": 27,
+      "原句": "Article 200 A case of first instance where an Intermediate People's Court has imposed a death sentence and the defendant does not appeal shall be reviewed by a Higher People's Court and submitted to the Supreme People's Court for approval.",
+      "术语": "death sentence",
+      "insert变异": "Article 200 A case of first instance where an Intermediate People's Court has imposed a death sentence (anything that spells death) and the defendant does not appeal shall be reviewed by a Higher People's Court and submitted to the Supreme People's Court for approval.",
+      "替换变异": [
+         "Article 200 A case of first instance where an Intermediate People's Court has imposed a prison sentence and the defendant does not appeal shall be reviewed by a Higher People's Court and submitted to the Supreme People's Court for approval.",
+         "Article 200 A case of first instance where an Intermediate People's Court has imposed a death penalty and the defendant does not appeal shall be reviewed by a Higher People's Court and submitted to the Supreme People's Court for approval."
+      ],
+      "替换术语": [
+         "prison sentence",
+         "death penalty"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "To provide for the establishment and functions of the Hong Kong Academy of Medicine as a body corporate and matters incidental thereto.": {
+      "序号": 28,
+      "原句": "To provide for the establishment and functions of the Hong Kong Academy of Medicine as a body corporate and matters incidental thereto.",
+      "术语": "body corporate",
+      "insert变异": "To provide for the establishment and functions of the Hong Kong Academy of Medicine as a body corporate (a legal person) and matters incidental thereto.",
+      "替换变异": [
+         "To provide for the establishment and functions of the Hong Kong Academy of Medicine as a separate corporate and matters incidental thereto."
+      ],
+      "替换术语": [
+         "separate corporate"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "No person shall enter the precincts of a swimming pool while knowingly suffering from any communicable disease.": {
+      "序号": 29,
+      "原句": "No person shall enter the precincts of a swimming pool while knowingly suffering from any communicable disease.",
+      "术语": "swimming pool",
+      "insert变异": "No person shall enter the precincts of a swimming pool (a pool of water used for swimming, usually one which has been artificially constructed) while knowingly suffering from any communicable disease.",
+      "替换变异": [
+         "No person shall enter the precincts of a drinking pool while knowingly suffering from any communicable disease.",
+         "No person shall enter the precincts of a public pool while knowingly suffering from any communicable disease."
+      ],
+      "替换术语": [
+         "drinking pool",
+         "public pool"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "7. In this Schedule, an absolute majority of votes means that the person receives more than half of the valid votes cast excluding abstention votes. (Added 112 of 1997 s. 20)": {
+      "序号": 30,
+      "原句": "7. In this Schedule, an absolute majority of votes means that the person receives more than half of the valid votes cast excluding abstention votes. (Added 112 of 1997 s. 20)",
+      "术语": "absolute majority",
+      "insert变异": "7. In this Schedule, an absolute majority (a true numerical majority, more than 50% of the items being counted) of votes means that the person receives more than half of the valid votes cast excluding abstention votes. (Added 112 of 1997 s. 20)",
+      "替换变异": [
+         "7. In this Schedule, an absolute number of votes means that the person receives more than half of the valid votes cast excluding abstention votes. (Added 112 of 1997 s. 20)"
+      ],
+      "替换术语": [
+         "absolute number"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "(2) The Committee, having regard to any explanation or declaration made by the defendant, shall consider the complaint or information, any statutory declaration received therewith and any document or matter put before it by the Secretary under paragraph (1) and, subject to the provisions of this regulation, shall determine either-": {
+      "序号": 31,
+      "原句": "(2) The Committee, having regard to any explanation or declaration made by the defendant, shall consider the complaint or information, any statutory declaration received therewith and any document or matter put before it by the Secretary under paragraph (1) and, subject to the provisions of this regulation, shall determine either-",
+      "术语": "statutory declaration",
+      "insert变异": "(2) The Committee, having regard to any explanation or declaration made by the defendant, shall consider the complaint or information, any statutory declaration (a legal document that is affirmed rather than being sworn under oath) received therewith and any document or matter put before it by the Secretary under paragraph (1) and, subject to the provisions of this regulation, shall determine either-",
+      "替换变异": [
+         "(2) The Committee, having regard to any explanation or declaration made by the defendant, shall consider the complaint or information, any statutory notice received therewith and any document or matter put before it by the Secretary under paragraph (1) and, subject to the provisions of this regulation, shall determine either-",
+         "(2) The Committee, having regard to any explanation or declaration made by the defendant, shall consider the complaint or information, any statutory information received therewith and any document or matter put before it by the Secretary under paragraph (1) and, subject to the provisions of this regulation, shall determine either-"
+      ],
+      "替换术语": [
+         "statutory notice",
+         "statutory information"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Where a contract is concluded by the exchange of electronic messages, the time of arrival of the acceptance shall be governed by Paragraph 2 of Article 16 hereof.": {
+      "序号": 32,
+      "原句": "Where a contract is concluded by the exchange of electronic messages, the time of arrival of the acceptance shall be governed by Paragraph 2 of Article 16 hereof.",
+      "术语": "time of arrival",
+      "insert变异": "Where a contract is concluded by the exchange of electronic messages, the time of arrival (the instant when a radio signal emanating from a transmitter reaches a remote receiver) of the acceptance shall be governed by Paragraph 2 of Article 16 hereof.",
+      "替换变异": [
+         "Where a contract is concluded by the exchange of electronic messages, the date of arrival of the acceptance shall be governed by Paragraph 2 of Article 16 hereof.",
+         "Where a contract is concluded by the exchange of electronic messages, the time of date of the acceptance shall be governed by Paragraph 2 of Article 16 hereof.",
+         "Where a contract is concluded by the exchange of electronic messages, the time of time of the acceptance shall be governed by Paragraph 2 of Article 16 hereof."
+      ],
+      "替换术语": [
+         "date of arrival",
+         "time of date",
+         "time of time"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "反常识"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "反常识"
+      }
+   },
+   "(2) An agreement for a lease shall be chargeable with stamp duty as a lease made for the term and consideration mentioned in the agreement.": {
+      "序号": 33,
+      "原句": "(2) An agreement for a lease shall be chargeable with stamp duty as a lease made for the term and consideration mentioned in the agreement.",
+      "术语": "stamp duty",
+      "insert变异": "(2) An agreement for a lease shall be chargeable with stamp duty (a tax levied upon certain documents, a stamp being applied to show that tax has been paid) as a lease made for the term and consideration mentioned in the agreement.",
+      "替换变异": [
+         "(2) An agreement for a lease shall be chargeable with a duty as a lease made for the term and consideration mentioned in the agreement."
+      ],
+      "替换术语": [
+         "a duty"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "After buying foreign exchange from an inside-area enterprise, the bank shall make a record in the registration certificate, copy it after affixing its seal to the certificate. The copy, together with other relevant certificates, shall be kept for 5 years for future check.": {
+      "序号": 34,
+      "原句": "After buying foreign exchange from an inside-area enterprise, the bank shall make a record in the registration certificate, copy it after affixing its seal to the certificate. The copy, together with other relevant certificates, shall be kept for 5 years for future check.",
+      "术语": "foreign exchange",
+      "insert变异": "After buying foreign exchange (foreign currency) from an inside-area enterprise, the bank shall make a record in the registration certificate, copy it after affixing its seal to the certificate. The copy, together with other relevant certificates, shall be kept for 5 years for future check.",
+      "替换变异": [
+         "After buying foreign currency from an inside-area enterprise, the bank shall make a record in the registration certificate, copy it after affixing its seal to the certificate. The copy, together with other relevant certificates, shall be kept for 5 years for future check."
+      ],
+      "替换术语": [
+         "foreign currency"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "(i) the percentage by market value of qualifying debt securities of any description specified in Part I of Schedule 3; or": {
+      "序号": 35,
+      "原句": "(i) the percentage by market value of qualifying debt securities of any description specified in Part I of Schedule 3; or",
+      "术语": "market value",
+      "insert变异": "(i) the percentage by market value (the price which a seller or insurer might reasonably expect to fetch for goods, services or securities on the open market) of qualifying debt securities of any description specified in Part I of Schedule 3; or",
+      "替换变异": [
+         "(i) the percentage by volume value of qualifying debt securities of any description specified in Part I of Schedule 3; or",
+         "(i) the percentage by value value of qualifying debt securities of any description specified in Part I of Schedule 3; or",
+         "(i) the percentage by unit value of qualifying debt securities of any description specified in Part I of Schedule 3; or",
+         "(i) the percentage by dollar value of qualifying debt securities of any description specified in Part I of Schedule 3; or"
+      ],
+      "替换术语": [
+         "volume value",
+         "value value",
+         "unit value",
+         "dollar value"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "语法错误"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "语法错误"
+      }
+   },
+   "(b) the articles of association restrict membership to persons of one sex (disregarding any minor exceptions); and": {
+      "序号": 36,
+      "原句": "(b) the articles of association restrict membership to persons of one sex (disregarding any minor exceptions); and",
+      "术语": "articles of association",
+      "insert变异": "(b) the articles of association (a document which, along with the memorandum of association, forms a company's constitution, defines the responsibilities of the directors, the kind of business to be undertaken, and the means by which the shareholders exert control over the board of directors) restrict membership to persons of one sex (disregarding any minor exceptions); and",
+      "替换变异": [
+         "(b) the articles of membership restrict membership to persons of one sex (disregarding any minor exceptions); and"
+      ],
+      "替换术语": [
+         "articles of membership"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "(i) the market value of the first-mentioned person's beneficial interest in the property, less": {
+      "序号": 37,
+      "原句": "(i) the market value of the first-mentioned person's beneficial interest in the property, less",
+      "术语": "market value",
+      "insert变异": "(i) the market value (the price which a seller or insurer might reasonably expect to fetch for goods, services or securities on the open market) of the first-mentioned person's beneficial interest in the property, less",
+      "替换变异": [
+         "(i) the present value of the first-mentioned person's beneficial interest in the property, less"
+      ],
+      "替换术语": [
+         "present value"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "For animal feed with medical feed additives, there must be \"with medical feed additives\" on the label, which also explains the chemical name, composition, method of use and matters to pay attention to.": {
+      "序号": 38,
+      "原句": "For animal feed with medical feed additives, there must be \"with medical feed additives\" on the label, which also explains the chemical name, composition, method of use and matters to pay attention to.",
+      "术语": "animal feed",
+      "insert变异": "For animal feed (material, of an animal or most often vegetable origin, prepared (especially industrially) as feed for domestic or farm animals) with medical feed additives, there must be \"with medical feed additives\" on the label, which also explains the chemical name, composition, method of use and matters to pay attention to.",
+      "替换变异": [
+         "For a feed with medical feed additives, there must be \"with medical feed additives\" on the label, which also explains the chemical name, composition, method of use and matters to pay attention to.",
+         "For commercial feed with medical feed additives, there must be \"with medical feed additives\" on the label, which also explains the chemical name, composition, method of use and matters to pay attention to."
+      ],
+      "替换术语": [
+         "a feed",
+         "commercial feed"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Article 186 Where a company intends to reduce its registered capital, it must formulate a balance sheet and a detailed inventory of assets.": {
+      "序号": 39,
+      "原句": "Article 186 Where a company intends to reduce its registered capital, it must formulate a balance sheet and a detailed inventory of assets.",
+      "术语": "balance sheet",
+      "insert变异": "Article 186 Where a company intends to reduce its registered capital, it must formulate a balance sheet (a summary of a person's or organization's assets, liabilities and equity as of a specific date) and a detailed inventory of assets.",
+      "替换变异": [
+         "Article 186 Where a company intends to reduce its registered capital, it must formulate a charge sheet and a detailed inventory of assets."
+      ],
+      "替换术语": [
+         "charge sheet"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "(a) to direct that the case be heard by a board instead of a single police officer;": {
+      "序号": 40,
+      "原句": "(a) to direct that the case be heard by a board instead of a single police officer;",
+      "术语": "police officer",
+      "insert变异": "(a) to direct that the case be heard by a board instead of a single police officer (a peace officer who is a member of a police force);",
+      "替换变异": [
+         "(a) to direct that the case be heard by a board instead of a single police court;",
+         "(a) to direct that the case be heard by a board instead of a single police magistrate;",
+         "(a) to direct that the case be heard by a board instead of a single police commission;"
+      ],
+      "替换术语": [
+         "police court",
+         "police magistrate",
+         "police commission"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "(2) Without prejudice to the generality of paragraph (1), no saw that is cracked shall be used in a circular saw.": {
+      "序号": 41,
+      "原句": "(2) Without prejudice to the generality of paragraph (1), no saw that is cracked shall be used in a circular saw.",
+      "术语": "circular saw",
+      "insert变异": "(2) Without prejudice to the generality of paragraph (1), no saw that is cracked shall be used in a circular saw (a power saw with a circular cutting blade, whose teeth rotate rapidly).",
+      "替换变异": [
+         "(2) Without prejudice to the generality of paragraph (1), no saw that is cracked shall be used in a circular manner.",
+         "(2) Without prejudice to the generality of paragraph (1), no saw that is cracked shall be used in a circular way.",
+         "(2) Without prejudice to the generality of paragraph (1), no saw that is cracked shall be used in a circular form."
+      ],
+      "替换术语": [
+         "circular manner",
+         "circular way",
+         "circular form"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Article 109. When an emergency affects the normal operation of a stock exchange, it can introduce technical measures to stop listings; in the event of an irresistible emergency or to preserve its normal operation, it can decide to temporarily halt trading.": {
+      "序号": 42,
+      "原句": "Article 109. When an emergency affects the normal operation of a stock exchange, it can introduce technical measures to stop listings; in the event of an irresistible emergency or to preserve its normal operation, it can decide to temporarily halt trading.",
+      "术语": "stock exchange",
+      "insert变异": "Article 109. When an emergency affects the normal operation of a stock exchange (an organisation that trades stocks in of companies for money and vice versa), it can introduce technical measures to stop listings; in the event of an irresistible emergency or to preserve its normal operation, it can decide to temporarily halt trading.",
+      "替换变异": [
+         "Article 109. When an emergency affects the normal operation of a currency exchange, it can introduce technical measures to stop listings; in the event of an irresistible emergency or to preserve its normal operation, it can decide to temporarily halt trading.",
+         "Article 109. When an emergency affects the normal operation of a stock market, it can introduce technical measures to stop listings; in the event of an irresistible emergency or to preserve its normal operation, it can decide to temporarily halt trading."
+      ],
+      "替换术语": [
+         "currency exchange",
+         "stock market"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Subject to sections 70 and 77 of the Ordinance and section 53, a person shall have the right to inspect the Register during the normal business hours of the Registry upon application made on the specified form and payment of the applicable fee.": {
+      "序号": 43,
+      "原句": "Subject to sections 70 and 77 of the Ordinance and section 53, a person shall have the right to inspect the Register during the normal business hours of the Registry upon application made on the specified form and payment of the applicable fee.",
+      "术语": "business hours",
+      "insert变异": "Subject to sections 70 and 77 of the Ordinance and section 53, a person shall have the right to inspect the Register during the normal business hours (the hours and days when a given business is available to the public) of the Registry upon application made on the specified form and payment of the applicable fee.",
+      "替换变异": [
+         "Subject to sections 70 and 77 of the Ordinance and section 53, a person shall have the right to inspect the Register during the normal working hours of the Registry upon application made on the specified form and payment of the applicable fee.",
+         "Subject to sections 70 and 77 of the Ordinance and section 53, a person shall have the right to inspect the Register during the normal business period of the Registry upon application made on the specified form and payment of the applicable fee.",
+         "Subject to sections 70 and 77 of the Ordinance and section 53, a person shall have the right to inspect the Register during the normal business life of the Registry upon application made on the specified form and payment of the applicable fee.",
+         "Subject to sections 70 and 77 of the Ordinance and section 53, a person shall have the right to inspect the Register during the normal business session of the Registry upon application made on the specified form and payment of the applicable fee."
+      ],
+      "替换术语": [
+         "working hours",
+         "business period",
+         "business life",
+         "business session"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "(2) those insurance policy holders, insurants or beneficiaries who fabricate false reasons for or exaggerate the degree of loss on an insurance accident which has happened to defraud the insurance money;": {
+      "序号": 44,
+      "原句": "(2) those insurance policy holders, insurants or beneficiaries who fabricate false reasons for or exaggerate the degree of loss on an insurance accident which has happened to defraud the insurance money;",
+      "术语": "insurance policy",
+      "insert变异": "(2) those insurance policy (something that protects or safeguards) holders, insurants or beneficiaries who fabricate false reasons for or exaggerate the degree of loss on an insurance accident which has happened to defraud the insurance money;",
+      "替换变异": [
+         "(2) those insurance company holders, insurants or beneficiaries who fabricate false reasons for or exaggerate the degree of loss on an insurance accident which has happened to defraud the insurance money;"
+      ],
+      "替换术语": [
+         "insurance company"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "(d) not more than 5 members of the general public who do not come within the categories referred to in paragraphs (b) and (c).": {
+      "序号": 45,
+      "原句": "(d) not more than 5 members of the general public who do not come within the categories referred to in paragraphs (b) and (c).",
+      "术语": "general public",
+      "insert变异": "(d) not more than 5 members of the general public (members of the public not in the attentive public of any given issue; laypeople) who do not come within the categories referred to in paragraphs (b) and (c).",
+      "替换变异": [
+         "(d) not more than 5 members of the general assembly who do not come within the categories referred to in paragraphs (b) and (c)."
+      ],
+      "替换术语": [
+         "general assembly"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "The contractor responsible for a construction site shall provide sufficient and suitable latrine and washing conveniences on the site and, where persons of both sexes are or are intended to be employed, such conveniences shall afford proper separate accommodation for persons of each sex.": {
+      "序号": 46,
+      "原句": "The contractor responsible for a construction site shall provide sufficient and suitable latrine and washing conveniences on the site and, where persons of both sexes are or are intended to be employed, such conveniences shall afford proper separate accommodation for persons of each sex.",
+      "术语": "construction site",
+      "insert变异": "The contractor responsible for a construction site (a place where a building or other physical structure is under construction) shall provide sufficient and suitable latrine and washing conveniences on the site and, where persons of both sexes are or are intended to be employed, such conveniences shall afford proper separate accommodation for persons of each sex.",
+      "替换变异": [
+         "The contractor responsible for a particular site shall provide sufficient and suitable latrine and washing conveniences on the site and, where persons of both sexes are or are intended to be employed, such conveniences shall afford proper separate accommodation for persons of each sex.",
+         "The contractor responsible for a construction project shall provide sufficient and suitable latrine and washing conveniences on the site and, where persons of both sexes are or are intended to be employed, such conveniences shall afford proper separate accommodation for persons of each sex.",
+         "The contractor responsible for a construction work shall provide sufficient and suitable latrine and washing conveniences on the site and, where persons of both sexes are or are intended to be employed, such conveniences shall afford proper separate accommodation for persons of each sex."
+      ],
+      "替换术语": [
+         "particular site",
+         "construction project",
+         "construction work"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "The composition of a crew and the number of its members shall conform to the regulations of the competent civil aviation authority under the State Council.": {
+      "序号": 47,
+      "原句": "The composition of a crew and the number of its members shall conform to the regulations of the competent civil aviation authority under the State Council.",
+      "术语": "civil aviation",
+      "insert变异": "The composition of a crew and the number of its members shall conform to the regulations of the competent civil aviation (all non-military forms of aviation, including private and commercial flight services) authority under the State Council.",
+      "替换变异": [
+         "The composition of a crew and the number of its members shall conform to the regulations of the competent civil service authority under the State Council.",
+         "The composition of a crew and the number of its members shall conform to the regulations of the competent civil engineering authority under the State Council."
+      ],
+      "替换术语": [
+         "civil service",
+         "civil engineering"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Article 36 The State encourages and supports public sports organizations to organize and conduct sports activities in accordance with their articles of association to promote the development of undertakings of physical culture.": {
+      "序号": 48,
+      "原句": "Article 36 The State encourages and supports public sports organizations to organize and conduct sports activities in accordance with their articles of association to promote the development of undertakings of physical culture.",
+      "术语": "articles of association",
+      "insert变异": "Article 36 The State encourages and supports public sports organizations to organize and conduct sports activities in accordance with their articles of association (a document which, along with the memorandum of association, forms a company's constitution, defines the responsibilities of the directors, the kind of business to be undertaken, and the means by which the shareholders exert control over the board of directors) to promote the development of undertakings of physical culture.",
+      "替换变异": [
+         "Article 36 The State encourages and supports public sports organizations to organize and conduct sports activities in accordance with their right of association to promote the development of undertakings of physical culture.",
+         "Article 36 The State encourages and supports public sports organizations to organize and conduct sports activities in accordance with their law of association to promote the development of undertakings of physical culture.",
+         "Article 36 The State encourages and supports public sports organizations to organize and conduct sports activities in accordance with their articles of law to promote the development of undertakings of physical culture.",
+         "Article 36 The State encourages and supports public sports organizations to organize and conduct sports activities in accordance with their articles of constitution to promote the development of undertakings of physical culture."
+      ],
+      "替换术语": [
+         "right of association",
+         "law of association",
+         "articles of law",
+         "articles of constitution"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "(c) repay the purchaser of any local money order that has become void; or": {
+      "序号": 49,
+      "原句": "(c) repay the purchaser of any local money order that has become void; or",
+      "术语": "money order",
+      "insert变异": "(c) repay the purchaser of any local money order (a directive to pay a prespecified amount of money from prepaid funds, making it a more trusted method of payment than a check) that has become void; or",
+      "替换变异": [
+         "(c) repay the purchaser of any local court order that has become void; or"
+      ],
+      "替换术语": [
+         "court order"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "(2) An operator may, for the purpose of discharging his duties and obligations under a management agreement, exercise the power of the Commissioner under subsection (1) in respect of any prescribed traffic sign, prescribed light signal or prescribed road marking specified by the Commissioner for the time being.": {
+      "序号": 50,
+      "原句": "(2) An operator may, for the purpose of discharging his duties and obligations under a management agreement, exercise the power of the Commissioner under subsection (1) in respect of any prescribed traffic sign, prescribed light signal or prescribed road marking specified by the Commissioner for the time being.",
+      "术语": "traffic sign",
+      "insert变异": "(2) An operator may, for the purpose of discharging his duties and obligations under a management agreement, exercise the power of the Commissioner under subsection (1) in respect of any prescribed traffic sign (a sign for the control of traffic or the information of drivers), prescribed light signal or prescribed road marking specified by the Commissioner for the time being.",
+      "替换变异": [
+         "(2) An operator may, for the purpose of discharging his duties and obligations under a management agreement, exercise the power of the Commissioner under subsection (1) in respect of any prescribed road sign, prescribed light signal or prescribed road marking specified by the Commissioner for the time being.",
+         "(2) An operator may, for the purpose of discharging his duties and obligations under a management agreement, exercise the power of the Commissioner under subsection (1) in respect of any prescribed street sign, prescribed light signal or prescribed road marking specified by the Commissioner for the time being.",
+         "(2) An operator may, for the purpose of discharging his duties and obligations under a management agreement, exercise the power of the Commissioner under subsection (1) in respect of any prescribed traffic signal, prescribed light signal or prescribed road marking specified by the Commissioner for the time being.",
+         "(2) An operator may, for the purpose of discharging his duties and obligations under a management agreement, exercise the power of the Commissioner under subsection (1) in respect of any prescribed traffic light, prescribed light signal or prescribed road marking specified by the Commissioner for the time being."
+      ],
+      "替换术语": [
+         "road sign",
+         "street sign",
+         "traffic signal",
+         "traffic light"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "(4) The trustee shall not be responsible for the consequences of any act or omission of a person or institution employed under subsection (2) if he or it was employed in good faith. (Added 94 of 1991 s. 3)": {
+      "序号": 51,
+      "原句": "(4) The trustee shall not be responsible for the consequences of any act or omission of a person or institution employed under subsection (2) if he or it was employed in good faith. (Added 94 of 1991 s. 3)",
+      "术语": "good faith",
+      "insert变异": "(4) The trustee shall not be responsible for the consequences of any act or omission of a person or institution employed under subsection (2) if he or it was employed in good faith (good, honest intentions, even if producing unfortunate results). (Added 94 of 1991 s. 3)",
+      "替换变异": [
+         "(4) The trustee shall not be responsible for the consequences of any act or omission of a person or institution employed under subsection (2) if he or it was employed in good health. (Added 94 of 1991 s. 3)"
+      ],
+      "替换术语": [
+         "good health"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "(b) 52.5 degrees centigrade, the tank or cylinder will not be full of liquefied petroleum gas in liquid form.": {
+      "序号": 52,
+      "原句": "(b) 52.5 degrees centigrade, the tank or cylinder will not be full of liquefied petroleum gas in liquid form.",
+      "术语": "liquefied petroleum gas",
+      "insert变异": "(b) 52.5 degrees centigrade, the tank or cylinder will not be full of liquefied petroleum gas (a mixture of propane and butane with traces of some other gases, which is kept in a liquid state at high pressure in metal bottles, and used as a source of gas for cooking, heating and as a fuel in internal combustion engines in vehicles) in liquid form.",
+      "替换变异": [
+         "(b) 52.5 degrees centigrade, the tank or cylinder will not be full of liquefied natural gas in liquid form.",
+         "(b) 52.5 degrees centigrade, the tank or cylinder will not be full of liquefied hydrogen gas in liquid form.",
+         "(b) 52.5 degrees centigrade, the tank or cylinder will not be full of liquefied petroleum oil in liquid form."
+      ],
+      "替换术语": [
+         "liquefied natural gas",
+         "liquefied hydrogen gas",
+         "liquefied petroleum oil"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "(i) within a zebra controlled area, otherwise than on a zebra crossing;": {
+      "序号": 53,
+      "原句": "(i) within a zebra controlled area, otherwise than on a zebra crossing;",
+      "术语": "zebra crossing",
+      "insert变异": "(i) within a zebra controlled area, otherwise than on a zebra crossing (a pedestrian crossing featuring broad white stripes painted parallel to the street);",
+      "替换变异": [
+         "(i) within a zebra controlled area, otherwise than on a zebra farm;",
+         "(i) within a zebra controlled area, otherwise than on a zebra island;"
+      ],
+      "替换术语": [
+         "zebra farm",
+         "zebra island"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "7. to fail to transport the transit, transshipment or through goods out of the territory within the specified time limit and let the said goods remain inside the territory without authorization;": {
+      "序号": 54,
+      "原句": "7. to fail to transport the transit, transshipment or through goods out of the territory within the specified time limit and let the said goods remain inside the territory without authorization;",
+      "术语": "time limit",
+      "insert变异": "7. to fail to transport the transit, transshipment or through goods out of the territory within the specified time limit (a duration beyond which something may not exceed) and let the said goods remain inside the territory without authorization;",
+      "替换变异": [
+         "7. to fail to transport the transit, transshipment or through goods out of the territory within the specified territorial limit and let the said goods remain inside the territory without authorization;",
+         "7. to fail to transport the transit, transshipment or through goods out of the territory within the specified time period and let the said goods remain inside the territory without authorization;",
+         "7. to fail to transport the transit, transshipment or through goods out of the territory within the specified time frame and let the said goods remain inside the territory without authorization;"
+      ],
+      "替换术语": [
+         "territorial limit",
+         "time period",
+         "time frame"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "(5) Only a holder of an identity card who has attained the age of 18 years may be appointed as an election agent. (L.N. 147 of 1998)": {
+      "序号": 55,
+      "原句": "(5) Only a holder of an identity card who has attained the age of 18 years may be appointed as an election agent. (L.N. 147 of 1998)",
+      "术语": "identity card",
+      "insert变异": "(5) Only a holder of an identity card (a card or badge showing the official identity of the bearer) who has attained the age of 18 years may be appointed as an election agent. (L.N. 147 of 1998)",
+      "替换变异": [
+         "(5) Only a holder of an election card who has attained the age of 18 years may be appointed as an election agent. (L.N. 147 of 1998)",
+         "(5) Only a holder of an identity document who has attained the age of 18 years may be appointed as an election agent. (L.N. 147 of 1998)"
+      ],
+      "替换术语": [
+         "election card",
+         "identity document"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "(b) every safety helmet used in the quarry or which is in the quarry for the purpose of being used, to determine whether it is in safe condition.": {
+      "序号": 56,
+      "原句": "(b) every safety helmet used in the quarry or which is in the quarry for the purpose of being used, to determine whether it is in safe condition.",
+      "术语": "safety helmet",
+      "insert变异": "(b) every safety helmet (any helmet designed to protect the head from accidental injury, such as a bicycle helmet or construction helmet) used in the quarry or which is in the quarry for the purpose of being used, to determine whether it is in safe condition.",
+      "替换变异": [
+         "(b) every safety item used in the quarry or which is in the quarry for the purpose of being used, to determine whether it is in safe condition.",
+         "(b) every safety device used in the quarry or which is in the quarry for the purpose of being used, to determine whether it is in safe condition.",
+         "(b) every safety valve used in the quarry or which is in the quarry for the purpose of being used, to determine whether it is in safe condition.",
+         "(b) every safety measure used in the quarry or which is in the quarry for the purpose of being used, to determine whether it is in safe condition.",
+         "(b) every safety tool used in the quarry or which is in the quarry for the purpose of being used, to determine whether it is in safe condition."
+      ],
+      "替换术语": [
+         "safety item",
+         "safety device",
+         "safety valve",
+         "safety measure",
+         "safety tool"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Article 27 Macao residents shall have freedom of speech, of the press and of publication; freedom of association, of assembly, of procession and of demonstration; and the right and freedom to form and join trade unions, and to strike.": {
+      "序号": 57,
+      "原句": "Article 27 Macao residents shall have freedom of speech, of the press and of publication; freedom of association, of assembly, of procession and of demonstration; and the right and freedom to form and join trade unions, and to strike.",
+      "术语": "freedom of association",
+      "insert变异": "Article 27 Macao residents shall have freedom of speech, of the press and of publication; freedom of association (the right of citizens to come together with other individuals and collectively express, promote, pursue and defend common interests), of assembly, of procession and of demonstration; and the right and freedom to form and join trade unions, and to strike.",
+      "替换变异": [
+         "Article 27 Macao residents shall have freedom of speech, of the press and of publication; freedom of assembly, of assembly, of procession and of demonstration; and the right and freedom to form and join trade unions, and to strike.",
+         "Article 27 Macao residents shall have freedom of speech, of the press and of publication; freedom of movement, of assembly, of procession and of demonstration; and the right and freedom to form and join trade unions, and to strike.",
+         "Article 27 Macao residents shall have freedom of speech, of the press and of publication; freedom of speech, of assembly, of procession and of demonstration; and the right and freedom to form and join trade unions, and to strike.",
+         "Article 27 Macao residents shall have freedom of speech, of the press and of publication; freedom of expression, of assembly, of procession and of demonstration; and the right and freedom to form and join trade unions, and to strike."
+      ],
+      "替换术语": [
+         "freedom of assembly",
+         "freedom of movement",
+         "freedom of speech",
+         "freedom of expression"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "(1) The contractor responsible for a construction site where a regulatory work is being carried out shall ensure that the work is carried out in accordance with the Schedule.": {
+      "序号": 58,
+      "原句": "(1) The contractor responsible for a construction site where a regulatory work is being carried out shall ensure that the work is carried out in accordance with the Schedule.",
+      "术语": "construction site",
+      "insert变异": "(1) The contractor responsible for a construction site (a place where a building or other physical structure is under construction) where a regulatory work is being carried out shall ensure that the work is carried out in accordance with the Schedule.",
+      "替换变异": [
+         "(1) The contractor responsible for a particular site where a regulatory work is being carried out shall ensure that the work is carried out in accordance with the Schedule.",
+         "(1) The contractor responsible for a specific site where a regulatory work is being carried out shall ensure that the work is carried out in accordance with the Schedule.",
+         "(1) The contractor responsible for a construction project where a regulatory work is being carried out shall ensure that the work is carried out in accordance with the Schedule."
+      ],
+      "替换术语": [
+         "particular site",
+         "specific site",
+         "construction project"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "(a) a copy of its audited annual balance sheet for that year, and any notes thereon, a copy of the profit and loss account and a copy of the report of the auditor made pursuant to any rules made by the Commission under section 73;": {
+      "序号": 59,
+      "原句": "(a) a copy of its audited annual balance sheet for that year, and any notes thereon, a copy of the profit and loss account and a copy of the report of the auditor made pursuant to any rules made by the Commission under section 73;",
+      "术语": "balance sheet",
+      "insert变异": "(a) a copy of its audited annual balance sheet (a summary of a person's or organization's assets, liabilities and equity as of a specific date) for that year, and any notes thereon, a copy of the profit and loss account and a copy of the report of the auditor made pursuant to any rules made by the Commission under section 73;",
+      "替换变异": [
+         "(a) a copy of its audited annual report sheet for that year, and any notes thereon, a copy of the profit and loss account and a copy of the report of the auditor made pursuant to any rules made by the Commission under section 73;",
+         "(a) a copy of its audited annual balance account for that year, and any notes thereon, a copy of the profit and loss account and a copy of the report of the auditor made pursuant to any rules made by the Commission under section 73;"
+      ],
+      "替换术语": [
+         "report sheet",
+         "balance account"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "The unified form of invoice used within the scope of a province, autonomous region or municipality directly under the Central Government shall be determined by provincial-level tax authorities.": {
+      "序号": 60,
+      "原句": "The unified form of invoice used within the scope of a province, autonomous region or municipality directly under the Central Government shall be determined by provincial-level tax authorities.",
+      "术语": "central government",
+      "insert变异": "The unified form of invoice used within the scope of a province, autonomous region or municipality directly under the Central Government (the highest level of government in a unitary state) shall be determined by provincial-level tax authorities.",
+      "替换变异": [
+         "The unified form of invoice used within the scope of a province, autonomous region or municipality directly under the provincial Government shall be determined by provincial-level tax authorities."
+      ],
+      "替换术语": [
+         "provincial Government"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "(8) Every such ship shall be provided with at least one fire hose for every hydrant fitted in compliance with these regulations.": {
+      "序号": 61,
+      "原句": "(8) Every such ship shall be provided with at least one fire hose for every hydrant fitted in compliance with these regulations.",
+      "术语": "fire hose",
+      "insert变异": "(8) Every such ship shall be provided with at least one fire hose (a feed of all updates to a website) for every hydrant fitted in compliance with these regulations.",
+      "替换变异": [
+         "(8) Every such ship shall be provided with at least one water hose for every hydrant fitted in compliance with these regulations.",
+         "(8) Every such ship shall be provided with at least one air hose for every hydrant fitted in compliance with these regulations.",
+         "(8) Every such ship shall be provided with at least one fire alarm for every hydrant fitted in compliance with these regulations."
+      ],
+      "替换术语": [
+         "water hose",
+         "air hose",
+         "fire alarm"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "反常识",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "反常识",
+         "bert_replace": "真实"
+      }
+   },
+   "(b) an establishment for medical treatment operated by a medical practitioner registered under the Medical Registration Ordinance (Cap 161);": {
+      "序号": 62,
+      "原句": "(b) an establishment for medical treatment operated by a medical practitioner registered under the Medical Registration Ordinance (Cap 161);",
+      "术语": "medical practitioner",
+      "insert变异": "(b) an establishment for medical treatment operated by a medical practitioner (a person who practices medicine, especially one licensed to do so, such as a physician, dentist, surgeon, or veterinarian) registered under the Medical Registration Ordinance (Cap 161);",
+      "替换变异": [
+         "(b) an establishment for medical treatment operated by a medical company registered under the Medical Registration Ordinance (Cap 161);",
+         "(b) an establishment for medical treatment operated by a medical charity registered under the Medical Registration Ordinance (Cap 161);"
+      ],
+      "替换术语": [
+         "medical company",
+         "medical charity"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "(4) A senior police officer acting under this regulation shall announce personally or communicate in writing to the defaulter the action taken by him, and shall forward the Defaulter Report to the Force Discipline Officer.": {
+      "序号": 63,
+      "原句": "(4) A senior police officer acting under this regulation shall announce personally or communicate in writing to the defaulter the action taken by him, and shall forward the Defaulter Report to the Force Discipline Officer.",
+      "术语": "police officer",
+      "insert变异": "(4) A senior police officer (a peace officer who is a member of a police force) acting under this regulation shall announce personally or communicate in writing to the defaulter the action taken by him, and shall forward the Defaulter Report to the Force Discipline Officer.",
+      "替换变异": [
+         "(4) A senior military officer acting under this regulation shall announce personally or communicate in writing to the defaulter the action taken by him, and shall forward the Defaulter Report to the Force Discipline Officer."
+      ],
+      "替换术语": [
+         "military officer"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Where the partners transfer or dispose of partnership property on their own prior to the liquidation of the partnership, the partnership may not assert such transfer or disposal as a defense to claims by third persons who are in good faith and are without knowledge of such transfer or disposition.": {
+      "序号": 64,
+      "原句": "Where the partners transfer or dispose of partnership property on their own prior to the liquidation of the partnership, the partnership may not assert such transfer or disposal as a defense to claims by third persons who are in good faith and are without knowledge of such transfer or disposition.",
+      "术语": "good faith",
+      "insert变异": "Where the partners transfer or dispose of partnership property on their own prior to the liquidation of the partnership, the partnership may not assert such transfer or disposal as a defense to claims by third persons who are in good faith (good, honest intentions, even if producing unfortunate results) and are without knowledge of such transfer or disposition.",
+      "替换变异": [
+         "Where the partners transfer or dispose of partnership property on their own prior to the liquidation of the partnership, the partnership may not assert such transfer or disposal as a defense to claims by third persons who are in good standing and are without knowledge of such transfer or disposition."
+      ],
+      "替换术语": [
+         "good standing"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Article  23 An enterprise engaged in the printing of printed matters of package and decoration may not print counterfeited, falsely registered trademark signs, and may not print the advertisement publicity material and printed matters used as product package and decoration that are prone to misleading the consumers.": {
+      "序号": 65,
+      "原句": "Article  23 An enterprise engaged in the printing of printed matters of package and decoration may not print counterfeited, falsely registered trademark signs, and may not print the advertisement publicity material and printed matters used as product package and decoration that are prone to misleading the consumers.",
+      "术语": "registered trademark",
+      "insert变异": "Article  23 An enterprise engaged in the printing of printed matters of package and decoration may not print counterfeited, falsely registered trademark (a trademark that has been officially registered with the government by its owner. Indicated by the symbol ®) signs, and may not print the advertisement publicity material and printed matters used as product package and decoration that are prone to misleading the consumers.",
+      "替换变异": [
+         "Article  23 An enterprise engaged in the printing of printed matters of package and decoration may not print counterfeited, falsely registered advertising signs, and may not print the advertisement publicity material and printed matters used as product package and decoration that are prone to misleading the consumers.",
+         "Article  23 An enterprise engaged in the printing of printed matters of package and decoration may not print counterfeited, falsely registered warning signs, and may not print the advertisement publicity material and printed matters used as product package and decoration that are prone to misleading the consumers."
+      ],
+      "替换术语": [
+         "registered advertising",
+         "registered warning"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "(ii) in the case of a nest or egg of a protected wild animal, the same was not taken in Hong Kong,": {
+      "序号": 66,
+      "原句": "(ii) in the case of a nest or egg of a protected wild animal, the same was not taken in Hong Kong,",
+      "术语": "wild animal",
+      "insert变异": "(ii) in the case of a nest or egg of a protected wild animal (any (nonhuman) animal living in a natural, undomesticated state), the same was not taken in Hong Kong,",
+      "替换变异": [
+         "(ii) in the case of a nest or egg of a protected wild bird, the same was not taken in Hong Kong,",
+         "(ii) in the case of a nest or egg of a protected wild species, the same was not taken in Hong Kong,"
+      ],
+      "替换术语": [
+         "wild bird",
+         "wild species"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "\"electricity\" (电力) means electricity, electric current or any like agency; (L.N. 215 of 1990)": {
+      "序号": 67,
+      "原句": "\"electricity\" (电力) means electricity, electric current or any like agency; (L.N. 215 of 1990)",
+      "术语": "electric current",
+      "insert变异": "\"electricity\" (电力) means electricity, electric current (a net unidirectional movement of electrons, or other charge carriers, caused by a potential difference) or any like agency; (L.N. 215 of 1990)",
+      "替换变异": [
+         "\"electricity\" (电力) means electricity, electric power or any like agency; (L.N. 215 of 1990)"
+      ],
+      "替换术语": [
+         "electric power"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Article 44 The family member who is abandoned shall have the right to advance a request and the neighborhood committee, villagers committee or the unit where they belong to, shall persuade the person to stop doing it and conduct mediation.": {
+      "序号": 68,
+      "原句": "Article 44 The family member who is abandoned shall have the right to advance a request and the neighborhood committee, villagers committee or the unit where they belong to, shall persuade the person to stop doing it and conduct mediation.",
+      "术语": "family member",
+      "insert变异": "Article 44 The family member (a person belonging to a particular family; a close relative or relation) who is abandoned shall have the right to advance a request and the neighborhood committee, villagers committee or the unit where they belong to, shall persuade the person to stop doing it and conduct mediation.",
+      "替换变异": [
+         "Article 44 The council member who is abandoned shall have the right to advance a request and the neighborhood committee, villagers committee or the unit where they belong to, shall persuade the person to stop doing it and conduct mediation.",
+         "Article 44 The community member who is abandoned shall have the right to advance a request and the neighborhood committee, villagers committee or the unit where they belong to, shall persuade the person to stop doing it and conduct mediation.",
+         "Article 44 The neighborhood member who is abandoned shall have the right to advance a request and the neighborhood committee, villagers committee or the unit where they belong to, shall persuade the person to stop doing it and conduct mediation.",
+         "Article 44 The committee member who is abandoned shall have the right to advance a request and the neighborhood committee, villagers committee or the unit where they belong to, shall persuade the person to stop doing it and conduct mediation."
+      ],
+      "替换术语": [
+         "council member",
+         "community member",
+         "neighborhood member",
+         "committee member"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "(2) In determining whether or not a person is fit and proper for the purpose of holding an estate agent's licence, the Authority shall have regard to the following-": {
+      "序号": 69,
+      "原句": "(2) In determining whether or not a person is fit and proper for the purpose of holding an estate agent's licence, the Authority shall have regard to the following-",
+      "术语": "estate agent",
+      "insert变异": "(2) In determining whether or not a person is fit and proper for the purpose of holding an estate agent (a land bailiff)'s licence, the Authority shall have regard to the following-",
+      "替换变异": [
+         "(2) In determining whether or not a person is fit and proper for the purpose of holding an insurance agent's licence, the Authority shall have regard to the following-",
+         "(2) In determining whether or not a person is fit and proper for the purpose of holding an estate holder's licence, the Authority shall have regard to the following-",
+         "(2) In determining whether or not a person is fit and proper for the purpose of holding an estate owner's licence, the Authority shall have regard to the following-"
+      ],
+      "替换术语": [
+         "insurance agent",
+         "estate holder",
+         "estate owner"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Article 3 Mining enterprises must possess facilities that ensure safety in production, establish and perfect the system of safety management, take effective measures to improve the working conditions for workers and staff and strengthen the work of safety control in mines in order to ensure safe production.": {
+      "序号": 70,
+      "原句": "Article 3 Mining enterprises must possess facilities that ensure safety in production, establish and perfect the system of safety management, take effective measures to improve the working conditions for workers and staff and strengthen the work of safety control in mines in order to ensure safe production.",
+      "术语": "working conditions",
+      "insert变异": "Article 3 Mining enterprises must possess facilities that ensure safety in production, establish and perfect the system of safety management, take effective measures to improve the working conditions (the environment in which one works, as influenced by factors such as cleanliness, lighting, equipment, paid overtime, uniforms, access to amenities, etc.) for workers and staff and strengthen the work of safety control in mines in order to ensure safe production.",
+      "替换变异": [
+         "Article 3 Mining enterprises must possess facilities that ensure safety in production, establish and perfect the system of safety management, take effective measures to improve the working environment for workers and staff and strengthen the work of safety control in mines in order to ensure safe production."
+      ],
+      "替换术语": [
+         "working environment"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "(2) The persons who may be donees of a power of attorney under this section include a trust corporation but not (unless a trust corporation) the only other co-trustee of the donor of the power.": {
+      "序号": 71,
+      "原句": "(2) The persons who may be donees of a power of attorney under this section include a trust corporation but not (unless a trust corporation) the only other co-trustee of the donor of the power.",
+      "术语": "power of attorney",
+      "insert变异": "(2) The persons who may be donees of a power of attorney (the legal authorisation of one person to act as the agent of another) under this section include a trust corporation but not (unless a trust corporation) the only other co-trustee of the donor of the power.",
+      "替换变异": [
+         "(2) The persons who may be donees of a power of trust under this section include a trust corporation but not (unless a trust corporation) the only other co-trustee of the donor of the power."
+      ],
+      "替换术语": [
+         "power of trust"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "(a) Law No. 6 / 86 / M on standardizing the public property system within Macao water area;": {
+      "序号": 72,
+      "原句": "(a) Law No. 6 / 86 / M on standardizing the public property system within Macao water area;",
+      "术语": "public property",
+      "insert变异": "(a) Law No. 6 / 86 / M on standardizing the public property (property, assets or information directly owned by or under the control of the state) system within Macao water area;",
+      "替换变异": [
+         "(a) Law No. 6 / 86 / M on standardizing the public water system within Macao water area;",
+         "(a) Law No. 6 / 86 / M on standardizing the public transport system within Macao water area;"
+      ],
+      "替换术语": [
+         "public water",
+         "public transport"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "(1) It is unlawful for an employment agency to discriminate against a person with a disability-": {
+      "序号": 73,
+      "原句": "(1) It is unlawful for an employment agency to discriminate against a person with a disability-",
+      "术语": "employment agency",
+      "insert变异": "(1) It is unlawful for an employment agency (an organisation that matches employers to employees) to discriminate against a person with a disability-",
+      "替换变异": [
+         "(1) It is unlawful for an insurance agency to discriminate against a person with a disability-",
+         "(1) It is unlawful for an government agency to discriminate against a person with a disability-",
+         "(1) It is unlawful for an employment contract to discriminate against a person with a disability-"
+      ],
+      "替换术语": [
+         "insurance agency",
+         "government agency",
+         "employment contract"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "(c) have an independent supply of fresh air which can be used for ventilation and for compression in case of a fire in the working chamber;": {
+      "序号": 74,
+      "原句": "(c) have an independent supply of fresh air which can be used for ventilation and for compression in case of a fire in the working chamber;",
+      "术语": "fresh air",
+      "insert变异": "(c) have an independent supply of fresh air (the natural, clean air from outside, as opposed to the relatively stuffy air inside) which can be used for ventilation and for compression in case of a fire in the working chamber;",
+      "替换变异": [
+         "(c) have an independent supply of fresh water which can be used for ventilation and for compression in case of a fire in the working chamber;"
+      ],
+      "替换术语": [
+         "fresh water"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "(4) No member may be represented by a body corporate or by a person who is an undischarged bankrupt or is subject to a voluntary arrangement with his creditors.": {
+      "序号": 75,
+      "原句": "(4) No member may be represented by a body corporate or by a person who is an undischarged bankrupt or is subject to a voluntary arrangement with his creditors.",
+      "术语": "body corporate",
+      "insert变异": "(4) No member may be represented by a body corporate (a legal person) or by a person who is an undischarged bankrupt or is subject to a voluntary arrangement with his creditors.",
+      "替换变异": [
+         "(4) No member may be represented by a person corporate or by a person who is an undischarged bankrupt or is subject to a voluntary arrangement with his creditors.",
+         "(4) No member may be represented by a company corporate or by a person who is an undischarged bankrupt or is subject to a voluntary arrangement with his creditors."
+      ],
+      "替换术语": [
+         "person corporate",
+         "company corporate"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "(a) in the case of a mutual fund corporation, a separate pool of assets in respect of which the corporation is the issuer of redeemable shares;": {
+      "序号": 76,
+      "原句": "(a) in the case of a mutual fund corporation, a separate pool of assets in respect of which the corporation is the issuer of redeemable shares;",
+      "术语": "mutual fund",
+      "insert变异": "(a) in the case of a mutual fund (a form of collective investment in which money from many investors is pooled and invested in stocks, bonds, short-term money market instruments, or other securities under the direction of a fund manager) corporation, a separate pool of assets in respect of which the corporation is the issuer of redeemable shares;",
+      "替换变异": [
+         "(a) in the case of a mutual benefit corporation, a separate pool of assets in respect of which the corporation is the issuer of redeemable shares;",
+         "(a) in the case of a mutual insurance corporation, a separate pool of assets in respect of which the corporation is the issuer of redeemable shares;",
+         "(a) in the case of a mutual aid corporation, a separate pool of assets in respect of which the corporation is the issuer of redeemable shares;"
+      ],
+      "替换术语": [
+         "mutual benefit",
+         "mutual insurance",
+         "mutual aid"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "(1) Except where the librarian in special circumstances permits, library material shall not be removed from the reference library.": {
+      "序号": 77,
+      "原句": "(1) Except where the librarian in special circumstances permits, library material shall not be removed from the reference library.",
+      "术语": "reference library",
+      "insert变异": "(1) Except where the librarian in special circumstances permits, library material shall not be removed from the reference library (a library that exclusively collects reference books (which may not be lent out to the general public)).",
+      "替换变异": [
+         "(1) Except where the librarian in special circumstances permits, library material shall not be removed from the public library.",
+         "(1) Except where the librarian in special circumstances permits, library material shall not be removed from the lending library.",
+         "(1) Except where the librarian in special circumstances permits, library material shall not be removed from the main library.",
+         "(1) Except where the librarian in special circumstances permits, library material shall not be removed from the local library.",
+         "(1) Except where the librarian in special circumstances permits, library material shall not be removed from the reference book.",
+         "(1) Except where the librarian in special circumstances permits, library material shall not be removed from the reference collection."
+      ],
+      "替换术语": [
+         "public library",
+         "lending library",
+         "main library",
+         "local library",
+         "reference book",
+         "reference collection"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "The relevant local administrative departments for economics and trade, and the relevant administrative departments for environmental protection shall publicize the name of the enterprise and the results of its resource conservation and pollution control and prevention in the primary local media.": {
+      "序号": 78,
+      "原句": "The relevant local administrative departments for economics and trade, and the relevant administrative departments for environmental protection shall publicize the name of the enterprise and the results of its resource conservation and pollution control and prevention in the primary local media.",
+      "术语": "environmental protection",
+      "insert变异": "The relevant local administrative departments for economics and trade, and the relevant administrative departments for environmental protection (the practice of protecting the natural environment by individuals, organizations and governments) shall publicize the name of the enterprise and the results of its resource conservation and pollution control and prevention in the primary local media.",
+      "替换变异": [
+         "The relevant local administrative departments for economics and trade, and the relevant administrative departments for environmental management shall publicize the name of the enterprise and the results of its resource conservation and pollution control and prevention in the primary local media."
+      ],
+      "替换术语": [
+         "environmental management"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "(a) a vehicle other than a motor vehicle and an articulated vehicle;": {
+      "序号": 79,
+      "原句": "(a) a vehicle other than a motor vehicle and an articulated vehicle;",
+      "术语": "motor vehicle",
+      "insert变异": "(a) a vehicle other than a motor vehicle (any land-based means of transportation in the form of a machine that operates primarily through a motor to provide power to rotate the tires) and an articulated vehicle;",
+      "替换变异": [
+         "(a) a vehicle other than a motor car and an articulated vehicle;"
+      ],
+      "替换术语": [
+         "motor car"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Where the written request for re-examination is not in conformity with the provided format, the person making the request shall rectify it within the time limit specified by the Patent Re-examination Board.": {
+      "序号": 80,
+      "原句": "Where the written request for re-examination is not in conformity with the provided format, the person making the request shall rectify it within the time limit specified by the Patent Re-examination Board.",
+      "术语": "time limit",
+      "insert变异": "Where the written request for re-examination is not in conformity with the provided format, the person making the request shall rectify it within the time limit (a time by which something must be finished) specified by the Patent Re-examination Board.",
+      "替换变异": [
+         "Where the written request for re-examination is not in conformity with the provided format, the person making the request shall rectify it within the time period specified by the Patent Re-examination Board."
+      ],
+      "替换术语": [
+         "time period"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "(d) to operate bus services within the North-west Transit Service Area; and": {
+      "序号": 81,
+      "原句": "(d) to operate bus services within the North-west Transit Service Area; and",
+      "术语": "service area",
+      "insert变异": "(d) to operate bus services within the North-west Transit Service Area (a place built alongside a limited-access road where one can stop to buy fuel, refreshments, and so on); and",
+      "替换变异": [
+         "(d) to operate bus services within the North-west Transit Service zone; and"
+      ],
+      "替换术语": [
+         "Service zone"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "(a) in relation to a patient liable to be detained in a mental hospital, or permitted to be absent under section 39 of the Ordinance, the medical superintendent;": {
+      "序号": 82,
+      "原句": "(a) in relation to a patient liable to be detained in a mental hospital, or permitted to be absent under section 39 of the Ordinance, the medical superintendent;",
+      "术语": "mental hospital",
+      "insert变异": "(a) in relation to a patient liable to be detained in a mental hospital (a hospital facility designed to treat persons with serious mental disorders, as opposed to disorders of the body), or permitted to be absent under section 39 of the Ordinance, the medical superintendent;",
+      "替换变异": [
+         "(a) in relation to a patient liable to be detained in a mental institution, or permitted to be absent under section 39 of the Ordinance, the medical superintendent;"
+      ],
+      "替换术语": [
+         "mental institution"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "\"pregnant employee\" (怀孕雇员) means a female employee whose pregnancy has been confirmed by a medical certificate.": {
+      "序号": 83,
+      "原句": "\"pregnant employee\" (怀孕雇员) means a female employee whose pregnancy has been confirmed by a medical certificate.",
+      "术语": "medical certificate",
+      "insert变异": "\"pregnant employee\" (怀孕雇员) means a female employee whose pregnancy has been confirmed by a medical certificate (a statement from a physician or other health care provider that attests to the result of a medical examination of a patient).",
+      "替换变异": [
+         "\"pregnant employee\" (怀孕雇员) means a female employee whose pregnancy has been confirmed by a medical doctor.",
+         "\"pregnant employee\" (怀孕雇员) means a female employee whose pregnancy has been confirmed by a medical practitioner.",
+         "\"pregnant employee\" (怀孕雇员) means a female employee whose pregnancy has been confirmed by a medical examination."
+      ],
+      "替换术语": [
+         "medical doctor",
+         "medical practitioner",
+         "medical examination"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "(b) is addressed to him and left at or forwarded by registered mail to him at his usual or last known place of abode or business; or (Amended 30 of 1995 s. 4)": {
+      "序号": 84,
+      "原句": "(b) is addressed to him and left at or forwarded by registered mail to him at his usual or last known place of abode or business; or (Amended 30 of 1995 s. 4)",
+      "术语": "registered mail",
+      "insert变异": "(b) is addressed to him and left at or forwarded by registered mail (a special type of mail that provides more control than regular mail) to him at his usual or last known place of abode or business; or (Amended 30 of 1995 s. 4)",
+      "替换变异": [
+         "(b) is addressed to him and left at or forwarded by registered person to him at his usual or last known place of abode or business; or (Amended 30 of 1995 s. 4)"
+      ],
+      "替换术语": [
+         "registered person"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "China shall eliminate and cease to enforce trade and foreign exchange balancing requirements, local content and export or performance requirements made effective through laws, regulations or other measures. Moreover, China will not enforce provisions of contracts imposing such requirements.": {
+      "序号": 85,
+      "原句": "China shall eliminate and cease to enforce trade and foreign exchange balancing requirements, local content and export or performance requirements made effective through laws, regulations or other measures. Moreover, China will not enforce provisions of contracts imposing such requirements.",
+      "术语": "foreign exchange",
+      "insert变异": "China shall eliminate and cease to enforce trade and foreign exchange (foreign currency) balancing requirements, local content and export or performance requirements made effective through laws, regulations or other measures. Moreover, China will not enforce provisions of contracts imposing such requirements.",
+      "替换变异": [
+         "China shall eliminate and cease to enforce trade and foreign currency balancing requirements, local content and export or performance requirements made effective through laws, regulations or other measures. Moreover, China will not enforce provisions of contracts imposing such requirements.",
+         "China shall eliminate and cease to enforce trade and foreign trade balancing requirements, local content and export or performance requirements made effective through laws, regulations or other measures. Moreover, China will not enforce provisions of contracts imposing such requirements.",
+         "China shall eliminate and cease to enforce trade and foreign market balancing requirements, local content and export or performance requirements made effective through laws, regulations or other measures. Moreover, China will not enforce provisions of contracts imposing such requirements."
+      ],
+      "替换术语": [
+         "foreign currency",
+         "foreign trade",
+         "foreign market"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "(2) The master shall ensure that such meter and any such other testing device are maintained in good working order and, where applicable, regularly serviced and calibrated according to the manufacturers' recommendations.": {
+      "序号": 86,
+      "原句": "(2) The master shall ensure that such meter and any such other testing device are maintained in good working order and, where applicable, regularly serviced and calibrated according to the manufacturers' recommendations.",
+      "术语": "working order",
+      "insert变异": "(2) The master shall ensure that such meter and any such other testing device are maintained in good working order (the state or condition of being operational or of functioning acceptably) and, where applicable, regularly serviced and calibrated according to the manufacturers' recommendations.",
+      "替换变异": [
+         "(2) The master shall ensure that such meter and any such other testing device are maintained in good working condition and, where applicable, regularly serviced and calibrated according to the manufacturers' recommendations.",
+         "(2) The master shall ensure that such meter and any such other testing device are maintained in good working conditions and, where applicable, regularly serviced and calibrated according to the manufacturers' recommendations."
+      ],
+      "替换术语": [
+         "working condition",
+         "working conditions"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "(b) that the mental disorder or mental handicap, as the case may be, limits the mentally incapacitated person in making reasonable decisions in respect of all or a substantial proportion of the matters which relate to his personal circumstances;": {
+      "序号": 87,
+      "原句": "(b) that the mental disorder or mental handicap, as the case may be, limits the mentally incapacitated person in making reasonable decisions in respect of all or a substantial proportion of the matters which relate to his personal circumstances;",
+      "术语": "mental disorder",
+      "insert变异": "(b) that the mental disorder (a behavioral or mental pattern that may cause suffering or a poor ability to function in life) or mental handicap, as the case may be, limits the mentally incapacitated person in making reasonable decisions in respect of all or a substantial proportion of the matters which relate to his personal circumstances;",
+      "替换变异": [
+         "(b) that the mental disability or mental handicap, as the case may be, limits the mentally incapacitated person in making reasonable decisions in respect of all or a substantial proportion of the matters which relate to his personal circumstances;"
+      ],
+      "替换术语": [
+         "mental disability"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "(E) loss of consciousness of a certified worker arising from an increase in body temperature; (L.N. 17 of 1999)": {
+      "序号": 88,
+      "原句": "(E) loss of consciousness of a certified worker arising from an increase in body temperature; (L.N. 17 of 1999)",
+      "术语": "body temperature",
+      "insert变异": "(E) loss of consciousness of a certified worker arising from an increase in body temperature (the current temperature of the body of a person or animal, especially when used as a simple guide to health); (L.N. 17 of 1999)",
+      "替换变异": [
+         "(E) loss of consciousness of a certified worker arising from an increase in room temperature; (L.N. 17 of 1999)",
+         "(E) loss of consciousness of a certified worker arising from an increase in cabin temperature; (L.N. 17 of 1999)",
+         "(E) loss of consciousness of a certified worker arising from an increase in body weight; (L.N. 17 of 1999)",
+         "(E) loss of consciousness of a certified worker arising from an increase in body mass; (L.N. 17 of 1999)",
+         "(E) loss of consciousness of a certified worker arising from an increase in body size; (L.N. 17 of 1999)"
+      ],
+      "替换术语": [
+         "room temperature",
+         "cabin temperature",
+         "body weight",
+         "body mass",
+         "body size"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "(6) When the Chief Electoral Officer allocates a special polling station to an elector or authorized representative under this section, that Officer must, as soon as practicable, notify, in a manner that the Officer considers appropriate-": {
+      "序号": 89,
+      "原句": "(6) When the Chief Electoral Officer allocates a special polling station to an elector or authorized representative under this section, that Officer must, as soon as practicable, notify, in a manner that the Officer considers appropriate-",
+      "术语": "polling station",
+      "insert变异": "(6) When the Chief Electoral Officer allocates a special polling station (a place where voters go to cast their ballot in an election or referendum; a voting station) to an elector or authorized representative under this section, that Officer must, as soon as practicable, notify, in a manner that the Officer considers appropriate-",
+      "替换变异": [
+         "(6) When the Chief Electoral Officer allocates a special polling place to an elector or authorized representative under this section, that Officer must, as soon as practicable, notify, in a manner that the Officer considers appropriate-",
+         "(6) When the Chief Electoral Officer allocates a special polling permit to an elector or authorized representative under this section, that Officer must, as soon as practicable, notify, in a manner that the Officer considers appropriate-",
+         "(6) When the Chief Electoral Officer allocates a special polling address to an elector or authorized representative under this section, that Officer must, as soon as practicable, notify, in a manner that the Officer considers appropriate-"
+      ],
+      "替换术语": [
+         "polling place",
+         "polling permit",
+         "polling address"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "The Agency shall have the legal capacities of a body corporate and, except in so far as in any particular case it has expressly waived its immunity, immunity from suit and legal process. No waiver of immunity shall be deemed to extend to any measure of execution.": {
+      "序号": 90,
+      "原句": "The Agency shall have the legal capacities of a body corporate and, except in so far as in any particular case it has expressly waived its immunity, immunity from suit and legal process. No waiver of immunity shall be deemed to extend to any measure of execution.",
+      "术语": "body corporate",
+      "insert变异": "The Agency shall have the legal capacities of a body corporate (a legal person) and, except in so far as in any particular case it has expressly waived its immunity, immunity from suit and legal process. No waiver of immunity shall be deemed to extend to any measure of execution.",
+      "替换变异": [
+         "The Agency shall have the legal capacities of a whole corporate and, except in so far as in any particular case it has expressly waived its immunity, immunity from suit and legal process. No waiver of immunity shall be deemed to extend to any measure of execution."
+      ],
+      "替换术语": [
+         "whole corporate"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "(2) Notwithstanding anything contained in paragraph (1), no permit shall be required for the sale in sealed containers of such brands of sterilized milk or sterilized milk beverage as the Council may approve, if it is satisfied that there is no danger to public health. (L.N. 31 of 1967)": {
+      "序号": 91,
+      "原句": "(2) Notwithstanding anything contained in paragraph (1), no permit shall be required for the sale in sealed containers of such brands of sterilized milk or sterilized milk beverage as the Council may approve, if it is satisfied that there is no danger to public health. (L.N. 31 of 1967)",
+      "术语": "public health",
+      "insert变异": "(2) Notwithstanding anything contained in paragraph (1), no permit shall be required for the sale in sealed containers of such brands of sterilized milk or sterilized milk beverage as the Council may approve, if it is satisfied that there is no danger to public health (the science and practice of community hygiene; includes preventive medicine, health education, sanitation and environmental safety). (L.N. 31 of 1967)",
+      "替换变异": [
+         "(2) Notwithstanding anything contained in paragraph (1), no permit shall be required for the sale in sealed containers of such brands of sterilized milk or sterilized milk beverage as the Council may approve, if it is satisfied that there is no danger to public safety. (L.N. 31 of 1967)"
+      ],
+      "替换术语": [
+         "public safety"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "(b) whether the company's balance sheet and (unless it is framed as a consolidated profit and loss account) profit and loss account are in agreement with the books of account and returns;": {
+      "序号": 92,
+      "原句": "(b) whether the company's balance sheet and (unless it is framed as a consolidated profit and loss account) profit and loss account are in agreement with the books of account and returns;",
+      "术语": "balance sheet",
+      "insert变异": "(b) whether the company's balance sheet (a summary of a person's or organization's assets, liabilities and equity as of a specific date) and (unless it is framed as a consolidated profit and loss account) profit and loss account are in agreement with the books of account and returns;",
+      "替换变异": [
+         "(b) whether the company's balance account and (unless it is framed as a consolidated profit and loss account) profit and loss account are in agreement with the books of account and returns;"
+      ],
+      "替换术语": [
+         "balance account"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "(4) scientists or lawyers with upwards of 2 years of work experience.": {
+      "序号": 93,
+      "原句": "(4) scientists or lawyers with upwards of 2 years of work experience.",
+      "术语": "work experience",
+      "insert变异": "(4) scientists or lawyers with upwards of 2 years of work experience (professional experience).",
+      "替换变异": [
+         "(4) scientists or lawyers with upwards of 2 years of professional experience.",
+         "(4) scientists or lawyers with upwards of 2 years of research experience."
+      ],
+      "替换术语": [
+         "professional experience",
+         "research experience"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "\"stock market\" (证券市场) has the same meaning as in section 2 of the Securities Ordinance (Cap 333);": {
+      "序号": 94,
+      "原句": "\"stock market\" (证券市场) has the same meaning as in section 2 of the Securities Ordinance (Cap 333);",
+      "术语": "stock market",
+      "insert变异": "\"stock market (a market for the trading of company stock)\" (证券市场) has the same meaning as in section 2 of the Securities Ordinance (Cap 333);",
+      "替换变异": [
+         "\"stock exchange\" (证券市场) has the same meaning as in section 2 of the Securities Ordinance (Cap 333);"
+      ],
+      "替换术语": [
+         "stock exchange"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "(5) The yield rate of bonds not surpassing the level of interest rate as qualified by the State Council; and": {
+      "序号": 95,
+      "原句": "(5) The yield rate of bonds not surpassing the level of interest rate as qualified by the State Council; and",
+      "术语": "interest rate",
+      "insert变异": "(5) The yield rate of bonds not surpassing the level of interest rate (the percentage of an amount of money charged for its use per some period of time (often a year)) as qualified by the State Council; and",
+      "替换变异": [
+         "(5) The yield rate of bonds not surpassing the level of yield rate as qualified by the State Council; and",
+         "(5) The yield rate of bonds not surpassing the level of bond rate as qualified by the State Council; and"
+      ],
+      "替换术语": [
+         "yield rate",
+         "bond rate"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "A detainee on first admission to a detention centre may, for good cause, be confined separately from other detainees in such place and for such periods as the Superintendent may direct.": {
+      "序号": 96,
+      "原句": "A detainee on first admission to a detention centre may, for good cause, be confined separately from other detainees in such place and for such periods as the Superintendent may direct.",
+      "术语": "detention centre",
+      "insert变异": "A detainee on first admission to a detention centre (a concentration camp) may, for good cause, be confined separately from other detainees in such place and for such periods as the Superintendent may direct.",
+      "替换变异": [
+         "A detainee on first admission to a detention facility may, for good cause, be confined separately from other detainees in such place and for such periods as the Superintendent may direct.",
+         "A detainee on first admission to a detention camp may, for good cause, be confined separately from other detainees in such place and for such periods as the Superintendent may direct.",
+         "A detainee on first admission to a detention center may, for good cause, be confined separately from other detainees in such place and for such periods as the Superintendent may direct.",
+         "A detainee on first admission to a detention area may, for good cause, be confined separately from other detainees in such place and for such periods as the Superintendent may direct."
+      ],
+      "替换术语": [
+         "detention facility",
+         "detention camp",
+         "detention center",
+         "detention area"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "With respect to enterprises without legal person status, private industrial and commercial households, rural contracting operation households and individual partnership, the provisions of this Chapter shall not apply.": {
+      "序号": 97,
+      "原句": "With respect to enterprises without legal person status, private industrial and commercial households, rural contracting operation households and individual partnership, the provisions of this Chapter shall not apply.",
+      "术语": "legal person",
+      "insert变异": "With respect to enterprises without legal person (an aggregate of people, legal entity, or body corporate who have (some of) the legal rights and responsibilities of a natural person under the law) status, private industrial and commercial households, rural contracting operation households and individual partnership, the provisions of this Chapter shall not apply.",
+      "替换变异": [
+         "With respect to enterprises without legal tender status, private industrial and commercial households, rural contracting operation households and individual partnership, the provisions of this Chapter shall not apply."
+      ],
+      "替换术语": [
+         "legal tender"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "(ii) in the case of a company making an application for the grant of an estate agent's licence, the matters described in section 20 (2) (a);": {
+      "序号": 98,
+      "原句": "(ii) in the case of a company making an application for the grant of an estate agent's licence, the matters described in section 20 (2) (a);",
+      "术语": "estate agent",
+      "insert变异": "(ii) in the case of a company making an application for the grant of an estate agent (a land bailiff)'s licence, the matters described in section 20 (2) (a);",
+      "替换变异": [
+         "(ii) in the case of a company making an application for the grant of an insurance agent's licence, the matters described in section 20 (2) (a);",
+         "(ii) in the case of a company making an application for the grant of an estate owner's licence, the matters described in section 20 (2) (a);"
+      ],
+      "替换术语": [
+         "insurance agent",
+         "estate owner"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Provided that a health officer may issue a certificate in writing to such person exempting him from this paragraph in any case in which such health officer is satisfied that no danger to the public health is involved.": {
+      "序号": 99,
+      "原句": "Provided that a health officer may issue a certificate in writing to such person exempting him from this paragraph in any case in which such health officer is satisfied that no danger to the public health is involved.",
+      "术语": "public health",
+      "insert变异": "Provided that a health officer may issue a certificate in writing to such person exempting him from this paragraph in any case in which such health officer is satisfied that no danger to the public health (the science and practice of community hygiene; includes preventive medicine, health education, sanitation and environmental safety) is involved.",
+      "替换变异": [
+         "Provided that a health officer may issue a certificate in writing to such person exempting him from this paragraph in any case in which such health officer is satisfied that no danger to the public good is involved.",
+         "Provided that a health officer may issue a certificate in writing to such person exempting him from this paragraph in any case in which such health officer is satisfied that no danger to the public interest is involved."
+      ],
+      "替换术语": [
+         "public good",
+         "public interest"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   }
+}

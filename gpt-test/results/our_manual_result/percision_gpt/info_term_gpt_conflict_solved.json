@@ -1,0 +1,146 @@
+{
+   "Graduate Education in UK and its Revelation——A case study of OR & Statistics Specialty in Salford University": {
+      "序号": 0,
+      "原句": "Graduate Education in UK and its Revelation——A case study of OR & Statistics Specialty in Salford University",
+      "术语": "case study",
+      "参考翻译": "['案例研究', '个案调查', '个案研究']",
+      "原句翻译": "英国的研究生教育及其启示——以索尔福德大学的运筹学和统计学专业为例。",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "Graduate Education in UK and its Revelation——A case study (a case used in a such research) of OR & Statistics Specialty in Salford University",
+      "insert变异翻译": "英国的研究生教育及其启示——索尔福德大学运筹学与统计学专业的案例研究",
+      "insert术语翻译": "['案例研究']",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "APPLICATION OF CGM HIGH STRENGTH NON-SHRINKAGE GROUTING MATERIAL IN NO.BLAST FURNACE(750m~3) FOR LAIWU IRON AND STEEL COMPANY": {
+      "序号": 1,
+      "原句": "APPLICATION OF CGM HIGH STRENGTH NON-SHRINKAGE GROUTING MATERIAL IN NO.BLAST FURNACE(750m~3) FOR LAIWU IRON AND STEEL COMPANY",
+      "术语": "blast furnace",
+      "参考翻译": "['高炉']",
+      "原句翻译": "CGM高强度不收缩灌浆材料在莱芜钢铁公司NO.BLAST炉(750m~3)中的应用",
+      "原句术语翻译": [
+         "NO.BLAST(750m~3)"
+      ],
+      "insert变异": "APPLICATION OF CGM HIGH STRENGTH NON-SHRINKAGE GROUTING MATERIAL IN NO.BLAST FURNACE (an industrial furnace in which ore is smelted to metal, the process being intensified by a blast of hot air)(750m~3) FOR LAIWU IRON AND STEEL COMPANY",
+      "insert变异翻译": "CGM高强度不收缩灌浆材料在莱芜钢铁公司的NO.高炉（一种工业炉，用于将矿石冶炼成金属，通过热风吹扫来加强过程）（750m~3）中的应用。",
+      "insert术语翻译": "['NO.高炉']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "International Commission of Health Professionals for Health and Human Rights": {
+      "序号": 2,
+      "原句": "International Commission of Health Professionals for Health and Human Rights",
+      "术语": "human rights",
+      "参考翻译": "['人权']",
+      "原句翻译": "国际卫生专业人士委员会关于卫生和人权",
+      "原句术语翻译": [
+         "人权"
+      ],
+      "insert变异": "International Commission of Health Professionals for Health and Human Rights (the set of basic rights and freedoms that all humans should be guaranteed, including the right to life and liberty, freedom of thought and expression, and equality before the law)",
+      "insert变异翻译": "国际卫生专业人士委员会（一组基本权利和自由，所有人类都应该得到保障，包括生命和自由权利、思想和表达自由、以及法律面前的平等）",
+      "insert术语翻译": "['']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Solution to Natural Frequency of Longitudinal Vibration for a Nonuniform Nonhomogeneous Bar with Variable Cross Section by Finite Segments Method": {
+      "序号": 3,
+      "原句": "Solution to Natural Frequency of Longitudinal Vibration for a Nonuniform Nonhomogeneous Bar with Variable Cross Section by Finite Segments Method",
+      "术语": "cross section",
+      "参考翻译": "['横截面']",
+      "原句翻译": "用有限段法求解变截面非均匀非齐次杆的纵向振动固有频率。",
+      "原句术语翻译": [
+         "齐次"
+      ],
+      "insert变异": "Solution to Natural Frequency of Longitudinal Vibration for a Nonuniform Nonhomogeneous Bar with Variable Cross Section (a sample meant to be representative of a whole population) by Finite Segments Method",
+      "insert变异翻译": "用有限段法解决非均匀非齐次横截面杆的纵向振动的固有频率问题（一个代表整个群体的样本）",
+      "insert术语翻译": "['横截面']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "A member of the Palestinian national women&apos;s soccer team takes part in a training session in the West Bank town of Bethlehem February 21, 2007.": {
+      "序号": 4,
+      "原句": "A member of the Palestinian national women&apos;s soccer team takes part in a training session in the West Bank town of Bethlehem February 21, 2007.",
+      "术语": "West Bank",
+      "参考翻译": "['西岸地区', '约旦河西岸地区']",
+      "原句翻译": "巴勒斯坦国家女子足球队的一名成员参加了2007年2月21日在伯利恒镇举行的训练课程。",
+      "原句术语翻译": [
+         "伯利恒"
+      ],
+      "insert变异": "A member of the Palestinian national women&apos;s soccer team takes part in a training session in the West Bank (a Palestinian territory on the west bank of the Jordan river, claimed by both Israel and the State of Palestine) town of Bethlehem February 21, 2007.",
+      "insert变异翻译": "巴勒斯坦国家女子足球队的一名成员参加了2007年2月21日在约旦河西岸的伯利恒镇举行的训练课程。",
+      "insert术语翻译": "['约旦河西岸']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "A buffer overflow condition exists in Microsoft's RichEdit control library, related to the parsing of Rich Text documents (.RTF).": {
+      "序号": 5,
+      "原句": "A buffer overflow condition exists in Microsoft's RichEdit control library, related to the parsing of Rich Text documents (.RTF).",
+      "术语": "rich text",
+      "参考翻译": "['富文字', '富文本']",
+      "原句翻译": "Microsoft的RichEdit控件库中存在缓冲区溢出条件，与Rich Text文档（.RTF）的解析有关。",
+      "原句术语翻译": [
+         "RichText"
+      ],
+      "insert变异": "A buffer overflow condition exists in Microsoft's RichEdit control library, related to the parsing of Rich Text (text that has been enhanced with formatting, multimedia, etc., such as Microsoft's Rich Text Format or the enriched text format used in electronic mail) documents (.RTF).",
+      "insert变异翻译": "微软的RichEdit控件库中存在缓冲区溢出条件，与富文本（已经使用格式化、多媒体等增强的文本，如微软的富文本格式或电子邮件中使用的增强文本格式）文档（.RTF）的解析有关。",
+      "insert术语翻译": "['文本文档']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Obama's Republican opponent, Senator John McCain, focused on education reform during a speech in Cincinnati, Ohio, to the National Association for the Advancement of Colored People, a leading civil rights organization.": {
+      "序号": 6,
+      "原句": "Obama's Republican opponent, Senator John McCain, focused on education reform during a speech in Cincinnati, Ohio, to the National Association for the Advancement of Colored People, a leading civil rights organization.",
+      "术语": "civil rights",
+      "参考翻译": "['公民权', '民权']",
+      "原句翻译": "奥巴马的共和党对手，参议员约翰·麦凯恩，在俄亥俄州辛辛那提市向全国有色人种进步协会发表演讲，重点关注教育改革。",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "Obama's Republican opponent, Senator John McCain, focused on education reform during a speech in Cincinnati, Ohio, to the National Association for the Advancement of Colored People, a leading civil rights (the rights that can reasonably be expected by any citizen) organization.",
+      "insert变异翻译": "奥巴马的共和党对手，参议员约翰·麦凯恩，在俄亥俄州辛辛那提市向全国有色人种进步协会发表演讲，重点关注教育改革。这是一个领先的民权组织。",
+      "insert术语翻译": "['民权']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "A novel electroanalytical method has been developed for determining consecutively the composition of oxygen and nitrous oxide in O_2-N_2O gas mixture(gas anesthetic). The method is based on bulk electrolysis principle of gas thin-layer elctrode(GTLE).": {
+      "序号": 7,
+      "原句": "A novel electroanalytical method has been developed for determining consecutively the composition of oxygen and nitrous oxide in O_2-N_2O gas mixture(gas anesthetic). The method is based on bulk electrolysis principle of gas thin-layer elctrode(GTLE).",
+      "术语": "nitrous oxide",
+      "参考翻译": "['一氧化二氮', '氧化亚氮']",
+      "原句翻译": "已经开发了一种新的电分析方法，用于连续确定O_2-N_2O气体混合物（气体麻醉剂）中氧和笑气的组成。该方法基于气体薄层电极（GTLE）的大体电解原理。",
+      "原句术语翻译": [
+         "笑气"
+      ],
+      "insert变异": "A novel electroanalytical method has been developed for determining consecutively the composition of oxygen and nitrous oxide (a non-flammable gas (N₂O) commonly used in surgery and dentistry for its anaesthetic and analgesic effects and in motorsport for bursts of added power) in O_2-N_2O gas mixture(gas anesthetic). The method is based on bulk electrolysis principle of gas thin-layer elctrode(GTLE).",
+      "insert变异翻译": "已经开发出一种新的电分析方法，用于连续确定氧气和一氧化二氮（一种常用于手术和牙科的非易燃气体（N₂O），具有麻醉和镇痛效果，并在赛车运动中用于提供额外动力的气体）在O₂-N₂O气体混合物（气体麻醉剂）中的组成。该方法基于气体薄层电极（GTLE）的体积电解原理。",
+      "insert术语翻译": "['一氧化二氮']",
+      "manual_1_result": 1,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "A moderate earthquake measuring 5.on the Richter scale rocked a remote area of north-east Afghanistan today.": {
+      "序号": 8,
+      "原句": "A moderate earthquake measuring 5.on the Richter scale rocked a remote area of north-east Afghanistan today.",
+      "术语": "Richter scale",
+      "参考翻译": "['李氏地震分等标准', '里氏地震规模', '里氏震级']",
+      "原句翻译": "今天，里氏5级的中等地震震动了阿富汗东北部的一个偏远地区。",
+      "原句术语翻译": [
+         "里氏级"
+      ],
+      "insert变异": "A moderate earthquake measuring 5.on the Richter scale (a value on the Richter scale) rocked a remote area of north-east Afghanistan today.",
+      "insert变异翻译": "今天，一场5级的中等地震（里氏地震规模上的一个值）袭击了阿富汗东北部的一个偏远地区。",
+      "insert术语翻译": "['']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   }
+}

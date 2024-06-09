@@ -1,0 +1,9 @@
+info_term_bing: 84/100
+info_term_google: 83/100
+info_term_mbart: 93/100
+info_sentence_bing: 96/100
+info_sentence_google: 95/100
+info_sentence_mbart: 98/100
+bert_replace_bing: 67/100
+bert_replace_google: 71/100
+bert_replace_mbart: 68/100

@@ -1,0 +1,145 @@
+accelerate==0.20.3
+aiohttp==3.8.6
+aiosignal==1.3.1
+asttokens==2.4.1
+async-timeout==4.0.3
+asynctest==0.13.0
+attrs==23.1.0
+awesome-align==0.1.7
+beautifulsoup4==4.12.2
+boto3==1.29.1
+botocore==1.32.1
+bpemb==0.3.4
+brotlipy==0.7.0
+cachetools==4.2.4
+certifi @ file:///croot/certifi_1671487769961/work/certifi
+cffi @ file:///croot/cffi_1670423208954/work
+chardet==3.0.4
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+click==8.1.7
+cloudpickle==2.2.1
+colorama==0.4.6
+conllu==4.5.3
+cryptography @ file:///croot/cryptography_1677533068310/work
+cycler==0.11.0
+Cython @ file:///croot/cython_1676568029361/work
+datasets==2.13.2
+Deprecated==1.2.14
+dill==0.3.6
+et-xmlfile==1.1.0
+executing==2.0.1
+filelock==3.12.2
+flair==0.12.2
+fonttools==4.38.0
+frozenlist==1.3.3
+fsspec==2023.1.0
+ftfy==6.1.1
+future==0.18.3
+gdown==4.4.0
+gensim==4.2.0
+google-api-core==1.34.1
+google-auth==1.35.0
+google-cloud-core==1.7.3
+google-cloud-translate==2.0.1
+googleapis-common-protos==1.63.0
+googletrans==4.0.0rc1
+grpcio==1.62.1
+grpcio-status==1.48.2
+h11==0.9.0
+h2==3.2.0
+hpack==3.0.0
+hstspreload==2023.1.1
+httpcore==0.9.1
+httpx==0.13.3
+huggingface-hub==0.16.4
+hyperframe==5.2.0
+hyperopt==0.2.7
+icecream==2.1.3
+idna @ file:///croot/idna_1666125576474/work
+importlib-metadata==6.7.0
+Janome==0.5.0
+jieba==0.42.1
+jmespath==1.0.1
+joblib==1.3.2
+kiwisolver==1.4.5
+langdetect==1.0.9
+llvmlite==0.39.1
+lxml==4.9.3
+matplotlib==3.5.3
+matplotlib-venn==0.11.10
+mcerp==0.12
+mkl-fft==1.3.1
+mkl-random @ file:///tmp/build/80754af9/mkl_random_1626179032232/work
+mkl-service==2.4.0
+more-itertools==9.1.0
+mpld3==0.3
+multidict==6.0.4
+multiprocess==0.70.14
+networkx==2.6.3
+nltk==3.8.1
+numba @ file:///croot/numba_1670258325998/work
+numpy @ file:///opt/conda/conda-bld/numpy_and_numpy_base_1653915516269/work
+nvidia-ml-py==12.535.133
+nvitop==1.3.2
+openpyxl==3.1.2
+packaging==23.2
+pandas==1.3.5
+Pillow==9.4.0
+portalocker==2.7.0
+pptree==3.1
+protobuf==3.20.3
+psutil==5.9.6
+py4j==0.10.9.7
+pyarrow==12.0.1
+pyasn1==0.5.1
+pyasn1-modules==0.3.0
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+Pygments==2.17.2
+pyOpenSSL @ file:///croot/pyopenssl_1677607685877/work
+pyparsing==3.1.1
+PySocks @ file:///tmp/build/80754af9/pysocks_1594394576006/work
+python-dateutil==2.8.2
+pytorch-pretrained-bert==0.6.2
+pytorch_revgrad==0.2.0
+pytz==2023.3.post1
+PyYAML==6.0.1
+regex==2023.10.3
+requests @ file:///opt/conda/conda-bld/requests_1657734628632/work
+rfc3986==1.5.0
+rsa==4.9
+s3transfer==0.7.0
+sacrebleu==2.3.3
+sacremoses==0.0.53
+safetensors==0.3.3
+scikit-learn==1.0.2
+scipy==1.7.3
+segtok==1.5.11
+sentence-transformers==2.2.2
+sentencepiece==0.1.99
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+smart-open==6.4.0
+sniffio==1.3.0
+soupsieve==2.4.1
+sqlitedict==2.1.0
+stanfordnlp==0.2.0
+tabulate==0.9.0
+tenacity==8.2.3
+termcolor==2.3.0
+threadpoolctl==3.1.0
+tokenizers==0.13.3
+torch==1.13.0
+torchaudio==0.13.0
+torchvision==0.14.0
+tqdm==4.66.1
+transformer-smaller-training-vocab==0.2.4
+transformers==4.30.2
+typing_extensions @ file:///tmp/abs_ben9emwtky/croots/recipe/typing_extensions_1659638822008/work
+urllib3 @ file:///croot/urllib3_1673575502006/work
+wcwidth==0.2.10
+Wikipedia-API==0.6.0
+wikitextparser==0.55.10
+wrapt==1.16.0
+xxhash==3.4.1
+yarl==1.9.2
+zhconv==1.4.3
+zipp==3.15.0

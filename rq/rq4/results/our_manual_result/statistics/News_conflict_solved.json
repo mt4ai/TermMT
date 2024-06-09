@@ -1,0 +1,5282 @@
+{
+   "The MOC says the clause violated the principle of fair trade and revealed prejudice against China,": {
+      "序号": 0,
+      "原句": "The MOC says the clause violated the principle of fair trade and revealed prejudice against China,",
+      "术语": "fair trade",
+      "原句翻译": "商务部表示，该条款违反了公平贸易原则，并暴露了对中国的偏见，",
+      "原句术语翻译": [
+         "公平贸易"
+      ],
+      "insert变异": "The MOC says the clause violated the principle of fair trade (a system of trading promoting more equitable global trade, especially to sellers and producers in poorer areas, but also to the environment) and revealed prejudice against China,",
+      "insert变异翻译": "商务部表示，该条款违反了公平贸易原则（一种促进全球贸易更加公平的贸易体系，特别是对较贫穷地区的卖家和生产者，也包括对环境），并暴露了对中国的偏见，",
+      "insert术语翻译": [
+         "公平贸易"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "商务部表示，该条款违反了公平贸易原则，并暴露了对中国的偏见，",
+      "原句翻译去括号": "商务部表示，该条款违反了公平贸易原则，并暴露了对中国的偏见，",
+      "insert和原句翻译去括号部分相似度": [
+         1.0
+      ],
+      "替换变异": [
+         "The MOC says the clause violated the principle of fair use and revealed prejudice against China,",
+         "The MOC says the clause violated the principle of fair dealing and revealed prejudice against China,"
+      ],
+      "替换术语": [
+         "fair use",
+         "fair dealing"
+      ],
+      "替换翻译": [
+         "商务部表示，该条款违反了公平使用原则，并暴露了对中国的偏见，",
+         "商务部表示，该条款违反了公平交易原则，并暴露了对中国的偏见，"
+      ],
+      "替换术语翻译": [
+         "公平使用",
+         "公平交易"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.695695698261261,
+         0.8915308117866516
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "Study on the correlation between CT features and expression of p53 protein and PCNA in peripheral lung cancer": {
+      "序号": 1,
+      "原句": "Study on the correlation between CT features and expression of p53 protein and PCNA in peripheral lung cancer",
+      "术语": "lung cancer",
+      "原句翻译": "周围型肺癌CT征象与p53蛋白及PCNA表达的相关性研究",
+      "原句术语翻译": [
+         "肺癌"
+      ],
+      "insert变异": "Study on the correlation between CT features and expression of p53 protein and PCNA in peripheral lung cancer (cancer of the lung(s))",
+      "insert变异翻译": "周围型肺癌（肺癌）CT征象与p53蛋白及PCNA表达的相关性研究",
+      "insert术语翻译": [
+         "肺癌"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "周围型肺癌CT征象与p53蛋白及PCNA表达的相关性研究",
+      "原句翻译去括号": "周围型肺癌CT征象与p53蛋白及PCNA表达的相关性研究",
+      "insert和原句翻译去括号部分相似度": [
+         1.0000001192092896
+      ],
+      "替换变异": [
+         "Study on the correlation between CT features and expression of p53 protein and PCNA in peripheral blood cancer",
+         "Study on the correlation between CT features and expression of p53 protein and PCNA in peripheral skin cancer",
+         "Study on the correlation between CT features and expression of p53 protein and PCNA in peripheral cell cancer",
+         "Study on the correlation between CT features and expression of p53 protein and PCNA in peripheral brain cancer",
+         "Study on the correlation between CT features and expression of p53 protein and PCNA in peripheral nerve cancer"
+      ],
+      "替换术语": [
+         "blood cancer",
+         "skin cancer",
+         "cell cancer",
+         "brain cancer",
+         "nerve cancer"
+      ],
+      "替换翻译": [
+         "外周血癌CT征象与p53蛋白及PCNA表达相关性研究",
+         "周围皮肤癌CT征象与p53蛋白及PCNA表达相关性研究",
+         "外周细胞癌CT征象与p53蛋白及PCNA表达相关性研究",
+         "周围型脑癌CT征象与p53蛋白及PCNA表达相关性研究",
+         "周围神经癌CT征象与p53蛋白及PCNA表达相关性研究"
+      ],
+      "替换术语翻译": [
+         "外周血癌",
+         "皮肤癌",
+         "细胞癌",
+         "脑癌",
+         "周围神经癌"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.5697923898696899,
+         0.6684169769287109,
+         0.6760975122451782,
+         0.6333428621292114,
+         0.5439708232879639
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "One polling station organizer told the BBC this meant independence from Kiev. A L has more.": {
+      "序号": 3,
+      "原句": "One polling station organizer told the BBC this meant independence from Kiev. A L has more.",
+      "术语": "polling station",
+      "原句翻译": "一名投票站组织者告诉 BBC，这意味着脱离基辅而独立。AL 报道了更多详情。",
+      "原句术语翻译": [
+         "投票站"
+      ],
+      "insert变异": "One polling station (a place where voters go to cast their ballot in an election or referendum; a voting station) organizer told the BBC this meant independence from Kiev. A L has more.",
+      "insert变异翻译": "一个投票站（选民在选举或公投中投票的地方；投票站）的组织者告诉 BBC，这意味着脱离基辅而独立。AL 有更多报道。",
+      "insert术语翻译": [
+         "投票站"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0000001192092896
+      ],
+      "insert变异翻译去括号": "一个投票站的组织者告诉 BBC，这意味着脱离基辅而独立。AL 有更多报道。",
+      "原句翻译去括号": "一名投票站组织者告诉 BBC，这意味着脱离基辅而独立。AL 报道了更多详情。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9929968118667603
+      ],
+      "替换变异": [
+         "One radio station organizer told the BBC this meant independence from Kiev. A L has more."
+      ],
+      "替换术语": [
+         "radio station"
+      ],
+      "替换翻译": [
+         "一位电台组织者告诉 BBC，这意味着脱离基辅而独立。AL 提供了更多详情。"
+      ],
+      "替换术语翻译": [
+         "电台"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.41893017292022705
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "The best practice is to avoid tight coupling of the service interface and schemas to the underlying implementation and technology.": {
+      "序号": 4,
+      "原句": "The best practice is to avoid tight coupling of the service interface and schemas to the underlying implementation and technology.",
+      "术语": "best practice",
+      "原句翻译": "最佳实践是避免服务接口和模式与底层实现和技术紧密耦合。",
+      "原句术语翻译": [
+         "最佳实践"
+      ],
+      "insert变异": "The best practice (a well-defined procedure that is known to produce near-optimum results) is to avoid tight coupling of the service interface and schemas to the underlying implementation and technology.",
+      "insert变异翻译": "最佳实践（已知可以产生近乎最佳的结果的明确定义的过程）是避免服务接口和模式与底层实现和技术紧密耦合。",
+      "insert术语翻译": [
+         "最佳实践"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0000001192092896
+      ],
+      "insert变异翻译去括号": "最佳实践是避免服务接口和模式与底层实现和技术紧密耦合。",
+      "原句翻译去括号": "最佳实践是避免服务接口和模式与底层实现和技术紧密耦合。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9999999403953552
+      ],
+      "替换变异": [
+         "The best approach is to avoid tight coupling of the service interface and schemas to the underlying implementation and technology.",
+         "The best solution is to avoid tight coupling of the service interface and schemas to the underlying implementation and technology.",
+         "The best strategy is to avoid tight coupling of the service interface and schemas to the underlying implementation and technology.",
+         "The best method is to avoid tight coupling of the service interface and schemas to the underlying implementation and technology.",
+         "The best way is to avoid tight coupling of the service interface and schemas to the underlying implementation and technology."
+      ],
+      "替换术语": [
+         "best approach",
+         "best solution",
+         "best strategy",
+         "best method",
+         "best way"
+      ],
+      "替换翻译": [
+         "最好的方法是避免服务接口和模式与底层实现和技术紧密耦合。",
+         "最好的解决方案是避免服务接口和模式与底层实现和技术紧密耦合。",
+         "最好的策略是避免服务接口和模式与底层实现和技术紧密耦合。",
+         "最好的方法是避免服务接口和模式与底层实现和技术紧密耦合。",
+         "最好的方法是避免服务接口和模式与底层实现和技术紧密耦合。"
+      ],
+      "替换术语翻译": [
+         "最好方法",
+         "最好解决方案",
+         "最好策略",
+         "最好方法",
+         "最好方法"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.6360131502151489,
+         0.5928386449813843,
+         0.6436710953712463,
+         0.6360131502151489,
+         0.6360132694244385
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "Thomas Hoshko, chief executive of the Experts, said Mr. Alexis had worked for the company on a U.S. base in Japan from September 2012 to January 2013 without incident, and had been rehired in July for a project at the Navy yard.": {
+      "序号": 6,
+      "原句": "Thomas Hoshko, chief executive of the Experts, said Mr. Alexis had worked for the company on a U.S. base in Japan from September 2012 to January 2013 without incident, and had been rehired in July for a project at the Navy yard.",
+      "术语": "chief executive",
+      "原句翻译": "专家公司首席执行官托马斯·霍什科 (Thomas Hoshko) 表示，亚历克西斯先生自 2012 年 9 月至 2013 年 1 月期间一直在日本的美国基地为该公司工作，没有发生任何意外，并于 7 月重新受雇于海军船厂的一个项目。",
+      "原句术语翻译": [
+         "首席执行官"
+      ],
+      "insert变异": "Thomas Hoshko, chief executive (chief executive officer) of the Experts, said Mr. Alexis had worked for the company on a U.S. base in Japan from September 2012 to January 2013 without incident, and had been rehired in July for a project at the Navy yard.",
+      "insert变异翻译": "专家组首席执行官托马斯·霍什科 (Thomas Hoshko) 表示，亚历克西斯先生自 2012 年 9 月至 2013 年 1 月期间一直在日本的美国基地为该公司工作，没有发生任何意外，并于 7 月重新受雇于海军船厂的一个项目。",
+      "insert术语翻译": [
+         "首席执行官"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0000001192092896
+      ],
+      "insert变异翻译去括号": "专家组首席执行官托马斯·霍什科 表示，亚历克西斯先生自 2012 年 9 月至 2013 年 1 月期间一直在日本的美国基地为该公司工作，没有发生任何意外，并于 7 月重新受雇于海军船厂的一个项目。",
+      "原句翻译去括号": "专家公司首席执行官托马斯·霍什科 表示，亚历克西斯先生自 2012 年 9 月至 2013 年 1 月期间一直在日本的美国基地为该公司工作，没有发生任何意外，并于 7 月重新受雇于海军船厂的一个项目。",
+      "insert和原句翻译去括号部分相似度": [
+         0.984176516532898
+      ],
+      "替换变异": [
+         "Thomas Hoshko, chief editor of the Experts, said Mr. Alexis had worked for the company on a U.S. base in Japan from September 2012 to January 2013 without incident, and had been rehired in July for a project at the Navy yard."
+      ],
+      "替换术语": [
+         "chief editor"
+      ],
+      "替换翻译": [
+         "《专家》杂志主编托马斯·霍什科 (Thomas Hoshko) 表示，亚历克西斯先生自 2012 年 9 月至 2013 年 1 月期间一直在日本的美国基地为该公司工作，没有发生任何意外，并于 7 月重新受雇于海军船厂的一个项目。"
+      ],
+      "替换术语翻译": [
+         "主编"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.5287999510765076
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "The new figures from the central bank also show that investment is projected to fall 3.2 percent in 2006, a greater fall than the 1.2 percent forecast in the previous bulletin.": {
+      "序号": 7,
+      "原句": "The new figures from the central bank also show that investment is projected to fall 3.2 percent in 2006, a greater fall than the 1.2 percent forecast in the previous bulletin.",
+      "术语": "central bank",
+      "原句翻译": "央行最新数据还显示，预计2006年投资将下降3.2％，降幅大于上次公报预测的1.2％。",
+      "原句术语翻译": [
+         "央行"
+      ],
+      "insert变异": "The new figures from the central bank (the principal monetary authority of a polity or monetary union; it normally regulates the supply of money, issues currency and controls interest rates, it usually oversees banking activity within its country's borders) also show that investment is projected to fall 3.2 percent in 2006, a greater fall than the 1.2 percent forecast in the previous bulletin.",
+      "insert变异翻译": "俄罗斯中央银行（一个政体或货币联盟的主要货币主管部门；它通常负责调节货币供应量、发行货币和控制利率，还通常负责监督一国境内的银行活动）公布的新数据还显示，预计2006年投资将下降3.2％，降幅大于上一期公报预测的1.2％。",
+      "insert术语翻译": [
+         "中央银行"
+      ],
+      "insert和原句术语翻译相似度": [
+         0.8926560282707214
+      ],
+      "insert变异翻译去括号": "俄罗斯中央银行公布的新数据还显示，预计2006年投资将下降3.2％，降幅大于上一期公报预测的1.2％。",
+      "原句翻译去括号": "央行最新数据还显示，预计2006年投资将下降3.2％，降幅大于上次公报预测的1.2％。",
+      "insert和原句翻译去括号部分相似度": [
+         0.915194034576416
+      ],
+      "替换变异": [
+         "The new figures from the central government also show that investment is projected to fall 3.2 percent in 2006, a greater fall than the 1.2 percent forecast in the previous bulletin.",
+         "The new figures from the central office also show that investment is projected to fall 3.2 percent in 2006, a greater fall than the 1.2 percent forecast in the previous bulletin."
+      ],
+      "替换术语": [
+         "central government",
+         "central office"
+      ],
+      "替换翻译": [
+         "中央政府公布的新数据还显示，预计2006年投资将下降3.2％，降幅大于上次公报预测的1.2％。",
+         "中央办公室的最新数据还显示，预计2006年投资将下降3.2％，降幅大于上次公报预测的1.2％。"
+      ],
+      "替换术语翻译": [
+         "中央政府",
+         "中央办公室"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.6438674926757812,
+         0.5370888113975525
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         1,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         1,
+         0
+      ],
+      "final_result": [
+         0,
+         1,
+         0
+      ]
+   },
+   "Guinea-Bissau's president had stated on Wednesday that the round table of donors to the country should take place in April, and that the only step remaining was to choose a venue in either a European or an African country.": {
+      "序号": 8,
+      "原句": "Guinea-Bissau's president had stated on Wednesday that the round table of donors to the country should take place in April, and that the only step remaining was to choose a venue in either a European or an African country.",
+      "术语": "round table",
+      "原句翻译": "几内亚比绍总统周三表示，向该国捐助者的圆桌会议将于四月举行，剩下的唯一一步就是选择在欧洲或非洲国家举行会议。",
+      "原句术语翻译": [
+         "圆桌会议"
+      ],
+      "insert变异": "Guinea-Bissau's president had stated on Wednesday that the round table (see: round, table) of donors to the country should take place in April, and that the only step remaining was to choose a venue in either a European or an African country.",
+      "insert变异翻译": "几内亚比绍总统周三表示，向该国捐助者的圆桌会议（见：圆桌会议）应于四月举行，剩下的唯一一步就是选择在欧洲或非洲国家举行会议。",
+      "insert术语翻译": [
+         "圆桌会议"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "几内亚比绍总统周三表示，向该国捐助者的圆桌会议应于四月举行，剩下的唯一一步就是选择在欧洲或非洲国家举行会议。",
+      "原句翻译去括号": "几内亚比绍总统周三表示，向该国捐助者的圆桌会议将于四月举行，剩下的唯一一步就是选择在欧洲或非洲国家举行会议。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9937374591827393
+      ],
+      "替换变异": [
+         "Guinea-Bissau's president had stated on Wednesday that the final table of donors to the country should take place in April, and that the only step remaining was to choose a venue in either a European or an African country."
+      ],
+      "替换术语": [
+         "final table"
+      ],
+      "替换翻译": [
+         "几内亚比绍总统周三表示，该国捐助者的最终谈判应在四月进行，剩下的唯一一步就是选择欧洲或非洲国家作为会议举办地。"
+      ],
+      "替换术语翻译": [
+         "最终谈判"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.4742756485939026
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "The Angolan news agency added that the two-year agreement will be signed in London by Angolan Finance Minister Jos éPedro de Morais.": {
+      "序号": 9,
+      "原句": "The Angolan news agency added that the two-year agreement will be signed in London by Angolan Finance Minister Jos éPedro de Morais.",
+      "术语": "news agency",
+      "原句翻译": "安哥拉通讯社补充说，这项为期两年的协议将由安哥拉财政部长 Jos éPedro de Morais 在伦敦签署。",
+      "原句术语翻译": [
+         "通讯社"
+      ],
+      "insert变异": "The Angolan news agency (an organisation that gathers and distributes news to newspapers and radio and television broadcasters) added that the two-year agreement will be signed in London by Angolan Finance Minister Jos éPedro de Morais.",
+      "insert变异翻译": "安哥拉通讯社（一个收集并向报纸、广播和电视台发布新闻的组织）补充说，这项为期两年的协议将由安哥拉财政部长 Jos éPedro de Morais 在伦敦签署。",
+      "insert术语翻译": [
+         "通讯社"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0000001192092896
+      ],
+      "insert变异翻译去括号": "安哥拉通讯社补充说，这项为期两年的协议将由安哥拉财政部长 Jos éPedro de Morais 在伦敦签署。",
+      "原句翻译去括号": "安哥拉通讯社补充说，这项为期两年的协议将由安哥拉财政部长 Jos éPedro de Morais 在伦敦签署。",
+      "insert和原句翻译去括号部分相似度": [
+         1.000000238418579
+      ],
+      "替换变异": [
+         "The Angolan government agency added that the two-year agreement will be signed in London by Angolan Finance Minister Jos éPedro de Morais."
+      ],
+      "替换术语": [
+         "government agency"
+      ],
+      "替换翻译": [
+         "安哥拉政府机构补充说，这项为期两年的协议将由安哥拉财政部长 Jos éPedro de Morais 在伦敦签署。"
+      ],
+      "替换术语翻译": [
+         "安哥拉政府机构"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.34420281648635864
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "In central Denmark just as in California, innovation is in the air, improving productivity is a way of life, and the whole is much greater than the sum of the parts.": {
+      "序号": 10,
+      "原句": "In central Denmark just as in California, innovation is in the air, improving productivity is a way of life, and the whole is much greater than the sum of the parts.",
+      "术语": "way of life",
+      "原句翻译": "就像在加利福尼亚州一样，丹麦中部也充满着创新的气息，提高生产力是一种生活方式，整体远大于部分之和。",
+      "原句术语翻译": [
+         "生活方式，"
+      ],
+      "insert变异": "In central Denmark just as in California, innovation is in the air, improving productivity is a way of life (a style of living that reflects the attitudes of a person or group; a lifestyle), and the whole is much greater than the sum of the parts.",
+      "insert变异翻译": "就像在加利福尼亚州一样，丹麦中部也处处弥漫着创新的气息，提高生产力是一种生活方式（一种反映个人或群体态度的生活方式；一种生活方式），整体远大于部分之和。",
+      "insert术语翻译": [
+         "生活方式，"
+      ],
+      "insert和原句术语翻译相似度": [
+         0.9999999403953552
+      ],
+      "insert变异翻译去括号": "就像在加利福尼亚州一样，丹麦中部也处处弥漫着创新的气息，提高生产力是一种生活方式，整体远大于部分之和。",
+      "原句翻译去括号": "就像在加利福尼亚州一样，丹麦中部也充满着创新的气息，提高生产力是一种生活方式，整体远大于部分之和。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9963443279266357
+      ],
+      "替换变异": [
+         "In central Denmark just as in California, innovation is in the air, improving productivity is a part of life, and the whole is much greater than the sum of the parts.",
+         "In central Denmark just as in California, innovation is in the air, improving productivity is a quality of life, and the whole is much greater than the sum of the parts."
+      ],
+      "替换术语": [
+         "part of life",
+         "quality of life"
+      ],
+      "替换翻译": [
+         "就像在加利福尼亚州一样，丹麦中部也充满着创新的气息，提高生产力是生活的一部分，整体远大于部分之和。",
+         "就像在加利福尼亚州一样，丹麦中部也充满着创新的气息，提高生产力是一种生活质量，整体远大于部分之和。"
+      ],
+      "替换术语翻译": [
+         "生活一部分，",
+         "的生活质量，"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7992201447486877,
+         0.7771172523498535
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "The consumer removes a film overwrap, then takes a tamper - evidence tear strip off the top of the sliding door.": {
+      "序号": 12,
+      "原句": "The consumer removes a film overwrap, then takes a tamper - evidence tear strip off the top of the sliding door.",
+      "术语": "sliding door",
+      "原句翻译": "消费者撕掉薄膜包装，然后从滑动门顶部取下防篡改撕条。",
+      "原句术语翻译": [
+         "滑动门。"
+      ],
+      "insert变异": "The consumer removes a film overwrap, then takes a tamper - evidence tear strip off the top of the sliding door (a door that opens and closes by sliding to the side; sometimes one of a pair).",
+      "insert变异翻译": "消费者撕掉薄膜包装，然后从滑动门（通过向侧面滑动来打开和关闭的门；有时是一对中的一扇）顶部取下防篡改撕条。",
+      "insert术语翻译": [
+         "滑动门。"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.000000238418579
+      ],
+      "insert变异翻译去括号": "消费者撕掉薄膜包装，然后从滑动门顶部取下防篡改撕条。",
+      "原句翻译去括号": "消费者撕掉薄膜包装，然后从滑动门顶部取下防篡改撕条。",
+      "insert和原句翻译去括号部分相似度": [
+         1.0
+      ],
+      "替换变异": [
+         "The consumer removes a film overwrap, then takes a tamper - evidence tear strip off the top of the sliding board.",
+         "The consumer removes a film overwrap, then takes a tamper - evidence tear strip off the top of the sliding screen.",
+         "The consumer removes a film overwrap, then takes a tamper - evidence tear strip off the top of the sliding glass."
+      ],
+      "替换术语": [
+         "sliding board",
+         "sliding screen",
+         "sliding glass"
+      ],
+      "替换翻译": [
+         "消费者撕掉薄膜包装，然后从滑板顶部取下防篡改撕条。",
+         "消费者撕掉薄膜包装，然后从滑动屏幕顶部取下防篡改撕条。",
+         "消费者撕掉薄膜包装，然后从滑动玻璃顶部取下防篡改撕条。"
+      ],
+      "替换术语翻译": [
+         "滑板。",
+         "滑动屏幕。",
+         "滑动玻璃。"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7211889028549194,
+         0.7642937898635864,
+         0.7756936550140381
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "The U.S. commitment to relief efforts from the earthquake and tidal wave disaster thus far is about $15 million.": {
+      "序号": 13,
+      "原句": "The U.S. commitment to relief efforts from the earthquake and tidal wave disaster thus far is about $15 million.",
+      "术语": "tidal wave",
+      "原句翻译": "迄今为止，美国为地震和海啸灾难救援工作承诺的资金约为1500万美元。",
+      "原句术语翻译": [
+         "海啸"
+      ],
+      "insert变异": "The U.S. commitment to relief efforts from the earthquake and tidal wave (a sudden and powerful surge) disaster thus far is about $15 million.",
+      "insert变异翻译": "到目前为止，美国为地震和海啸（突然而强烈的海浪）灾难救援工作承诺的资金约为 1500 万美元。",
+      "insert术语翻译": [
+         "海啸"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "到目前为止，美国为地震和海啸灾难救援工作承诺的资金约为 1500 万美元。",
+      "原句翻译去括号": "迄今为止，美国为地震和海啸灾难救援工作承诺的资金约为1500万美元。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9943498969078064
+      ],
+      "替换变异": [
+         "The U.S. commitment to relief efforts from the earthquake and tidal surge disaster thus far is about $15 million."
+      ],
+      "替换术语": [
+         "tidal surge"
+      ],
+      "替换翻译": [
+         "迄今为止，美国为地震和海啸灾难救援工作承诺的资金约为 1500 万美元。"
+      ],
+      "替换术语翻译": [
+         "海啸"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         1.0
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         1
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         1
+      ],
+      "final_result": [
+         0,
+         0,
+         1
+      ]
+   },
+   "Gomer： Well, the royal family must be very relieved indeed. They've been waiting a long time for the crown prince to produce a son and heir.": {
+      "序号": 14,
+      "原句": "Gomer： Well, the royal family must be very relieved indeed. They've been waiting a long time for the crown prince to produce a son and heir.",
+      "术语": "crown prince",
+      "原句翻译": "戈默尔：好吧，王室一定松了一口气。他们已经等了太子生下儿子和继承人很久了。",
+      "原句术语翻译": [
+         "太子"
+      ],
+      "insert变异": "Gomer： Well, the royal family must be very relieved indeed. They've been waiting a long time for the crown prince (a person designated and raised to become the next king) to produce a son and heir.",
+      "insert变异翻译": "戈默尔：好吧，王室肯定松了一口气。他们已经等待王储（指定并培养为下一任国王的人）生下儿子和继承人很久了。",
+      "insert术语翻译": [
+         "王储"
+      ],
+      "insert和原句术语翻译相似度": [
+         0.5224086046218872
+      ],
+      "insert变异翻译去括号": "戈默尔：好吧，王室肯定松了一口气。他们已经等待王储生下儿子和继承人很久了。",
+      "原句翻译去括号": "戈默尔：好吧，王室一定松了一口气。他们已经等了太子生下儿子和继承人很久了。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9559386968612671
+      ],
+      "替换变异": [
+         "Gomer： Well, the royal family must be very relieved indeed. They've been waiting a long time for the young prince to produce a son and heir."
+      ],
+      "替换术语": [
+         "young prince"
+      ],
+      "替换翻译": [
+         "戈默尔：好吧，皇室肯定松了一口气。他们已经等了好久，希望年轻的王子能生下一个儿子和继承人。"
+      ],
+      "替换术语翻译": [
+         "年轻王子"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.4616626501083374
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "The company's growth plans could mean a greater volume of purchases of iron ore from Brazil.": {
+      "序号": 16,
+      "原句": "The company's growth plans could mean a greater volume of purchases of iron ore from Brazil.",
+      "术语": "iron ore",
+      "原句翻译": "该公司的增长计划可能意味着从巴西购买更多的铁矿石。",
+      "原句术语翻译": [
+         "铁矿石"
+      ],
+      "insert变异": "The company's growth plans could mean a greater volume of purchases of iron ore (a mineral deposit from which iron can be viably extracted) from Brazil.",
+      "insert变异翻译": "该公司的增长计划可能意味着从巴西购买更多的铁矿石（一种可以有效提取铁的矿藏）。",
+      "insert术语翻译": [
+         "铁矿石"
+      ],
+      "insert和原句术语翻译相似度": [
+         0.9999998807907104
+      ],
+      "insert变异翻译去括号": "该公司的增长计划可能意味着从巴西购买更多的铁矿石。",
+      "原句翻译去括号": "该公司的增长计划可能意味着从巴西购买更多的铁矿石。",
+      "insert和原句翻译去括号部分相似度": [
+         1.0
+      ],
+      "替换变异": [
+         "The company's growth plans could mean a greater volume of purchases of copper ore from Brazil."
+      ],
+      "替换术语": [
+         "copper ore"
+      ],
+      "替换翻译": [
+         "该公司的增长计划可能意味着从巴西购买更多的铜矿石。"
+      ],
+      "替换术语翻译": [
+         "铜矿"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7207151055335999
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "But beyond your knowledge of specific tools and programs, Borre has three suggestions for you about how to launch a career in information technology.": {
+      "序号": 19,
+      "原句": "But beyond your knowledge of specific tools and programs, Borre has three suggestions for you about how to launch a career in information technology.",
+      "术语": "information technology",
+      "原句翻译": "但是除了对特定工具和程序的了解之外，Borre 还为您提供了三条关于如何开启信息技术职业生涯的建议。",
+      "原句术语翻译": [
+         "信息技术。"
+      ],
+      "insert变异": "But beyond your knowledge of specific tools and programs, Borre has three suggestions for you about how to launch a career in information technology (the practice of creating and/or studying computer systems and applications).",
+      "insert变异翻译": "但是除了对特定工具和程序的了解之外，Borre 还为您提供了三条关于如何开展信息技术职业生涯（创建和/或研究计算机系统和应用程序的实践）的建议。",
+      "insert术语翻译": [
+         "信息技术。"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0000001192092896
+      ],
+      "insert变异翻译去括号": "但是除了对特定工具和程序的了解之外，Borre 还为您提供了三条关于如何开展信息技术职业生涯的建议。",
+      "原句翻译去括号": "但是除了对特定工具和程序的了解之外，Borre 还为您提供了三条关于如何开启信息技术职业生涯的建议。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9883986711502075
+      ],
+      "替换变异": [
+         "But beyond your knowledge of specific tools and programs, Borre has three suggestions for you about how to launch a career in computer technology.",
+         "But beyond your knowledge of specific tools and programs, Borre has three suggestions for you about how to launch a career in information science."
+      ],
+      "替换术语": [
+         "computer technology",
+         "information science"
+      ],
+      "替换翻译": [
+         "但是除了对特定工具和程序的了解之外，Borre 还为您提供了三条关于如何开展计算机技术职业生涯的建议。",
+         "但是除了对特定工具和程序的了解之外，Borre 还为您提供了三条关于如何开启信息科学职业生涯的建议。"
+      ],
+      "替换术语翻译": [
+         "计算机技术。",
+         "信息科学。"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.8453623056411743,
+         0.9203688502311707
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "bread; bean curd when the concentration is above 0.025%,and has good antiseptic effect on grape juice when the concentration is above 0.05%. But the curcumin has no antiseptic effect at all after it is boiled.": {
+      "序号": 20,
+      "原句": "bread; bean curd when the concentration is above 0.025%,and has good antiseptic effect on grape juice when the concentration is above 0.05%. But the curcumin has no antiseptic effect at all after it is boiled.",
+      "术语": "grape juice",
+      "原句翻译": "浓度在0.025%以上时对面包、豆腐有较好的防腐作用，浓度在0.05%以上时对葡萄汁有较好的防腐作用，而姜黄素煮沸后则无任何防腐作用。",
+      "原句术语翻译": [
+         "葡萄汁"
+      ],
+      "insert变异": "bread; bean curd when the concentration is above 0.025%,and has good antiseptic effect on grape juice (the unfermented juice of squeezed grapes, used as a beverage) when the concentration is above 0.05%. But the curcumin has no antiseptic effect at all after it is boiled.",
+      "insert变异翻译": "浓度在0.025%以上时对面包、豆腐有较好的防腐作用，浓度在0.05%以上时对葡萄汁（葡萄榨出的未发酵汁，用作饮料）有较好的防腐作用，而姜黄素煮沸后则没有防腐作用。",
+      "insert术语翻译": [
+         "葡萄汁"
+      ],
+      "insert和原句术语翻译相似度": [
+         0.9999998807907104
+      ],
+      "insert变异翻译去括号": "浓度在0.025%以上时对面包、豆腐有较好的防腐作用，浓度在0.05%以上时对葡萄汁有较好的防腐作用，而姜黄素煮沸后则没有防腐作用。",
+      "原句翻译去括号": "浓度在0.025%以上时对面包、豆腐有较好的防腐作用，浓度在0.05%以上时对葡萄汁有较好的防腐作用，而姜黄素煮沸后则无任何防腐作用。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9981329441070557
+      ],
+      "替换变异": [
+         "bread; bean curd when the concentration is above 0.025%,and has good antiseptic effect on lemon juice when the concentration is above 0.05%. But the curcumin has no antiseptic effect at all after it is boiled.",
+         "bread; bean curd when the concentration is above 0.025%,and has good antiseptic effect on orange juice when the concentration is above 0.05%. But the curcumin has no antiseptic effect at all after it is boiled.",
+         "bread; bean curd when the concentration is above 0.025%,and has good antiseptic effect on fruit juice when the concentration is above 0.05%. But the curcumin has no antiseptic effect at all after it is boiled.",
+         "bread; bean curd when the concentration is above 0.025%,and has good antiseptic effect on bean juice when the concentration is above 0.05%. But the curcumin has no antiseptic effect at all after it is boiled.",
+         "bread; bean curd when the concentration is above 0.025%,and has good antiseptic effect on grape syrup when the concentration is above 0.05%. But the curcumin has no antiseptic effect at all after it is boiled."
+      ],
+      "替换术语": [
+         "lemon juice",
+         "orange juice",
+         "fruit juice",
+         "bean juice",
+         "grape syrup"
+      ],
+      "替换翻译": [
+         "浓度在0.025%以上时对面包、豆腐有较好的防腐作用，浓度在0.05%以上时对柠檬汁有较好的防腐作用，而姜黄素煮沸后则无任何防腐作用。",
+         "浓度在0.025%以上时对面包、豆腐有较好的防腐作用，浓度在0.05%以上时对橙汁有较好的防腐作用，而姜黄素煮沸后则无任何防腐作用。",
+         "浓度在0.025%以上时对面包、豆腐有较好的防腐作用，浓度在0.05%以上时对果汁有较好的防腐作用，而姜黄素经煮沸后则无任何防腐作用。",
+         "浓度在0.025%以上时对面包、豆腐有较好的防腐作用，浓度在0.05%以上时对豆汁有较好的防腐作用，而姜黄素经煮沸后则无任何防腐作用。",
+         "对面包、豆腐0.025%以上有较好的防腐效果，对葡萄糖浆0.05%以上有较好的防腐效果，而姜黄素煮沸后则无任何防腐作用。"
+      ],
+      "替换术语翻译": [
+         "柠檬汁",
+         "橙汁",
+         "果汁",
+         "豆汁",
+         "葡萄糖浆"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.6893481016159058,
+         0.6541794538497925,
+         0.7427557706832886,
+         0.5643628835678101,
+         0.7450408935546875
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "The centerpiece of the president's plan is a proposal to allow younger workers to divert some of the taxes they pay toward their pensions into private retirement accounts that could be invested in the stock market.": {
+      "序号": 21,
+      "原句": "The centerpiece of the president's plan is a proposal to allow younger workers to divert some of the taxes they pay toward their pensions into private retirement accounts that could be invested in the stock market.",
+      "术语": "stock market",
+      "原句翻译": "总统计划的核心是允许年轻工人将他们缴纳的部分养老金税款转入可以投资股票市场的私人退休账户。",
+      "原句术语翻译": [
+         "股票市场。"
+      ],
+      "insert变异": "The centerpiece of the president's plan is a proposal to allow younger workers to divert some of the taxes they pay toward their pensions into private retirement accounts that could be invested in the stock market (a market for the trading of company stock).",
+      "insert变异翻译": "总统计划的核心是允许年轻工人将他们缴纳的部分养老金税款转入私人退休账户，这些账户可以投资于股票市场（公司股票交易的市场）。",
+      "insert术语翻译": [
+         "股票市场。"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0000001192092896
+      ],
+      "insert变异翻译去括号": "总统计划的核心是允许年轻工人将他们缴纳的部分养老金税款转入私人退休账户，这些账户可以投资于股票市场。",
+      "原句翻译去括号": "总统计划的核心是允许年轻工人将他们缴纳的部分养老金税款转入可以投资股票市场的私人退休账户。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9903339147567749
+      ],
+      "替换变异": [
+         "The centerpiece of the president's plan is a proposal to allow younger workers to divert some of the taxes they pay toward their pensions into private retirement accounts that could be invested in the labor market.",
+         "The centerpiece of the president's plan is a proposal to allow younger workers to divert some of the taxes they pay toward their pensions into private retirement accounts that could be invested in the job market.",
+         "The centerpiece of the president's plan is a proposal to allow younger workers to divert some of the taxes they pay toward their pensions into private retirement accounts that could be invested in the private market.",
+         "The centerpiece of the president's plan is a proposal to allow younger workers to divert some of the taxes they pay toward their pensions into private retirement accounts that could be invested in the stock exchange."
+      ],
+      "替换术语": [
+         "labor market",
+         "job market",
+         "private market",
+         "stock exchange"
+      ],
+      "替换翻译": [
+         "总统计划的核心是允许年轻工人将他们为养老金缴纳的部分税款转入可以投资于劳动力市场的私人退休账户。",
+         "总统计划的核心是允许年轻工人将他们缴纳的部分养老金税款转入可以投资于就业市场的私人退休账户。",
+         "总统计划的核心是允许年轻工人将他们为养老金缴纳的部分税款转入可以投资于私人市场的私人退休账户。",
+         "总统计划的核心是允许年轻工人将他们缴纳的养老金税款部分转入可以投资于股票交易的私人退休账户。"
+      ],
+      "替换术语翻译": [
+         "劳动力市场。",
+         "就业市场。",
+         "私人市场。",
+         "股票交易。"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.6898953914642334,
+         0.6901004314422607,
+         0.7307806015014648,
+         0.8802783489227295
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "By using AUML(Agent Unified Modeling Language) and extending it,Agent organization oriented analysis modeling for cruise missile C~3I system has been made. Using use-case model to describe the system requirements.": {
+      "序号": 22,
+      "原句": "By using AUML(Agent Unified Modeling Language) and extending it,Agent organization oriented analysis modeling for cruise missile C~3I system has been made. Using use-case model to describe the system requirements.",
+      "术语": "cruise missile",
+      "原句翻译": "利用AUML(Agent统一建模语言)并对其进行扩展,对巡航导弹C~3I系统进行了面向Agent组织的分析建模,采用用例模型描述系统需求。",
+      "原句术语翻译": [
+         "巡航导弹"
+      ],
+      "insert变异": "By using AUML(Agent Unified Modeling Language) and extending it,Agent organization oriented analysis modeling for cruise missile (a missile designed for guided flight over the full course of its path) C~3I system has been made. Using use-case model to describe the system requirements.",
+      "insert变异翻译": "利用AUML(Agent统一建模语言)并对其进行扩展,对巡航导弹(一种设计用于全程制导飞行的导弹)C~3I系统进行了面向Agent组织的分析建模,采用用例模型描述系统需求。",
+      "insert术语翻译": [
+         "巡航导弹"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "利用AUML并对其进行扩展,对巡航导弹C~3I系统进行了面向Agent组织的分析建模,采用用例模型描述系统需求。",
+      "原句翻译去括号": "利用AUML并对其进行扩展,对巡航导弹C~3I系统进行了面向Agent组织的分析建模,采用用例模型描述系统需求。",
+      "insert和原句翻译去括号部分相似度": [
+         1.0
+      ],
+      "替换变异": [
+         "By using AUML(Agent Unified Modeling Language) and extending it,Agent organization oriented analysis modeling for a missile C~3I system has been made. Using use-case model to describe the system requirements.",
+         "By using AUML(Agent Unified Modeling Language) and extending it,Agent organization oriented analysis modeling for cruise control C~3I system has been made. Using use-case model to describe the system requirements.",
+         "By using AUML(Agent Unified Modeling Language) and extending it,Agent organization oriented analysis modeling for cruise ship C~3I system has been made. Using use-case model to describe the system requirements."
+      ],
+      "替换术语": [
+         "a missile",
+         "cruise control",
+         "cruise ship"
+      ],
+      "替换翻译": [
+         "利用AUML(Agent统一建模语言)并对其进行扩展,对某导弹C~3I系统进行了面向Agent组织的分析建模,采用用例模型描述系统需求。",
+         "利用AUML(Agent统一建模语言)并对其进行扩展,对巡航管制C~3I系统进行了面向Agent组织的分析建模,采用用例模型描述系统需求。",
+         "利用AUML(Agent统一建模语言)并对其进行扩展,对邮轮C~3I系统进行了面向Agent组织的分析建模,采用用例模型描述系统需求。"
+      ],
+      "替换术语翻译": [
+         "某导弹",
+         "巡航管制",
+         "邮轮"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.631763219833374,
+         0.6321395635604858,
+         0.38820746541023254
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "Financial statement analysis is largely a matter of establishing significant relationships and pointing up changes and trends.": {
+      "序号": 23,
+      "原句": "Financial statement analysis is largely a matter of establishing significant relationships and pointing up changes and trends.",
+      "术语": "financial statement",
+      "原句翻译": "财务报表分析主要是建立重要的关系并指出变化和趋势。",
+      "原句术语翻译": [
+         "财务报表"
+      ],
+      "insert变异": "Financial statement (a formal record of all relevant financial information of a business, person, or other entity, presented in a structured and standardized manner to allow easy understanding) analysis is largely a matter of establishing significant relationships and pointing up changes and trends.",
+      "insert变异翻译": "财务报表（企业、个人或其他实体的所有相关财务信息的正式记录，以结构化和标准化的方式呈现以便于理解）分析主要是建立重要关系并指出变化和趋势的问题。",
+      "insert术语翻译": [
+         "财务报表"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.000000238418579
+      ],
+      "insert变异翻译去括号": "财务报表分析主要是建立重要关系并指出变化和趋势的问题。",
+      "原句翻译去括号": "财务报表分析主要是建立重要的关系并指出变化和趋势。",
+      "insert和原句翻译去括号部分相似度": [
+         0.987473726272583
+      ],
+      "替换变异": [
+         "Financial market analysis is largely a matter of establishing significant relationships and pointing up changes and trends.",
+         "Financial system analysis is largely a matter of establishing significant relationships and pointing up changes and trends.",
+         "Financial risk analysis is largely a matter of establishing significant relationships and pointing up changes and trends."
+      ],
+      "替换术语": [
+         "Financial market",
+         "Financial system",
+         "Financial risk"
+      ],
+      "替换翻译": [
+         "金融市场分析主要是建立重要的关系并指出变化和趋势。",
+         "金融系统分析主要是建立重要的关系并指出变化和趋势。",
+         "财务风险分析主要是建立重要的关系并指出变化和趋势。"
+      ],
+      "替换术语翻译": [
+         "金融市场",
+         "金融系统分析",
+         "财务风险"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.4908737242221832,
+         0.4377487599849701,
+         0.6653292179107666
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "But Mr Gates noted that philanthropy cannot provide the wider improvements in areas such as public health, education and employment.": {
+      "序号": 24,
+      "原句": "But Mr Gates noted that philanthropy cannot provide the wider improvements in areas such as public health, education and employment.",
+      "术语": "public health",
+      "原句翻译": "但盖茨先生指出，慈善事业无法为公共卫生、教育和就业等领域带来更广泛的改善。",
+      "原句术语翻译": [
+         "公共卫生、"
+      ],
+      "insert变异": "But Mr Gates noted that philanthropy cannot provide the wider improvements in areas such as public health (the science and practice of community hygiene; includes preventive medicine, health education, sanitation and environmental safety), education and employment.",
+      "insert变异翻译": "但盖茨先生指出，慈善事业无法在公共卫生（社区卫生的科学与实践；包括预防医学、健康教育、卫生和环境安全）、教育和就业等领域带来更广泛的改善。",
+      "insert术语翻译": [
+         "公共卫生、"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "但盖茨先生指出，慈善事业无法在公共卫生、教育和就业等领域带来更广泛的改善。",
+      "原句翻译去括号": "但盖茨先生指出，慈善事业无法为公共卫生、教育和就业等领域带来更广泛的改善。",
+      "insert和原句翻译去括号部分相似度": [
+         0.997010350227356
+      ],
+      "替换变异": [
+         "But Mr Gates noted that philanthropy cannot provide the wider improvements in areas such as public housing, education and employment."
+      ],
+      "替换术语": [
+         "public housing"
+      ],
+      "替换翻译": [
+         "但盖茨先生指出，慈善事业无法为公共住房、教育和就业等领域带来更广泛的改善。"
+      ],
+      "替换术语翻译": [
+         "公共住房、"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7460627555847168
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "Every table you look at, it's a wine glass, the silverware and the cell phone,\" he joked.": {
+      "序号": 25,
+      "原句": "Every table you look at, it's a wine glass, the silverware and the cell phone,\" he joked.",
+      "术语": "wine glass",
+      "原句翻译": "你看到的每张桌子上都有酒杯、银器和手机，”他开玩笑说。",
+      "原句术语翻译": [
+         "酒杯、"
+      ],
+      "insert变异": "Every table you look at, it's a wine glass (a glass vessel, normally with a stem, from which wine is drunk), the silverware and the cell phone,\" he joked.",
+      "insert变异翻译": "你看到的每张桌子都有酒杯（一种玻璃容器，通常带有杯柄，用于喝酒）、银器和手机，”他开玩笑说。",
+      "insert术语翻译": [
+         "酒杯、"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "你看到的每张桌子都有酒杯、银器和手机，”他开玩笑说。",
+      "原句翻译去括号": "你看到的每张桌子上都有酒杯、银器和手机，”他开玩笑说。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9973531365394592
+      ],
+      "替换变异": [
+         "Every table you look at, it's a shot glass, the silverware and the cell phone,\" he joked.",
+         "Every table you look at, it's a single glass, the silverware and the cell phone,\" he joked.",
+         "Every table you look at, it's a wine bottle, the silverware and the cell phone,\" he joked.",
+         "Every table you look at, it's a wine rack, the silverware and the cell phone,\" he joked.",
+         "Every table you look at, it's a wine table, the silverware and the cell phone,\" he joked."
+      ],
+      "替换术语": [
+         "shot glass",
+         "single glass",
+         "wine bottle",
+         "wine rack",
+         "wine table"
+      ],
+      "替换翻译": [
+         "你看到的每张桌子上都有酒杯、银器和手机，”他开玩笑说。",
+         "你看到的每张桌子都只有一个玻璃杯、餐具和手机，”他开玩笑说。",
+         "你看到的每张桌子上都有酒瓶、银器和手机，”他开玩笑说。",
+         "你看到的每张桌子上都有酒架、餐具和手机，”他开玩笑说。",
+         "你看到的每张桌子都是酒桌、银器和手机，”他开玩笑说。"
+      ],
+      "替换术语翻译": [
+         "酒杯、",
+         "玻璃杯、",
+         "酒瓶、",
+         "酒架、",
+         "酒桌、"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         1.000000238418579,
+         0.7949436902999878,
+         0.8861634731292725,
+         0.8175679445266724,
+         0.791527271270752
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         1
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         1
+      ],
+      "final_result": [
+         0,
+         0,
+         1
+      ]
+   },
+   "They organise peer review, in which papers are criticised anonymously by experts. And they sort the scientific sheep from the goats, by deciding what gets published, and where.": {
+      "序号": 26,
+      "原句": "They organise peer review, in which papers are criticised anonymously by experts. And they sort the scientific sheep from the goats, by deciding what gets published, and where.",
+      "术语": "peer review",
+      "原句翻译": "他们组织同行评审，让专家匿名批评论文。他们通过决定发表什么论文、在何处发表论文，筛选出科学界的“好人”。",
+      "原句术语翻译": [
+         "同行评审，"
+      ],
+      "insert变异": "They organise peer review (the scholarly process whereby manuscripts intended to be published in an academic journal are reviewed by independent researchers (referees) to evaluate the contribution, i.e. the importance, novelty and accuracy of the manuscript's contents), in which papers are criticised anonymously by experts. And they sort the scientific sheep from the goats, by deciding what gets published, and where.",
+      "insert变异翻译": "他们组织同行评审（即由独立研究人员（审稿人）对拟在学术期刊上发表的稿件进行评审以评估其贡献，即稿件内容的重要性、新颖性和准确性的学术过程），其中专家会匿名批评论文。他们通过决定在何处发表哪些论文，来筛选出科学界的“好人”。",
+      "insert术语翻译": [
+         "同行评审，"
+      ],
+      "insert和原句术语翻译相似度": [
+         0.9999999403953552
+      ],
+      "insert变异翻译去括号": "他们组织同行评审，其中专家会匿名批评论文。他们通过决定在何处发表哪些论文，来筛选出科学界的“好人”。",
+      "原句翻译去括号": "他们组织同行评审，让专家匿名批评论文。他们通过决定发表什么论文、在何处发表论文，筛选出科学界的“好人”。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9830101132392883
+      ],
+      "替换变异": [
+         "They organise a review, in which papers are criticised anonymously by experts. And they sort the scientific sheep from the goats, by deciding what gets published, and where."
+      ],
+      "替换术语": [
+         "a review"
+      ],
+      "替换翻译": [
+         "他们组织评审，让专家匿名批评论文。然后，他们通过决定发表什么论文和在何处发表论文，筛选出科学界的“好人”。"
+      ],
+      "替换术语翻译": [
+         "评审，"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.8542904853820801
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "Chinese construction companies have been involved in large construction projects, such as construction of the country's biggest conference venue–the Joaquim Chissano Conference Centre–the parliament building, the Military Neighbourhood for armed forces officers, the country's foreign ministry and the National Stadium, which is being concluded.": {
+      "序号": 27,
+      "原句": "Chinese construction companies have been involved in large construction projects, such as construction of the country's biggest conference venue–the Joaquim Chissano Conference Centre–the parliament building, the Military Neighbourhood for armed forces officers, the country's foreign ministry and the National Stadium, which is being concluded.",
+      "术语": "armed forces",
+      "原句翻译": "中国建筑公司参与了该国的大型建设项目，例如建设该国最大的会议场所——若阿金·希萨诺会议中心、议会大厦、武装部队军官军事社区、该国外交部和即将完工的国家体育场。",
+      "原句术语翻译": [
+         "武装部队"
+      ],
+      "insert变异": "Chinese construction companies have been involved in large construction projects, such as construction of the country's biggest conference venue–the Joaquim Chissano Conference Centre–the parliament building, the Military Neighbourhood for armed forces (the military forces of a nation, such as the army, navy, air force, marines, and sometimes, coastguard or border guard, which are tasked with the defence of the nation and its citizens, if necessary through use of deadly force) officers, the country's foreign ministry and the National Stadium, which is being concluded.",
+      "insert变异翻译": "中国建筑公司参与了该国的大型建设项目，如建设该国最大的会议场所 – 若阿金·希萨诺会议中心、议会大厦、武装部队（一个国家的军事力量，例如陆军、海军、空军、海军陆战队，有时还有海岸警卫队或边防警卫队，其任务是保卫国家和公民，必要时可使用致命武力）军官的军事区、该国外交部和即将完工的国家体育场。",
+      "insert术语翻译": [
+         "武装部队"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "中国建筑公司参与了该国的大型建设项目，如建设该国最大的会议场所 – 若阿金·希萨诺会议中心、议会大厦、武装部队军官的军事区、该国外交部和即将完工的国家体育场。",
+      "原句翻译去括号": "中国建筑公司参与了该国的大型建设项目，例如建设该国最大的会议场所——若阿金·希萨诺会议中心、议会大厦、武装部队军官军事社区、该国外交部和即将完工的国家体育场。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9927224516868591
+      ],
+      "替换变异": [
+         "Chinese construction companies have been involved in large construction projects, such as construction of the country's biggest conference venue–the Joaquim Chissano Conference Centre–the parliament building, the Military Neighbourhood for armed services officers, the country's foreign ministry and the National Stadium, which is being concluded."
+      ],
+      "替换术语": [
+         "armed services"
+      ],
+      "替换翻译": [
+         "中国建筑公司参与了该国的大型建设项目，例如建设该国最大的会议场所——若阿金·希萨诺会议中心、议会大厦、军官军事社区、该国外交部和即将完工的国家体育场。"
+      ],
+      "替换术语翻译": [
+         "军事"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.5193912386894226
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "He referred the dispute to the board of directors.": {
+      "序号": 28,
+      "原句": "He referred the dispute to the board of directors.",
+      "术语": "board of directors",
+      "原句翻译": "他将这一争议提交给董事会。",
+      "原句术语翻译": [
+         "董事会。"
+      ],
+      "insert变异": "He referred the dispute to the board of directors (a group of people elected by stockholders to establish corporate policies and make management decisions).",
+      "insert变异翻译": "他将争议提交给董事会（由股东选举产生的负责制定公司政策和管理决策的一群人）。",
+      "insert术语翻译": [
+         "董事会。"
+      ],
+      "insert和原句术语翻译相似度": [
+         0.9999998807907104
+      ],
+      "insert变异翻译去括号": "他将争议提交给董事会。",
+      "原句翻译去括号": "他将这一争议提交给董事会。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9825478792190552
+      ],
+      "替换变异": [
+         "He referred the dispute to the board of education."
+      ],
+      "替换术语": [
+         "board of education"
+      ],
+      "替换翻译": [
+         "他把这一争议提交给了教育委员会。"
+      ],
+      "替换术语翻译": [
+         "教育委员会。"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.6511988639831543
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "And Romney rejects Democratic attacks that his party wants to restrict access to birth control.": {
+      "序号": 29,
+      "原句": "And Romney rejects Democratic attacks that his party wants to restrict access to birth control.",
+      "术语": "birth control",
+      "原句翻译": "罗姆尼否认民主党人对其政党想要限制避孕措施的攻击。",
+      "原句术语翻译": [
+         "避孕措施。"
+      ],
+      "insert变异": "And Romney rejects Democratic attacks that his party wants to restrict access to birth control (any technique used to prevent the birth of a child).",
+      "insert变异翻译": "罗姆尼否认了民主党人对节育措施（即任何用来防止孩子出生的技术）的攻击。",
+      "insert术语翻译": [
+         "节育措施。"
+      ],
+      "insert和原句术语翻译相似度": [
+         0.8027330636978149
+      ],
+      "insert变异翻译去括号": "罗姆尼否认了民主党人对节育措施的攻击。",
+      "原句翻译去括号": "罗姆尼否认民主党人对其政党想要限制避孕措施的攻击。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9216378331184387
+      ],
+      "替换变异": [
+         "And Romney rejects Democratic attacks that his party wants to restrict access to gun control."
+      ],
+      "替换术语": [
+         "gun control"
+      ],
+      "替换翻译": [
+         "罗姆尼否认民主党人对其政党想要限制枪支管制的攻击。"
+      ],
+      "替换术语翻译": [
+         "枪支管制。"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.4910658895969391
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         1,
+         1,
+         0
+      ],
+      "manual_2_result": [
+         1,
+         1,
+         0
+      ],
+      "final_result": [
+         1,
+         1,
+         0
+      ]
+   },
+   "In that situation, their body temperature drops below thirty-five degrees Celsius. They lose the ability to think clearly.": {
+      "序号": 30,
+      "原句": "In that situation, their body temperature drops below thirty-five degrees Celsius. They lose the ability to think clearly.",
+      "术语": "body temperature",
+      "原句翻译": "在这种情况下，他们的体温会降到三十五摄氏度以下，他们就会失去清晰思考的能力。",
+      "原句术语翻译": [
+         "体温"
+      ],
+      "insert变异": "In that situation, their body temperature (the current temperature of the body of a person or animal, especially when used as a simple guide to health) drops below thirty-five degrees Celsius. They lose the ability to think clearly.",
+      "insert变异翻译": "在这种情况下，他们的体温（人或动物的当前体温，特别是作为简单的健康指标时）会降至 35 摄氏度以下。他们失去了清晰思考的能力。",
+      "insert术语翻译": [
+         "体温"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0000001192092896
+      ],
+      "insert变异翻译去括号": "在这种情况下，他们的体温会降至 35 摄氏度以下。他们失去了清晰思考的能力。",
+      "原句翻译去括号": "在这种情况下，他们的体温会降到三十五摄氏度以下，他们就会失去清晰思考的能力。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9454439878463745
+      ],
+      "替换变异": [
+         "In that situation, their skin temperature drops below thirty-five degrees Celsius. They lose the ability to think clearly."
+      ],
+      "替换术语": [
+         "skin temperature"
+      ],
+      "替换翻译": [
+         "在这种情况下，他们的皮肤温度会降至35摄氏度以下，他们就会失去清晰思考的能力。"
+      ],
+      "替换术语翻译": [
+         "皮肤温度"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7004995346069336
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "Despite the strong growth posted by Angola over the last few years–in 2007 alone it saw GDP growth of 19.8 percent–Colm Foy said that people's quality of life had“improved little, ”and it was thus necessary to diversify sectors of activity.": {
+      "序号": 31,
+      "原句": "Despite the strong growth posted by Angola over the last few years–in 2007 alone it saw GDP growth of 19.8 percent–Colm Foy said that people's quality of life had“improved little, ”and it was thus necessary to diversify sectors of activity.",
+      "术语": "quality of life",
+      "原句翻译": "尽管过去几年安哥拉经济强劲增长（仅2007年国内生产总值就增长了19.8%），但科尔姆·福伊表示，人们的生活质量“改善不大”，因此有必要实现经济活动领域多样化。",
+      "原句术语翻译": [
+         "生活质量"
+      ],
+      "insert变异": "Despite the strong growth posted by Angola over the last few years–in 2007 alone it saw GDP growth of 19.8 percent–Colm Foy said that people's quality of life (the general well-being of something or someone) had“improved little, ”and it was thus necessary to diversify sectors of activity.",
+      "insert变异翻译": "尽管安哥拉在过去几年中取得了强劲增长（仅 2007 年其 GDP 就增长了 19.8%），但科尔姆·福伊表示，人们的生活质量（某事或某人的总体福利）“改善不大”，因此有必要实现活动领域的多样化。",
+      "insert术语翻译": [
+         "生活质量"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "尽管安哥拉在过去几年中取得了强劲增长，但科尔姆·福伊表示，人们的生活质量“改善不大”，因此有必要实现活动领域的多样化。",
+      "原句翻译去括号": "尽管过去几年安哥拉经济强劲增长，但科尔姆·福伊表示，人们的生活质量“改善不大”，因此有必要实现经济活动领域多样化。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9535717368125916
+      ],
+      "替换变异": [
+         "Despite the strong growth posted by Angola over the last few years–in 2007 alone it saw GDP growth of 19.8 percent–Colm Foy said that people's way of life had“improved little, ”and it was thus necessary to diversify sectors of activity."
+      ],
+      "替换术语": [
+         "way of life"
+      ],
+      "替换翻译": [
+         "尽管安哥拉过去几年经济增长强劲（仅2007年国内生产总值就增长了19.8%），但科尔姆·福伊表示，人们的生活方式“改善不大”，因此有必要实现经济活动领域多样化。"
+      ],
+      "替换术语翻译": [
+         "生活方式"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7084454298019409
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         1,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         1,
+         0
+      ],
+      "final_result": [
+         0,
+         1,
+         0
+      ]
+   },
+   "These abilities derive from something called machine learning, which is at the heart of many modern AI applications.": {
+      "序号": 32,
+      "原句": "These abilities derive from something called machine learning, which is at the heart of many modern AI applications.",
+      "术语": "machine learning",
+      "原句翻译": "这些能力源自所谓的机器学习，它是许多现代人工智能应用的核心。",
+      "原句术语翻译": [
+         "机器学习，"
+      ],
+      "insert变异": "These abilities derive from something called machine learning (a field of study concerned with the design and development of algorithms and techniques that allow computers to learn), which is at the heart of many modern AI applications.",
+      "insert变异翻译": "这些能力源自所谓的机器学习（一门研究设计和开发使计算机能够学习的算法和技术的研究领域），它是许多现代人工智能应用的核心。",
+      "insert术语翻译": [
+         "机器学习，"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "这些能力源自所谓的机器学习，它是许多现代人工智能应用的核心。",
+      "原句翻译去括号": "这些能力源自所谓的机器学习，它是许多现代人工智能应用的核心。",
+      "insert和原句翻译去括号部分相似度": [
+         1.0
+      ],
+      "替换变异": [
+         "These abilities derive from something called machine intelligence, which is at the heart of many modern AI applications."
+      ],
+      "替换术语": [
+         "machine intelligence"
+      ],
+      "替换翻译": [
+         "这些能力源自所谓的机器智能，它是许多现代人工智能应用的核心。"
+      ],
+      "替换术语翻译": [
+         "机器智能，"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.8156911134719849
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "In order to improve the reaction performance of Cu-based catalyst for production of methanol, eliminate disadvantageous influence of Na + in Na 2CO 3, which is used for precipitant. A Cu-based catalyst for production of methanol from synthesis gas (CO+H 2) was prepared by thermal decomposition method.": {
+      "序号": 33,
+      "原句": "In order to improve the reaction performance of Cu-based catalyst for production of methanol, eliminate disadvantageous influence of Na + in Na 2CO 3, which is used for precipitant. A Cu-based catalyst for production of methanol from synthesis gas (CO+H 2) was prepared by thermal decomposition method.",
+      "术语": "synthesis gas",
+      "原句翻译": "为了提高Cu基甲醇催化剂的反应性能,消除沉淀剂Na2CO3中Na+对反应的不利影响,采用热分解法制备了合成气(CO+H2)制甲醇Cu基催化剂。",
+      "原句术语翻译": [
+         "合成气"
+      ],
+      "insert变异": "In order to improve the reaction performance of Cu-based catalyst for production of methanol, eliminate disadvantageous influence of Na + in Na 2CO 3, which is used for precipitant. A Cu-based catalyst for production of methanol from synthesis gas (the gas obtained by heating coal and steam; coal gas) (CO+H 2) was prepared by thermal decomposition method.",
+      "insert变异翻译": "为了提高Cu基甲醇催化剂的反应性能,消除沉淀剂Na2CO3中Na+的不利影响,采用热分解法制备了合成气(煤与水蒸气加热得到的气体;煤气)(CO+H2)制甲醇Cu基催化剂。",
+      "insert术语翻译": [
+         "合成气"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "为了提高Cu基甲醇催化剂的反应性能,消除沉淀剂Na2CO3中Na+的不利影响,采用热分解法制备了合成气制甲醇Cu基催化剂。",
+      "原句翻译去括号": "为了提高Cu基甲醇催化剂的反应性能,消除沉淀剂Na2CO3中Na+对反应的不利影响,采用热分解法制备了合成气制甲醇Cu基催化剂。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9982279539108276
+      ],
+      "替换变异": [
+         "In order to improve the reaction performance of Cu-based catalyst for production of methanol, eliminate disadvantageous influence of Na + in Na 2CO 3, which is used for precipitant. A Cu-based catalyst for production of methanol from natural gas (CO+H 2) was prepared by thermal decomposition method.",
+         "In order to improve the reaction performance of Cu-based catalyst for production of methanol, eliminate disadvantageous influence of Na + in Na 2CO 3, which is used for precipitant. A Cu-based catalyst for production of methanol from hydrogen gas (CO+H 2) was prepared by thermal decomposition method.",
+         "In order to improve the reaction performance of Cu-based catalyst for production of methanol, eliminate disadvantageous influence of Na + in Na 2CO 3, which is used for precipitant. A Cu-based catalyst for production of methanol from nitrogen gas (CO+H 2) was prepared by thermal decomposition method."
+      ],
+      "替换术语": [
+         "natural gas",
+         "hydrogen gas",
+         "nitrogen gas"
+      ],
+      "替换翻译": [
+         "为了提高Cu基甲醇催化剂的反应性能,消除沉淀剂Na2CO3中Na+对反应的不利影响,采用热分解法制备了天然气(CO+H2)制甲醇Cu基催化剂。",
+         "为了提高Cu基甲醇催化剂的反应性能,消除沉淀剂Na2CO3中Na+的不利影响,采用热分解法制备了氢气(CO+H2)制甲醇Cu基催化剂。",
+         "为了提高Cu基甲醇催化剂的反应性能,消除沉淀剂Na2CO3中Na+对反应的不利影响,采用热分解法制备了氮气(CO+H2)制甲醇Cu基催化剂。"
+      ],
+      "替换术语翻译": [
+         "天然气",
+         "氢气",
+         "氮气"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.6023688912391663,
+         0.6345853805541992,
+         0.6119760870933533
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "While remaining chief executive, Mr McClendon will give up the chair of Chesapeake to someone independent.": {
+      "序号": 34,
+      "原句": "While remaining chief executive, Mr McClendon will give up the chair of Chesapeake to someone independent.",
+      "术语": "chief executive",
+      "原句翻译": "麦克伦登先生在继续担任首席执行官的同时，将把切萨皮克公司的董事长一职移交给一位独立人士。",
+      "原句术语翻译": [
+         "首席执行官，"
+      ],
+      "insert变异": "While remaining chief executive (chief executive officer), Mr McClendon will give up the chair of Chesapeake to someone independent.",
+      "insert变异翻译": "麦克伦登先生在继续担任首席执行官的同时，将把切萨皮克公司的董事长一职移交给一位独立人士。",
+      "insert术语翻译": [
+         "首席执行官，"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "麦克伦登先生在继续担任首席执行官的同时，将把切萨皮克公司的董事长一职移交给一位独立人士。",
+      "原句翻译去括号": "麦克伦登先生在继续担任首席执行官的同时，将把切萨皮克公司的董事长一职移交给一位独立人士。",
+      "insert和原句翻译去括号部分相似度": [
+         1.0
+      ],
+      "替换变异": [
+         "While remaining chief minister, Mr McClendon will give up the chair of Chesapeake to someone independent."
+      ],
+      "替换术语": [
+         "chief minister"
+      ],
+      "替换翻译": [
+         "麦克伦登先生在继续担任首席部长的同时，将把切萨皮克的主席一职移交给一位独立人士。"
+      ],
+      "替换术语翻译": [
+         "首席部长，"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.821333646774292
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "The region’s wind power companies are enraged and are petitioning the regulators.": {
+      "序号": 35,
+      "原句": "The region’s wind power companies are enraged and are petitioning the regulators.",
+      "术语": "wind power",
+      "原句翻译": "该地区的风力发电公司非常愤怒并正在向监管机构请愿。",
+      "原句术语翻译": [
+         "风力发电"
+      ],
+      "insert变异": "The region’s wind power (power of the wind) companies are enraged and are petitioning the regulators.",
+      "insert变异翻译": "该地区的风力发电（风能）公司非常愤怒，并向监管机构提出请愿。",
+      "insert术语翻译": [
+         "风力发电"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "该地区的风力发电公司非常愤怒，并向监管机构提出请愿。",
+      "原句翻译去括号": "该地区的风力发电公司非常愤怒并正在向监管机构请愿。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9865316152572632
+      ],
+      "替换变异": [
+         "The region’s electric power companies are enraged and are petitioning the regulators.",
+         "The region’s major power companies are enraged and are petitioning the regulators.",
+         "The region’s wind turbine companies are enraged and are petitioning the regulators."
+      ],
+      "替换术语": [
+         "electric power",
+         "major power",
+         "wind turbine"
+      ],
+      "替换翻译": [
+         "该地区的电力公司非常愤怒，并向监管机构提出请愿。",
+         "该地区的主要电力公司非常愤怒并正在向监管机构请愿。",
+         "该地区的风力涡轮机公司非常愤怒，并正在向监管机构提出请愿。"
+      ],
+      "替换术语翻译": [
+         "电力公司",
+         "主要电力公司",
+         "风力涡轮机"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.6041631102561951,
+         0.5550392866134644,
+         0.7089976072311401
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "Objective:To study the viability of Staphylococcus aureus and Pseudomonas aeruginosa in different cosmetics and the difference of them between the cosmetics containing or not containing antiseptics. To provide the basis of making up a cosmetic sample for quality control.": {
+      "序号": 36,
+      "原句": "Objective:To study the viability of Staphylococcus aureus and Pseudomonas aeruginosa in different cosmetics and the difference of them between the cosmetics containing or not containing antiseptics. To provide the basis of making up a cosmetic sample for quality control.",
+      "术语": "quality control",
+      "原句翻译": "目的：研究不同化妆品中金黄色葡萄球菌和铜绿假单胞菌的存活率及含防腐剂化妆品和不含防腐剂化妆品中金黄色葡萄球菌和铜绿假单胞菌存活率的差异，为化妆品样品的配制提供质量控制依据。",
+      "原句术语翻译": [
+         "质量控制。"
+      ],
+      "insert变异": "Objective:To study the viability of Staphylococcus aureus and Pseudomonas aeruginosa in different cosmetics and the difference of them between the cosmetics containing or not containing antiseptics. To provide the basis of making up a cosmetic sample for quality control (a control, such as inspection or testing, introduced into an industrial or business process to ensure quality).",
+      "insert变异翻译": "目的：研究不同化妆品中金黄色葡萄球菌和铜绿假单胞菌的存活率，以及含防腐剂和不含防腐剂的化妆品中金黄色葡萄球菌和铜绿假单胞菌的存活率差异，为化妆品质量控制（为确保质量而在工业或商业过程中引入的控制措施，如检查或测试）的化妆品样品配制提供依据。",
+      "insert术语翻译": [
+         "质量控制。"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "目的：研究不同化妆品中金黄色葡萄球菌和铜绿假单胞菌的存活率，以及含防腐剂和不含防腐剂的化妆品中金黄色葡萄球菌和铜绿假单胞菌的存活率差异，为化妆品质量控制的化妆品样品配制提供依据。",
+      "原句翻译去括号": "目的：研究不同化妆品中金黄色葡萄球菌和铜绿假单胞菌的存活率及含防腐剂化妆品和不含防腐剂化妆品中金黄色葡萄球菌和铜绿假单胞菌存活率的差异，为化妆品样品的配制提供质量控制依据。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9877243041992188
+      ],
+      "替换变异": [
+         "Objective:To study the viability of Staphylococcus aureus and Pseudomonas aeruginosa in different cosmetics and the difference of them between the cosmetics containing or not containing antiseptics. To provide the basis of making up a cosmetic sample for quality assurance.",
+         "Objective:To study the viability of Staphylococcus aureus and Pseudomonas aeruginosa in different cosmetics and the difference of them between the cosmetics containing or not containing antiseptics. To provide the basis of making up a cosmetic sample for quality improvement."
+      ],
+      "替换术语": [
+         "quality assurance",
+         "quality improvement"
+      ],
+      "替换翻译": [
+         "目的：研究不同化妆品中金黄色葡萄球菌和铜绿假单胞菌的存活率及含防腐剂化妆品和不含防腐剂化妆品中金黄色葡萄球菌和铜绿假单胞菌存活率的差异，为化妆品样品的配制提供质量保证依据。",
+         "目的：研究不同化妆品中金黄色葡萄球菌和铜绿假单胞菌的存活率及含防腐剂化妆品和不含防腐剂化妆品中金黄色葡萄球菌和铜绿假单胞菌存活率的差异，为化妆品样品配制及质量改进提供依据。"
+      ],
+      "替换术语翻译": [
+         "质量保证。",
+         "质量改进。"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.8123968243598938,
+         0.8230240941047668
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "Background - We examined predictors of early and very long - mitral and tricuspid valve repair for rheumatic disease.": {
+      "序号": 37,
+      "原句": "Background - We examined predictors of early and very long - mitral and tricuspid valve repair for rheumatic disease.",
+      "术语": "tricuspid valve",
+      "原句翻译": "背景 - 我们研究了风湿病二尖瓣和三尖瓣修复的早期和长期预测因素。",
+      "原句术语翻译": [
+         "三尖瓣"
+      ],
+      "insert变异": "Background - We examined predictors of early and very long - mitral and tricuspid valve (a heart valve with three cusps which prevents backflow of blood from the right ventricle into the right atrium) repair for rheumatic disease.",
+      "insert变异翻译": "背景 - 我们研究了风湿病早期和长期二尖瓣和三尖瓣（一种有三个尖瓣的心脏瓣膜，可防止血液从右心室回流到右心房）修复的预测因素。",
+      "insert术语翻译": [
+         "三尖瓣"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "背景 - 我们研究了风湿病早期和长期二尖瓣和三尖瓣修复的预测因素。",
+      "原句翻译去括号": "背景 - 我们研究了风湿病二尖瓣和三尖瓣修复的早期和长期预测因素。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9893780946731567
+      ],
+      "替换变异": [
+         "Background - We examined predictors of early and very long - mitral and tricuspid nerve repair for rheumatic disease.",
+         "Background - We examined predictors of early and very long - mitral and tricuspid bone repair for rheumatic disease."
+      ],
+      "替换术语": [
+         "tricuspid nerve",
+         "tricuspid bone"
+      ],
+      "替换翻译": [
+         "背景 - 我们研究了风湿病二尖瓣和三尖瓣神经修复的早期和长期预测因素。",
+         "背景 - 我们研究了风湿病二尖瓣和三尖瓣骨修复的早期和长期预测因素。"
+      ],
+      "替换术语翻译": [
+         "三尖瓣神经",
+         "三尖瓣骨"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.8518756628036499,
+         0.8830268383026123
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "More than half of the burden from air pollution on human health is borne by people in developing countries.": {
+      "序号": 38,
+      "原句": "More than half of the burden from air pollution on human health is borne by people in developing countries.",
+      "术语": "air pollution",
+      "原句翻译": "空气污染给人类健康带来的负担一半以上由发展中国家的人民承担。",
+      "原句术语翻译": [
+         "空气污染"
+      ],
+      "insert变异": "More than half of the burden from air pollution (the contamination of the atmosphere by noxious gases and particulates) on human health is borne by people in developing countries.",
+      "insert变异翻译": "空气污染（大气中有毒气体和颗粒物的污染）对人类健康造成的负担有一半以上是由发展中国家的人民承担的。",
+      "insert术语翻译": [
+         "空气污染"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "空气污染对人类健康造成的负担有一半以上是由发展中国家的人民承担的。",
+      "原句翻译去括号": "空气污染给人类健康带来的负担一半以上由发展中国家的人民承担。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9916076064109802
+      ],
+      "替换变异": [
+         "More than half of the burden from water pollution on human health is borne by people in developing countries."
+      ],
+      "替换术语": [
+         "water pollution"
+      ],
+      "替换翻译": [
+         "发展中国家的人民承担了水污染给人类健康造成的负担一半以上。"
+      ],
+      "替换术语翻译": [
+         "水污染"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7451645731925964
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "The results were ranked relative to the average performance on those tests for the participants' age group.": {
+      "序号": 39,
+      "原句": "The results were ranked relative to the average performance on those tests for the participants' age group.",
+      "术语": "age group",
+      "原句翻译": "结果是根据参与者年龄组的测试平均成绩进行排名的。",
+      "原句术语翻译": [
+         "年龄组。"
+      ],
+      "insert变异": "The results were ranked relative to the average performance on those tests for the participants' age group (a demographic grouping based on age).",
+      "insert变异翻译": "结果是根据参与者年龄组（基于年龄的人口统计分组）的测试平均表现进行排名的。",
+      "insert术语翻译": [
+         "年龄组。"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0000001192092896
+      ],
+      "insert变异翻译去括号": "结果是根据参与者年龄组的测试平均表现进行排名的。",
+      "原句翻译去括号": "结果是根据参与者年龄组的测试平均成绩进行排名的。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9791083931922913
+      ],
+      "替换变异": [
+         "The results were ranked relative to the average performance on those tests for the participants' age range."
+      ],
+      "替换术语": [
+         "age range"
+      ],
+      "替换翻译": [
+         "结果是根据参与者年龄段的测试平均成绩进行排名的。"
+      ],
+      "替换术语翻译": [
+         "年龄段。"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.8938071131706238
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "Huambo, Angola, 27 May–The first phase of the Ngove dam, located 119 kilometres from the Angolan city of Huambo is due to start operating in the first quarter of 2011, with production of 20 megawatts of electricity, Angolan news agency Angop reported Thursday.": {
+      "序号": 40,
+      "原句": "Huambo, Angola, 27 May–The first phase of the Ngove dam, located 119 kilometres from the Angolan city of Huambo is due to start operating in the first quarter of 2011, with production of 20 megawatts of electricity, Angolan news agency Angop reported Thursday.",
+      "术语": "news agency",
+      "原句翻译": "安哥拉万博5月27日电－安哥拉通讯社周四报道，恩戈韦大坝一期工程位于安哥拉万博市119公里处，预计将于2011年第一季度投入运营，发电量为20兆瓦。",
+      "原句术语翻译": [
+         "通讯社"
+      ],
+      "insert变异": "Huambo, Angola, 27 May–The first phase of the Ngove dam, located 119 kilometres from the Angolan city of Huambo is due to start operating in the first quarter of 2011, with production of 20 megawatts of electricity, Angolan news agency (alternative form of newsagency) Angop reported Thursday.",
+      "insert变异翻译": "安哥拉万博5月27日电－安哥拉通讯社周四报道，恩戈韦大坝一期工程位于安哥拉万博市119公里处，预计将于2011年第一季度投入运营，发电量为20兆瓦。",
+      "insert术语翻译": [
+         "通讯社"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0000001192092896
+      ],
+      "insert变异翻译去括号": "安哥拉万博5月27日电－安哥拉通讯社周四报道，恩戈韦大坝一期工程位于安哥拉万博市119公里处，预计将于2011年第一季度投入运营，发电量为20兆瓦。",
+      "原句翻译去括号": "安哥拉万博5月27日电－安哥拉通讯社周四报道，恩戈韦大坝一期工程位于安哥拉万博市119公里处，预计将于2011年第一季度投入运营，发电量为20兆瓦。",
+      "insert和原句翻译去括号部分相似度": [
+         1.0
+      ],
+      "替换变异": [
+         "Huambo, Angola, 27 May–The first phase of the Ngove dam, located 119 kilometres from the Angolan city of Huambo is due to start operating in the first quarter of 2011, with production of 20 megawatts of electricity, Angolan government agency Angop reported Thursday.",
+         "Huambo, Angola, 27 May–The first phase of the Ngove dam, located 119 kilometres from the Angolan city of Huambo is due to start operating in the first quarter of 2011, with production of 20 megawatts of electricity, Angolan news channel Angop reported Thursday."
+      ],
+      "替换术语": [
+         "government agency",
+         "news channel"
+      ],
+      "替换翻译": [
+         "安哥拉万博5月27日电－安哥拉政府机构安哥拉通讯社周四报道，恩戈韦大坝一期工程位于安哥拉万博市119公里处，将于2011年第一季度投入运营，发电量为20兆瓦。",
+         "安哥拉万博5月27日电－安哥拉新闻频道周四报道，恩戈韦大坝一期工程位于安哥拉万博市119公里处，预计将于2011年第一季度投入运营，发电量为20兆瓦。"
+      ],
+      "替换术语翻译": [
+         "安哥拉政府机构",
+         "新闻频道"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.34420281648635864,
+         0.5810117721557617
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "Seventy-five percent of women do not even have a bank account. Use of bank credit is also far lower among women compared to men.": {
+      "序号": 41,
+      "原句": "Seventy-five percent of women do not even have a bank account. Use of bank credit is also far lower among women compared to men.",
+      "术语": "bank account",
+      "原句翻译": "75%的女性甚至没有银行账户。女性的银行信贷使用率也远低于男性。",
+      "原句术语翻译": [
+         "银行账户。"
+      ],
+      "insert变异": "Seventy-five percent of women do not even have a bank account (a fund, held by a bank in a contractual arrangement between the bank and the owner of the fund, a customer of the bank, into which they can deposit and from which they can withdraw money). Use of bank credit is also far lower among women compared to men.",
+      "insert变异翻译": "75% 的女性甚至没有银行账户（银行与基金所有者（银行客户）之间签订的合同协议下持有的基金，女性可以在该账户中存款和取款）。女性使用银行信贷的比例也远低于男性。",
+      "insert术语翻译": [
+         "银行账户。"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "75% 的女性甚至没有银行账户。女性使用银行信贷的比例也远低于男性。",
+      "原句翻译去括号": "75%的女性甚至没有银行账户。女性的银行信贷使用率也远低于男性。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9931999444961548
+      ],
+      "替换变异": [
+         "Seventy-five percent of women do not even have a bank credit. Use of bank credit is also far lower among women compared to men.",
+         "Seventy-five percent of women do not even have a bank card. Use of bank credit is also far lower among women compared to men."
+      ],
+      "替换术语": [
+         "bank credit",
+         "bank card"
+      ],
+      "替换翻译": [
+         "75%的女性甚至没有银行信贷。女性的银行信贷使用率也远低于男性。",
+         "75%的女性甚至没有银行卡。女性的银行信贷使用率也远低于男性。"
+      ],
+      "替换术语翻译": [
+         "银行信贷。",
+         "银行卡。"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7674803137779236,
+         0.9141078591346741
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "Both sides will uphold the principles of free trade and resist all forms ofprotectionism.": {
+      "序号": 44,
+      "原句": "Both sides will uphold the principles of free trade and resist all forms ofprotectionism.",
+      "术语": "free trade",
+      "原句翻译": "双方将坚持自由贸易原则，抵制一切形式的保护主义。",
+      "原句术语翻译": [
+         "自由贸易"
+      ],
+      "insert变异": "Both sides will uphold the principles of free trade (international trade without government interference, especially from tariffs or duties on imports) and resist all forms ofprotectionism.",
+      "insert变异翻译": "双方将坚持自由贸易原则（不受政府干预的国际贸易，特别是不受进口关税或征税的贸易），抵制一切形式的保护主义。",
+      "insert术语翻译": [
+         "自由贸易"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "双方将坚持自由贸易原则，抵制一切形式的保护主义。",
+      "原句翻译去括号": "双方将坚持自由贸易原则，抵制一切形式的保护主义。",
+      "insert和原句翻译去括号部分相似度": [
+         1.000000238418579
+      ],
+      "替换变异": [
+         "Both sides will uphold the principles of free will and resist all forms ofprotectionism.",
+         "Both sides will uphold the principles of free speech and resist all forms ofprotectionism.",
+         "Both sides will uphold the principles of free association and resist all forms ofprotectionism.",
+         "Both sides will uphold the principles of free enterprise and resist all forms ofprotectionism."
+      ],
+      "替换术语": [
+         "free will",
+         "free speech",
+         "free association",
+         "free enterprise"
+      ],
+      "替换翻译": [
+         "双方将秉持自愿原则，抵制一切形式的保护主义。",
+         "双方将坚持言论自由原则，抵制一切形式的保护主义。",
+         "双方将坚持自由联合原则，抵制一切形式的保护主义。",
+         "双方将坚持自由企业原则，抵制一切形式的保护主义。"
+      ],
+      "替换术语翻译": [
+         "自愿",
+         "言论自由",
+         "自由联合",
+         "自由企业"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.506544828414917,
+         0.5443476438522339,
+         0.5938934683799744,
+         0.7000698447227478
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "He was suffering, he explained in a brief open letter, from a hormonal imbalance that was causing him to lose weight rather dramatically.": {
+      "序号": 45,
+      "原句": "He was suffering, he explained in a brief open letter, from a hormonal imbalance that was causing him to lose weight rather dramatically.",
+      "术语": "open letter",
+      "原句翻译": "他在一封简短的公开信中解释说，他因荷尔蒙失衡而痛苦不堪，这导致他体重急剧下降。",
+      "原句术语翻译": [
+         "公开信，"
+      ],
+      "insert变异": "He was suffering, he explained in a brief open letter (a letter addressed to one person, or more, but published (as for example in a newspaper) for the public to read), from a hormonal imbalance that was causing him to lose weight rather dramatically.",
+      "insert变异翻译": "他在一封简短的公开信（写给一人或多人的信，但公开发表（例如在报纸上）供公众阅读）中解释说，他因荷尔蒙失衡而痛苦不堪，这导致他体重急剧下降。",
+      "insert术语翻译": [
+         "公开信，"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0000001192092896
+      ],
+      "insert变异翻译去括号": "他在一封简短的公开信中解释说，他因荷尔蒙失衡而痛苦不堪，这导致他体重急剧下降。",
+      "原句翻译去括号": "他在一封简短的公开信中解释说，他因荷尔蒙失衡而痛苦不堪，这导致他体重急剧下降。",
+      "insert和原句翻译去括号部分相似度": [
+         1.0
+      ],
+      "替换变异": [
+         "He was suffering, he explained in a brief open statement, from a hormonal imbalance that was causing him to lose weight rather dramatically.",
+         "He was suffering, he explained in a brief open conversation, from a hormonal imbalance that was causing him to lose weight rather dramatically.",
+         "He was suffering, he explained in a brief open interview, from a hormonal imbalance that was causing him to lose weight rather dramatically.",
+         "He was suffering, he explained in a brief open discussion, from a hormonal imbalance that was causing him to lose weight rather dramatically.",
+         "He was suffering, he explained in a brief open sentence, from a hormonal imbalance that was causing him to lose weight rather dramatically."
+      ],
+      "替换术语": [
+         "open statement",
+         "open conversation",
+         "open interview",
+         "open discussion",
+         "open sentence"
+      ],
+      "替换翻译": [
+         "他在一份简短的公开声明中解释说，他因荷尔蒙失衡而痛苦不堪，这导致他体重急剧下降。",
+         "他在一次简短的公开谈话中解释说，他因荷尔蒙失衡而痛苦不堪，这导致他体重急剧下降。",
+         "他在一次简短的公开采访中解释说，他因荷尔蒙失衡而痛苦不堪，这导致他体重急剧下降。",
+         "他在一次简短的公开讨论中解释说，他因荷尔蒙失衡而痛苦不堪，这导致他体重急剧下降。",
+         "他用简短的开放式句子解释说，他因荷尔蒙失衡而痛苦不堪，这导致他体重急剧下降。"
+      ],
+      "替换术语翻译": [
+         "公开声明，",
+         "公开谈话，",
+         "公开采访，",
+         "公开讨论，",
+         "开放式句子，，"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.86713707447052,
+         0.8072116374969482,
+         0.7448844909667969,
+         0.7931505441665649,
+         0.5211411714553833
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "The mother, who had already undergone a hysterectomy to beat cervical cancer, said: 'I'd been saying goodbye and preparing for the end. It was heartbreaking to tell my daughters Mummy was going to die.": {
+      "序号": 46,
+      "原句": "The mother, who had already undergone a hysterectomy to beat cervical cancer, said: 'I'd been saying goodbye and preparing for the end. It was heartbreaking to tell my daughters Mummy was going to die.",
+      "术语": "cervical cancer",
+      "原句翻译": "这位母亲已经接受了子宫切除术以战胜宫颈癌，她说：“我一直在说再见，为生命的终结做准备。当我告诉我女儿妈妈即将死去时，我感到心碎。”",
+      "原句术语翻译": [
+         "宫颈癌，"
+      ],
+      "insert变异": "The mother, who had already undergone a hysterectomy to beat cervical cancer (a type of cancer of the cervix of the uterus which can afflict some female mammals including humans, the term usually does not refer to cancer of the neck or other parts of the anatomy which use the term cervix), said: 'I'd been saying goodbye and preparing for the end. It was heartbreaking to tell my daughters Mummy was going to die.",
+      "insert变异翻译": "这位母亲已经接受了子宫切除术，以战胜宫颈癌（一种发生在子宫颈的癌症，可影响包括人类在内的一些雌性哺乳动物，该术语通常不指颈部或使用宫颈术语的其他解剖部位的癌症），她说：“我一直在说再见，为结束做准备。告诉我女儿妈妈即将死去，我心碎不已。",
+      "insert术语翻译": [
+         "，宫颈癌，"
+      ],
+      "insert和原句术语翻译相似度": [
+         0.9836796522140503
+      ],
+      "insert变异翻译去括号": "这位母亲已经接受了子宫切除术，以战胜宫颈癌，她说：“我一直在说再见，为结束做准备。告诉我女儿妈妈即将死去，我心碎不已。",
+      "原句翻译去括号": "这位母亲已经接受了子宫切除术以战胜宫颈癌，她说：“我一直在说再见，为生命的终结做准备。当我告诉我女儿妈妈即将死去时，我感到心碎。”",
+      "insert和原句翻译去括号部分相似度": [
+         0.979000985622406
+      ],
+      "替换变异": [
+         "The mother, who had already undergone a hysterectomy to beat cervical bleeding, said: 'I'd been saying goodbye and preparing for the end. It was heartbreaking to tell my daughters Mummy was going to die."
+      ],
+      "替换术语": [
+         "cervical bleeding"
+      ],
+      "替换翻译": [
+         "这位母亲已经接受了子宫切除术以控制宫颈出血，她说：“我一直在说再见，为结束做准备。告诉我女儿妈妈即将死去，我心都碎了。”"
+      ],
+      "替换术语翻译": [
+         "宫颈出血，"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7981045842170715
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "The funding generated will be used by Sal city hall to build basic facilities in the towns of Espargos e Santa Maria, specifically a sewage system, public lighting system and telecommunications, domestic water supply and renewal of green areas, amongst other projects.": {
+      "序号": 47,
+      "原句": "The funding generated will be used by Sal city hall to build basic facilities in the towns of Espargos e Santa Maria, specifically a sewage system, public lighting system and telecommunications, domestic water supply and renewal of green areas, amongst other projects.",
+      "术语": "city hall",
+      "原句翻译": "所筹资金将由萨尔市政厅用于在埃斯帕戈斯和圣玛丽亚镇建设基础设施，特别是污水处理系统、公共照明系统和电信、生活供水和绿地更新等项目。",
+      "原句术语翻译": [
+         "市政厅"
+      ],
+      "insert变异": "The funding generated will be used by Sal city hall (the city government; government in general) to build basic facilities in the towns of Espargos e Santa Maria, specifically a sewage system, public lighting system and telecommunications, domestic water supply and renewal of green areas, amongst other projects.",
+      "insert变异翻译": "所筹资金将由萨尔市政厅（市政府；总称政府）用于建设埃斯帕戈斯和圣玛丽亚城镇的基础设施，特别是污水处理系统、公共照明系统和电信、生活供水和绿地更新等项目。",
+      "insert术语翻译": [
+         "市政厅"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0000001192092896
+      ],
+      "insert变异翻译去括号": "所筹资金将由萨尔市政厅用于建设埃斯帕戈斯和圣玛丽亚城镇的基础设施，特别是污水处理系统、公共照明系统和电信、生活供水和绿地更新等项目。",
+      "原句翻译去括号": "所筹资金将由萨尔市政厅用于在埃斯帕戈斯和圣玛丽亚镇建设基础设施，特别是污水处理系统、公共照明系统和电信、生活供水和绿地更新等项目。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9950746893882751
+      ],
+      "替换变异": [
+         "The funding generated will be used by Sal city council to build basic facilities in the towns of Espargos e Santa Maria, specifically a sewage system, public lighting system and telecommunications, domestic water supply and renewal of green areas, amongst other projects.",
+         "The funding generated will be used by Sal city government to build basic facilities in the towns of Espargos e Santa Maria, specifically a sewage system, public lighting system and telecommunications, domestic water supply and renewal of green areas, amongst other projects.",
+         "The funding generated will be used by Sal city administration to build basic facilities in the towns of Espargos e Santa Maria, specifically a sewage system, public lighting system and telecommunications, domestic water supply and renewal of green areas, amongst other projects."
+      ],
+      "替换术语": [
+         "city council",
+         "city government",
+         "city administration"
+      ],
+      "替换翻译": [
+         "所筹资金将由萨尔市议会用于在埃斯帕戈斯和圣玛丽亚镇建设基础设施，特别是污水处理系统、公共照明系统和电信、生活供水和绿地更新等项目。",
+         "所筹资金将由萨尔市政府用于在埃斯帕戈斯和圣玛丽亚镇建设基础设施，特别是污水处理系统、公共照明系统和电信、生活供水和绿地更新等项目。",
+         "所筹资金将由萨尔市政府用于在埃斯帕戈斯和圣玛丽亚镇建设基础设施，特别是污水处理系统、公共照明系统和电信、生活供水和绿地更新等项目。"
+      ],
+      "替换术语翻译": [
+         "市议会",
+         "市政府",
+         "市政府"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.602807879447937,
+         0.7847414612770081,
+         0.7847414612770081
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "In the methodology study on Fengshi Zhitong Adhesive Plasters, the average recovery of camphor, menthol, synthetic borneol, and methyl salicylate were 95.54%( RSD =1.6%), 96.90%( RSD =2.2%), 97.30%( RSD =1.4%), and 96.48%( RSD =2.8%), respectively.": {
+      "序号": 49,
+      "原句": "In the methodology study on Fengshi Zhitong Adhesive Plasters, the average recovery of camphor, menthol, synthetic borneol, and methyl salicylate were 95.54%( RSD =1.6%), 96.90%( RSD =2.2%), 97.30%( RSD =1.4%), and 96.48%( RSD =2.8%), respectively.",
+      "术语": "methyl salicylate",
+      "原句翻译": "在风湿止痛贴的方法学研究中,樟脑、薄荷脑、冰片、水杨酸甲酯的平均回收率分别为95.54%(RSD=1.6%)、96.90%(RSD=2.2%)、97.30%(RSD=1.4%)、96.48%(RSD=2.8%)。",
+      "原句术语翻译": [
+         "水杨酸甲酯"
+      ],
+      "insert变异": "In the methodology study on Fengshi Zhitong Adhesive Plasters, the average recovery of camphor, menthol, synthetic borneol, and methyl salicylate (the methyl ester of salicylic acid and the principal constituent of oil of wintergreen) were 95.54%( RSD =1.6%), 96.90%( RSD =2.2%), 97.30%( RSD =1.4%), and 96.48%( RSD =2.8%), respectively.",
+      "insert变异翻译": "在风湿止痛贴的方法学研究中,樟脑、薄荷脑、冰片、水杨酸甲酯(水杨酸的甲酯,冬青油的主要成分)的平均回收率分别为95.54%(RSD=1.6%)、96.90%(RSD=2.2%)、97.30%(RSD=1.4%)、96.48%(RSD=2.8%)。",
+      "insert术语翻译": [
+         "水杨酸甲酯"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "在风湿止痛贴的方法学研究中,樟脑、薄荷脑、冰片、水杨酸甲酯的平均回收率分别为95.54%、96.90%、97.30%、96.48%。",
+      "原句翻译去括号": "在风湿止痛贴的方法学研究中,樟脑、薄荷脑、冰片、水杨酸甲酯的平均回收率分别为95.54%、96.90%、97.30%、96.48%。",
+      "insert和原句翻译去括号部分相似度": [
+         1.0
+      ],
+      "替换变异": [
+         "In the methodology study on Fengshi Zhitong Adhesive Plasters, the average recovery of camphor, menthol, synthetic borneol, and diethyl salicylate were 95.54%( RSD =1.6%), 96.90%( RSD =2.2%), 97.30%( RSD =1.4%), and 96.48%( RSD =2.8%), respectively."
+      ],
+      "替换术语": [
+         "diethyl salicylate"
+      ],
+      "替换翻译": [
+         "在风湿止痛贴的方法学研究中,樟脑、薄荷脑、冰片、水杨酸二乙酯的平均回收率分别为95.54%(RSD=1.6%)、96.90%(RSD=2.2%)、97.30%(RSD=1.4%)、96.48%(RSD=2.8%)。"
+      ],
+      "替换术语翻译": [
+         "水杨酸乙酯"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.8907111883163452
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "“In a market economy environment, sudden variations or a great magnitude and with a trend for raising exchange rates, their spreads and inflation, are unequivocal signs of an economy who's state of health requires appropriate intervention, ”he said.": {
+      "序号": 50,
+      "原句": "“In a market economy environment, sudden variations or a great magnitude and with a trend for raising exchange rates, their spreads and inflation, are unequivocal signs of an economy who's state of health requires appropriate intervention, ”he said.",
+      "术语": "market economy",
+      "原句翻译": "他说：“在市场经济环境中，汇率、利差和通货膨胀的突然变化或大幅上升以及伴随的趋势，都是经济健康状况需要适当干预的明确信号。”",
+      "原句术语翻译": [
+         "市场经济"
+      ],
+      "insert变异": "“In a market economy (an economy in which goods and services are exchanged in a market, as opposed to a state-controlled economy) environment, sudden variations or a great magnitude and with a trend for raising exchange rates, their spreads and inflation, are unequivocal signs of an economy who's state of health requires appropriate intervention, ”he said.",
+      "insert变异翻译": "他说：“在市场经济（商品和服务在市场上交换的经济，而不是国家控制的经济）环境下，汇率、利差和通胀的突然变化或大幅上升趋势，都是经济健康状况需要适当干预的明确信号。”",
+      "insert术语翻译": [
+         "市场经济"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "他说：“在市场经济环境下，汇率、利差和通胀的突然变化或大幅上升趋势，都是经济健康状况需要适当干预的明确信号。”",
+      "原句翻译去括号": "他说：“在市场经济环境中，汇率、利差和通货膨胀的突然变化或大幅上升以及伴随的趋势，都是经济健康状况需要适当干预的明确信号。”",
+      "insert和原句翻译去括号部分相似度": [
+         0.9875060319900513
+      ],
+      "替换变异": [
+         "“In a market like environment, sudden variations or a great magnitude and with a trend for raising exchange rates, their spreads and inflation, are unequivocal signs of an economy who's state of health requires appropriate intervention, ”he said."
+      ],
+      "替换术语": [
+         "market like"
+      ],
+      "替换翻译": [
+         "他说：“在类似市场的环境中，汇率、利差和通胀的突然变化或大幅上升以及趋势都是经济健康状况需要适当干预的明确信号。”"
+      ],
+      "替换术语翻译": [
+         "类似市场"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.6031080484390259
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "Mainstream mortgage -backed securities are another obvious asset class: the market is now discounting worst -case default rates and mortgage markets need a blood transfusion.": {
+      "序号": 51,
+      "原句": "Mainstream mortgage -backed securities are another obvious asset class: the market is now discounting worst -case default rates and mortgage markets need a blood transfusion.",
+      "术语": "blood transfusion",
+      "原句翻译": "主流抵押贷款支持证券是另一个明显的资产类别：市场目前正在考虑最坏情况的违约率，抵押贷款市场需要输血。",
+      "原句术语翻译": [
+         "输血。"
+      ],
+      "insert变异": "Mainstream mortgage -backed securities are another obvious asset class: the market is now discounting worst -case default rates and mortgage markets need a blood transfusion (the taking of blood from one individual and inserting it or blood-based products into the circulatory system of another).",
+      "insert变异翻译": "主流抵押贷款支持证券是另一个明显的资产类别：市场目前正在考虑最坏情况的违约率，而抵押贷款市场需要输血（从一个人体内抽取血液并将其注入另一个人的循环系统或血液制品中）。",
+      "insert术语翻译": [
+         "输血。"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "主流抵押贷款支持证券是另一个明显的资产类别：市场目前正在考虑最坏情况的违约率，而抵押贷款市场需要输血。",
+      "原句翻译去括号": "主流抵押贷款支持证券是另一个明显的资产类别：市场目前正在考虑最坏情况的违约率，抵押贷款市场需要输血。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9971163868904114
+      ],
+      "替换变异": [
+         "Mainstream mortgage -backed securities are another obvious asset class: the market is now discounting worst -case default rates and mortgage markets need a cash transfusion.",
+         "Mainstream mortgage -backed securities are another obvious asset class: the market is now discounting worst -case default rates and mortgage markets need a credit transfusion.",
+         "Mainstream mortgage -backed securities are another obvious asset class: the market is now discounting worst -case default rates and mortgage markets need a market transfusion."
+      ],
+      "替换术语": [
+         "cash transfusion",
+         "credit transfusion",
+         "market transfusion"
+      ],
+      "替换翻译": [
+         "主流抵押贷款支持证券是另一个明显的资产类别：市场目前正在考虑最坏情况的违约率，抵押贷款市场需要现金注入。",
+         "主流抵押贷款支持证券是另一个明显的资产类别：市场目前正在考虑最坏情况的违约率，抵押贷款市场需要信贷注入。",
+         "主流抵押贷款支持证券是另一个明显的资产类别：市场目前正在考虑最坏情况的违约率，抵押贷款市场需要市场输血。"
+      ],
+      "替换术语翻译": [
+         "现金注入。",
+         "信贷注入。",
+         "市场输血。"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.6478302478790283,
+         0.5893446207046509,
+         0.7933784127235413
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "Education may not be essential for this career, but you can get a foot in the door while bettering your prospects for advancement with basic training in an automotive and diesel technology program.": {
+      "序号": 53,
+      "原句": "Education may not be essential for this career, but you can get a foot in the door while bettering your prospects for advancement with basic training in an automotive and diesel technology program.",
+      "术语": "basic training",
+      "原句翻译": "教育对于这个职业来说可能不是必需的，但通过汽车和柴油技术项目的基础培训，您可以获得入门机会，同时改善晋升前景。",
+      "原句术语翻译": [
+         "基础培训"
+      ],
+      "insert变异": "Education may not be essential for this career, but you can get a foot in the door while bettering your prospects for advancement with basic training (the standard training regime for introducing new recruits to the organization's discipline and basic operational skills) in an automotive and diesel technology program.",
+      "insert变异翻译": "教育对于这个职业来说可能不是必需的，但您可以通过汽车和柴油技术项目中的基础培训（向新员工介绍组织的纪律和基本操作技能的标准培训制度）获得入门机会，同时改善晋升前景。",
+      "insert术语翻译": [
+         "基础培训"
+      ],
+      "insert和原句术语翻译相似度": [
+         0.9999999403953552
+      ],
+      "insert变异翻译去括号": "教育对于这个职业来说可能不是必需的，但您可以通过汽车和柴油技术项目中的基础培训获得入门机会，同时改善晋升前景。",
+      "原句翻译去括号": "教育对于这个职业来说可能不是必需的，但通过汽车和柴油技术项目的基础培训，您可以获得入门机会，同时改善晋升前景。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9958820343017578
+      ],
+      "替换变异": [
+         "Education may not be essential for this career, but you can get a foot in the door while bettering your prospects for advancement with basic education in an automotive and diesel technology program."
+      ],
+      "替换术语": [
+         "basic education"
+      ],
+      "替换翻译": [
+         "教育对于这个职业来说可能不是必需的，但您可以通过汽车和柴油技术课程的基础教育获得入门机会，同时改善晋升前景。"
+      ],
+      "替换术语翻译": [
+         "基础教育"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7707671523094177
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "He is certain he heard footsteps: they come nearer, and then die away. The ray of light beneath his door is extinguished. It is midnight;": {
+      "序号": 55,
+      "原句": "He is certain he heard footsteps: they come nearer, and then die away. The ray of light beneath his door is extinguished. It is midnight;",
+      "术语": "ray of light",
+      "原句翻译": "他确信自己听到了脚步声：脚步声越来越近，然后渐渐消失。门下的光线熄灭了。现在是午夜；",
+      "原句术语翻译": [
+         "光线"
+      ],
+      "insert变异": "He is certain he heard footsteps: they come nearer, and then die away. The ray of light (an inspiring or enlightening person or thing) beneath his door is extinguished. It is midnight;",
+      "insert变异翻译": "他确信自己听到了脚步声：脚步声越来越近，然后渐渐消失。门下的光线（一个鼓舞人心或开悟的人或事物）熄灭了。现在是午夜；",
+      "insert术语翻译": [
+         "光线"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.000000238418579
+      ],
+      "insert变异翻译去括号": "他确信自己听到了脚步声：脚步声越来越近，然后渐渐消失。门下的光线熄灭了。现在是午夜；",
+      "原句翻译去括号": "他确信自己听到了脚步声：脚步声越来越近，然后渐渐消失。门下的光线熄灭了。现在是午夜；",
+      "insert和原句翻译去括号部分相似度": [
+         1.0000001192092896
+      ],
+      "替换变异": [
+         "He is certain he heard footsteps: they come nearer, and then die away. The pool of light beneath his door is extinguished. It is midnight;",
+         "He is certain he heard footsteps: they come nearer, and then die away. The circle of light beneath his door is extinguished. It is midnight;",
+         "He is certain he heard footsteps: they come nearer, and then die away. The beam of light beneath his door is extinguished. It is midnight;",
+         "He is certain he heard footsteps: they come nearer, and then die away. The ray of sunlight beneath his door is extinguished. It is midnight;"
+      ],
+      "替换术语": [
+         "pool of light",
+         "circle of light",
+         "beam of light",
+         "ray of sunlight"
+      ],
+      "替换翻译": [
+         "他确信自己听到了脚步声：脚步声越来越近，然后渐渐消失。门下的灯光已经熄灭。现在是午夜；",
+         "他确信自己听到了脚步声：脚步声越来越近，然后渐渐消失。门下的灯光熄灭了。现在是午夜；",
+         "他确信自己听到了脚步声：脚步声越来越近，然后渐渐消失。门下的光束熄灭了。现在是午夜；",
+         "他确信自己听到了脚步声：脚步声越来越近，然后渐渐消失。门下的阳光消失了。现在是午夜；"
+      ],
+      "替换术语翻译": [
+         "灯光",
+         "灯光",
+         "光束",
+         "的阳光"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.8026807904243469,
+         0.8026807904243469,
+         0.6343281865119934,
+         0.6445451974868774
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "Luanda, Angola, 13 Nov–The Angolan capital of Luanda has since Friday had four new municipal markets, with a capacity for some 3,650 sellers, at an investment of US$12.5 million financed by a Chinese credit line, officials said.": {
+      "序号": 56,
+      "原句": "Luanda, Angola, 13 Nov–The Angolan capital of Luanda has since Friday had four new municipal markets, with a capacity for some 3,650 sellers, at an investment of US$12.5 million financed by a Chinese credit line, officials said.",
+      "术语": "credit line",
+      "原句翻译": "安哥拉罗安达 11 月 13 日电 — 官员称，安哥拉首都罗安达自周五起新建四个市政市场，可容纳约 3,650 名商贩，投资额为 1,250 万美元，由中国提供信贷资金。",
+      "原句术语翻译": [
+         "信贷资金"
+      ],
+      "insert变异": "Luanda, Angola, 13 Nov–The Angolan capital of Luanda has since Friday had four new municipal markets, with a capacity for some 3,650 sellers, at an investment of US$12.5 million financed by a Chinese credit line (a line of printed text attached to written material, an image, illustration, or the like, which identifies the author, photographer, or other source), officials said.",
+      "insert变异翻译": "安哥拉罗安达11月13日电—安哥拉首都罗安达自周五起开设了四个新的市政市场，可容纳约3,650名商贩，投资额为1,250万美元，由中国信贷额度（附在书面材料、图片、插图或类似物上的一行印刷文字，用于标明作者、摄影师或其他来源）资助，官员称。",
+      "insert术语翻译": [
+         "信贷额度，"
+      ],
+      "insert和原句术语翻译相似度": [
+         0.7858119010925293
+      ],
+      "insert变异翻译去括号": "安哥拉罗安达11月13日电—安哥拉首都罗安达自周五起开设了四个新的市政市场，可容纳约3,650名商贩，投资额为1,250万美元，由中国信贷额度资助，官员称。",
+      "原句翻译去括号": "安哥拉罗安达 11 月 13 日电 — 官员称，安哥拉首都罗安达自周五起新建四个市政市场，可容纳约 3,650 名商贩，投资额为 1,250 万美元，由中国提供信贷资金。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9840530753135681
+      ],
+      "替换变异": [
+         "Luanda, Angola, 13 Nov–The Angolan capital of Luanda has since Friday had four new municipal markets, with a capacity for some 3,650 sellers, at an investment of US$12.5 million financed by a Chinese telephone line, officials said.",
+         "Luanda, Angola, 13 Nov–The Angolan capital of Luanda has since Friday had four new municipal markets, with a capacity for some 3,650 sellers, at an investment of US$12.5 million financed by a Chinese phone line, officials said.",
+         "Luanda, Angola, 13 Nov–The Angolan capital of Luanda has since Friday had four new municipal markets, with a capacity for some 3,650 sellers, at an investment of US$12.5 million financed by a Chinese credit union, officials said.",
+         "Luanda, Angola, 13 Nov–The Angolan capital of Luanda has since Friday had four new municipal markets, with a capacity for some 3,650 sellers, at an investment of US$12.5 million financed by a Chinese credit card, officials said.",
+         "Luanda, Angola, 13 Nov–The Angolan capital of Luanda has since Friday had four new municipal markets, with a capacity for some 3,650 sellers, at an investment of US$12.5 million financed by a Chinese credit company, officials said."
+      ],
+      "替换术语": [
+         "telephone line",
+         "phone line",
+         "credit union",
+         "credit card",
+         "credit company"
+      ],
+      "替换翻译": [
+         "安哥拉罗安达 11 月 13 日电 — 官员称，安哥拉首都罗安达自周五起新建四个市政市场，可容纳约 3,650 名商贩，投资额为 1,250 万美元，由一条中国电话线路提供资金。",
+         "安哥拉罗安达 11 月 13 日电 — 官员称，安哥拉首都罗安达自周五起新建四个市政市场，可容纳约 3,650 名商贩，投资额为 1,250 万美元，由一条中国电话线路提供资金。",
+         "安哥拉罗安达 11 月 13 日电 — 官员称，安哥拉首都罗安达自周五起新建四个市政市场，可容纳约 3,650 名商贩，投资额为 1,250 万美元，由一家中国信用合作社提供资金。",
+         "安哥拉罗安达 11 月 13 日电—官员称，安哥拉首都罗安达自周五起新建四个市政市场，可容纳约 3,650 名商贩，投资额为 1,250 万美元，由一张中国信用卡提供资金。",
+         "安哥拉罗安达 11 月 13 日电 — 官员称，安哥拉首都罗安达自周五起新建四个市政市场，可容纳约 3,650 名商贩，投资额为 1,250 万美元，由一家中国信贷公司提供资金。"
+      ],
+      "替换术语翻译": [
+         "电话线路",
+         "电话线路",
+         "信用合作社",
+         "信用卡",
+         "信贷公司"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.391994833946228,
+         0.391994833946228,
+         0.5880218744277954,
+         0.6200084686279297,
+         0.7454749941825867
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         1,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         1,
+         0,
+         0
+      ],
+      "final_result": [
+         1,
+         0,
+         0
+      ]
+   },
+   "Workers at the North Carolina factory build alternative fuel vehicles.": {
+      "序号": 57,
+      "原句": "Workers at the North Carolina factory build alternative fuel vehicles.",
+      "术语": "alternative fuel",
+      "原句翻译": "北卡罗来纳州工厂的工人们生产替代燃料汽车。",
+      "原句术语翻译": [
+         "替代燃料"
+      ],
+      "insert变异": "Workers at the North Carolina factory build alternative fuel (any fuel that is not diesel or petrol (petroleum-based)) vehicles.",
+      "insert变异翻译": "北卡罗来纳州工厂的工人生产替代燃料（任何非柴油或汽油（石油基）的燃料）汽车。",
+      "insert术语翻译": [
+         "替代燃料"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0000001192092896
+      ],
+      "insert变异翻译去括号": "北卡罗来纳州工厂的工人生产替代燃料汽车。",
+      "原句翻译去括号": "北卡罗来纳州工厂的工人们生产替代燃料汽车。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9952619075775146
+      ],
+      "替换变异": [
+         "Workers at the North Carolina factory build alternative energy vehicles."
+      ],
+      "替换术语": [
+         "alternative energy"
+      ],
+      "替换翻译": [
+         "北卡罗来纳州工厂的工人们生产替代能源汽车。"
+      ],
+      "替换术语翻译": [
+         "替代能源"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.8552323579788208
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "including holding burning, electric shocks, mock executions, sexual abuse and religious humiliation.": {
+      "序号": 58,
+      "原句": "including holding burning, electric shocks, mock executions, sexual abuse and religious humiliation.",
+      "术语": "sexual abuse",
+      "原句翻译": "包括焚烧、电击、模拟处决、性虐待和宗教羞辱。",
+      "原句术语翻译": [
+         "性虐待"
+      ],
+      "insert变异": "including holding burning, electric shocks, mock executions, sexual abuse (any sexual activity that is undesired by one participant but forced on them nonetheless, especially when considered to be more sustained or frequent than an incident of sexual assault) and religious humiliation.",
+      "insert变异翻译": "包括监禁、焚烧、电击、模拟处决、性虐待（任何一方不愿意但仍然强迫其进行的性行为，尤其是当其持续时间更长或比性侵犯事件更频繁时）和宗教羞辱。",
+      "insert术语翻译": [
+         "性虐待"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "包括监禁、焚烧、电击、模拟处决、性虐待和宗教羞辱。",
+      "原句翻译去括号": "包括焚烧、电击、模拟处决、性虐待和宗教羞辱。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9676506519317627
+      ],
+      "替换变异": [
+         "including holding burning, electric shocks, mock executions, sexual assault and religious humiliation.",
+         "including holding burning, electric shocks, mock executions, sexual harassment and religious humiliation.",
+         "including holding burning, electric shocks, mock executions, sexual violence and religious humiliation.",
+         "including holding burning, electric shocks, mock executions, sexual humiliation and religious humiliation."
+      ],
+      "替换术语": [
+         "sexual assault",
+         "sexual harassment",
+         "sexual violence",
+         "sexual humiliation"
+      ],
+      "替换翻译": [
+         "包括焚烧、电击、模拟处决、性侵犯和宗教羞辱。",
+         "包括焚烧、电击、模拟处决、性骚扰和宗教羞辱。",
+         "包括焚烧、电击、模拟处决、性暴力和宗教羞辱。",
+         "包括焚烧、电击、模拟处决、性羞辱和宗教羞辱。"
+      ],
+      "替换术语翻译": [
+         "性侵犯",
+         "性骚扰",
+         "性暴力",
+         "性羞辱"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7126774191856384,
+         0.6997523307800293,
+         0.7548518180847168,
+         0.7201552391052246
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         1,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "At last, the research bring five advices for administrator of merged universities as follow: agglomerate morale by common vision, putting democracy into effect by enhance superintendence, constructing reticulate flat organizational structure in order to carry out collegiality, reinforcing communication by construct open system, using information technology to assist management.": {
+      "序号": 59,
+      "原句": "At last, the research bring five advices for administrator of merged universities as follow: agglomerate morale by common vision, putting democracy into effect by enhance superintendence, constructing reticulate flat organizational structure in order to carry out collegiality, reinforcing communication by construct open system, using information technology to assist management.",
+      "术语": "information technology",
+      "原句翻译": "最后，研究对合并高校管理者提出五点建议：以共同愿景凝聚士气，以加强监督落实民主，以构建网状扁平组织结构发挥集体主义作用，以构建开放制度加强沟通，以信息技术辅助管理。",
+      "原句术语翻译": [
+         "信息技术"
+      ],
+      "insert变异": "At last, the research bring five advices for administrator of merged universities as follow: agglomerate morale by common vision, putting democracy into effect by enhance superintendence, constructing reticulate flat organizational structure in order to carry out collegiality, reinforcing communication by construct open system, using information technology (the computing department of an organization) to assist management.",
+      "insert变异翻译": "最后，研究对合并高校管理者提出了五点建议：以共同愿景凝聚士气，以加强监督落实民主，以构建网状扁平组织结构发挥集体主义作用，以构建开放系统加强沟通，以信息技术（组织中的计算部门）协助管理。",
+      "insert术语翻译": [
+         "信息技术"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "最后，研究对合并高校管理者提出了五点建议：以共同愿景凝聚士气，以加强监督落实民主，以构建网状扁平组织结构发挥集体主义作用，以构建开放系统加强沟通，以信息技术协助管理。",
+      "原句翻译去括号": "最后，研究对合并高校管理者提出五点建议：以共同愿景凝聚士气，以加强监督落实民主，以构建网状扁平组织结构发挥集体主义作用，以构建开放制度加强沟通，以信息技术辅助管理。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9945551156997681
+      ],
+      "替换变异": [
+         "At last, the research bring five advices for administrator of merged universities as follow: agglomerate morale by common vision, putting democracy into effect by enhance superintendence, constructing reticulate flat organizational structure in order to carry out collegiality, reinforcing communication by construct open system, using modern technology to assist management."
+      ],
+      "替换术语": [
+         "modern technology"
+      ],
+      "替换翻译": [
+         "最后，研究对合并高校管理者提出五点建议：以共同愿景凝聚士气，以加强监督落实民主，以构建网状扁平组织结构发挥集体主义作用，以构建开放制度加强沟通，以运用现代技术辅助管理。"
+      ],
+      "替换术语翻译": [
+         "现代技术"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7202188968658447
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "Beijing, China, 26 Dec–China's central bank has revised its GDP forecast for 2005 from 9.2 percent to 9.4 percent, the Financial News daily reported Monday.": {
+      "序号": 62,
+      "原句": "Beijing, China, 26 Dec–China's central bank has revised its GDP forecast for 2005 from 9.2 percent to 9.4 percent, the Financial News daily reported Monday.",
+      "术语": "central bank",
+      "原句翻译": "中国北京 12 月 26 日电—《金融新闻》周一报道，中国央行已将 2005 年 GDP 增长预测从 9.2% 修改为 9.4%。",
+      "原句术语翻译": [
+         "央行"
+      ],
+      "insert变异": "Beijing, China, 26 Dec–China's central bank (the principal monetary authority of a polity or monetary union; it normally regulates the supply of money, issues currency and controls interest rates, it usually oversees banking activity within its country's borders) has revised its GDP forecast for 2005 from 9.2 percent to 9.4 percent, the Financial News daily reported Monday.",
+      "insert变异翻译": "中国北京 12 月 26 日电—《金融新闻》周一报道，中国央行（一个政体或货币联盟的主要货币当局；它通常负责调节货币供应量、发行货币和控制利率，还通常负责监督一国境内的银行活动）已将 2005 年 GDP 增长预测从 9.2% 修改为 9.4%。",
+      "insert术语翻译": [
+         "央行"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0000001192092896
+      ],
+      "insert变异翻译去括号": "中国北京 12 月 26 日电—《金融新闻》周一报道，中国央行已将 2005 年 GDP 增长预测从 9.2% 修改为 9.4%。",
+      "原句翻译去括号": "中国北京 12 月 26 日电—《金融新闻》周一报道，中国央行已将 2005 年 GDP 增长预测从 9.2% 修改为 9.4%。",
+      "insert和原句翻译去括号部分相似度": [
+         1.0
+      ],
+      "替换变异": [
+         "Beijing, China, 26 Dec–China's central government has revised its GDP forecast for 2005 from 9.2 percent to 9.4 percent, the Financial News daily reported Monday."
+      ],
+      "替换术语": [
+         "central government"
+      ],
+      "替换翻译": [
+         "中国北京 12 月 26 日电—《金融新闻》周一报道，中国中央政府已将 2005 年 GDP 增长预测从 9.2% 修改为 9.4%。"
+      ],
+      "替换术语翻译": [
+         "中国中央政府"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.6166495084762573
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "This sort of thing couldn't happen on British TV, of course, given the rules on product placement and sponsorship.": {
+      "序号": 63,
+      "原句": "This sort of thing couldn't happen on British TV, of course, given the rules on product placement and sponsorship.",
+      "术语": "product placement",
+      "原句翻译": "当然，由于产品植入和赞助的规定，这种事情在英国电视台是不可能发生的。",
+      "原句术语翻译": [
+         "产品植入"
+      ],
+      "insert变异": "This sort of thing couldn't happen on British TV, of course, given the rules on product placement (a form of advertising where a brand or product is incorporated into non-advertising media such as films) and sponsorship.",
+      "insert变异翻译": "当然，由于产品植入（一种将品牌或产品融入电影等非广告媒体的广告形式）和赞助规则，这种事情不可能发生在英国电视台。",
+      "insert术语翻译": [
+         "产品植入"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "当然，由于产品植入和赞助规则，这种事情不可能发生在英国电视台。",
+      "原句翻译去括号": "当然，由于产品植入和赞助的规定，这种事情在英国电视台是不可能发生的。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9440547823905945
+      ],
+      "替换变异": [
+         "This sort of thing couldn't happen on British TV, of course, given the rules on product development and sponsorship."
+      ],
+      "替换术语": [
+         "product development"
+      ],
+      "替换翻译": [
+         "当然，由于产品开发和赞助规则，这种事情不可能发生在英国电视台。"
+      ],
+      "替换术语翻译": [
+         "产品开发"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.6671905517578125
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "In the airport, she was assisted in exchanging money by a man who even gave her his telephone number in case of emergency. Even the bus drivers were courteous enough to remind her of her stops – and to wake her if she'd fallen asleep on the ride.": {
+      "序号": 64,
+      "原句": "In the airport, she was assisted in exchanging money by a man who even gave her his telephone number in case of emergency. Even the bus drivers were courteous enough to remind her of her stops – and to wake her if she'd fallen asleep on the ride.",
+      "术语": "telephone number",
+      "原句翻译": "在机场，一名男子帮助她兑换货币，还给了她自己的电话号码，以备不时之需。甚至连公交车司机都彬彬有礼地提醒她下车地点，如果她在车上睡着了，司机还会叫醒她。",
+      "原句术语翻译": [
+         "电话号码"
+      ],
+      "insert变异": "In the airport, she was assisted in exchanging money by a man who even gave her his telephone number (a large number) in case of emergency. Even the bus drivers were courteous enough to remind her of her stops – and to wake her if she'd fallen asleep on the ride.",
+      "insert变异翻译": "在机场，一名男子帮助她兑换货币，还给了她自己的电话号码（一个很大的号码），以备不时之需。甚至连公交车司机都彬彬有礼地提醒她下车地点，如果她在车上睡着了，司机还会叫醒她。",
+      "insert术语翻译": [
+         "电话号码"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "在机场，一名男子帮助她兑换货币，还给了她自己的电话号码，以备不时之需。甚至连公交车司机都彬彬有礼地提醒她下车地点，如果她在车上睡着了，司机还会叫醒她。",
+      "原句翻译去括号": "在机场，一名男子帮助她兑换货币，还给了她自己的电话号码，以备不时之需。甚至连公交车司机都彬彬有礼地提醒她下车地点，如果她在车上睡着了，司机还会叫醒她。",
+      "insert和原句翻译去括号部分相似度": [
+         1.0000001192092896
+      ],
+      "替换变异": [
+         "In the airport, she was assisted in exchanging money by a man who even gave her his mobile number in case of emergency. Even the bus drivers were courteous enough to remind her of her stops – and to wake her if she'd fallen asleep on the ride."
+      ],
+      "替换术语": [
+         "mobile number"
+      ],
+      "替换翻译": [
+         "在机场，一名男子帮助她兑换货币，还给了她自己的手机号码，以备不时之需。甚至连公交车司机都彬彬有礼地提醒她下车地点，如果她在车上睡着了，司机还会叫醒她。"
+      ],
+      "替换术语翻译": [
+         "手机号码"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.9052225947380066
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "And they found that this theoretical social network produced either global harmony or all- out war, depending on the initial triangles.": {
+      "序号": 66,
+      "原句": "And they found that this theoretical social network produced either global harmony or all- out war, depending on the initial triangles.",
+      "术语": "social network",
+      "原句翻译": "他们发现，这种理论上的社会网络要么产生全球和谐，要么引发全面战争，具体取决于最初的三角关系。",
+      "原句术语翻译": [
+         "社会网络"
+      ],
+      "insert变异": "And they found that this theoretical social network (a network of personal or business contacts, especially as facilitated by social networking on the Internet) produced either global harmony or all- out war, depending on the initial triangles.",
+      "insert变异翻译": "他们发现，这种理论上的社会网络（个人或商业联系网络，尤其是通过互联网上的社交网络）要么产生全球和谐，要么引发全面战争，这取决于最初的三角关系。",
+      "insert术语翻译": [
+         "社会网络"
+      ],
+      "insert和原句术语翻译相似度": [
+         0.9999999403953552
+      ],
+      "insert变异翻译去括号": "他们发现，这种理论上的社会网络要么产生全球和谐，要么引发全面战争，这取决于最初的三角关系。",
+      "原句翻译去括号": "他们发现，这种理论上的社会网络要么产生全球和谐，要么引发全面战争，具体取决于最初的三角关系。",
+      "insert和原句翻译去括号部分相似度": [
+         0.995604932308197
+      ],
+      "替换变异": [
+         "And they found that this theoretical social order produced either global harmony or all- out war, depending on the initial triangles.",
+         "And they found that this theoretical social structure produced either global harmony or all- out war, depending on the initial triangles.",
+         "And they found that this theoretical social system produced either global harmony or all- out war, depending on the initial triangles."
+      ],
+      "替换术语": [
+         "social order",
+         "social structure",
+         "social system"
+      ],
+      "替换翻译": [
+         "他们发现，这种理论上的社会秩序要么产生全球和谐，要么引发全面战争，这取决于最初的三角形关系。",
+         "他们发现，这种理论上的社会结构要么产生全球和谐，要么引发全面战争，具体取决于最初的三角关系。",
+         "他们发现，这种理论上的社会体系要么产生全球和谐，要么引发全面战争，这取决于最初的三角形关系。"
+      ],
+      "替换术语翻译": [
+         "社会秩序",
+         "社会结构",
+         "社会体系"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.6473061442375183,
+         0.671319842338562,
+         0.7262446880340576
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "Originally the same provision also excluded liability for assault, battery, false arrest, and malicious prosecution;": {
+      "序号": 67,
+      "原句": "Originally the same provision also excluded liability for assault, battery, false arrest, and malicious prosecution;",
+      "术语": "false arrest",
+      "原句翻译": "该条款最初还排除了攻击、殴打、错误逮捕和恶意起诉的责任；",
+      "原句术语翻译": [
+         "错误逮捕"
+      ],
+      "insert变异": "Originally the same provision also excluded liability for assault, battery, false arrest (the act of holding someone in custody without reasonable grounds), and malicious prosecution;",
+      "insert变异翻译": "该条款最初还排除了袭击、殴打、错误逮捕（无合理理由拘禁某人的行为）和恶意起诉的责任；",
+      "insert术语翻译": [
+         "错误逮捕"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "该条款最初还排除了袭击、殴打、错误逮捕和恶意起诉的责任；",
+      "原句翻译去括号": "该条款最初还排除了攻击、殴打、错误逮捕和恶意起诉的责任；",
+      "insert和原句翻译去括号部分相似度": [
+         0.9913874864578247
+      ],
+      "替换变异": [
+         "Originally the same provision also excluded liability for assault, battery, false imprisonment, and malicious prosecution;",
+         "Originally the same provision also excluded liability for assault, battery, false testimony, and malicious prosecution;"
+      ],
+      "替换术语": [
+         "false imprisonment",
+         "false testimony"
+      ],
+      "替换翻译": [
+         "该条款最初还排除了人身攻击、殴打、非法监禁和恶意起诉的责任；",
+         "该条款最初还排除了人身攻击、殴打、虚假证言和恶意起诉的责任；"
+      ],
+      "替换术语翻译": [
+         "非法监禁",
+         "虚假证言"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.5094540119171143,
+         0.4625050723552704
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "There is only one way I can see out of this box: stronger economic growth.": {
+      "序号": 68,
+      "原句": "There is only one way I can see out of this box: stronger economic growth.",
+      "术语": "economic growth",
+      "原句翻译": "我能看到的唯一出路就是：更强劲的经济增长。",
+      "原句术语翻译": [
+         "经济增长。"
+      ],
+      "insert变异": "There is only one way I can see out of this box: stronger economic growth (the growth of the economic output of a country).",
+      "insert变异翻译": "我能看到的摆脱这种困境的方法只有一种：更强劲的经济增长（一个国家经济产出的增长）。",
+      "insert术语翻译": [
+         "经济增长。"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "我能看到的摆脱这种困境的方法只有一种：更强劲的经济增长。",
+      "原句翻译去括号": "我能看到的唯一出路就是：更强劲的经济增长。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9167273044586182
+      ],
+      "替换变异": [
+         "There is only one way I can see out of this box: stronger economic power."
+      ],
+      "替换术语": [
+         "economic power"
+      ],
+      "替换翻译": [
+         "我认为摆脱这种困境的唯一办法就是：增强经济实力。"
+      ],
+      "替换术语翻译": [
+         "经济实力。"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7276362776756287
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "But analysts say expectations of continued decline in the U.S. economy are likely to cause a further deterioration of market value because investors in Asia are expecting a possible U.S. recession to last a long time.": {
+      "序号": 69,
+      "原句": "But analysts say expectations of continued decline in the U.S. economy are likely to cause a further deterioration of market value because investors in Asia are expecting a possible U.S. recession to last a long time.",
+      "术语": "market value",
+      "原句翻译": "但分析师表示，对美国经济持续下滑的预期很可能会导致市值进一步下跌，因为亚洲投资者预计美国经济衰退可能持续很长时间。",
+      "原句术语翻译": [
+         "市值"
+      ],
+      "insert变异": "But analysts say expectations of continued decline in the U.S. economy are likely to cause a further deterioration of market value (the price which a seller or insurer might reasonably expect to fetch for goods, services or securities on the open market) because investors in Asia are expecting a possible U.S. recession to last a long time.",
+      "insert变异翻译": "但分析师表示，对美国经济持续下滑的预期很可能会导致市场价值（卖方或保险商在公开市场上合理预期的商品、服务或证券的价格）进一步下跌，因为亚洲投资者预计美国经济衰退可能持续很长时间。",
+      "insert术语翻译": [
+         "市场价值"
+      ],
+      "insert和原句术语翻译相似度": [
+         0.7507019639015198
+      ],
+      "insert变异翻译去括号": "但分析师表示，对美国经济持续下滑的预期很可能会导致市场价值进一步下跌，因为亚洲投资者预计美国经济衰退可能持续很长时间。",
+      "原句翻译去括号": "但分析师表示，对美国经济持续下滑的预期很可能会导致市值进一步下跌，因为亚洲投资者预计美国经济衰退可能持续很长时间。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9783684015274048
+      ],
+      "替换变异": [
+         "But analysts say expectations of continued decline in the U.S. economy are likely to cause a further deterioration of asset value because investors in Asia are expecting a possible U.S. recession to last a long time.",
+         "But analysts say expectations of continued decline in the U.S. economy are likely to cause a further deterioration of market conditions because investors in Asia are expecting a possible U.S. recession to last a long time.",
+         "But analysts say expectations of continued decline in the U.S. economy are likely to cause a further deterioration of market performance because investors in Asia are expecting a possible U.S. recession to last a long time.",
+         "But analysts say expectations of continued decline in the U.S. economy are likely to cause a further deterioration of market behavior because investors in Asia are expecting a possible U.S. recession to last a long time."
+      ],
+      "替换术语": [
+         "asset value",
+         "market conditions",
+         "market performance",
+         "market behavior"
+      ],
+      "替换翻译": [
+         "但分析师表示，对美国经济持续下滑的预期很可能会导致资产价值进一步下跌，因为亚洲投资者预计美国经济衰退可能持续很长时间。",
+         "但分析师表示，对美国经济持续下滑的预期很可能会导致市场状况进一步恶化，因为亚洲投资者预计美国经济衰退可能持续很长时间。",
+         "但分析师表示，对美国经济持续下滑的预期很可能会导致市场表现进一步恶化，因为亚洲投资者预计美国经济衰退可能持续很长时间。",
+         "但分析师表示，对美国经济持续下滑的预期很可能会导致市场行为进一步恶化，因为亚洲投资者预计美国经济衰退可能持续很长时间。"
+      ],
+      "替换术语翻译": [
+         "资产价值",
+         "市场状况",
+         "市场表现",
+         "市场行为"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.6648519039154053,
+         0.6232631206512451,
+         0.6038099527359009,
+         0.49601227045059204
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "“The stock exchange is important because its will bring greater transparency and international disclosure standards, as well as more efficient criteria for privatizations, “he said.": {
+      "序号": 70,
+      "原句": "“The stock exchange is important because its will bring greater transparency and international disclosure standards, as well as more efficient criteria for privatizations, “he said.",
+      "术语": "stock exchange",
+      "原句翻译": "他说：“证券交易所很重要，因为它将带来更高的透明度和国际披露标准，以及更有效的私有化标准。”",
+      "原句术语翻译": [
+         "证券交易所"
+      ],
+      "insert变异": "“The stock exchange (an organisation that trades stocks in of companies for money and vice versa) is important because its will bring greater transparency and international disclosure standards, as well as more efficient criteria for privatizations, “he said.",
+      "insert变异翻译": "他说：“证券交易所（一个将公司股票与金钱进行交易的组织，反之亦然）很重要，因为它将带来更高的透明度和国际披露标准，以及更有效的私有化标准。”",
+      "insert术语翻译": [
+         "证券交易所"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "他说：“证券交易所很重要，因为它将带来更高的透明度和国际披露标准，以及更有效的私有化标准。”",
+      "原句翻译去括号": "他说：“证券交易所很重要，因为它将带来更高的透明度和国际披露标准，以及更有效的私有化标准。”",
+      "insert和原句翻译去括号部分相似度": [
+         1.0
+      ],
+      "替换变异": [
+         "“The information exchange is important because its will bring greater transparency and international disclosure standards, as well as more efficient criteria for privatizations, “he said.",
+         "“The stock market is important because its will bring greater transparency and international disclosure standards, as well as more efficient criteria for privatizations, “he said."
+      ],
+      "替换术语": [
+         "information exchange",
+         "stock market"
+      ],
+      "替换翻译": [
+         "他说：“信息交换很重要，因为它将带来更高的透明度和国际披露标准，以及更有效的私有化标准。”",
+         "他说：“股票市场很重要，因为它将带来更高的透明度和国际披露标准，以及更有效的私有化标准。”"
+      ],
+      "替换术语翻译": [
+         "信息交换",
+         "股票市场"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.5077325105667114,
+         0.7112411856651306
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "The flaw forming reasons of steam pipe corrugate-expansion joint in the second mixer of sintering plant,and the repairing methods of gas-welding and electric-arc welding were discribed.": {
+      "序号": 71,
+      "原句": "The flaw forming reasons of steam pipe corrugate-expansion joint in the second mixer of sintering plant,and the repairing methods of gas-welding and electric-arc welding were discribed.",
+      "术语": "arc welding",
+      "原句翻译": "介绍了烧结厂二混机蒸汽管道波纹膨胀节缺陷的形成原因及气焊、电弧焊的修复方法。",
+      "原句术语翻译": [
+         "电弧焊"
+      ],
+      "insert变异": "The flaw forming reasons of steam pipe corrugate-expansion joint in the second mixer of sintering plant,and the repairing methods of gas-welding and electric-arc welding (the process of welding two pieces of metal together using the heat generated by an electric arc between two electrodes) were discribed.",
+      "insert变异翻译": "介绍了烧结厂二混蒸汽管道波纹膨胀节缺陷形成的原因及气焊、电弧焊(利用两电极间电弧产生的热量将两块金属焊接在一起的工艺过程)的修复方法。",
+      "insert术语翻译": [
+         "电弧焊"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "介绍了烧结厂二混蒸汽管道波纹膨胀节缺陷形成的原因及气焊、电弧焊的修复方法。",
+      "原句翻译去括号": "介绍了烧结厂二混机蒸汽管道波纹膨胀节缺陷的形成原因及气焊、电弧焊的修复方法。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9919285774230957
+      ],
+      "替换变异": [
+         "The flaw forming reasons of steam pipe corrugate-expansion joint in the second mixer of sintering plant,and the repairing methods of gas-welding and electric-gas welding were discribed."
+      ],
+      "替换术语": [
+         "gas welding"
+      ],
+      "替换翻译": [
+         "介绍了烧结厂二混机蒸汽管道波纹膨胀节缺陷的形成原因及气焊、电气焊的修复方法。"
+      ],
+      "替换术语翻译": [
+         "电气焊"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7763978838920593
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "It can also cause weight loss and make people feel continually hungry.": {
+      "序号": 72,
+      "原句": "It can also cause weight loss and make people feel continually hungry.",
+      "术语": "weight loss",
+      "原句翻译": "它还会导致体重下降并使人持续感到饥饿。",
+      "原句术语翻译": [
+         "体重下降"
+      ],
+      "insert变异": "It can also cause weight loss (the reduction of total body mass due to loss of fluid, fat, tissue, etc.) and make people feel continually hungry.",
+      "insert变异翻译": "它还会导致体重下降（由于体液、脂肪、组织等的损失导致身体总质量的减少）并使人持续感到饥饿。",
+      "insert术语翻译": [
+         "体重下降"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0000001192092896
+      ],
+      "insert变异翻译去括号": "它还会导致体重下降并使人持续感到饥饿。",
+      "原句翻译去括号": "它还会导致体重下降并使人持续感到饥饿。",
+      "insert和原句翻译去括号部分相似度": [
+         1.0
+      ],
+      "替换变异": [
+         "It can also cause memory loss and make people feel continually hungry.",
+         "It can also cause food loss and make people feel continually hungry.",
+         "It can also cause blood loss and make people feel continually hungry.",
+         "It can also cause weight gain and make people feel continually hungry."
+      ],
+      "替换术语": [
+         "memory loss",
+         "food loss",
+         "blood loss",
+         "weight gain"
+      ],
+      "替换翻译": [
+         "它还会导致记忆力减退，并使人持续感到饥饿。",
+         "它还会造成食物损失并使人持续感到饥饿。",
+         "它还会导致失血并使人持续感到饥饿。",
+         "它还会导致体重增加并使人持续感到饥饿。"
+      ],
+      "替换术语翻译": [
+         "记忆力减退",
+         "食物损失",
+         "失血",
+         "体重增加"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.5637420415878296,
+         0.4862458407878876,
+         0.4811001420021057,
+         0.8065803647041321
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "The rapid diagnosis and immediate on-the - spot treatment of an accident while awaiting the arrival of doctors, are called first aid.": {
+      "序号": 73,
+      "原句": "The rapid diagnosis and immediate on-the - spot treatment of an accident while awaiting the arrival of doctors, are called first aid.",
+      "术语": "first aid",
+      "原句翻译": "在等待医生到达期间对事故进行快速诊断并立即进行现场治疗的过程称为急救。",
+      "原句术语翻译": [
+         "急救。"
+      ],
+      "insert变异": "The rapid diagnosis and immediate on-the - spot treatment of an accident while awaiting the arrival of doctors, are called first aid (basic medical care given to an injury victim, usually where the injury is slight or where better care is not available).",
+      "insert变异翻译": "在等待医生到达期间对事故进行快速诊断和立即进行现场治疗的过程称为急救（对受伤者进行的基本医疗护理，通常是在伤势较轻或无法获得更好的护理的情况下）。",
+      "insert术语翻译": [
+         "急救。"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0000001192092896
+      ],
+      "insert变异翻译去括号": "在等待医生到达期间对事故进行快速诊断和立即进行现场治疗的过程称为急救。",
+      "原句翻译去括号": "在等待医生到达期间对事故进行快速诊断并立即进行现场治疗的过程称为急救。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9966306686401367
+      ],
+      "替换变异": [
+         "The rapid diagnosis and immediate on-the - spot treatment of an accident while awaiting the arrival of doctors, are called first class."
+      ],
+      "替换术语": [
+         "first class"
+      ],
+      "替换翻译": [
+         "事故发生后，在等待医生到来的同时，能够迅速做出诊断，并立即进行现场治疗，这堪称一流。"
+      ],
+      "替换术语翻译": [
+         "一流。"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.5300230979919434
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "The ring road project, which will link the three municipalities on the island, has a total estimated cost of US$36.13 million, which will also be financed by the Arab Bank for Economic Development of Africa(BADEA), and by the Cape Verdean government.": {
+      "序号": 74,
+      "原句": "The ring road project, which will link the three municipalities on the island, has a total estimated cost of US$36.13 million, which will also be financed by the Arab Bank for Economic Development of Africa(BADEA), and by the Cape Verdean government.",
+      "术语": "ring road",
+      "原句翻译": "该环路项目将连接岛上的三个市镇，预计总成本为3613万美元，还将由阿拉伯非洲经济发展银行（BADEA）和佛得角政府提供资金。",
+      "原句术语翻译": [
+         "环路"
+      ],
+      "insert变异": "The ring road (a circumferential highway around a town, city, or other conurbation) project, which will link the three municipalities on the island, has a total estimated cost of US$36.13 million, which will also be financed by the Arab Bank for Economic Development of Africa(BADEA), and by the Cape Verdean government.",
+      "insert变异翻译": "环城公路（环绕城镇、城市或其他城市群的环形公路）项目将连接岛上的三个市镇，预计总成本为 3,613 万美元，这笔资金还将由阿拉伯非洲经济发展银行（BADEA）和佛得角政府提供。",
+      "insert术语翻译": [
+         "环城公路"
+      ],
+      "insert和原句术语翻译相似度": [
+         0.8122488260269165
+      ],
+      "insert变异翻译去括号": "环城公路项目将连接岛上的三个市镇，预计总成本为 3,613 万美元，这笔资金还将由阿拉伯非洲经济发展银行和佛得角政府提供。",
+      "原句翻译去括号": "该环路项目将连接岛上的三个市镇，预计总成本为3613万美元，还将由阿拉伯非洲经济发展银行和佛得角政府提供资金。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9538934230804443
+      ],
+      "替换变异": [
+         "The main road project, which will link the three municipalities on the island, has a total estimated cost of US$36.13 million, which will also be financed by the Arab Bank for Economic Development of Africa(BADEA), and by the Cape Verdean government.",
+         "The toll road project, which will link the three municipalities on the island, has a total estimated cost of US$36.13 million, which will also be financed by the Arab Bank for Economic Development of Africa(BADEA), and by the Cape Verdean government."
+      ],
+      "替换术语": [
+         "main road",
+         "toll road"
+      ],
+      "替换翻译": [
+         "该主要公路项目将连接岛上的三个城市，预计总成本为3613万美元，还将由阿拉伯非洲经济发展银行（BADEA）和佛得角政府提供资金。",
+         "该收费公路项目将连接岛上的三个城市，预计总成本为3613万美元，还将由阿拉伯非洲经济发展银行（BADEA）和佛得角政府提供资金。"
+      ],
+      "替换术语翻译": [
+         "主要公路",
+         "收费公路"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.5600157976150513,
+         0.5393389463424683
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "If scanning the supermarket shelves for cereal boxes and crisp packets for your next big win sounds too much like hard work, you can always try the lottery.": {
+      "序号": 75,
+      "原句": "If scanning the supermarket shelves for cereal boxes and crisp packets for your next big win sounds too much like hard work, you can always try the lottery.",
+      "术语": "hard work",
+      "原句翻译": "如果在超市货架上搜寻麦片盒和薯片包装袋以寻找下一次大奖听起来太辛苦，那么您可以尝试彩票。",
+      "原句术语翻译": [
+         "辛苦，"
+      ],
+      "insert变异": "If scanning the supermarket shelves for cereal boxes and crisp packets for your next big win sounds too much like hard work (something requiring lots of effort to do, either physical, mentally or emotionally; labor; toil), you can always try the lottery.",
+      "insert变异翻译": "如果在超市货架上搜寻麦片盒和薯片包装袋以赢得下一次大奖听起来太辛苦（需要付出大量努力，无论是体力、脑力还是情感；劳动；辛劳），您可以试试彩票。",
+      "insert术语翻译": [
+         "辛苦，"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "如果在超市货架上搜寻麦片盒和薯片包装袋以赢得下一次大奖听起来太辛苦，您可以试试彩票。",
+      "原句翻译去括号": "如果在超市货架上搜寻麦片盒和薯片包装袋以寻找下一次大奖听起来太辛苦，那么您可以尝试彩票。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9861785173416138
+      ],
+      "替换变异": [
+         "If scanning the supermarket shelves for cereal boxes and crisp packets for your next big win sounds too much like hard cash, you can always try the lottery."
+      ],
+      "替换术语": [
+         "hard cash"
+      ],
+      "替换翻译": [
+         "如果您觉得在超市货架上搜寻麦片盒和薯片包装袋以赢得下一次大奖太过困难，而这听起来像是一种现金，那么您可以尝试一下彩票。"
+      ],
+      "替换术语翻译": [
+         "现金，那么"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.5132180452346802
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "\"There are all kind of bullets, \"said one man in the crowd, screaming in a telephone call to the AP, with the rattle of gunfire audible in the background.": {
+      "序号": 76,
+      "原句": "\"There are all kind of bullets, \"said one man in the crowd, screaming in a telephone call to the AP, with the rattle of gunfire audible in the background.",
+      "术语": "telephone call",
+      "原句翻译": "“有各种各样的子弹，”人群中的一名男子在给美联社的电话中尖叫道，背景中可以听到枪声。",
+      "原句术语翻译": [
+         "电话"
+      ],
+      "insert变异": "\"There are all kind of bullets, \"said one man in the crowd, screaming in a telephone call (the conversation held by the two parties on this connection) to the AP, with the rattle of gunfire audible in the background.",
+      "insert变异翻译": "“有各种各样的子弹，”人群中的一名男子在电话中（这是双方就此事进行的通话）向美联社记者喊道，背景中可以听到枪声。",
+      "insert术语翻译": [
+         "电话"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "“有各种各样的子弹，”人群中的一名男子在电话中向美联社记者喊道，背景中可以听到枪声。",
+      "原句翻译去括号": "“有各种各样的子弹，”人群中的一名男子在给美联社的电话中尖叫道，背景中可以听到枪声。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9470995664596558
+      ],
+      "替换变异": [
+         "\"There are all kind of bullets, \"said one man in the crowd, screaming in a telephone booth to the AP, with the rattle of gunfire audible in the background.",
+         "\"There are all kind of bullets, \"said one man in the crowd, screaming in a telephone belonging to the AP, with the rattle of gunfire audible in the background."
+      ],
+      "替换术语": [
+         "telephone booth",
+         "telephone belonging"
+      ],
+      "替换翻译": [
+         "“有各种各样的子弹，”人群中的一名男子在电话亭里向美联社大喊，背景中可以听到枪声。",
+         "“各种各样的子弹都有，”人群中的一名男子通过美联社的电话尖叫道，背景中可以听到枪声。"
+      ],
+      "替换术语翻译": [
+         "电话亭",
+         "电话"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.5982944965362549,
+         1.0000001192092896
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         1
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         1
+      ],
+      "final_result": [
+         0,
+         0,
+         1
+      ]
+   },
+   "The bluetooth watch can connect to mobile phone and display important information on the watch.": {
+      "序号": 77,
+      "原句": "The bluetooth watch can connect to mobile phone and display important information on the watch.",
+      "术语": "mobile phone",
+      "原句翻译": "蓝牙手表可以连接手机并在手表上显示重要信息。",
+      "原句术语翻译": [
+         "手机"
+      ],
+      "insert变异": "The bluetooth watch can connect to mobile phone (a portable telephone that connects with the telephone network over radio wave transmission) and display important information on the watch.",
+      "insert变异翻译": "蓝牙手表可以连接手机（通过无线电波传输与电话网络连接的便携式电话），并在手表上显示重要信息。",
+      "insert术语翻译": [
+         "手机"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0000001192092896
+      ],
+      "insert变异翻译去括号": "蓝牙手表可以连接手机，并在手表上显示重要信息。",
+      "原句翻译去括号": "蓝牙手表可以连接手机并在手表上显示重要信息。",
+      "insert和原句翻译去括号部分相似度": [
+         0.997270405292511
+      ],
+      "替换变异": [
+         "The bluetooth watch can connect to mobile devices and display important information on the watch."
+      ],
+      "替换术语": [
+         "mobile devices"
+      ],
+      "替换翻译": [
+         "蓝牙手表可以连接移动设备并在手表上显示重要信息。"
+      ],
+      "替换术语翻译": [
+         "移动设备"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.6776915788650513
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "As a result, food makers are reworking decades - old recipes, eliminating the corn syrup used to sweeten foods like ketchup and crackers, and replacing it with beet or cane sugar.": {
+      "序号": 79,
+      "原句": "As a result, food makers are reworking decades - old recipes, eliminating the corn syrup used to sweeten foods like ketchup and crackers, and replacing it with beet or cane sugar.",
+      "术语": "cane sugar",
+      "原句翻译": "因此，食品制造商正在重新改良几十年前的食谱，不再使用玉米糖浆来给番茄酱和饼干等食品增甜，而是用甜菜糖或蔗糖代替。",
+      "原句术语翻译": [
+         "蔗糖。"
+      ],
+      "insert变异": "As a result, food makers are reworking decades - old recipes, eliminating the corn syrup used to sweeten foods like ketchup and crackers, and replacing it with beet or cane sugar (sugar obtained from the sugar cane (Saccharum officinarum)).",
+      "insert变异翻译": "因此，食品制造商正在重新改良几十年前的食谱，不再使用玉米糖浆来给番茄酱和饼干等食品增甜，而是用甜菜糖或蔗糖（从甘蔗（Saccharum officinarum）中提取的糖）代替。",
+      "insert术语翻译": [
+         "蔗糖。"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "因此，食品制造商正在重新改良几十年前的食谱，不再使用玉米糖浆来给番茄酱和饼干等食品增甜，而是用甜菜糖或蔗糖代替。",
+      "原句翻译去括号": "因此，食品制造商正在重新改良几十年前的食谱，不再使用玉米糖浆来给番茄酱和饼干等食品增甜，而是用甜菜糖或蔗糖代替。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9999998807907104
+      ],
+      "替换变异": [
+         "As a result, food makers are reworking decades - old recipes, eliminating the corn syrup used to sweeten foods like ketchup and crackers, and replacing it with beet or maple sugar.",
+         "As a result, food makers are reworking decades - old recipes, eliminating the corn syrup used to sweeten foods like ketchup and crackers, and replacing it with beet or brown sugar.",
+         "As a result, food makers are reworking decades - old recipes, eliminating the corn syrup used to sweeten foods like ketchup and crackers, and replacing it with beet or corn sugar.",
+         "As a result, food makers are reworking decades - old recipes, eliminating the corn syrup used to sweeten foods like ketchup and crackers, and replacing it with beet or cane syrup."
+      ],
+      "替换术语": [
+         "maple sugar",
+         "brown sugar",
+         "corn sugar",
+         "cane syrup"
+      ],
+      "替换翻译": [
+         "因此，食品制造商正在重新改良几十年前的食谱，不再使用玉米糖浆来给番茄酱和饼干等食品增甜，而是用甜菜糖或枫糖代替。",
+         "因此，食品制造商正在重新改良几十年前的食谱，不再使用玉米糖浆来给番茄酱和饼干等食品增甜，而是用甜菜糖或红糖代替。",
+         "因此，食品制造商正在重新改良几十年前的食谱，不再使用玉米糖浆来给番茄酱和饼干等食品增甜，而是用甜菜糖或玉米糖来代替。",
+         "因此，食品制造商正在重新改良几十年前的食谱，不再使用玉米糖浆来给番茄酱和饼干等食品增甜，而是用甜菜糖浆或甘蔗糖浆代替。"
+      ],
+      "替换术语翻译": [
+         "枫糖。",
+         "红糖。",
+         "玉米糖来。",
+         "甘蔗糖浆。"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7463476657867432,
+         0.7459024786949158,
+         0.6870359182357788,
+         0.8763576745986938
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "Once you ’re focused, take notice of your body and how each body part feels.": {
+      "序号": 80,
+      "原句": "Once you ’re focused, take notice of your body and how each body part feels.",
+      "术语": "body part",
+      "原句翻译": "一旦你集中注意力，注意你的身体以及每个身体部位的感觉。",
+      "原句术语翻译": [
+         "身体部位"
+      ],
+      "insert变异": "Once you ’re focused, take notice of your body and how each body part (any part of the body of a vehicle) feels.",
+      "insert变异翻译": "一旦你集中注意力，注意你的身体以及每个身体部位（车辆车身的任何部位）的感觉。",
+      "insert术语翻译": [
+         "身体部位"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "一旦你集中注意力，注意你的身体以及每个身体部位的感觉。",
+      "原句翻译去括号": "一旦你集中注意力，注意你的身体以及每个身体部位的感觉。",
+      "insert和原句翻译去括号部分相似度": [
+         1.0
+      ],
+      "替换变异": [
+         "Once you ’re focused, take notice of your body and how each individual part feels."
+      ],
+      "替换术语": [
+         "individual part"
+      ],
+      "替换翻译": [
+         "一旦你集中注意力，注意你的身体和每个部位的感觉。"
+      ],
+      "替换术语翻译": [
+         "部位"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.8489227890968323
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "One family even saved the small plugs of cotton wool in the tops of Aspirin bottles.": {
+      "序号": 81,
+      "原句": "One family even saved the small plugs of cotton wool in the tops of Aspirin bottles.",
+      "术语": "cotton wool",
+      "原句翻译": "有一个家庭甚至将小块棉绒保存在阿司匹林瓶盖中。",
+      "原句术语翻译": [
+         "棉绒"
+      ],
+      "insert变异": "One family even saved the small plugs of cotton wool (raw fibers of cotton before being processed) in the tops of Aspirin bottles.",
+      "insert变异翻译": "有一个家庭甚至将小块棉绒（加工前的棉花原始纤维）保存在阿司匹林瓶盖中。",
+      "insert术语翻译": [
+         "棉绒"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.000000238418579
+      ],
+      "insert变异翻译去括号": "有一个家庭甚至将小块棉绒保存在阿司匹林瓶盖中。",
+      "原句翻译去括号": "有一个家庭甚至将小块棉绒保存在阿司匹林瓶盖中。",
+      "insert和原句翻译去括号部分相似度": [
+         1.0000001192092896
+      ],
+      "替换变异": [
+         "One family even saved the small plugs of cotton found in the tops of Aspirin bottles."
+      ],
+      "替换术语": [
+         "cotton found"
+      ],
+      "替换翻译": [
+         "有一个家庭甚至保存了阿司匹林瓶盖里的棉塞。"
+      ],
+      "替换术语翻译": [
+         "棉塞"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.6772023439407349
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "The star explained she decided to let the cameras go in behind the scenes forthe first time to mark the 25th-and last-season of herchatshow, which starts on1 January on her own new television station, the Oprah Winfrey Network (OWN).": {
+      "序号": 82,
+      "原句": "The star explained she decided to let the cameras go in behind the scenes forthe first time to mark the 25th-and last-season of herchatshow, which starts on1 January on her own new television station, the Oprah Winfrey Network (OWN).",
+      "术语": "television station",
+      "原句翻译": "这位明星解释说，她决定首次让摄像机进入幕后，以纪念她的第 25 季也是最后一季脱口秀节目，该节目将于 1 月 1 日在她自己的新电视台奥普拉温弗瑞电视网 (OWN) 上开播。",
+      "原句术语翻译": [
+         "电视台"
+      ],
+      "insert变异": "The star explained she decided to let the cameras go in behind the scenes forthe first time to mark the 25th-and last-season of herchatshow, which starts on1 January on her own new television station (an organization which operates a television channel), the Oprah Winfrey Network (OWN).",
+      "insert变异翻译": "这位明星解释说，她决定首次让摄像机进入幕后，以纪念她的脱口秀节目的第 25 季也是最后一季，该节目将于 1 月 1 日在她自己的新电视台（运营电视频道的组织）奥普拉温弗瑞电视网（OWN）上开播。",
+      "insert术语翻译": [
+         "电视台"
+      ],
+      "insert和原句术语翻译相似度": [
+         0.9999999403953552
+      ],
+      "insert变异翻译去括号": "这位明星解释说，她决定首次让摄像机进入幕后，以纪念她的脱口秀节目的第 25 季也是最后一季，该节目将于 1 月 1 日在她自己的新电视台奥普拉温弗瑞电视网上开播。",
+      "原句翻译去括号": "这位明星解释说，她决定首次让摄像机进入幕后，以纪念她的第 25 季也是最后一季脱口秀节目，该节目将于 1 月 1 日在她自己的新电视台奥普拉温弗瑞电视网 上开播。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9973931312561035
+      ],
+      "替换变异": [
+         "The star explained she decided to let the cameras go in behind the scenes forthe first time to mark the 25th-and last-season of herchatshow, which starts on1 January on her own new radio station, the Oprah Winfrey Network (OWN)."
+      ],
+      "替换术语": [
+         "radio station"
+      ],
+      "替换翻译": [
+         "这位明星解释说，她决定首次让摄像机进入幕后，以纪念她的第 25 季也是最后一季脱口秀节目，该节目将于 1 月 1 日在她自己的新电台奥普拉温弗瑞电视网 (OWN) 上开播。"
+      ],
+      "替换术语翻译": [
+         "电台"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7598397135734558
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "CNBC editor Rick Santelli's on - air \"rant\" last February about a proposed mortgage bailout is widely considered to be the \"big bang\" moment for the birth of the movement.": {
+      "序号": 83,
+      "原句": "CNBC editor Rick Santelli's on - air \"rant\" last February about a proposed mortgage bailout is widely considered to be the \"big bang\" moment for the birth of the movement.",
+      "术语": "big bang",
+      "原句翻译": "去年二月，CNBC 编辑里克·桑特利 (Rick Santelli) 在电视上对抵押贷款救助计划的“咆哮”被广泛认为是这场运动诞生的“大爆炸”时刻。",
+      "原句术语翻译": [
+         "“大爆炸”"
+      ],
+      "insert变异": "CNBC editor Rick Santelli's on - air \"rant\" last February about a proposed mortgage bailout is widely considered to be the \"big bang (an explosion giving rise to a universe)\" moment for the birth of the movement.",
+      "insert变异翻译": "去年二月，CNBC 编辑里克·桑特利 (Rick Santelli) 在电视上对抵押贷款救助计划的“咆哮”被广泛认为是这场运动诞生的“大爆炸（产生宇宙的爆炸）”时刻。",
+      "insert术语翻译": [
+         "“大爆炸”"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.000000238418579
+      ],
+      "insert变异翻译去括号": "去年二月，CNBC 编辑里克·桑特利 在电视上对抵押贷款救助计划的“咆哮”被广泛认为是这场运动诞生的“大爆炸”时刻。",
+      "原句翻译去括号": "去年二月，CNBC 编辑里克·桑特利 在电视上对抵押贷款救助计划的“咆哮”被广泛认为是这场运动诞生的“大爆炸”时刻。",
+      "insert和原句翻译去括号部分相似度": [
+         1.0000001192092896
+      ],
+      "替换变异": [
+         "CNBC editor Rick Santelli's on - air \"rant\" last February about a proposed mortgage bailout is widely considered to be the \"big news\" moment for the birth of the movement."
+      ],
+      "替换术语": [
+         "big news"
+      ],
+      "替换翻译": [
+         "去年二月，CNBC 编辑里克·桑特利 (Rick Santelli) 在电视上对抵押贷款救助计划的“咆哮”被广泛认为是这场运动诞生的“大新闻”时刻。"
+      ],
+      "替换术语翻译": [
+         "“大新闻”"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.6717813014984131
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "It can achieve lowest shear stress and the maximum uniformity for solid suspension without any internal agitator.": {
+      "序号": 84,
+      "原句": "It can achieve lowest shear stress and the maximum uniformity for solid suspension without any internal agitator.",
+      "术语": "shear stress",
+      "原句翻译": "无需任何内部搅拌器即可实现最低的剪切应力和最大的固体悬浮均匀性。",
+      "原句术语翻译": [
+         "剪切应力"
+      ],
+      "insert变异": "It can achieve lowest shear stress (the component of stress that causes parallel layers of a material to move relative to each other in their own planes) and the maximum uniformity for solid suspension without any internal agitator.",
+      "insert变异翻译": "它可以在没有任何内部搅拌器的情况下实现最低的剪切应力（导致材料平行层在其自身平面内彼此相对移动的应力分量）和最大的固体悬浮均匀性。",
+      "insert术语翻译": [
+         "剪切应力"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.000000238418579
+      ],
+      "insert变异翻译去括号": "它可以在没有任何内部搅拌器的情况下实现最低的剪切应力和最大的固体悬浮均匀性。",
+      "原句翻译去括号": "无需任何内部搅拌器即可实现最低的剪切应力和最大的固体悬浮均匀性。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9443066716194153
+      ],
+      "替换变异": [
+         "It can achieve lowest shear resistance and the maximum uniformity for solid suspension without any internal agitator.",
+         "It can achieve lowest shear strength and the maximum uniformity for solid suspension without any internal agitator."
+      ],
+      "替换术语": [
+         "shear resistance",
+         "shear strength"
+      ],
+      "替换翻译": [
+         "无需任何内部搅拌器即可实现最低的剪切阻力和最大程度的固体悬浮均匀性。",
+         "无需任何内部搅拌器即可实现最低的剪切强度和最大的固体悬浮均匀性。"
+      ],
+      "替换术语翻译": [
+         "剪切阻力",
+         "剪切强度"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.8088999390602112,
+         0.7675302624702454
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "The national director for Planning and Cooperation of the Tourism Ministry, Dina Ribeiro told Mozambican news agency AIM that the reduction in volume of investment had been due to delays in the country's parliament approving a law to change the Tax Benefits Code.": {
+      "序号": 85,
+      "原句": "The national director for Planning and Cooperation of the Tourism Ministry, Dina Ribeiro told Mozambican news agency AIM that the reduction in volume of investment had been due to delays in the country's parliament approving a law to change the Tax Benefits Code.",
+      "术语": "news agency",
+      "原句翻译": "旅游部国家规划与合作主任迪娜·里贝罗告诉莫桑比克通讯社AIM，投资额减少的原因是该国议会推迟批准修改税收优惠法典的法律。",
+      "原句术语翻译": [
+         "通讯社"
+      ],
+      "insert变异": "The national director for Planning and Cooperation of the Tourism Ministry, Dina Ribeiro told Mozambican news agency (alternative form of newsagency) AIM that the reduction in volume of investment had been due to delays in the country's parliament approving a law to change the Tax Benefits Code.",
+      "insert变异翻译": "旅游部国家规划与合作主任迪娜·里贝罗告诉莫桑比克通讯社 AIM，投资额减少的原因是该国议会推迟批准修改税收优惠法典的法律。",
+      "insert术语翻译": [
+         "通讯社"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0000001192092896
+      ],
+      "insert变异翻译去括号": "旅游部国家规划与合作主任迪娜·里贝罗告诉莫桑比克通讯社 AIM，投资额减少的原因是该国议会推迟批准修改税收优惠法典的法律。",
+      "原句翻译去括号": "旅游部国家规划与合作主任迪娜·里贝罗告诉莫桑比克通讯社AIM，投资额减少的原因是该国议会推迟批准修改税收优惠法典的法律。",
+      "insert和原句翻译去括号部分相似度": [
+         1.0
+      ],
+      "替换变异": [
+         "The national director for Planning and Cooperation of the Tourism Ministry, Dina Ribeiro told Mozambican government agency AIM that the reduction in volume of investment had been due to delays in the country's parliament approving a law to change the Tax Benefits Code.",
+         "The national director for Planning and Cooperation of the Tourism Ministry, Dina Ribeiro told Mozambican news service AIM that the reduction in volume of investment had been due to delays in the country's parliament approving a law to change the Tax Benefits Code."
+      ],
+      "替换术语": [
+         "government agency",
+         "news service"
+      ],
+      "替换翻译": [
+         "旅游部规划与合作国家主任迪娜·里贝罗告诉莫桑比克政府机构AIM，投资额减少的原因是该国议会推迟批准修改税收优惠法典的法律。",
+         "旅游部规划与合作国家主任迪娜·里贝罗告诉莫桑比克新闻社 AIM，投资额减少的原因是该国议会推迟批准修改税收优惠法典的法律。"
+      ],
+      "替换术语翻译": [
+         "政府机构",
+         "新闻社"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.45690634846687317,
+         0.7581323981285095
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "He announced that China would open up a credit line of 800 million yuan for infrastructure projects in African and Asian Portuguese-speaking countries provided that the economic feasibility study is approved by Chinese banks.": {
+      "序号": 86,
+      "原句": "He announced that China would open up a credit line of 800 million yuan for infrastructure projects in African and Asian Portuguese-speaking countries provided that the economic feasibility study is approved by Chinese banks.",
+      "术语": "credit line",
+      "原句翻译": "他宣布，中国将向非洲和亚洲葡语国家的基础设施项目提供8亿元人民币的信用额度，前提是经济可行性研究得到中国银行的批准。",
+      "原句术语翻译": [
+         "信用额度"
+      ],
+      "insert变异": "He announced that China would open up a credit line (synonym of line of credit) of 800 million yuan for infrastructure projects in African and Asian Portuguese-speaking countries provided that the economic feasibility study is approved by Chinese banks.",
+      "insert变异翻译": "他宣布，中国将向非洲和亚洲葡语国家的基础设施项目提供8亿元人民币的信用额度，前提是经济可行性研究得到中国银行的批准。",
+      "insert术语翻译": [
+         "信用额度"
+      ],
+      "insert和原句术语翻译相似度": [
+         0.9999999403953552
+      ],
+      "insert变异翻译去括号": "他宣布，中国将向非洲和亚洲葡语国家的基础设施项目提供8亿元人民币的信用额度，前提是经济可行性研究得到中国银行的批准。",
+      "原句翻译去括号": "他宣布，中国将向非洲和亚洲葡语国家的基础设施项目提供8亿元人民币的信用额度，前提是经济可行性研究得到中国银行的批准。",
+      "insert和原句翻译去括号部分相似度": [
+         1.000000238418579
+      ],
+      "替换变异": [
+         "He announced that China would open up a production line of 800 million yuan for infrastructure projects in African and Asian Portuguese-speaking countries provided that the economic feasibility study is approved by Chinese banks.",
+         "He announced that China would open up a rail line of 800 million yuan for infrastructure projects in African and Asian Portuguese-speaking countries provided that the economic feasibility study is approved by Chinese banks.",
+         "He announced that China would open up a supply line of 800 million yuan for infrastructure projects in African and Asian Portuguese-speaking countries provided that the economic feasibility study is approved by Chinese banks.",
+         "He announced that China would open up a branch line of 800 million yuan for infrastructure projects in African and Asian Portuguese-speaking countries provided that the economic feasibility study is approved by Chinese banks.",
+         "He announced that China would open up a credit loan of 800 million yuan for infrastructure projects in African and Asian Portuguese-speaking countries provided that the economic feasibility study is approved by Chinese banks.",
+         "He announced that China would open up a credit rating of 800 million yuan for infrastructure projects in African and Asian Portuguese-speaking countries provided that the economic feasibility study is approved by Chinese banks."
+      ],
+      "替换术语": [
+         "production line",
+         "rail line",
+         "supply line",
+         "branch line",
+         "credit loan",
+         "credit rating"
+      ],
+      "替换翻译": [
+         "他宣布，中国将向非洲和亚洲葡语国家的基础设施项目开放一条总额为8亿元人民币的生产线，前提是经济可行性研究得到中国银行的批准。",
+         "他宣布，中国将向非洲和亚洲葡语国家的基础设施项目开放一条价值8亿元人民币的铁路，前提是经济可行性研究得到中国银行的批准。",
+         "他宣布，中国将向非洲和亚洲葡语国家的基础设施项目开放8亿元人民币的贷款供应线，前提是经济可行性研究得到中国银行的批准。",
+         "他宣布，中国将向非洲和亚洲葡语国家的基础设施项目开放8亿元人民币的支线贷款，前提是经济可行性研究得到中资银行的批准。",
+         "他宣布，中国将向非洲和亚洲葡语国家的基础设施项目提供8亿元人民币的信用贷款，前提是经济可行性研究得到中方银行的批准。",
+         "他宣布，中国将向非洲和亚洲葡语国家的基础设施项目开放8亿元人民币的信贷评级，前提是经济可行性研究得到中国银行的批准。"
+      ],
+      "替换术语翻译": [
+         "生产线",
+         "铁路",
+         "供应线",
+         "支线",
+         "信用贷款",
+         "信贷评级"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.3039075434207916,
+         0.3578752875328064,
+         0.3681909143924713,
+         0.3733246922492981,
+         0.7304160594940186,
+         0.6935437917709351
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "Secretary Gates says the NATO civilians can help on projects related to improving the performance of the Afghan government, improving the legal system and fighting corruption and the drug trade.": {
+      "序号": 87,
+      "原句": "Secretary Gates says the NATO civilians can help on projects related to improving the performance of the Afghan government, improving the legal system and fighting corruption and the drug trade.",
+      "术语": "legal system",
+      "原句翻译": "盖茨部长说，北约民事部门可以帮助改善阿富汗政府绩效、完善司法体系以及打击腐败和毒品贸易等项目。",
+      "原句术语翻译": [
+         "司法体系"
+      ],
+      "insert变异": "Secretary Gates says the NATO civilians can help on projects related to improving the performance of the Afghan government, improving the legal system (the process by which a governing body enforces the law and legal procedures) and fighting corruption and the drug trade.",
+      "insert变异翻译": "盖茨部长表示，北约民事部门可以协助开展改善阿富汗政府效能、完善法律体系（管理机构执行法律和法律程序的过程）以及打击腐败和毒品贸易的项目。",
+      "insert术语翻译": [
+         "法律体系"
+      ],
+      "insert和原句术语翻译相似度": [
+         0.8717998266220093
+      ],
+      "insert变异翻译去括号": "盖茨部长表示，北约民事部门可以协助开展改善阿富汗政府效能、完善法律体系以及打击腐败和毒品贸易的项目。",
+      "原句翻译去括号": "盖茨部长说，北约民事部门可以帮助改善阿富汗政府绩效、完善司法体系以及打击腐败和毒品贸易等项目。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9798940420150757
+      ],
+      "替换变异": [
+         "Secretary Gates says the NATO civilians can help on projects related to improving the performance of the Afghan government, improving the legal framework and fighting corruption and the drug trade."
+      ],
+      "替换术语": [
+         "legal framework"
+      ],
+      "替换翻译": [
+         "盖茨部长表示，北约民事部门可以帮助改善阿富汗政府绩效、完善法律框架以及打击腐败和毒品贸易等项目。"
+      ],
+      "替换术语翻译": [
+         "法律框架"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.65621018409729
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         1,
+         1,
+         0
+      ],
+      "manual_2_result": [
+         1,
+         1,
+         0
+      ],
+      "final_result": [
+         1,
+         1,
+         0
+      ]
+   },
+   "Protect from reverse engineering - the code is both obfuscated and encoded.": {
+      "序号": 88,
+      "原句": "Protect from reverse engineering - the code is both obfuscated and encoded.",
+      "术语": "reverse engineering",
+      "原句翻译": "防止逆向工程——代码经过混淆和编码。",
+      "原句术语翻译": [
+         "逆向工程"
+      ],
+      "insert变异": "Protect from reverse engineering (the process of analyzing the construction and operation of a product in order to manufacture a similar one) - the code is both obfuscated and encoded.",
+      "insert变异翻译": "防止逆向工程（分析产品的结构和操作以制造类似产品的过程） - 代码既被混淆又被编码。",
+      "insert术语翻译": [
+         "逆向工程"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "防止逆向工程 - 代码既被混淆又被编码。",
+      "原句翻译去括号": "防止逆向工程——代码经过混淆和编码。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9590260982513428
+      ],
+      "替换变异": [
+         "Protect from reverse interference - the code is both obfuscated and encoded."
+      ],
+      "替换术语": [
+         "reverse interference"
+      ],
+      "替换翻译": [
+         "防止反向干扰——代码经过混淆和编码。"
+      ],
+      "替换术语翻译": [
+         "反向干扰"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.5455825924873352
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "to draft administrative rules for bank card settlement business;": {
+      "序号": 89,
+      "原句": "to draft administrative rules for bank card settlement business;",
+      "术语": "bank card",
+      "原句翻译": "起草银行卡结算业务管理规则；",
+      "原句术语翻译": [
+         "银行卡"
+      ],
+      "insert变异": "to draft administrative rules for bank card (a card issued by a bank, which may entitle the holder to a variety of services similar to that of a credit card or debit card, or allow withdrawal of cash from ATMs) settlement business;",
+      "insert变异翻译": "起草银行卡（银行发行的卡片，持卡人可以享受与信用卡、借记卡类似的多种服务，或可在自动取款机上提取现金）结算业务的管理规则；",
+      "insert术语翻译": [
+         "银行卡"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0000001192092896
+      ],
+      "insert变异翻译去括号": "起草银行卡结算业务的管理规则；",
+      "原句翻译去括号": "起草银行卡结算业务管理规则；",
+      "insert和原句翻译去括号部分相似度": [
+         0.9930094480514526
+      ],
+      "替换变异": [
+         "to draft administrative rules for credit card settlement business;",
+         "to draft administrative rules for bank loan settlement business;"
+      ],
+      "替换术语": [
+         "credit card",
+         "bank loan"
+      ],
+      "替换翻译": [
+         "起草信用卡结算业务管理规则；",
+         "起草银行贷款结算业务管理规则；"
+      ],
+      "替换术语翻译": [
+         "信用卡",
+         "银行贷款"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7705622911453247,
+         0.734759509563446
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "Twitter's chief executive Evan Williams and co- founder Biz Stone have been publicly lukewarm about advertising, suggesting it could irritate users.": {
+      "序号": 90,
+      "原句": "Twitter's chief executive Evan Williams and co- founder Biz Stone have been publicly lukewarm about advertising, suggesting it could irritate users.",
+      "术语": "chief executive",
+      "原句翻译": "Twitter 的首席执行官埃文·威廉姆斯 (Evan Williams) 和联合创始人比兹·斯通 (Biz Stone) 一直公开表示对广告持冷淡态度，认为这可能会激怒用户。",
+      "原句术语翻译": [
+         "首席执行官"
+      ],
+      "insert变异": "Twitter's chief executive (chief executive officer) Evan Williams and co- founder Biz Stone have been publicly lukewarm about advertising, suggesting it could irritate users.",
+      "insert变异翻译": "Twitter 的首席执行官埃文·威廉姆斯 (Evan Williams) 和联合创始人比兹·斯通 (Biz Stone) 一直公开表示对广告持冷淡态度，暗示这可能会激怒用户。",
+      "insert术语翻译": [
+         "首席执行官"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0000001192092896
+      ],
+      "insert变异翻译去括号": "Twitter 的首席执行官埃文·威廉姆斯 和联合创始人比兹·斯通 一直公开表示对广告持冷淡态度，暗示这可能会激怒用户。",
+      "原句翻译去括号": "Twitter 的首席执行官埃文·威廉姆斯 和联合创始人比兹·斯通 一直公开表示对广告持冷淡态度，认为这可能会激怒用户。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9959853887557983
+      ],
+      "替换变异": [
+         "Twitter's chief editor Evan Williams and co- founder Biz Stone have been publicly lukewarm about advertising, suggesting it could irritate users."
+      ],
+      "替换术语": [
+         "chief editor"
+      ],
+      "替换翻译": [
+         "Twitter 的主编埃文·威廉姆斯 (Evan Williams) 和联合创始人比兹·斯通 (Biz Stone) 一直公开表示对广告持冷淡态度，认为这可能会激怒用户。"
+      ],
+      "替换术语翻译": [
+         "主编"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.5287999510765076
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "LiMn_2O_4、LiCoO_2、CoFe_2O_4, nanofibers were fabricated by combing sol-gel process andelectrospinning technique, using polyvinyl alcohol and several of inorganic salts as precursor. This method offered a brand-new way for fabricating one- dimensional inorganic compositenanomaterial.": {
+      "序号": 91,
+      "原句": "LiMn_2O_4、LiCoO_2、CoFe_2O_4, nanofibers were fabricated by combing sol-gel process andelectrospinning technique, using polyvinyl alcohol and several of inorganic salts as precursor. This method offered a brand-new way for fabricating one- dimensional inorganic compositenanomaterial.",
+      "术语": "polyvinyl alcohol",
+      "原句翻译": "以聚乙烯醇和多种无机盐为前驱体，采用溶胶-凝胶法与静电纺丝技术相结合，制备了LiMn_2O_4、LiCoO_2、CoFe_2O_4纳米纤维，为制备一维无机复合纳米材料提供了一种全新的方法。",
+      "原句术语翻译": [
+         "聚乙烯醇"
+      ],
+      "insert变异": "LiMn_2O_4、LiCoO_2、CoFe_2O_4, nanofibers were fabricated by combing sol-gel process andelectrospinning technique, using polyvinyl alcohol (a water-soluble synthetic polymer prepared by partial or complete hydrolysis of polyvinyl acetate to remove acetate groups, having many uses, including as an adhesive and surfactant and in freshwater angling) and several of inorganic salts as precursor. This method offered a brand-new way for fabricating one- dimensional inorganic compositenanomaterial.",
+      "insert变异翻译": "采用溶胶-凝胶法与静电纺丝技术相结合，以聚乙烯醇（一种由聚乙酸乙烯酯部分或完全水解除去乙酸基而得到的水溶性合成聚合物，具有多种用途，包括用作粘合剂、表面活性剂以及用于淡水垂钓）和多种无机盐为前驱体，制备了LiMn_2O_4、LiCoO_2、CoFe_2O_4纳米纤维，为制备一维无机复合纳米材料提供了一种全新的方法。",
+      "insert术语翻译": [
+         "聚乙烯醇"
+      ],
+      "insert和原句术语翻译相似度": [
+         0.9999999403953552
+      ],
+      "insert变异翻译去括号": "采用溶胶-凝胶法与静电纺丝技术相结合，以聚乙烯醇和多种无机盐为前驱体，制备了LiMn_2O_4、LiCoO_2、CoFe_2O_4纳米纤维，为制备一维无机复合纳米材料提供了一种全新的方法。",
+      "原句翻译去括号": "以聚乙烯醇和多种无机盐为前驱体，采用溶胶-凝胶法与静电纺丝技术相结合，制备了LiMn_2O_4、LiCoO_2、CoFe_2O_4纳米纤维，为制备一维无机复合纳米材料提供了一种全新的方法。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9911661148071289
+      ],
+      "替换变异": [
+         "LiMn_2O_4、LiCoO_2、CoFe_2O_4, nanofibers were fabricated by combing sol-gel process andelectrospinning technique, using polyvinyl chloride and several of inorganic salts as precursor. This method offered a brand-new way for fabricating one- dimensional inorganic compositenanomaterial."
+      ],
+      "替换术语": [
+         "polyvinyl chloride"
+      ],
+      "替换翻译": [
+         "以聚氯乙烯和多种无机盐为前驱体，采用溶胶-凝胶法与静电纺丝技术相结合的方法，制备了LiMn_2O_4、LiCoO_2、CoFe_2O_4纳米纤维，为制备一维无机复合纳米材料提供了一种全新的方法。"
+      ],
+      "替换术语翻译": [
+         "聚氯乙烯"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7475372552871704
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "Planning a vacation with your own home as “home base ” can relieve a lot of stress and be a little easier on the bank account.": {
+      "序号": 92,
+      "原句": "Planning a vacation with your own home as “home base ” can relieve a lot of stress and be a little easier on the bank account.",
+      "术语": "bank account",
+      "原句翻译": "以自己的家作为“家庭基地”来计划一次度假可以减轻很多压力，还可以节省一些银行账户开支。",
+      "原句术语翻译": [
+         "银行账户。"
+      ],
+      "insert变异": "Planning a vacation with your own home as “home base ” can relieve a lot of stress and be a little easier on the bank account (a fund, held by a bank in a contractual arrangement between the bank and the owner of the fund, a customer of the bank, into which they can deposit and from which they can withdraw money).",
+      "insert变异翻译": "以自己的家为“家庭基地”规划一次假期可以减轻很多压力，还可以减轻银行账户（银行与基金所有者（银行的客户）之间签订的合同安排下，由银行持有的一种基金，银行客户可以向该基金中存款也可以从中取款）的负担。",
+      "insert术语翻译": [
+         "银行账户。"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "以自己的家为“家庭基地”规划一次假期可以减轻很多压力，还可以减轻银行账户的负担。",
+      "原句翻译去括号": "以自己的家作为“家庭基地”来计划一次度假可以减轻很多压力，还可以节省一些银行账户开支。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9501703977584839
+      ],
+      "替换变异": [
+         "Planning a vacation with your own home as “home base ” can relieve a lot of stress and be a little easier on the bank balance.",
+         "Planning a vacation with your own home as “home base ” can relieve a lot of stress and be a little easier on the bank staff."
+      ],
+      "替换术语": [
+         "bank balance",
+         "bank staff"
+      ],
+      "替换翻译": [
+         "以自己的家作为“家庭基地”来计划一次度假可以减轻很多压力，还能减轻银行存款的负担。",
+         "以自己的家作为“大本营”来规划一次假期，可以减轻很多压力，也能让银行工作人员轻松一些。"
+      ],
+      "替换术语翻译": [
+         "银行存款。",
+         "银行工作人员。"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.8729181885719299,
+         0.7607327699661255
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "And the target device could be your wheelchair, could be your computer, could be your flat-screen TV, air conditioning system, you name it, because the rest of the technology is already in place, he said.": {
+      "序号": 93,
+      "原句": "And the target device could be your wheelchair, could be your computer, could be your flat-screen TV, air conditioning system, you name it, because the rest of the technology is already in place, he said.",
+      "术语": "air conditioning",
+      "原句翻译": "而目标设备可能是你的轮椅、电脑、平板电视、空调系统等等，因为其余技术已经到位，他说。",
+      "原句术语翻译": [
+         "空调"
+      ],
+      "insert变异": "And the target device could be your wheelchair, could be your computer, could be your flat-screen TV, air conditioning (an air conditioner or system of air conditioners) system, you name it, because the rest of the technology is already in place, he said.",
+      "insert变异翻译": "而目标设备可能是你的轮椅，可能是你的电脑，可能是你的平板电视、空调（一台空调或多个空调系统）系统，随便什么都可以，因为其余的技术都已经到位了，他说。",
+      "insert术语翻译": [
+         "空调"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0000001192092896
+      ],
+      "insert变异翻译去括号": "而目标设备可能是你的轮椅，可能是你的电脑，可能是你的平板电视、空调系统，随便什么都可以，因为其余的技术都已经到位了，他说。",
+      "原句翻译去括号": "而目标设备可能是你的轮椅、电脑、平板电视、空调系统等等，因为其余技术已经到位，他说。",
+      "insert和原句翻译去括号部分相似度": [
+         0.949777364730835
+      ],
+      "替换变异": [
+         "And the target device could be your wheelchair, could be your computer, could be your flat-screen TV, air control system, you name it, because the rest of the technology is already in place, he said."
+      ],
+      "替换术语": [
+         "air control"
+      ],
+      "替换翻译": [
+         "而目标设备可能是你的轮椅，可能是你的电脑，可能是你的平板电视、空气控制系统等等，只要你能想到的，因为其余的技术都已经到位了，他说。"
+      ],
+      "替换术语翻译": [
+         "空气控制系统"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.47416597604751587
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "The Chinese government, however, seems to already be aware of the criticism and in November 2006 announced the creation of a US$5 billion investment fund to support Chinese companies that want to invest or implement cooperation projects in Africa.": {
+      "序号": 94,
+      "原句": "The Chinese government, however, seems to already be aware of the criticism and in November 2006 announced the creation of a US$5 billion investment fund to support Chinese companies that want to invest or implement cooperation projects in Africa.",
+      "术语": "investment fund",
+      "原句翻译": "然而，中国政府似乎已经意识到了这些批评，并于2006年11月宣布设立一只50亿美元的投资基金，以支持想要在非洲投资或实施合作项目的中国公司。",
+      "原句术语翻译": [
+         "投资基金"
+      ],
+      "insert变异": "The Chinese government, however, seems to already be aware of the criticism and in November 2006 announced the creation of a US$5 billion investment fund (a fund consisting of investments made by a group of people and managed by a professional investment manager) to support Chinese companies that want to invest or implement cooperation projects in Africa.",
+      "insert变异翻译": "但中国政府似乎已经意识到了这些批评，并于2006年11月宣布成立一个规模50亿美元的投资基金（由一群人投资组成并由专业投资经理管理的基金），以支持想要在非洲投资或实施合作项目的中国公司。",
+      "insert术语翻译": [
+         "投资基金"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "但中国政府似乎已经意识到了这些批评，并于2006年11月宣布成立一个规模50亿美元的投资基金，以支持想要在非洲投资或实施合作项目的中国公司。",
+      "原句翻译去括号": "然而，中国政府似乎已经意识到了这些批评，并于2006年11月宣布设立一只50亿美元的投资基金，以支持想要在非洲投资或实施合作项目的中国公司。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9928447008132935
+      ],
+      "替换变异": [
+         "The Chinese government, however, seems to already be aware of the criticism and in November 2006 announced the creation of a US$5 billion development fund to support Chinese companies that want to invest or implement cooperation projects in Africa.",
+         "The Chinese government, however, seems to already be aware of the criticism and in November 2006 announced the creation of a US$5 billion hedge fund to support Chinese companies that want to invest or implement cooperation projects in Africa."
+      ],
+      "替换术语": [
+         "development fund",
+         "hedge fund"
+      ],
+      "替换翻译": [
+         "然而，中国政府似乎已经意识到了这些批评，并于2006年11月宣布设立50亿美元的发展基金，以支持希望在非洲投资或实施合作项目的中国公司。",
+         "然而，中国政府似乎已经意识到了这些批评，并于2006年11月宣布成立一只规模50亿美元的对冲基金，支持那些想要在非洲投资或实施合作项目的中国公司。"
+      ],
+      "替换术语翻译": [
+         "发展基金",
+         "基金"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.6952384114265442,
+         0.811279833316803
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "The car has an environmentally friendly natural gas engine.": {
+      "序号": 95,
+      "原句": "The car has an environmentally friendly natural gas engine.",
+      "术语": "natural gas",
+      "原句翻译": "该车配备有环保的天然气发动机。",
+      "原句术语翻译": [
+         "天然气"
+      ],
+      "insert变异": "The car has an environmentally friendly natural gas (a mixture of gaseous hydrocarbons associated with petroleum deposits; mostly methane with smaller amounts of ethane, propane and butane; principally used as a fuel) engine.",
+      "insert变异翻译": "该车配备有环保的天然气（与石油矿床有关的气态碳氢化合物混合物；主要是甲烷，还有少量的乙烷、丙烷和丁烷；主要用作燃料）发动机。",
+      "insert术语翻译": [
+         "天然气"
+      ],
+      "insert和原句术语翻译相似度": [
+         0.9999999403953552
+      ],
+      "insert变异翻译去括号": "该车配备有环保的天然气发动机。",
+      "原句翻译去括号": "该车配备有环保的天然气发动机。",
+      "insert和原句翻译去括号部分相似度": [
+         1.0
+      ],
+      "替换变异": [
+         "The car has an environmentally friendly natural combustion engine."
+      ],
+      "替换术语": [
+         "natural combustion"
+      ],
+      "替换翻译": [
+         "该车配备有环保的自然燃机。"
+      ],
+      "替换术语翻译": [
+         "自然燃机"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.5453457236289978
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "He delegated his power of attorney to his sister-in-law.": {
+      "序号": 96,
+      "原句": "He delegated his power of attorney to his sister-in-law.",
+      "术语": "power of attorney",
+      "原句翻译": "他把他的授权委托给了他的嫂子。",
+      "原句术语翻译": [
+         "授权"
+      ],
+      "insert变异": "He delegated his power of attorney (the legal authorisation of one person to act as the agent of another) to his sister-in-law.",
+      "insert变异翻译": "他将自己的授权委托书（一个人作为另一个人的代理人的合法授权）委托给了他的嫂子。",
+      "insert术语翻译": [
+         "授权委托书"
+      ],
+      "insert和原句术语翻译相似度": [
+         0.7987688779830933
+      ],
+      "insert变异翻译去括号": "他将自己的授权委托书委托给了他的嫂子。",
+      "原句翻译去括号": "他把他的授权委托给了他的嫂子。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9585229158401489
+      ],
+      "替换变异": [
+         "He delegated his office of attorney to his sister-in-law.",
+         "He delegated his practice of attorney to his sister-in-law.",
+         "He delegated his power of veto to his sister-in-law."
+      ],
+      "替换术语": [
+         "office of attorney",
+         "practice of attorney",
+         "power of veto"
+      ],
+      "替换翻译": [
+         "他将自己的代理权委托给了自己的嫂子。",
+         "他将自己的律师执业职责委托给了他的嫂子。",
+         "他把自己的否决权委托给了他的嫂子。"
+      ],
+      "替换术语翻译": [
+         "代理权",
+         "律师职责",
+         "否决权"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.7530595660209656,
+         0.4737788438796997,
+         0.6372451782226562
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         1,
+         1,
+         0
+      ],
+      "manual_2_result": [
+         1,
+         1,
+         0
+      ],
+      "final_result": [
+         1,
+         1,
+         0
+      ]
+   },
+   "21. Hair sticking to lipstick or lip balm in the slightest breeze": {
+      "序号": 97,
+      "原句": "21. Hair sticking to lipstick or lip balm in the slightest breeze",
+      "术语": "lip balm",
+      "原句翻译": "21. 稍有风吹，头发就会粘在口红或润唇膏上",
+      "原句术语翻译": [
+         "润唇膏"
+      ],
+      "insert变异": "21. Hair sticking to lipstick or lip balm (a substance topically applied to the lips of the mouth to relieve chapped or dry lips, angular cheilitis or stomatitis, and cold sores) in the slightest breeze",
+      "insert变异翻译": "21. 稍有微风吹过，头发就会粘在口红或润唇膏上（一种涂抹在嘴唇上的物质，可以缓解嘴唇干裂、口角炎或口腔炎以及唇疱疹）",
+      "insert术语翻译": [
+         "润唇膏"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.000000238418579
+      ],
+      "insert变异翻译去括号": "21. 稍有微风吹过，头发就会粘在口红或润唇膏上",
+      "原句翻译去括号": "21. 稍有风吹，头发就会粘在口红或润唇膏上",
+      "insert和原句翻译去括号部分相似度": [
+         0.9862182140350342
+      ],
+      "替换变异": [
+         "21. Hair sticking to lipstick or eye balm in the slightest breeze",
+         "21. Hair sticking to lipstick or hair balm in the slightest breeze",
+         "21. Hair sticking to lipstick or a balm in the slightest breeze"
+      ],
+      "替换术语": [
+         "eye balm",
+         "hair balm",
+         "a balm"
+      ],
+      "替换翻译": [
+         "21. 稍有风吹，头发就会粘在口红或眼霜上",
+         "21. 稍有风吹，头发就会粘在口红或护发膏上",
+         "21. 稍有风吹，头发就会粘在口红或润唇膏上"
+      ],
+      "替换术语翻译": [
+         "眼霜",
+         "护发膏上",
+         "润唇膏"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.512948751449585,
+         0.5447502136230469,
+         1.0000001192092896
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         1
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         1
+      ],
+      "final_result": [
+         0,
+         0,
+         1
+      ]
+   },
+   "Assembled outside the European continent in the first Airbus A 320 aircraft made a successful maiden flight.": {
+      "序号": 98,
+      "原句": "Assembled outside the European continent in the first Airbus A 320 aircraft made a successful maiden flight.",
+      "术语": "maiden flight",
+      "原句翻译": "在欧洲大陆以外组装的首架空中客车A320飞机首飞成功。",
+      "原句术语翻译": [
+         "首飞。"
+      ],
+      "insert变异": "Assembled outside the European continent in the first Airbus A 320 aircraft made a successful maiden flight (the first flight of an airplane or other airborne vehicle, usually used to test or demonstrate the functions of the systems).",
+      "insert变异翻译": "在欧洲大陆以外组装的首架空中客车A 320飞机成功首飞（飞机或其他空中飞行器的首次飞行，通常用于测试或演示系统的功能）。",
+      "insert术语翻译": [
+         "首飞。"
+      ],
+      "insert和原句术语翻译相似度": [
+         0.9999998807907104
+      ],
+      "insert变异翻译去括号": "在欧洲大陆以外组装的首架空中客车A 320飞机成功首飞。",
+      "原句翻译去括号": "在欧洲大陆以外组装的首架空中客车A320飞机首飞成功。",
+      "insert和原句翻译去括号部分相似度": [
+         0.9166911840438843
+      ],
+      "替换变异": [
+         "Assembled outside the European continent in the first Airbus A 320 aircraft made a successful test flight."
+      ],
+      "替换术语": [
+         "test flight"
+      ],
+      "替换翻译": [
+         "在欧洲大陆以外组装的首架空中客车A320飞机试飞成功。"
+      ],
+      "替换术语翻译": [
+         "试飞。"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.8272774815559387
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   },
+   "The deal with Sinopec was concluded ahead of a state visit by China's prime minister, Wen Jiabao, to Angola, on June 20 and 21, as part of a tour of seven African countries, between June 17 and 24.": {
+      "序号": 99,
+      "原句": "The deal with Sinopec was concluded ahead of a state visit by China's prime minister, Wen Jiabao, to Angola, on June 20 and 21, as part of a tour of seven African countries, between June 17 and 24.",
+      "术语": "state visit",
+      "原句翻译": "这项与中石化的协议是在中国总理温家宝对安哥拉进行国事访问之前达成的。温家宝将于6月20日至21日对安哥拉进行国事访问。他的访问将于6月17日至24日访问非洲七国。",
+      "原句术语翻译": [
+         "国事访问"
+      ],
+      "insert变异": "The deal with Sinopec was concluded ahead of a state visit (a formal visit by a head of state or a cabinet minister to another nation) by China's prime minister, Wen Jiabao, to Angola, on June 20 and 21, as part of a tour of seven African countries, between June 17 and 24.",
+      "insert变异翻译": "这项与中石化的协议是在中国总理温家宝对安哥拉进行国事访问（国家元首或内阁部长对另一个国家的正式访问）之前达成的。温家宝将于 6 月 20 日至 21 日对安哥拉进行国事访问。他的访问将于 6 月 17 日至 24 日访问非洲七国。",
+      "insert术语翻译": [
+         "国事访问"
+      ],
+      "insert和原句术语翻译相似度": [
+         1.0
+      ],
+      "insert变异翻译去括号": "这项与中石化的协议是在中国总理温家宝对安哥拉进行国事访问之前达成的。温家宝将于 6 月 20 日至 21 日对安哥拉进行国事访问。他的访问将于 6 月 17 日至 24 日访问非洲七国。",
+      "原句翻译去括号": "这项与中石化的协议是在中国总理温家宝对安哥拉进行国事访问之前达成的。温家宝将于6月20日至21日对安哥拉进行国事访问。他的访问将于6月17日至24日访问非洲七国。",
+      "insert和原句翻译去括号部分相似度": [
+         1.0000001192092896
+      ],
+      "替换变异": [
+         "The deal with Sinopec was concluded ahead of a joint visit by China's prime minister, Wen Jiabao, to Angola, on June 20 and 21, as part of a tour of seven African countries, between June 17 and 24."
+      ],
+      "替换术语": [
+         "joint visit"
+      ],
+      "替换翻译": [
+         "该协议是在中国总理温家宝于6月20日至21日访问安哥拉之前达成的。温家宝此次访问非洲七国，是他于6月17日至24日访问该七国的一部分。"
+      ],
+      "替换术语翻译": [
+         "访问"
+      ],
+      "替换术语和原句术语翻译相似度": [
+         0.6424234509468079
+      ],
+      "error_order": [
+         "(1)insert变异是否有术语不一致翻译错误",
+         "(2)insert变异是否有句子翻译不一致错误（去括号）",
+         "(3)bert替换变异是否存在术语翻译一致错误"
+      ],
+      "manual_1_result": [
+         0,
+         0,
+         0
+      ],
+      "manual_2_result": [
+         0,
+         0,
+         0
+      ],
+      "final_result": [
+         0,
+         0,
+         0
+      ]
+   }
+}

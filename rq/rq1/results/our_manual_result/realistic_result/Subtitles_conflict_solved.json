@@ -1,0 +1,2610 @@
+{
+   "And Lenny Cole has the keys to the back door of this booming city.": {
+      "序号": 0,
+      "原句": "And Lenny Cole has the keys to the back door of this booming city.",
+      "术语": "back door",
+      "insert变异": "And Lenny Cole has the keys to the back door (a means of access, often secret and unprotected, to something) of this booming city.",
+      "替换变异": [
+         "And Lenny Cole has the keys to the back gate of this booming city.",
+         "And Lenny Cole has the keys to the back roads of this booming city."
+      ],
+      "替换术语": [
+         "back gate",
+         "back roads"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "反常识"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "So every day, there's a field trip where they together create a book --": {
+      "序号": 1,
+      "原句": "So every day, there's a field trip where they together create a book --",
+      "术语": "field trip",
+      "insert变异": "So every day, there's a field trip (a trip, usually in a group and especially by students, to a place of special interest for education, research or exploration; a trip into the field) where they together create a book --",
+      "替换变异": [
+         "So every day, there's a book trip where they together create a book --",
+         "So every day, there's a field day where they together create a book --",
+         "So every day, there's a field session where they together create a book --",
+         "So every day, there's a field meeting where they together create a book --"
+      ],
+      "替换术语": [
+         "book trip",
+         "field day",
+         "field session",
+         "field meeting"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "The largest organism on the planet is a mycelial mat, one cell wall thick.": {
+      "序号": 2,
+      "原句": "The largest organism on the planet is a mycelial mat, one cell wall thick.",
+      "术语": "cell wall",
+      "insert变异": "The largest organism on the planet is a mycelial mat, one cell wall (a thick, fairly rigid, layer formed around individual cells of bacteria, Archaea, fungi, plants, and algae (but not animals and other protists which generally have cell membranes without cell walls), the cell wall is external to the cell membrane and serves a structural function helping the cell maintain its shape and protecting the cell from damage) thick.",
+      "替换变异": [
+         "The largest organism on the planet is a mycelial mat, one cell inch thick.",
+         "The largest organism on the planet is a mycelial mat, one cell meter thick."
+      ],
+      "替换术语": [
+         "cell inch",
+         "cell meter"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "A financial crisis, just as we have seen, could not be solved": {
+      "序号": 3,
+      "原句": "A financial crisis, just as we have seen, could not be solved",
+      "术语": "financial crisis",
+      "insert变异": "A financial crisis (an episode of sharp instability in the global or a local financial system in which financial assets lose a significant proportion of their value, often caused by the bursting of an economic bubble), just as we have seen, could not be solved",
+      "替换变异": [
+         "A financial disaster, just as we have seen, could not be solved",
+         "A financial failure, just as we have seen, could not be solved"
+      ],
+      "替换术语": [
+         "financial disaster",
+         "financial failure"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "If you smoke, you damage your lung tissue, and then lung cancer arises.": {
+      "序号": 4,
+      "原句": "If you smoke, you damage your lung tissue, and then lung cancer arises.",
+      "术语": "lung cancer",
+      "insert变异": "If you smoke, you damage your lung tissue, and then lung cancer (cancer of the lung(s)) arises.",
+      "替换变异": [
+         "If you smoke, you damage your lung tissue, and then a cancer arises.",
+         "If you smoke, you damage your lung tissue, and then lung disease arises."
+      ],
+      "替换术语": [
+         "a cancer",
+         "lung disease"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "70 pounds was all it weighed -- but let the size swell up, like a hang glider,": {
+      "序号": 5,
+      "原句": "70 pounds was all it weighed -- but let the size swell up, like a hang glider,",
+      "术语": "hang glider",
+      "insert变异": "70 pounds was all it weighed -- but let the size swell up, like a hang glider (the rider of such a craft),",
+      "替换变异": [
+         "70 pounds was all it weighed -- but let the size swell up, like a motor glider,",
+         "70 pounds was all it weighed -- but let the size swell up, like a small glider,"
+      ],
+      "替换术语": [
+         "motor glider",
+         "small glider"
+      ],
+      "manual_1_result": {
+         "info_insert": "反常识",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "反常识",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "反常识",
+         "bert_replace": "真实"
+      }
+   },
+   "and go stand in the parking space till I get there.\"": {
+      "序号": 6,
+      "原句": "and go stand in the parking space till I get there.\"",
+      "术语": "parking space",
+      "insert变异": "and go stand in the parking space (a space in which a car or other vehicle can be parked) till I get there.\"",
+      "替换变异": [
+         "and go stand in the open space till I get there.\"",
+         "and go stand in the crawl space till I get there.\""
+      ],
+      "替换术语": [
+         "open space",
+         "crawl space"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "I concern your right like fundamentalist… … to teach to your children what is that you want to teach to them… … but you do not leave blood it stain the public sector.": {
+      "序号": 7,
+      "原句": "I concern your right like fundamentalist… … to teach to your children what is that you want to teach to them… … but you do not leave blood it stain the public sector.",
+      "术语": "public sector",
+      "insert变异": "I concern your right like fundamentalist… … to teach to your children what is that you want to teach to them… … but you do not leave blood it stain the public sector (any government and all entities that are controlled or funded by it).",
+      "替换变异": [
+         "I concern your right like fundamentalist… … to teach to your children what is that you want to teach to them… … but you do not leave blood it stain the public opinion.",
+         "I concern your right like fundamentalist… … to teach to your children what is that you want to teach to them… … but you do not leave blood it stain the public mind."
+      ],
+      "替换术语": [
+         "public opinion",
+         "public mind"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "We do not fight global warming because it is futile to do so.": {
+      "序号": 8,
+      "原句": "We do not fight global warming because it is futile to do so.",
+      "术语": "global warming",
+      "insert变异": "We do not fight global warming (a sustained increase in the average temperature of the Earth, sufficient to cause climate change) because it is futile to do so.",
+      "替换变异": [
+         "We do not fight global terrorism because it is futile to do so.",
+         "We do not fight global hunger because it is futile to do so."
+      ],
+      "替换术语": [
+         "global terrorism",
+         "global hunger"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "And I kept -- I said, you know, I swear to God I tasted star anise.": {
+      "序号": 9,
+      "原句": "And I kept -- I said, you know, I swear to God I tasted star anise.",
+      "术语": "star anise",
+      "insert变异": "And I kept -- I said, you know, I swear to God I tasted star anise (the star-shaped seed used as a spice).",
+      "替换变异": [
+         "And I kept -- I said, you know, I swear to God I tasted like anise.",
+         "And I kept -- I said, you know, I swear to God I tasted star vise."
+      ],
+      "替换术语": [
+         "like anise",
+         "star vise"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Now, this is what Tyrannosaurus rex looks like in my living room.": {
+      "序号": 10,
+      "原句": "Now, this is what Tyrannosaurus rex looks like in my living room.",
+      "术语": "living room",
+      "insert变异": "Now, this is what Tyrannosaurus rex looks like in my living room (a room in a private house used for general social and leisure activities).",
+      "替换变异": [
+         "Now, this is what Tyrannosaurus rex looks like in my hotel room."
+      ],
+      "替换术语": [
+         "hotel room"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "and that was Australia. The third country we announced was Australia.": {
+      "序号": 11,
+      "原句": "and that was Australia. The third country we announced was Australia.",
+      "术语": "third country",
+      "insert变异": "and that was Australia. The third country (a country not party to a particular treaty in general) we announced was Australia.",
+      "替换变异": [
+         "and that was Australia. The third place we announced was Australia.",
+         "and that was Australia. The third thing we announced was Australia."
+      ],
+      "替换术语": [
+         "third place",
+         "third thing"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "反常识"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "反常识"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "反常识"
+      }
+   },
+   "If you don't like it, then just get your own blind spot.": {
+      "序号": 12,
+      "原句": "If you don't like it, then just get your own blind spot.",
+      "术语": "blind spot",
+      "insert变异": "If you don't like it, then just get your own blind spot (in driving, the part of the road that cannot be seen in the rear-view mirror).",
+      "替换变异": [
+         "If you don't like it, then just get your own blind eye."
+      ],
+      "替换术语": [
+         "blind eye"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "But I'm not the only one with a death sentence, am I?": {
+      "序号": 13,
+      "原句": "But I'm not the only one with a death sentence, am I?",
+      "术语": "death sentence",
+      "insert变异": "But I'm not the only one with a death sentence (anything that spells death), am I?",
+      "替换变异": [
+         "But I'm not the only one with a death wish, am I?"
+      ],
+      "替换术语": [
+         "death wish"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Suspect motives for boarding a pirate ship.": {
+      "序号": 14,
+      "原句": "Suspect motives for boarding a pirate ship.",
+      "术语": "pirate ship",
+      "insert变异": "Suspect motives for boarding a pirate ship (a theme park ride in the form of a pirate ship that swings back and forth with seated riders secured on the deck).",
+      "替换变异": [
+         "Suspect motives for boarding a merchant ship.",
+         "Suspect motives for boarding a cargo ship.",
+         "Suspect motives for boarding a cruise ship.",
+         "Suspect motives for boarding a pirate vessel."
+      ],
+      "替换术语": [
+         "merchant ship",
+         "cargo ship",
+         "cruise ship",
+         "pirate vessel"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "反常识",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "反常识",
+         "bert_replace": "真实"
+      }
+   },
+   "you're in big trouble, because that's the source code for Ebola.": {
+      "序号": 15,
+      "原句": "you're in big trouble, because that's the source code for Ebola.",
+      "术语": "source code",
+      "insert变异": "you're in big trouble, because that's the source code (human-readable instructions in a programming language, to be transformed into machine instructions by a compiler, assembler or other translator, or to be carried out directly by an interpreter) for Ebola.",
+      "替换变异": [
+         "you're in big trouble, because that's the source material for Ebola."
+      ],
+      "替换术语": [
+         "source material"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "with multiple control points, is actually something that's state of the art.": {
+      "序号": 16,
+      "原句": "with multiple control points, is actually something that's state of the art.",
+      "术语": "state of the art",
+      "insert变异": "with multiple control points, is actually something that's state of the art (the condition of scientific or technical knowledge, particularly the peak or highest level thereof, at a particular time).",
+      "替换变异": [
+         "with multiple control points, is actually something that's out of the art.",
+         "with multiple control points, is actually something that's part of the art."
+      ],
+      "替换术语": [
+         "out of the art",
+         "part of the art"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "we built a black box that was looking for electrical signals,": {
+      "序号": 17,
+      "原句": "we built a black box that was looking for electrical signals,",
+      "术语": "black box",
+      "insert变异": "we built a black box (a theoretical construct or device with known input and output characteristics but unknown method of operation) that was looking for electrical signals,",
+      "替换变异": [
+         "we built a black hole that was looking for electrical signals,",
+         "we built a black market that was looking for electrical signals,"
+      ],
+      "替换术语": [
+         "black hole",
+         "black market"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "反常识"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "反常识"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "反常识"
+      }
+   },
+   "And what ended up happening is that an entire emerging public health system": {
+      "序号": 18,
+      "原句": "And what ended up happening is that an entire emerging public health system",
+      "术语": "public health",
+      "insert变异": "And what ended up happening is that an entire emerging public health (the science and practice of community hygiene; includes preventive medicine, health education, sanitation and environmental safety) system",
+      "替换变异": [
+         "And what ended up happening is that an entire emerging public education system",
+         "And what ended up happening is that an entire emerging public school system",
+         "And what ended up happening is that an entire emerging public transport system",
+         "And what ended up happening is that an entire emerging public transportation system"
+      ],
+      "替换术语": [
+         "public education",
+         "public school",
+         "public transport",
+         "public transportation"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "And in Paris, the IPCC released its study confirming man's impact on global warming.": {
+      "序号": 19,
+      "原句": "And in Paris, the IPCC released its study confirming man's impact on global warming.",
+      "术语": "global warming",
+      "insert变异": "And in Paris, the IPCC released its study confirming man's impact on global warming (a sustained increase in the average temperature of the Earth, sufficient to cause climate change).",
+      "替换变异": [
+         "And in Paris, the IPCC released its study confirming man's impact on global development."
+      ],
+      "替换术语": [
+         "global development"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "How about putting an end to global warming?": {
+      "序号": 20,
+      "原句": "How about putting an end to global warming?",
+      "术语": "global warming",
+      "insert变异": "How about putting an end to global warming (a sustained increase in the average temperature of the Earth, sufficient to cause climate change)?",
+      "替换变异": [
+         "How about putting an end to global terrorism?"
+      ],
+      "替换术语": [
+         "global terrorism"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "There's a tidal wave coming from the east.": {
+      "序号": 21,
+      "原句": "There's a tidal wave coming from the east.",
+      "术语": "tidal wave",
+      "insert变异": "There's a tidal wave (a large and sudden rise and fall in the tide) coming from the east.",
+      "替换变异": [
+         "There's a tidal surge coming from the east.",
+         "There's a tidal stream coming from the east.",
+         "There's a tidal swell coming from the east.",
+         "There's a tidal current coming from the east."
+      ],
+      "替换术语": [
+         "tidal surge",
+         "tidal stream",
+         "tidal swell",
+         "tidal current"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "You need to take another look at your place on the food chain.": {
+      "序号": 22,
+      "原句": "You need to take another look at your place on the food chain.",
+      "术语": "food chain",
+      "insert变异": "You need to take another look at your place on the food chain (a hierarchy).",
+      "替换变异": [
+         "You need to take another look at your place on the food court."
+      ],
+      "替换术语": [
+         "food court"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "which shows this year's minimum of the Arctic Sea ice, and it's the lowest by far.": {
+      "序号": 23,
+      "原句": "which shows this year's minimum of the Arctic Sea ice, and it's the lowest by far.",
+      "术语": "sea ice",
+      "insert变异": "which shows this year's minimum of the Arctic Sea ice (frozen seawater), and it's the lowest by far.",
+      "替换变异": [
+         "which shows this year's minimum of the Arctic Sea temperature, and it's the lowest by far."
+      ],
+      "替换术语": [
+         "Sea temperature"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "The causes of death in 1408 range from heart attack, stroke, drowning...": {
+      "序号": 24,
+      "原句": "The causes of death in 1408 range from heart attack, stroke, drowning...",
+      "术语": "heart attack",
+      "insert变异": "The causes of death in 1408 range from heart attack (death or failure), stroke, drowning...",
+      "替换变异": [
+         "The causes of death in 1408 range from heart failure, stroke, drowning..."
+      ],
+      "替换术语": [
+         "heart failure"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "At that time, I really saw a leaf 's hand have to pull the action that the hand grenade bumped needle": {
+      "序号": 25,
+      "原句": "At that time, I really saw a leaf 's hand have to pull the action that the hand grenade bumped needle",
+      "术语": "hand grenade",
+      "insert变异": "At that time, I really saw a leaf 's hand have to pull the action that the hand grenade (a fire grenade) bumped needle",
+      "替换变异": [
+         "At that time, I really saw a leaf 's hand have to pull the action that the first grenade bumped needle",
+         "At that time, I really saw a leaf 's hand have to pull the action that the last grenade bumped needle",
+         "At that time, I really saw a leaf 's hand have to pull the action that the second grenade bumped needle"
+      ],
+      "替换术语": [
+         "first grenade",
+         "last grenade",
+         "second grenade"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "and they commented about it when they gave the full peer review to it.": {
+      "序号": 26,
+      "原句": "and they commented about it when they gave the full peer review to it.",
+      "术语": "peer review",
+      "insert变异": "and they commented about it when they gave the full peer review (the scholarly process whereby manuscripts intended to be published in an academic journal are reviewed by independent researchers (referees) to evaluate the contribution, i.e. the importance, novelty and accuracy of the manuscript's contents) to it.",
+      "替换变异": [
+         "and they commented about it when they gave the full peer rating to it."
+      ],
+      "替换术语": [
+         "peer rating"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "So, effectively, you get 3D data in real time of the subject.": {
+      "序号": 27,
+      "原句": "So, effectively, you get 3D data in real time of the subject.",
+      "术语": "real time",
+      "insert变异": "So, effectively, you get 3D data in real time (see: real, time) of the subject.",
+      "替换变异": [
+         "So, effectively, you get 3D data in real parts of the subject."
+      ],
+      "替换术语": [
+         "real parts"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Of the alien mother ship I came from, see": {
+      "序号": 28,
+      "原句": "Of the alien mother ship I came from, see",
+      "术语": "mother ship",
+      "insert变异": "Of the alien mother ship (a vessel or aircraft that serves or carries a smaller vessel or vessels that operate independently from it) I came from, see",
+      "替换变异": [
+         "Of the alien space ship I came from, see",
+         "Of the alien mother planet I came from, see",
+         "Of the alien mother country I came from, see"
+      ],
+      "替换术语": [
+         "space ship",
+         "mother planet",
+         "mother country"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Here you have the fertility rate -- the number of children per woman --": {
+      "序号": 29,
+      "原句": "Here you have the fertility rate -- the number of children per woman --",
+      "术语": "fertility rate",
+      "insert变异": "Here you have the fertility rate (the average number of children that would be born to a woman over her lifetime if she followed the current average pattern of fertility among a given group of women and survived through her reproductive years; used as an indicator of strength of population growth) -- the number of children per woman --",
+      "替换变异": [
+         "Here you have the birth rate -- the number of children per woman --",
+         "Here you have the fertility statistics -- the number of children per woman --",
+         "Here you have the fertility index -- the number of children per woman --",
+         "Here you have the fertility data -- the number of children per woman --",
+         "Here you have the fertility number -- the number of children per woman --"
+      ],
+      "替换术语": [
+         "birth rate",
+         "fertility statistics",
+         "fertility index",
+         "fertility data",
+         "fertility number"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Maybe he wants us to find the bodies quickly, like at the construction site.": {
+      "序号": 30,
+      "原句": "Maybe he wants us to find the bodies quickly, like at the construction site.",
+      "术语": "construction site",
+      "insert变异": "Maybe he wants us to find the bodies quickly, like at the construction site (a place where a building or other physical structure is under construction).",
+      "替换变异": [
+         "Maybe he wants us to find the bodies quickly, like at the murder site.",
+         "Maybe he wants us to find the bodies quickly, like at the crash site.",
+         "Maybe he wants us to find the bodies quickly, like at the grave site."
+      ],
+      "替换术语": [
+         "murder site",
+         "crash site",
+         "grave site"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "He has a little house near the lake, inside the polar circle.": {
+      "序号": 31,
+      "原句": "He has a little house near the lake, inside the polar circle.",
+      "术语": "polar circle",
+      "insert变异": "He has a little house near the lake, inside the polar circle (either of the two parallels of the Earth located at the latitude of 66° 33′ 44″ N and 66° 33′ 44″ S).",
+      "替换变异": [
+         "He has a little house near the lake, inside the polar bear.",
+         "He has a little house near the lake, inside the polar region."
+      ],
+      "替换术语": [
+         "polar bear",
+         "polar region"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "反常识"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "反常识"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "反常识"
+      }
+   },
+   "that we had told the security guard that we had put on her.": {
+      "序号": 32,
+      "原句": "that we had told the security guard that we had put on her.",
+      "术语": "security guard",
+      "insert变异": "that we had told the security guard (a person who is employed to provide security for people or property) that we had put on her.",
+      "替换变异": [
+         "that we had told the security detail that we had put on her."
+      ],
+      "替换术语": [
+         "security detail"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Well, sir, is it even possible to land... a B-25 on an aircraft carrier deck?": {
+      "序号": 33,
+      "原句": "Well, sir, is it even possible to land... a B-25 on an aircraft carrier deck?",
+      "术语": "aircraft carrier",
+      "insert变异": "Well, sir, is it even possible to land... a B-25 on an aircraft carrier (a warship designed to carry aircraft, serving as a seagoing air base, with a deck on which aircraft can be launched and landed) deck?",
+      "替换变异": [
+         "Well, sir, is it even possible to land... a B-25 on an aircraft flight deck?"
+      ],
+      "替换术语": [
+         "aircraft flight"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Tell me why no program New York you stole?": {
+      "序号": 34,
+      "原句": "Tell me why no program New York you stole?",
+      "术语": "New York",
+      "insert变异": "Tell me why no program New York (state in USA) you stole?",
+      "替换变异": [
+         "Tell me why no program at York you stole?"
+      ],
+      "替换术语": [
+         "at York"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "语法错误"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "语法错误"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "语法错误"
+      }
+   },
+   "Why don't you use a credit card?": {
+      "序号": 35,
+      "原句": "Why don't you use a credit card?",
+      "术语": "credit card",
+      "insert变异": "Why don't you use a credit card (any type of bank card)?",
+      "替换变异": [
+         "Why don't you use a business card?"
+      ],
+      "替换术语": [
+         "business card"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "I saw you at the travel agency, where are you going?": {
+      "序号": 36,
+      "原句": "I saw you at the travel agency, where are you going?",
+      "术语": "travel agency",
+      "insert变异": "I saw you at the travel agency (a company that arranges travel and accommodation for travellers), where are you going?",
+      "替换变异": [
+         "I saw you at the news agency, where are you going?",
+         "I saw you at the adoption agency, where are you going?",
+         "I saw you at the employment agency, where are you going?",
+         "I saw you at the rental agency, where are you going?",
+         "I saw you at the travel office, where are you going?",
+         "I saw you at the travel center, where are you going?"
+      ],
+      "替换术语": [
+         "news agency",
+         "adoption agency",
+         "employment agency",
+         "rental agency",
+         "travel office",
+         "travel center"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Sometimes, God likes to put two guys in a paper bag and just let 'em rip.": {
+      "序号": 37,
+      "原句": "Sometimes, God likes to put two guys in a paper bag and just let 'em rip.",
+      "术语": "paper bag",
+      "insert变异": "Sometimes, God likes to put two guys in a paper bag (a bag made of paper, especially a firm brown kind intended for use carrying groceries) and just let 'em rip.",
+      "替换变异": [
+         "Sometimes, God likes to put two guys in a garbage bag and just let 'em rip.",
+         "Sometimes, God likes to put two guys in a plastic bag and just let 'em rip.",
+         "Sometimes, God likes to put two guys in a paper sack and just let 'em rip."
+      ],
+      "替换术语": [
+         "garbage bag",
+         "plastic bag",
+         "paper sack"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "a classification of the strengths and virtues that looks at the sex ratio,": {
+      "序号": 38,
+      "原句": "a classification of the strengths and virtues that looks at the sex ratio,",
+      "术语": "sex ratio",
+      "insert变异": "a classification of the strengths and virtues that looks at the sex ratio (the ratio of males to females in any given population),",
+      "替换变异": [
+         "a classification of the strengths and virtues that looks at the skill ratio,",
+         "a classification of the strengths and virtues that looks at the strength ratio,",
+         "a classification of the strengths and virtues that looks at the power ratio,"
+      ],
+      "替换术语": [
+         "skill ratio",
+         "strength ratio",
+         "power ratio"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Fast food is one of the most stressful environments... because of the demands on you.": {
+      "序号": 39,
+      "原句": "Fast food is one of the most stressful environments... because of the demands on you.",
+      "术语": "fast food",
+      "insert变异": "Fast food (anything standardized, quickly available, and inexpensive, often, of low value) is one of the most stressful environments... because of the demands on you.",
+      "替换变异": [
+         "Fast travel is one of the most stressful environments... because of the demands on you."
+      ],
+      "替换术语": [
+         "Fast travel"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Sixteen local women claim to have had sexual relations with you as recently as mid-April, including four Canadian strippers the morning of your \"marriage.\"": {
+      "序号": 40,
+      "原句": "Sixteen local women claim to have had sexual relations with you as recently as mid-April, including four Canadian strippers the morning of your \"marriage.\"",
+      "术语": "sexual relations",
+      "insert变异": "Sixteen local women claim to have had sexual relations (sexual activities between individuals) with you as recently as mid-April, including four Canadian strippers the morning of your \"marriage.\"",
+      "替换变异": [
+         "Sixteen local women claim to have had sexual intercourse with you as recently as mid-April, including four Canadian strippers the morning of your \"marriage.\"",
+         "Sixteen local women claim to have had sexual contact with you as recently as mid-April, including four Canadian strippers the morning of your \"marriage.\""
+      ],
+      "替换术语": [
+         "sexual intercourse",
+         "sexual contact"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "and they'd like our coral reef to be part of it.": {
+      "序号": 41,
+      "原句": "and they'd like our coral reef to be part of it.",
+      "术语": "coral reef",
+      "insert变异": "and they'd like our coral reef (a reef formed by compacted coral skeletons) to be part of it.",
+      "替换变异": [
+         "and they'd like our coral island to be part of it."
+      ],
+      "替换术语": [
+         "coral island"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Why would we step in baby food?": {
+      "序号": 42,
+      "原句": "Why would we step in baby food?",
+      "术语": "baby food",
+      "insert变异": "Why would we step in baby food (a food designed for babies, usually of very soft consistency)?",
+      "替换变异": [
+         "Why would we step in baby steps?"
+      ],
+      "替换术语": [
+         "baby steps"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "that is processed all in water and at room temperature --": {
+      "序号": 43,
+      "原句": "that is processed all in water and at room temperature --",
+      "术语": "room temperature",
+      "insert变异": "that is processed all in water and at room temperature (a normal temperature of a room in which people live; typically 20 to 23°C (68 to 73°F); neither heated nor cooled) --",
+      "替换变异": [
+         "that is processed all in water and at high temperature --",
+         "that is processed all in water and at low temperature --",
+         "that is processed all in water and at constant temperature --"
+      ],
+      "替换术语": [
+         "high temperature",
+         "low temperature",
+         "constant temperature"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "After all, that's certainly what modern molecular biology says about us.": {
+      "序号": 44,
+      "原句": "After all, that's certainly what modern molecular biology says about us.",
+      "术语": "molecular biology",
+      "insert变异": "After all, that's certainly what modern molecular biology (the technology of gene manipulation) says about us.",
+      "替换变异": [
+         "After all, that's certainly what modern molecular genetics says about us.",
+         "After all, that's certainly what modern molecular science says about us."
+      ],
+      "替换术语": [
+         "molecular genetics",
+         "molecular science"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "What have all of you done to deserve the death penalty?": {
+      "序号": 45,
+      "原句": "What have all of you done to deserve the death penalty?",
+      "术语": "death penalty",
+      "insert变异": "What have all of you done to deserve the death penalty (a punishment in which the offender is put to death by the state. Category:en:Capital punishment)?",
+      "替换变异": [
+         "What have all of you done to deserve the death sentence?"
+      ],
+      "替换术语": [
+         "death sentence"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "It can't be repeated on any factory floor or any construction site.": {
+      "序号": 46,
+      "原句": "It can't be repeated on any factory floor or any construction site.",
+      "术语": "construction site",
+      "insert变异": "It can't be repeated on any factory floor or any construction site (a place where a building or other physical structure is under construction).",
+      "替换变异": [
+         "It can't be repeated on any factory floor or any construction floor."
+      ],
+      "替换术语": [
+         "construction floor"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "We need empty stomach... for an accurate blood test": {
+      "序号": 47,
+      "原句": "We need empty stomach... for an accurate blood test",
+      "术语": "blood test",
+      "insert变异": "We need empty stomach... for an accurate blood test (an analysis of blood performed on two subjects to determine whether they are biologically related, such as a paternity test)",
+      "替换变异": [
+         "We need empty stomach... for an accurate nutrition test"
+      ],
+      "替换术语": [
+         "nutrition test"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "What happened is you let a freaking wild animal into our apartment.": {
+      "序号": 48,
+      "原句": "What happened is you let a freaking wild animal into our apartment.",
+      "术语": "wild animal",
+      "insert变异": "What happened is you let a freaking wild animal (any (nonhuman) animal living in a natural, undomesticated state) into our apartment.",
+      "替换变异": [
+         "What happened is you let a freaking wild man into our apartment.",
+         "What happened is you let a freaking wild dog into our apartment.",
+         "What happened is you let a freaking wild guy into our apartment.",
+         "What happened is you let a freaking wild woman into our apartment."
+      ],
+      "替换术语": [
+         "wild man",
+         "wild dog",
+         "wild guy",
+         "wild woman"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "I tell people I used to be a light bulb, but now I'm a laser --": {
+      "序号": 49,
+      "原句": "I tell people I used to be a light bulb, but now I'm a laser --",
+      "术语": "light bulb",
+      "insert变异": "I tell people I used to be a light bulb (an article that resembles such a bulb and converts electricity to light by any process), but now I'm a laser --",
+      "替换变异": [
+         "I tell people I used to be a light gun, but now I'm a laser --",
+         "I tell people I used to be a light source, but now I'm a laser --"
+      ],
+      "替换术语": [
+         "light gun",
+         "light source"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "that takes the hot air engine from being somewhat impractical --": {
+      "序号": 50,
+      "原句": "that takes the hot air engine from being somewhat impractical --",
+      "术语": "hot air",
+      "insert变异": "that takes the hot air (air that has been heated, especially so as to function as the lifting agent of a hot-air balloon) engine from being somewhat impractical --",
+      "替换变异": [
+         "that takes the hot water engine from being somewhat impractical --"
+      ],
+      "替换术语": [
+         "hot water"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "So what I'm asking for is the creation of a new job title --": {
+      "序号": 51,
+      "原句": "So what I'm asking for is the creation of a new job title --",
+      "术语": "job title",
+      "insert变异": "So what I'm asking for is the creation of a new job title (a specific designation of a post within an organization, normally associated with a job description that details the tasks and responsibilities that go with it) --",
+      "替换变异": [
+         "So what I'm asking for is the creation of a new movie title --",
+         "So what I'm asking for is the creation of a new musical title --"
+      ],
+      "替换术语": [
+         "movie title",
+         "musical title"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "This man is in iIlegaI possession of a shopping cart and a milk crate.": {
+      "序号": 52,
+      "原句": "This man is in iIlegaI possession of a shopping cart and a milk crate.",
+      "术语": "shopping cart",
+      "insert变异": "This man is in iIlegaI possession of a shopping cart (a conveyance used to carry groceries and other items while shopping in a store) and a milk crate.",
+      "替换变异": [
+         "This man is in iIlegaI possession of a milk cart and a milk crate.",
+         "This man is in iIlegaI possession of a golf cart and a milk crate.",
+         "This man is in iIlegaI possession of a shopping bag and a milk crate."
+      ],
+      "替换术语": [
+         "milk cart",
+         "golf cart",
+         "shopping bag"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "because 75 percent of the patients who go to an emergency room with chest pains": {
+      "序号": 53,
+      "原句": "because 75 percent of the patients who go to an emergency room with chest pains",
+      "术语": "emergency room",
+      "insert变异": "because 75 percent of the patients who go to an emergency room (a department of a hospital where seriously ill or injured patients, often with life-threatening conditions that require urgent or immediate treatment, are brought in, usually by ambulance) with chest pains",
+      "替换变异": [
+         "because 75 percent of the patients who go to an emergency are with chest pains",
+         "because 75 percent of the patients who go to an emergency hospital with chest pains"
+      ],
+      "替换术语": [
+         "emergency are",
+         "emergency hospital"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "to things like string theory or the kind of things that people think of": {
+      "序号": 54,
+      "原句": "to things like string theory or the kind of things that people think of",
+      "术语": "string theory",
+      "insert变异": "to things like string theory (a candidate unified theory of all physical forces and particles; a theory which suggests that subatomic particles are one-dimensional strings rather than zero-dimensional points, it also suggests that space-time can have up to nine dimensions, plus the dimension of time) or the kind of things that people think of",
+      "替换变异": [
+         "to things like quantum theory or the kind of things that people think of",
+         "to things like conspiracy theory or the kind of things that people think of",
+         "to things like a theory or the kind of things that people think of"
+      ],
+      "替换术语": [
+         "quantum theory",
+         "conspiracy theory",
+         "a theory"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "This place is smaller than the old living room.": {
+      "序号": 55,
+      "原句": "This place is smaller than the old living room.",
+      "术语": "living room",
+      "insert变异": "This place is smaller than the old living room (a room in a private house used for general social and leisure activities).",
+      "替换变异": [
+         "This place is smaller than the old dining room."
+      ],
+      "替换术语": [
+         "dining room"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "there are a few people at the top of the fashion food chain": {
+      "序号": 56,
+      "原句": "there are a few people at the top of the fashion food chain",
+      "术语": "food chain",
+      "insert变异": "there are a few people at the top of the fashion food chain (a hierarchy)",
+      "替换变异": [
+         "there are a few people at the top of the fashion store chain",
+         "there are a few people at the top of the fashion show chain"
+      ],
+      "替换术语": [
+         "store chain",
+         "show chain"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "but they still want to be religious. It's only Western Europe that has retained its secularism,": {
+      "序号": 57,
+      "原句": "but they still want to be religious. It's only Western Europe that has retained its secularism,",
+      "术语": "Western Europe",
+      "insert变异": "but they still want to be religious. It's only Western Europe (a sociopolitical region in the west of Europe) that has retained its secularism,",
+      "替换变异": [
+         "but they still want to be religious. It's only one Europe that has retained its secularism,",
+         "but they still want to be religious. It's only a Europe that has retained its secularism,",
+         "but they still want to be religious. It's only Western culture that has retained its secularism,",
+         "but they still want to be religious. It's only Western society that has retained its secularism,",
+         "but they still want to be religious. It's only Western civilization that has retained its secularism,"
+      ],
+      "替换术语": [
+         "one Europe",
+         "a Europe",
+         "Western culture",
+         "Western society",
+         "Western civilization"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "powered 100 percent by the user experience on the home page --": {
+      "序号": 58,
+      "原句": "powered 100 percent by the user experience on the home page --",
+      "术语": "home page",
+      "insert变异": "powered 100 percent by the user experience on the home page (someone's public personal home page/site on the World Wide Web) --",
+      "替换变异": [
+         "powered 100 percent by the user experience on the web page --",
+         "powered 100 percent by the user experience on the home side --",
+         "powered 100 percent by the user experience on the home computer --",
+         "powered 100 percent by the user experience on the home screen --"
+      ],
+      "替换术语": [
+         "web page",
+         "home side",
+         "home computer",
+         "home screen"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "This thing doesn't have a blind spot!": {
+      "序号": 59,
+      "原句": "This thing doesn't have a blind spot!",
+      "术语": "blind spot",
+      "insert变异": "This thing doesn't have a blind spot (in driving, the part of the road that cannot be seen in the rear-view mirror)!",
+      "替换变异": [
+         "This thing doesn't have a blind eye!"
+      ],
+      "替换术语": [
+         "blind eye"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "is the reason that you can't transplant a pig heart valve into a person easily.": {
+      "序号": 60,
+      "原句": "is the reason that you can't transplant a pig heart valve into a person easily.",
+      "术语": "heart valve",
+      "insert变异": "is the reason that you can't transplant a pig heart valve (any of the valves in the heart which prevent blood from moving in the wrong direction) into a person easily.",
+      "替换变异": [
+         "is the reason that you can't transplant a pig heart transplant into a person easily.",
+         "is the reason that you can't transplant a pig heart back into a person easily."
+      ],
+      "替换术语": [
+         "heart transplant",
+         "heart back"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "语法错误"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "语法错误"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "语法错误"
+      }
+   },
+   "We could get a court order and have them suspended in two seconds.": {
+      "序号": 61,
+      "原句": "We could get a court order and have them suspended in two seconds.",
+      "术语": "court order",
+      "insert变异": "We could get a court order (a written command, issued by a judge, requiring whomever it is served upon to do whatever the order says, under penalty of being held in contempt of court) and have them suspended in two seconds.",
+      "替换变异": [
+         "We could get a gag order and have them suspended in two seconds."
+      ],
+      "替换术语": [
+         "gag order"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "that's four times the number of patients in the clinical trial --": {
+      "序号": 62,
+      "原句": "that's four times the number of patients in the clinical trial --",
+      "术语": "clinical trial",
+      "insert变异": "that's four times the number of patients in the clinical trial (a test of a medication or other medical treatment (such as a medical device), usually a comparison against a placebo, other medications or devices, or the standard medical treatment for a patient's condition) --",
+      "替换变异": [
+         "that's four times the number of patients in the clinical setting --",
+         "that's four times the number of patients in the clinical department --"
+      ],
+      "替换术语": [
+         "clinical setting",
+         "clinical department"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "It's the standard cooling-off period after a punishment detail.": {
+      "序号": 63,
+      "原句": "It's the standard cooling-off period after a punishment detail.",
+      "术语": "cooling-off period",
+      "insert变异": "It's the standard cooling-off period (a length of time in which the two sides to a purchase agreement, or contract can think things over and cancel with no penalty, this period is often stipulated by national law, in the UK it is currently (2008) 14 days, in many countries it is 10 days) after a punishment detail.",
+      "替换变异": [
+         "It's the standard kick - off period after a punishment detail.",
+         "It's the standard break - off period after a punishment detail.",
+         "It's the standard hand - off period after a punishment detail.",
+         "It's the standard cut - off period after a punishment detail.",
+         "It's the standard cooling - down period after a punishment detail.",
+         "It's the standard cooling - off system after a punishment detail."
+      ],
+      "替换术语": [
+         "kick - off period",
+         "break - off period",
+         "hand - off period",
+         "cut - off period",
+         "cooling - down period",
+         "cooling - off system"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "A puppet auto worker... singing a love song to the robot replacing him on the assembly line.": {
+      "序号": 64,
+      "原句": "A puppet auto worker... singing a love song to the robot replacing him on the assembly line.",
+      "术语": "assembly line",
+      "insert变异": "A puppet auto worker... singing a love song to the robot replacing him on the assembly line (a system of workers and machinery in which a product is assembled in a series of consecutive operations; typically the product is conveyed by a continuously moving belt).",
+      "替换变异": [
+         "A puppet auto worker... singing a love song to the robot replacing him on the command line.",
+         "A puppet auto worker... singing a love song to the robot replacing him on the assembly board."
+      ],
+      "替换术语": [
+         "command line",
+         "assembly board"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "using speech recognition software, and you have to be kind of quiet": {
+      "序号": 65,
+      "原句": "using speech recognition software, and you have to be kind of quiet",
+      "术语": "speech recognition",
+      "insert变异": "using speech recognition (the function of a front-end software system which processes input in the form of spoken language into a sequence of phonemes or characters, or into electronic commands for a computing system) software, and you have to be kind of quiet",
+      "替换变异": [
+         "using facial recognition software, and you have to be kind of quiet",
+         "using handwriting recognition software, and you have to be kind of quiet"
+      ],
+      "替换术语": [
+         "facial recognition",
+         "handwriting recognition"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "I'm a bit of a spark plug.": {
+      "序号": 66,
+      "原句": "I'm a bit of a spark plug.",
+      "术语": "spark plug",
+      "insert变异": "I'm a bit of a spark plug (someone who is a driving force in new endeavours).",
+      "替换变异": [
+         "I'm a bit of a nerve plug.",
+         "I'm a bit of a hair plug.",
+         "I'm a bit of a butt plug."
+      ],
+      "替换术语": [
+         "nerve plug",
+         "hair plug",
+         "butt plug"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "The time hasn't come to use our last resort.": {
+      "序号": 67,
+      "原句": "The time hasn't come to use our last resort.",
+      "术语": "last resort",
+      "insert变异": "The time hasn't come to use our last resort (the only remaining, often least desirable, option when all others have been excluded).",
+      "替换变异": [
+         "The time hasn't come to use our last words."
+      ],
+      "替换术语": [
+         "last words"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "say, the best personal computer you can buy, that might be its cost,": {
+      "序号": 68,
+      "原句": "say, the best personal computer you can buy, that might be its cost,",
+      "术语": "personal computer",
+      "insert变异": "say, the best personal computer (a small computer, built around a microprocessor, for use by one person at a time) you can buy, that might be its cost,",
+      "替换变异": [
+         "say, the best personal thing you can buy, that might be its cost,",
+         "say, the best personal car you can buy, that might be its cost,"
+      ],
+      "替换术语": [
+         "personal thing",
+         "personal car"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "and we used it as the blueprint for the design of a silicon chip.": {
+      "序号": 69,
+      "原句": "and we used it as the blueprint for the design of a silicon chip.",
+      "术语": "silicon chip",
+      "insert变异": "and we used it as the blueprint for the design of a silicon chip (a wafer of silicon on which an integrated circuit has been built; a microchip).",
+      "替换变异": [
+         "and we used it as the blueprint for the design of a computer chip."
+      ],
+      "替换术语": [
+         "computer chip"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "The ICE sheet can be 4 km a date": {
+      "序号": 70,
+      "原句": "The ICE sheet can be 4 km a date",
+      "术语": "ice sheet",
+      "insert变异": "The ICE sheet (a broad glacial mass with a relatively flat surface) can be 4 km a date",
+      "替换变异": [
+         "The ICE distance can be 4 km a date"
+      ],
+      "替换术语": [
+         "ICE distance"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "And the current state of the art in predicting an epidemic --": {
+      "序号": 71,
+      "原句": "And the current state of the art in predicting an epidemic --",
+      "术语": "state of the art",
+      "insert变异": "And the current state of the art (the condition of scientific or technical knowledge, particularly the peak or highest level thereof, at a particular time) in predicting an epidemic --",
+      "替换变异": [
+         "And the current state of the world in predicting an epidemic --"
+      ],
+      "替换术语": [
+         "state of the world"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "So what's in the Daycare Center is a top of raw material that's all over the place": {
+      "序号": 72,
+      "原句": "So what's in the Daycare Center is a top of raw material that's all over the place",
+      "术语": "raw material",
+      "insert变异": "So what's in the Daycare Center is a top of raw material (a material in its unprocessed, natural state considered usable for manufacture) that's all over the place",
+      "替换变异": [
+         "So what's in the Daycare Center is a top of raw shit that's all over the place",
+         "So what's in the Daycare Center is a top of raw sewage that's all over the place",
+         "So what's in the Daycare Center is a top of raw crap that's all over the place",
+         "So what's in the Daycare Center is a top of raw waste that's all over the place"
+      ],
+      "替换术语": [
+         "raw shit",
+         "raw sewage",
+         "raw crap",
+         "raw waste"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "After war, Sato father bring in big commercial fishing boat.": {
+      "序号": 73,
+      "原句": "After war, Sato father bring in big commercial fishing boat.",
+      "术语": "fishing boat",
+      "insert变异": "After war, Sato father bring in big commercial fishing boat (a boat used for fishing).",
+      "替换变异": [
+         "After war, Sato father bring in big commercial cargo boat."
+      ],
+      "替换术语": [
+         "cargo boat"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Whole Foods 365 olive oil which had been oxidizing next to my stove": {
+      "序号": 74,
+      "原句": "Whole Foods 365 olive oil which had been oxidizing next to my stove",
+      "术语": "olive oil",
+      "insert变异": "Whole Foods 365 olive oil (a vegetable oil, pressed from olives, and used in cooking and as a salad dressing; it is high in unsaturated fatty acids) which had been oxidizing next to my stove",
+      "替换变异": [
+         "Whole Foods 365 cooking oil which had been oxidizing next to my stove"
+      ],
+      "替换术语": [
+         "cooking oil"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "I don't tell her I analyse it for my doctoral thesis.": {
+      "序号": 75,
+      "原句": "I don't tell her I analyse it for my doctoral thesis.",
+      "术语": "doctoral thesis",
+      "insert变异": "I don't tell her I analyse it for my doctoral thesis (a research paper that a student writes in order to complete the requirements for a doctorate; a dissertation).",
+      "替换变异": [
+         "I don't tell her I analyse it for my doctoral dissertation.",
+         "I don't tell her I analyse it for my doctoral degree."
+      ],
+      "替换术语": [
+         "doctoral dissertation",
+         "doctoral degree"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Signed Morgrim, captain of secret police force.": {
+      "序号": 76,
+      "原句": "Signed Morgrim, captain of secret police force.",
+      "术语": "police force",
+      "insert变异": "Signed Morgrim, captain of secret police force (any police organization; a constabulary).",
+      "替换变异": [
+         "Signed Morgrim, captain of secret police headquarters."
+      ],
+      "替换术语": [
+         "police headquarters"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Don't we need a court order or something to exhume a body?": {
+      "序号": 77,
+      "原句": "Don't we need a court order or something to exhume a body?",
+      "术语": "court order",
+      "insert变异": "Don't we need a court order (a written command, issued by a judge, requiring whomever it is served upon to do whatever the order says, under penalty of being held in contempt of court) or something to exhume a body?",
+      "替换变异": [
+         "Don't we need a court martial or something to exhume a body?"
+      ],
+      "替换术语": [
+         "court martial"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "This man is in illegal possession of a shopping cart and a milk crate.": {
+      "序号": 78,
+      "原句": "This man is in illegal possession of a shopping cart and a milk crate.",
+      "术语": "shopping cart",
+      "insert变异": "This man is in illegal possession of a shopping cart (a conveyance used to carry groceries and other items while shopping in a store) and a milk crate.",
+      "替换变异": [
+         "This man is in illegal possession of a milk cart and a milk crate.",
+         "This man is in illegal possession of a golf cart and a milk crate.",
+         "This man is in illegal possession of a shopping bag and a milk crate."
+      ],
+      "替换术语": [
+         "milk cart",
+         "golf cart",
+         "shopping bag"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "We gotta get to the water cooler room.": {
+      "序号": 79,
+      "原句": "We gotta get to the water cooler room.",
+      "术语": "water cooler",
+      "insert变异": "We gotta get to the water cooler (a dispenser of cooled drinking water) room.",
+      "替换变异": [
+         "We gotta get to the main cooler room.",
+         "We gotta get to the water treatment room."
+      ],
+      "替换术语": [
+         "main cooler",
+         "water treatment"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "The rest ofthe trip was on the old fishing boat. just like we did back then.": {
+      "序号": 80,
+      "原句": "The rest ofthe trip was on the old fishing boat. just like we did back then.",
+      "术语": "fishing boat",
+      "insert变异": "The rest ofthe trip was on the old fishing boat (a boat used for fishing). just like we did back then.",
+      "替换变异": [
+         "The rest ofthe trip was on the old sailing boat. just like we did back then.",
+         "The rest ofthe trip was on the old fishing pier. just like we did back then."
+      ],
+      "替换术语": [
+         "sailing boat",
+         "fishing pier"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "I couldn't get you the search warrant for the trailer park.": {
+      "序号": 81,
+      "原句": "I couldn't get you the search warrant for the trailer park.",
+      "术语": "search warrant",
+      "insert变异": "I couldn't get you the search warrant (a court order in the form of a warrant, authorizing the search of a home and/or other privacy-protected place(s), notably to seek unlawful possessions, evidence etc. as part of a judicial inquiry) for the trailer park.",
+      "替换变异": [
+         "I couldn't get you the arrest warrant for the trailer park.",
+         "I couldn't get you the search map for the trailer park."
+      ],
+      "替换术语": [
+         "arrest warrant",
+         "search map"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "to live in an area where air pollution poses the greatest risk to my health.": {
+      "序号": 82,
+      "原句": "to live in an area where air pollution poses the greatest risk to my health.",
+      "术语": "air pollution",
+      "insert变异": "to live in an area where air pollution (the contamination of the atmosphere by noxious gases and particulates) poses the greatest risk to my health.",
+      "替换变异": [
+         "to live in an area where water pollution poses the greatest risk to my health."
+      ],
+      "替换术语": [
+         "water pollution"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "You're co-ordinating the Millennium Goals press release?": {
+      "序号": 83,
+      "原句": "You're co-ordinating the Millennium Goals press release?",
+      "术语": "press release",
+      "insert变异": "You're co-ordinating the Millennium Goals press release (an official written statement that is sent to the media so that it can be publicized)?",
+      "替换变异": [
+         "You're co-ordinating the Millennium Goals press conference?"
+      ],
+      "替换术语": [
+         "press conference"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "LEGO has essentially taken the concrete block, the building block of the world,": {
+      "序号": 84,
+      "原句": "LEGO has essentially taken the concrete block, the building block of the world,",
+      "术语": "building block",
+      "insert变异": "LEGO has essentially taken the concrete block, the building block (a component that is part of a larger system) of the world,",
+      "替换变异": [
+         "LEGO has essentially taken the concrete block, the concrete block of the world,",
+         "LEGO has essentially taken the concrete block, the building material of the world,",
+         "LEGO has essentially taken the concrete block, the building stone of the world,",
+         "LEGO has essentially taken the concrete block, the building capital of the world,"
+      ],
+      "替换术语": [
+         "concrete block",
+         "building material",
+         "building stone",
+         "building capital"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "You're pimping me out so that your cousin can get a green card?": {
+      "序号": 85,
+      "原句": "You're pimping me out so that your cousin can get a green card?",
+      "术语": "green card",
+      "insert变异": "You're pimping me out so that your cousin can get a green card (see: green, card)?",
+      "替换变异": [
+         "You're pimping me out so that your cousin can get a green light?",
+         "You're pimping me out so that your cousin can get a green eye?"
+      ],
+      "替换术语": [
+         "green light",
+         "green eye"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "We have of the it politicizes of the life insurance.": {
+      "序号": 86,
+      "原句": "We have of the it politicizes of the life insurance.",
+      "术语": "life insurance",
+      "insert变异": "We have of the it politicizes of the life insurance (a form of insurance on the life of a person. If the person dies then the insurance policy pays out a sum of money to the beneficiary (such as a person's family)).",
+      "替换变异": [
+         "We have of the it politicizes of the life force."
+      ],
+      "替换术语": [
+         "life force"
+      ],
+      "manual_1_result": {
+         "info_insert": "语法错误",
+         "bert_replace": "语法错误"
+      },
+      "manual_2_result": {
+         "info_insert": "语法错误",
+         "bert_replace": "语法错误"
+      },
+      "final_result": {
+         "info_insert": "语法错误",
+         "bert_replace": "语法错误"
+      }
+   },
+   "My name is S.S. Hahn, and I have a court order for the immediate release of all women being detained... in this institution under the designation code 12... pending a formal inquiry into the reasons for their detainment.": {
+      "序号": 87,
+      "原句": "My name is S.S. Hahn, and I have a court order for the immediate release of all women being detained... in this institution under the designation code 12... pending a formal inquiry into the reasons for their detainment.",
+      "术语": "court order",
+      "insert变异": "My name is S.S. Hahn, and I have a court order (a written command, issued by a judge, requiring whomever it is served upon to do whatever the order says, under penalty of being held in contempt of court) for the immediate release of all women being detained... in this institution under the designation code 12... pending a formal inquiry into the reasons for their detainment.",
+      "替换变异": [
+         "My name is S.S. Hahn, and I have a special order for the immediate release of all women being detained... in this institution under the designation code 12... pending a formal inquiry into the reasons for their detainment."
+      ],
+      "替换术语": [
+         "special order"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Besides all the depleted uranium, I mean.": {
+      "序号": 88,
+      "原句": "Besides all the depleted uranium, I mean.",
+      "术语": "depleted uranium",
+      "insert变异": "Besides all the depleted uranium (uranium that contains a reduced (depleted) amount of the fissile isotope U-235 compared to natural uranium; it is used in applications where the nuclear properties of the uranium are not important, and the uranium is instead being used for its mechanical or chemical properties), I mean.",
+      "替换变异": [
+         "Besides all the depleted energy, I mean.",
+         "Besides all the depleted blood, I mean."
+      ],
+      "替换术语": [
+         "depleted energy",
+         "depleted blood"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Putting up the Christmas tree With friends who come around": {
+      "序号": 89,
+      "原句": "Putting up the Christmas tree With friends who come around",
+      "术语": "Christmas tree",
+      "insert变异": "Putting up the Christmas tree (anything elaborately ornamented or decorated) With friends who come around",
+      "替换变异": [
+         "Putting up the family tree With friends who come around",
+         "Putting up the apple tree With friends who come around"
+      ],
+      "替换术语": [
+         "family tree",
+         "apple tree"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "but a nuclear war of a kind we've never seen --": {
+      "序号": 90,
+      "原句": "but a nuclear war of a kind we've never seen --",
+      "术语": "nuclear war",
+      "insert变异": "but a nuclear war (a war fought using nuclear (fission and/or fusion) weapons) of a kind we've never seen --",
+      "替换变异": [
+         "but a nuclear weapon of a kind we've never seen --",
+         "but a nuclear bomb of a kind we've never seen --",
+         "but a nuclear reactor of a kind we've never seen --"
+      ],
+      "替换术语": [
+         "nuclear weapon",
+         "nuclear bomb",
+         "nuclear reactor"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "and various other techniques to create the illusion of a sixth sense.": {
+      "序号": 91,
+      "原句": "and various other techniques to create the illusion of a sixth sense.",
+      "术语": "sixth sense",
+      "insert变异": "and various other techniques to create the illusion of a sixth sense (extrasensory perception; the ability to sense things by means other than the known bodily senses).",
+      "替换变异": [
+         "and various other techniques to create the illusion of a sixth person.",
+         "and various other techniques to create the illusion of a sixth dimension."
+      ],
+      "替换术语": [
+         "sixth person",
+         "sixth dimension"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "I've hada sore throat for a month and a half.": {
+      "序号": 92,
+      "原句": "I've hada sore throat for a month and a half.",
+      "术语": "sore throat",
+      "insert变异": "I've hada sore throat (any inflammation of the pharynx that causes soreness) for a month and a half.",
+      "替换变异": [
+         "I've hada sore back for a month and a half.",
+         "I've hada sore head for a month and a half.",
+         "I've hada sore headache for a month and a half.",
+         "I've hada sore leg for a month and a half.",
+         "I've hada sore stomach for a month and a half."
+      ],
+      "替换术语": [
+         "sore back",
+         "sore head",
+         "sore headache",
+         "sore leg",
+         "sore stomach"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "To add zest to the drink,first I put in some vanilla extract, then, of course, some egg yolks, and then, I have a secret ingredient.": {
+      "序号": 93,
+      "原句": "To add zest to the drink,first I put in some vanilla extract, then, of course, some egg yolks, and then, I have a secret ingredient.",
+      "术语": "vanilla extract",
+      "insert变异": "To add zest to the drink,first I put in some vanilla extract (a liquid, technically a tincture, used in cooking, prepared by soaking vanilla beans in alcohol), then, of course, some egg yolks, and then, I have a secret ingredient.",
+      "替换变异": [
+         "To add zest to the drink,first I put in some vanilla juice, then, of course, some egg yolks, and then, I have a secret ingredient.",
+         "To add zest to the drink,first I put in some vanilla powder, then, of course, some egg yolks, and then, I have a secret ingredient."
+      ],
+      "替换术语": [
+         "vanilla juice",
+         "vanilla powder"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "the drive to understand the inner person behind the public figure,": {
+      "序号": 94,
+      "原句": "the drive to understand the inner person behind the public figure,",
+      "术语": "public figure",
+      "insert变异": "the drive to understand the inner person behind the public figure (a famous person whose life is the subject of public interest),",
+      "替换变异": [
+         "the drive to understand the inner person behind the public image,"
+      ],
+      "替换术语": [
+         "public image"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Guys, could you at least call another fire department?": {
+      "序号": 95,
+      "原句": "Guys, could you at least call another fire department?",
+      "术语": "fire department",
+      "insert变异": "Guys, could you at least call another fire department (an organization, often part of a local government, whose purpose is preventing and putting out fires. May provide other emergency services as well)?",
+      "替换变异": [
+         "Guys, could you at least call another police department?",
+         "Guys, could you at least call another fire alarm?",
+         "Guys, could you at least call another fire fight?"
+      ],
+      "替换术语": [
+         "police department",
+         "fire alarm",
+         "fire fight"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "反常识"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "反常识"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "反常识"
+      }
+   },
+   "or the amount that they were willing to put down into their savings account": {
+      "序号": 96,
+      "原句": "or the amount that they were willing to put down into their savings account",
+      "术语": "savings account",
+      "insert变异": "or the amount that they were willing to put down into their savings account (a bank account designed for a client's savings, which compared to a current account typically entails withdrawal restrictions but yields a better interest)",
+      "替换变异": [
+         "or the amount that they were willing to put down into their bank account"
+      ],
+      "替换术语": [
+         "bank account"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "It's a national park, there's not supposed to be fences.": {
+      "序号": 97,
+      "原句": "It's a national park, there's not supposed to be fences.",
+      "术语": "national park",
+      "insert变异": "It's a national park (an area of land that is not built upon, but reserved by the national government for conservation of nature and usually also for recreational use), there's not supposed to be fences.",
+      "替换变异": [
+         "It's a national holiday, there's not supposed to be fences."
+      ],
+      "替换术语": [
+         "national holiday"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "反常识"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "反常识"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "反常识"
+      }
+   },
+   "I think the turning point was definitely eating the baby.": {
+      "序号": 98,
+      "原句": "I think the turning point was definitely eating the baby.",
+      "术语": "turning point",
+      "insert变异": "I think the turning point (a crossroads) was definitely eating the baby.",
+      "替换变异": [
+         "I think the whole point was definitely eating the baby.",
+         "I think the main point was definitely eating the baby."
+      ],
+      "替换术语": [
+         "whole point",
+         "main point"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "We hillbillies do our duty same as the heroes in the special forces.": {
+      "序号": 99,
+      "原句": "We hillbillies do our duty same as the heroes in the special forces.",
+      "术语": "special forces",
+      "insert变异": "We hillbillies do our duty same as the heroes in the special forces (elite military forces engaged in unconventional operations such as guerrilla warfare or counterterrorism).",
+      "替换变异": [
+         "We hillbillies do our duty same as the heroes in the special unit."
+      ],
+      "替换术语": [
+         "special unit"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   }
+}

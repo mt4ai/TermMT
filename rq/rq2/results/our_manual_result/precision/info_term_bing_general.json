@@ -1,0 +1,1602 @@
+{
+   "On the basis of the case study of Anjialing surface coal mine, the trends in the development of shovel-truck technology have been analyzed.": {
+      "序号": 0,
+      "原句": "On the basis of the case study of Anjialing surface coal mine, the trends in the development of shovel-truck technology have been analyzed.",
+      "术语": "case study",
+      "参考翻译": "['案例研究', '个案调查', '个案研究']",
+      "原句翻译": "在以安家岭露天煤矿为例的基础上，分析了铲车技术的发展趋势。",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "On the basis of the case study (a case used in a such research) of Anjialing surface coal mine, the trends in the development of shovel-truck technology have been analyzed.",
+      "insert变异翻译": "在安家岭露天煤矿的案例研究（此类研究中使用的案例）的基础上，分析了铲车技术的发展趋势。",
+      "insert术语翻译": "['案例研究']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Congress amended the Clean Air Act that year to set up a market for the permits that power plants must have to release sulfur dioxide (SO2 )—a major culprit in acid rain —out of their smokestacks.": {
+      "序号": 1,
+      "原句": "Congress amended the Clean Air Act that year to set up a market for the permits that power plants must have to release sulfur dioxide (SO2 )—a major culprit in acid rain —out of their smokestacks.",
+      "术语": "acid rain",
+      "参考翻译": "['酸性雨', '酸雨']",
+      "原句翻译": "国会当年修订了《清洁空气法》，为发电厂必须获得许可才能从烟囱中释放二氧化硫（SO2）的许可证建立了一个市场。",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "Congress amended the Clean Air Act that year to set up a market for the permits that power plants must have to release sulfur dioxide (SO2 )—a major culprit in acid rain (rain which is unusually acidic (pH of less than the natural range of 5 to 6); caused mainly by atmospheric pollution with sulphur dioxide, carbon dioxide and nitrogen compounds) —out of their smokestacks.",
+      "insert变异翻译": "国会当年修订了《清洁空气法》，为发电厂必须获得释放二氧化硫（SO2）的许可证建立了一个市场，二氧化硫是酸雨的罪魁祸首（异常酸性的雨水（pH值低于5至6的自然范围）;主要由二氧化硫的大气污染引起， 二氧化碳和氮化合物）——从他们的烟囱中出来。",
+      "insert术语翻译": "['酸雨']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "agerial End User Perspective,IRWLN Inc,1990年 Research of the Characters of Development Rule for MIS": {
+      "序号": 2,
+      "原句": "agerial End User Perspective,IRWLN Inc,1990年 Research of the Characters of Development Rule for MIS",
+      "术语": "end user",
+      "参考翻译": "['终端使用者']",
+      "原句翻译": "agerial End User Perspective，IRWLN Inc，1990年 Research of the Characters of Development Rule for MIS",
+      "原句术语翻译": [
+         "agerialEndUserPerspective"
+      ],
+      "insert变异": "agerial End User (the final consumer of a product; the intended recipient or user) Perspective,IRWLN Inc,1990年 Research of the Characters of Development Rule for MIS",
+      "insert变异翻译": "agerial 最终用户（产品的最终消费者;预期的接收者或用户） Perspective，IRWLN Inc，1990年 Research of the Characters of Development Rule for MIS",
+      "insert术语翻译": "['最终用户']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "ls that a natural catastrophe or act of God or something?": {
+      "序号": 3,
+      "原句": "ls that a natural catastrophe or act of God or something?",
+      "术语": "act of God",
+      "参考翻译": "['天灾', '不可抗力']",
+      "原句翻译": "是自然灾害还是天灾什么的？",
+      "原句术语翻译": [
+         "天灾的"
+      ],
+      "insert变异": "ls that a natural catastrophe or act of God (see: act, of, God) or something?",
+      "insert变异翻译": "是自然灾害还是上帝的行为（参见：上帝的行为）或其他什么？",
+      "insert术语翻译": "['上帝的行为']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "After injection of the plasmid prTA-tet4-rhINS, the blood glucose in diabetes mice decreased markedly for an average of mmol/L and mmol/L at doxycycline concentration of g/L and 0.g/L in the drinking water respectively. prTA-tet4-rhIN injected diabetic mice gained mass, and urine volume decreased.": {
+      "序号": 4,
+      "原句": "After injection of the plasmid prTA-tet4-rhINS, the blood glucose in diabetes mice decreased markedly for an average of mmol/L and mmol/L at doxycycline concentration of g/L and 0.g/L in the drinking water respectively. prTA-tet4-rhIN injected diabetic mice gained mass, and urine volume decreased.",
+      "术语": "drinking water",
+      "参考翻译": "['饮用水']",
+      "原句翻译": "注射质粒prTA-tet4-rhINS后，在多西环素浓度为g/L和0.g/L时，糖尿病小鼠的血糖分别显著降低，平均mmol/L和mmol/L。prTA-tet4-rhIN注射的糖尿病小鼠体重增加，尿量减少。",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "After injection of the plasmid prTA-tet4-rhINS, the blood glucose in diabetes mice decreased markedly for an average of mmol/L and mmol/L at doxycycline concentration of g/L and 0.g/L in the drinking water (water that is suitable or intended for ingestion by humans) respectively. prTA-tet4-rhIN injected diabetic mice gained mass, and urine volume decreased.",
+      "insert变异翻译": "注射质粒prTA-tet4-rhINS后，糖尿病小鼠的血糖在饮用水（适合或打算由人类摄入的水）中分别以g/L和0.g/L的多西环素浓度下平均mmol/L和mmol/L显著降低。prTA-tet4-rhIN注射的糖尿病小鼠体重增加，尿量减少。",
+      "insert术语翻译": "['饮用水']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "From the points of western economics and institution economi cs, the pa per discussed the economic essences of sustainable development of grassland reso urces: realizing optimal allocation of grassland resources, analyzing the instit utional causes of grassland eco-environment problems.": {
+      "序号": 5,
+      "原句": "From the points of western economics and institution economi cs, the pa per discussed the economic essences of sustainable development of grassland reso urces: realizing optimal allocation of grassland resources, analyzing the instit utional causes of grassland eco-environment problems.",
+      "术语": "sustainable development",
+      "参考翻译": "['永续发展', '可持续发展']",
+      "原句翻译": "从西方经济学和制度经济的角度出发，探讨了草原资源可持续发展的经济本质：实现草原资源优化配置，分析草原生态环境问题的根源。",
+      "原句术语翻译": [
+         "可持续发展"
+      ],
+      "insert变异": "From the points of western economics and institution economi cs, the pa per discussed the economic essences of sustainable development (development which seeks to produce sustainable economic growth while ensuring future generations' ability to do the same by not exceeding the regenerative capacity of nature) of grassland reso urces: realizing optimal allocation of grassland resources, analyzing the instit utional causes of grassland eco-environment problems.",
+      "insert变异翻译": "从西方经济学和制度经济的角度出发，探讨了草原生态环境问题的根本原因：实现草原生态环境问题的根本原因，分析草原生态环境问题的根源。",
+      "insert术语翻译": "['']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "He is In hot water because he can not make good on his debt": {
+      "序号": 6,
+      "原句": "He is In hot water because he can not make good on his debt",
+      "术语": "hot water",
+      "参考翻译": "['热水', '汤']",
+      "原句翻译": "他陷入困境，因为他无法偿还债务",
+      "原句术语翻译": [
+         "陷入困境"
+      ],
+      "insert变异": "He is In hot water (see: hot, water) because he can not make good on his debt",
+      "insert变异翻译": "他在热水中（见：热水，水），因为他无法偿还债务",
+      "insert术语翻译": "['热水']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "A series of Ba-modified hexaaluminate La xBa 1-x NiAl 11 O 19-δ catalysts were prepared,and its structures,properties,catalytic activities for CO 2 reforming of methane to synthesis gas and the carbon deposition on the catalyst surface were characterized by XRD,XPS,TPR,TEM,BET and TGA techniques,respectively.": {
+      "序号": 7,
+      "原句": "A series of Ba-modified hexaaluminate La xBa 1-x NiAl 11 O 19-δ catalysts were prepared,and its structures,properties,catalytic activities for CO 2 reforming of methane to synthesis gas and the carbon deposition on the catalyst surface were characterized by XRD,XPS,TPR,TEM,BET and TGA techniques,respectively.",
+      "术语": "synthesis gas",
+      "参考翻译": "['合成气']",
+      "原句翻译": "制备了一系列Ba改性六铝酸盐La xBa 1-x NiAl 11 O 19-δ催化剂，并分别采用XRD、XPS、TPR、TEM、BET和TGA技术表征了其结构、性能、甲烷CO2重整制为合成气的催化活性以及催化剂表面的碳沉积。",
+      "原句术语翻译": [
+         "合成气"
+      ],
+      "insert变异": "A series of Ba-modified hexaaluminate La xBa 1-x NiAl 11 O 19-δ catalysts were prepared,and its structures,properties,catalytic activities for CO 2 reforming of methane to synthesis gas (the gas obtained by heating coal and steam; coal gas) and the carbon deposition on the catalyst surface were characterized by XRD,XPS,TPR,TEM,BET and TGA techniques,respectively.",
+      "insert变异翻译": "制备了一系列Ba改性六铝酸盐La xBa 1-x NiAl 11 O 19-δ催化剂，通过XRD、XPS、TPR、分别采用TEM、BET和TGA技术。",
+      "insert术语翻译": "['']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Hangman′s fractures of types Ⅰ, Ⅱ and Ⅱa can be treated conservatively, but those of type Ⅲ or spinal cord injury reguire surgical stabilization.": {
+      "序号": 8,
+      "原句": "Hangman′s fractures of types Ⅰ, Ⅱ and Ⅱa can be treated conservatively, but those of type Ⅲ or spinal cord injury reguire surgical stabilization.",
+      "术语": "spinal cord",
+      "参考翻译": "['脊髓']",
+      "原句翻译": "刽子手骨折 I.、II. 和 II.a 可以保守治疗，但 III 型骨折需要手术稳定。",
+      "原句术语翻译": [
+         "骨折"
+      ],
+      "insert变异": "Hangman′s fractures of types Ⅰ, Ⅱ and Ⅱa can be treated conservatively, but those of type Ⅲ or spinal cord (a thick, whitish cord of nerve tissue which is a major part of the vertebrate central nervous system, it extends from the brain stem down through the spine, with nerves branching off to various parts of the body) injury reguire surgical stabilization.",
+      "insert变异翻译": "I.、II.型刽子手骨折。 和 II.a 可以保守治疗，但 III 型或脊髓（一种粗而白色的神经组织，是脊椎动物中枢神经系统的主要部分，它从脑干向下延伸到脊柱，神经分支到身体的各个部位）损伤需要手术稳定。",
+      "insert术语翻译": "['脊髓']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "and the infection rates of high -risk HPV including HPV16, 18, 31, 33, 52, were measured touch-down p olymerase chain reaction(PCR), normal cervical specimens were taken as control.": {
+      "序号": 9,
+      "原句": "and the infection rates of high -risk HPV including HPV16, 18, 31, 33, 52, were measured touch-down p olymerase chain reaction(PCR), normal cervical specimens were taken as control.",
+      "术语": "chain reaction",
+      "参考翻译": "['链反应', '连锁反应', '链式反应']",
+      "原句翻译": "HPV16、18、31、33、52等高危型HPV感染率，以正常宫颈标本为对照。",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "and the infection rates of high -risk HPV including HPV16, 18, 31, 33, 52, were measured touch-down p olymerase chain reaction (a series of events, each one causing or influencing the next)(PCR), normal cervical specimens were taken as control.",
+      "insert变异翻译": "HPV16、18、31、33、52等高危型HPV感染率，测定p磷脂酶链反应（一系列事件，每起事件引起或影响下一起事件）（PCR），以正常宫颈标本为对照。",
+      "insert术语翻译": "['链反应，']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "All infants were followed up for the hepatitis B detection at the age of 0,3,6,9,12,2months enzyme-linked immunoadsorbent assay(ELISA).": {
+      "序号": 10,
+      "原句": "All infants were followed up for the hepatitis B detection at the age of 0,3,6,9,12,2months enzyme-linked immunoadsorbent assay(ELISA).",
+      "术语": "hepatitis B",
+      "参考翻译": "['乙肝', '乙型肝炎']",
+      "原句翻译": "所有婴儿在0、3、6、9、12、2个月大时均接受酶联免疫吸附试验（ELISA）检测。",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "All infants were followed up for the hepatitis B (an acute form of hepatitis, transmitted by blood, sexual contact, and body fluids) detection at the age of 0,3,6,9,12,2months enzyme-linked immunoadsorbent assay(ELISA).",
+      "insert变异翻译": "所有婴儿在0、3、6、9、12、2个月大时接受乙型肝炎（一种急性肝炎，通过血液、性接触和体液传播）检测酶联免疫吸附测定（ELISA）。",
+      "insert术语翻译": "['乙型肝炎']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "We establish an asymptotic estimate of the lowest eigenvalue μ(σA) of the Schrodinger operator — ▽_(σA)~2 with a magnetic field in a bounded 2-dimensional domain, where A is a non-smooth magnetic potential, and σ is a large parameter.": {
+      "序号": 11,
+      "原句": "We establish an asymptotic estimate of the lowest eigenvalue μ(σA) of the Schrodinger operator — ▽_(σA)~2 with a magnetic field in a bounded 2-dimensional domain, where A is a non-smooth magnetic potential, and σ is a large parameter.",
+      "术语": "magnetic field",
+      "参考翻译": "['磁场']",
+      "原句翻译": "我们建立了薛定谔算子的最低特征值 μ（σA） — ▽_（σA）~2 的渐近估计，其中 A 是非光滑磁势，σ 是一个大参数。",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "We establish an asymptotic estimate of the lowest eigenvalue μ(σA) of the Schrodinger operator — ▽_(σA)~2 with a magnetic field (a condition in the space around a magnet or electric current in which there is a detectable magnetic force and two magnetic poles are present) in a bounded 2-dimensional domain, where A is a non-smooth magnetic potential, and σ is a large parameter.",
+      "insert变异翻译": "我们建立了一个薛定谔算子的最低特征值 μ（σA） — ▽_（σA）~2 的渐近估计，其中磁场（磁铁或电流周围空间中的条件，其中存在可检测的磁力且存在两个磁极）在有界的二维域中，其中 A 是非光滑磁势， σ是一个很大的参数。",
+      "insert术语翻译": "['磁场']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "The human rights group Amnesty International says more than 200 people have been illegally detained and tortured this year in Ivory Coast.": {
+      "序号": 12,
+      "原句": "The human rights group Amnesty International says more than 200 people have been illegally detained and tortured this year in Ivory Coast.",
+      "术语": "human rights",
+      "参考翻译": "['人权']",
+      "原句翻译": "人权组织国际特赦组织表示，今年科特迪瓦有200多人被非法拘留和酷刑。",
+      "原句术语翻译": [
+         "人权"
+      ],
+      "insert变异": "The human rights (the set of basic rights and freedoms that all humans should be guaranteed, including the right to life and liberty, freedom of thought and expression, and equality before the law) group Amnesty International says more than 200 people have been illegally detained and tortured this year in Ivory Coast.",
+      "insert变异翻译": "国际特赦组织表示，今年科特迪瓦有200多人被非法拘留和酷刑。",
+      "insert术语翻译": "['国际特赦']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "(k) in the case of a vehicle other than a semi-trailer, the front edge of the sideguard shall not be more than 300 millimetres from the nearest front tyre in the case of a motor vehicle, or 500 millimetres in the case of a trailer;": {
+      "序号": 13,
+      "原句": "(k) in the case of a vehicle other than a semi-trailer, the front edge of the sideguard shall not be more than 300 millimetres from the nearest front tyre in the case of a motor vehicle, or 500 millimetres in the case of a trailer;",
+      "术语": "motor vehicle",
+      "参考翻译": "['汽车', '机动车']",
+      "原句翻译": "（k） 对于半挂车以外的车辆，侧护板的前缘与最近的前轮胎（机动车辆）的距离不得超过300毫米，或拖车的500毫米;",
+      "原句术语翻译": [
+         "机动车辆，"
+      ],
+      "insert变异": "(k) in the case of a vehicle other than a semi-trailer, the front edge of the sideguard shall not be more than 300 millimetres from the nearest front tyre in the case of a motor vehicle (any land-based means of transportation in the form of a machine that operates primarily through a motor to provide power to rotate the tires), or 500 millimetres in the case of a trailer;",
+      "insert变异翻译": "（k） 对于半挂车以外的车辆，侧护板的前缘与最近的前轮胎之间的距离不得超过300毫米（任何主要通过电机操作的机器形式的陆上运输工具，以提供轮胎旋转的动力）， 拖车为500毫米;",
+      "insert术语翻译": "['，']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "\"Measures include improvement of the qualifications of its personnel, full implementation of transparency policies in the work of the police and procuratorial departments and in court proceedings and prison administration, strengthening the mechanism of external supervision and internal redress, investigation and severe punishment of judicial and law-enforcement officials involved in cases of corruption, obstruction of justice and bending the law out of personal consideration and favoritism.\"": {
+      "序号": 14,
+      "原句": "\"Measures include improvement of the qualifications of its personnel, full implementation of transparency policies in the work of the police and procuratorial departments and in court proceedings and prison administration, strengthening the mechanism of external supervision and internal redress, investigation and severe punishment of judicial and law-enforcement officials involved in cases of corruption, obstruction of justice and bending the law out of personal consideration and favoritism.\"",
+      "术语": "obstruction of justice",
+      "参考翻译": "['妨害司法罪']",
+      "原句翻译": "“措施包括提高其人员的素质，在警察和检察部门的工作以及法院诉讼和监狱管理中全面实施透明度政策，加强外部监督和内部纠正机制，调查和严厉惩处涉及腐败、妨碍司法和偏袒案件的司法和执法人员。",
+      "原句术语翻译": [
+         "妨碍司法"
+      ],
+      "insert变异": "\"Measures include improvement of the qualifications of its personnel, full implementation of transparency policies in the work of the police and procuratorial departments and in court proceedings and prison administration, strengthening the mechanism of external supervision and internal redress, investigation and severe punishment of judicial and law-enforcement officials involved in cases of corruption, obstruction of justice (interference with the administration of law and justice, as by ignorance of a justification, fraud of evidential validity, or not disclosing discovery of facts, or by doing damage to a witness, officer, juror) and bending the law out of personal consideration and favoritism.\"",
+      "insert变异翻译": "“措施包括提高其人员的资格，在警察和检察部门的工作以及法院诉讼和监狱管理中充分执行透明度政策，加强外部监督和内部补救机制，调查和严厉惩罚涉及腐败、妨碍司法（干预法律和司法）案件的司法和执法官员。 如无视正当理由、欺诈证据有效性、不披露事实发现、或对证人、官员、陪审员造成损害，以及出于个人考虑和偏袒而歪曲法律。",
+      "insert术语翻译": "['不披露事实']",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "Federacion de Asociaciones Cooperativas de Produccion agropecuaria de El Salvador": {
+      "序号": 15,
+      "原句": "Federacion de Asociaciones Cooperativas de Produccion agropecuaria de El Salvador",
+      "术语": "El Salvador",
+      "参考翻译": "['萨尔瓦多']",
+      "原句翻译": "萨尔瓦多合作社联合会",
+      "原句术语翻译": [
+         "萨尔瓦多"
+      ],
+      "insert变异": "Federacion de Asociaciones Cooperativas de Produccion agropecuaria de El Salvador (country in Central America)",
+      "insert变异翻译": "Federación de Asociaciones Cooperativas de Produccion agropecuaria de El Salvador （中美洲国家）",
+      "insert术语翻译": "['ndeAsociacionesCooperativasdeProduccionagropecuariadeElSalvador']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Results Immunohistochemistry showed that the expression rate of RCAS1 in normal cervix,CINⅠ,CINⅡ-Ⅲ and cervical cancer were 0.00,0.314,0.447 and 0.775,respectively.": {
+      "序号": 16,
+      "原句": "Results Immunohistochemistry showed that the expression rate of RCAS1 in normal cervix,CINⅠ,CINⅡ-Ⅲ and cervical cancer were 0.00,0.314,0.447 and 0.775,respectively.",
+      "术语": "cervical cancer",
+      "参考翻译": "['子宫颈癌']",
+      "原句翻译": "结果 免疫组化结果显示，RCAS1在正常宫颈、CINI.、CINI.-III.和宫颈癌中的表达率分别为0.00、0.314、0.447和0.775。",
+      "原句术语翻译": [
+         "宫颈癌"
+      ],
+      "insert变异": "Results Immunohistochemistry showed that the expression rate of RCAS1 in normal cervix,CINⅠ,CINⅡ-Ⅲ and cervical cancer (a type of cancer of the cervix of the uterus which can afflict some female mammals including humans, the term usually does not refer to cancer of the neck or other parts of the anatomy which use the term cervix) were 0.00,0.314,0.447 and 0.775,respectively.",
+      "insert变异翻译": "结果 免疫组化显示RCAS1在正常宫颈、CINI.、CINII.-III.中的表达率分别为0.00、0.314、0.447和0.775，分别。",
+      "insert术语翻译": "['']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "And, Vegas stands for \"Las Vegas\" which is spelled “Las” although we usually pronounce it \"Los\" like an \"o.\"": {
+      "序号": 17,
+      "原句": "And, Vegas stands for \"Las Vegas\" which is spelled “Las” although we usually pronounce it \"Los\" like an \"o.\"",
+      "术语": "Las Vegas",
+      "参考翻译": "['拉斯维加斯']",
+      "原句翻译": "而且，Vegas 代表“Las Vegas”，拼写为“Las”，尽管我们通常将其发音为“Los”，就像“o”一样。",
+      "原句术语翻译": [
+         "“LasVegas”"
+      ],
+      "insert变异": "And, Vegas stands for \"Las Vegas (city in San Miguel County)\" which is spelled “Las” although we usually pronounce it \"Los\" like an \"o.\"",
+      "insert变异翻译": "而且，Vegas 代表“拉斯维加斯（圣米格尔县的城市）”，拼写为“Las”，尽管我们通常将其发音为“Los”，就像“o”一样。",
+      "insert术语翻译": "['”']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Results 1 Anterior cranial fossa :the distance of cranial opening ofthe optic canal was 6.668±0.665mm, the distance from cranialopening of the optic canal to midline was 4.864±0.408mm, thelength of the dura mater reversion befor the cranial opening of theoptic canal was 2.707±1.028mm.": {
+      "序号": 18,
+      "原句": "Results 1 Anterior cranial fossa :the distance of cranial opening ofthe optic canal was 6.668±0.665mm, the distance from cranialopening of the optic canal to midline was 4.864±0.408mm, thelength of the dura mater reversion befor the cranial opening of theoptic canal was 2.707±1.028mm.",
+      "术语": "dura mater",
+      "参考翻译": "['硬脊膜', '硬脑膜']",
+      "原句翻译": "结果 1 颅前窝：视管颅口距离为6.668±0.665mm，视管颅口至中线距离为4.864±0.408mm，视管颅口硬脑膜复位长度为2.707±1.028mm。",
+      "原句术语翻译": [
+         "硬脑膜"
+      ],
+      "insert变异": "Results 1 Anterior cranial fossa :the distance of cranial opening ofthe optic canal was 6.668±0.665mm, the distance from cranialopening of the optic canal to midline was 4.864±0.408mm, thelength of the dura mater (the tough and inflexible outermost of the three layers of the meninges, enveloping the brain and spinal cord) reversion befor the cranial opening of theoptic canal was 2.707±1.028mm.",
+      "insert变异翻译": "结果 1 前颅窝：视管颅口距离为6.668±0.665mm，视管颅口至中线距离为4.864±0.408mm，鞘管颅口（脑膜三层中最坚韧不拔的外层，包裹脑和脊髓）复位长度为2.707±1.028mm。",
+      "insert术语翻译": "['鞘管颅']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Some 32.7% of nitrogen and 25.9% of phosphate of animal husbandry subsystem may be returned to the field and finish the definite nutrient cycle.": {
+      "序号": 19,
+      "原句": "Some 32.7% of nitrogen and 25.9% of phosphate of animal husbandry subsystem may be returned to the field and finish the definite nutrient cycle.",
+      "术语": "animal husbandry",
+      "参考翻译": "['畜牧', '畜牧业']",
+      "原句翻译": "约32.7%的氮和25.9%的磷酸盐可返回田间，完成一定的养分循环。",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "Some 32.7% of nitrogen and 25.9% of phosphate of animal husbandry (the management and care of farm animals by humans for profit, in which genetic qualities and behaviour, considered to be advantageous to humans, are further developed) subsystem may be returned to the field and finish the definite nutrient cycle.",
+      "insert变异翻译": "畜牧业中约32.7%的氮和25.9%的磷酸盐（人类为盈利而管理和照顾农场动物，其中被认为对人类有利的遗传品质和行为得到进一步发展）子系统可以返回田间并完成确定的营养循环。",
+      "insert术语翻译": "['畜牧业']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "First US execution lethal injection is carried out in Texas.": {
+      "序号": 20,
+      "原句": "First US execution lethal injection is carried out in Texas.",
+      "术语": "lethal injection",
+      "参考翻译": "['注射死刑']",
+      "原句翻译": "美国首次在德克萨斯州执行死刑。",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "First US execution lethal injection (a means of execution or of euthanasia in which a person is injected with a fatal dose of drugs) is carried out in Texas.",
+      "insert变异翻译": "美国首次在德克萨斯州执行死刑注射（一种处决或安乐死的手段，其中向一个人注射致命剂量的药物）。",
+      "insert术语翻译": "['注射']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Research on Language Teaching and Learning in Virtual Environments: A Literature Review": {
+      "序号": 21,
+      "原句": "Research on Language Teaching and Learning in Virtual Environments: A Literature Review",
+      "术语": "literature review",
+      "参考翻译": "['文献综述', '学术史回顾']",
+      "原句翻译": "虚拟环境中的语言教学研究——文献综述",
+      "原句术语翻译": [
+         "文献综述"
+      ],
+      "insert变异": "Research on Language Teaching and Learning in Virtual Environments: A Literature Review (a scholarly paper, or part of one, compiled from published sources, which sums up current knowledge of a particular topic)",
+      "insert变异翻译": "Research on Language Teaching and Learning in Virtual Environments： A Literature Review（一篇学术论文，或其中的一部分，从已发表的资料中汇编而成，总结了特定主题的当前知识）",
+      "insert术语翻译": "['ALiteratureReview']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Spanish police Friday said they had foiled a plot to use a zeppelin airship to help a prisoner break out of a jail on the Canary Islands.": {
+      "序号": 22,
+      "原句": "Spanish police Friday said they had foiled a plot to use a zeppelin airship to help a prisoner break out of a jail on the Canary Islands.",
+      "术语": "Canary Islands",
+      "参考翻译": "['加那利群岛']",
+      "原句翻译": "西班牙警方周五表示，他们已经挫败了使用齐柏林飞艇帮助一名囚犯越狱的阴谋。",
+      "原句术语翻译": [
+         "。"
+      ],
+      "insert变异": "Spanish police Friday said they had foiled a plot to use a zeppelin airship to help a prisoner break out of a jail on the Canary Islands (archipelago in Africa, near Morocco and belonging to Spain).",
+      "insert变异翻译": "西班牙警方周五表示，他们已经挫败了使用齐柏林飞艇帮助一名囚犯从加那利群岛（非洲群岛，靠近摩洛哥，属于西班牙）的监狱中越狱的阴谋。",
+      "insert术语翻译": "['加那利群岛。']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "A vulnerability in Microsoft Office, Office Web Components, ISA Server, and Office Small Business Accounting may allow remote code execution.": {
+      "序号": 23,
+      "原句": "A vulnerability in Microsoft Office, Office Web Components, ISA Server, and Office Small Business Accounting may allow remote code execution.",
+      "术语": "small business",
+      "参考翻译": "['小型企业', '小本生意']",
+      "原句翻译": "Microsoft Office、Office Web Components、ISA Server 和 Office Small Business Accounting 中存在一个漏洞，该漏洞可能允许远程执行代码。",
+      "原句术语翻译": [
+         "OfficeSmallBusinessAccounting"
+      ],
+      "insert变异": "A vulnerability in Microsoft Office, Office Web Components, ISA Server, and Office Small Business (a privately-owned and operated business with relatively small turnover and staff numbers, typically seen as constituting part of a specific commercial or economic sector) Accounting may allow remote code execution.",
+      "insert变异翻译": "Microsoft Office、Office Web Components、ISA Server 和 Office Small Business（一种私营企业，营业额和员工人数相对较少，通常被视为构成特定商业或经济部门的一部分）中的漏洞 记帐可能允许远程执行代码。",
+      "insert术语翻译": "['']",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "The results indicated that the one step RT-PCR method can detect the nucleic acid of standard strain virus (ARV–S1133) and locality isolated strains(B-98,C-98,G-98,T-98),which were propagated in chick embryo. We get a 435bp DNA fragment,which is the same with we expected,while the detection results of other reference etiological agents(NDV,IBDV,IBV,ILTV,EDS76V) were negative;": {
+      "序号": 24,
+      "原句": "The results indicated that the one step RT-PCR method can detect the nucleic acid of standard strain virus (ARV–S1133) and locality isolated strains(B-98,C-98,G-98,T-98),which were propagated in chick embryo. We get a 435bp DNA fragment,which is the same with we expected,while the detection results of other reference etiological agents(NDV,IBDV,IBV,ILTV,EDS76V) were negative;",
+      "术语": "nucleic acid",
+      "参考翻译": "['核酸']",
+      "原句翻译": "结果表明，一步法RT-PCR法可检测出在雏鸡胚中繁殖的标准菌株病毒（ARV–S1133）和局部分离菌株（B-98、C-98、G-98、T-98）的核酸。得到435bp的DNA片段，与预期一致，其他参考病原体（NDV、IBDV、IBV、ILTV、EDS76V）的检测结果均为阴性;",
+      "原句术语翻译": [
+         "核酸"
+      ],
+      "insert变异": "The results indicated that the one step RT-PCR method can detect the nucleic acid (any acidic, chainlike biological macromolecule consisting of multiple repeat units of phosphoric acid, sugar and purine and pyrimidine bases; they are involved in the preservation, replication and expression of hereditary information in every living cell) of standard strain virus (ARV–S1133) and locality isolated strains(B-98,C-98,G-98,T-98),which were propagated in chick embryo. We get a 435bp DNA fragment,which is the same with we expected,while the detection results of other reference etiological agents(NDV,IBDV,IBV,ILTV,EDS76V) were negative;",
+      "insert变异翻译": "结果表明，一步RT-PCR方法可以检测标准菌株病毒（ARV-S1133）和局部分离菌株（B-98，C-98，G-98，T-98），在雏鸡胚中繁殖。得到435bp的DNA片段，与预期一致，其他参考病原体（NDV、IBDV、IBV、ILTV、EDS76V）的检测结果均为阴性;",
+      "insert术语翻译": "['']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "(ii) that all necessary precautions for the prevention of danger to public health were taken in the dressing or preparing and packing of the meat; and": {
+      "序号": 25,
+      "原句": "(ii) that all necessary precautions for the prevention of danger to public health were taken in the dressing or preparing and packing of the meat; and",
+      "术语": "public health",
+      "参考翻译": "['公共卫生']",
+      "原句翻译": "（ii） 在肉类的调味或制备和包装方面已采取一切必要的预防措施，以防止对公众健康造成危害;和",
+      "原句术语翻译": [
+         "公众健康"
+      ],
+      "insert变异": "(ii) that all necessary precautions for the prevention of danger to public health (the science and practice of community hygiene; includes preventive medicine, health education, sanitation and environmental safety) were taken in the dressing or preparing and packing of the meat; and",
+      "insert变异翻译": "（ii） 在肉类的调味或准备和包装中采取了一切必要的预防措施（社区卫生的科学和实践，包括预防医学、健康教育、环境卫生和环境安全）;和",
+      "insert术语翻译": "['']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Methods After 15 minutes cardiac arrest by KCl-induced ten dogs were resuscitated with the use of mild hypothermia(33～34℃) chest closed CPB in group 1 (n=5) and with deep hypothermia (26～27℃) in group 2 (n=5).": {
+      "序号": 26,
+      "原句": "Methods After 15 minutes cardiac arrest by KCl-induced ten dogs were resuscitated with the use of mild hypothermia(33～34℃) chest closed CPB in group 1 (n=5) and with deep hypothermia (26～27℃) in group 2 (n=5).",
+      "术语": "cardiac arrest",
+      "参考翻译": "['心脏骤停', '心搏骤停', '心脏停搏']",
+      "原句翻译": "方法 15 min后，10只狗在KCl诱导下心脏骤停，第1组（n=5）采用轻度低温（33~34°C）、胸闭CPB（n=5）和深度低温（26~27°C）复苏。",
+      "原句术语翻译": [
+         "心脏"
+      ],
+      "insert变异": "Methods After 15 minutes cardiac arrest (sudden and complete cessation of the heartbeat resulting in the loss of effective circulation of the blood) by KCl-induced ten dogs were resuscitated with the use of mild hypothermia(33～34℃) chest closed CPB in group 1 (n=5) and with deep hypothermia (26～27℃) in group 2 (n=5).",
+      "insert变异翻译": "方法 15分钟后，对10只狗进行轻度低温（33~34°C）、胸闭CPB（n=5）和第2组（n=5）深度低温（26~27°C）的复苏。",
+      "insert术语翻译": "['复苏']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "After the Rb 3C 6thin film with a thickness of nanometers has formed on the surface layers of the C 6single crystal, the excess depositions of Rb do not induce the bulk-like fcc to bct or bcc structure transitions at room temperature.": {
+      "序号": 27,
+      "原句": "After the Rb 3C 6thin film with a thickness of nanometers has formed on the surface layers of the C 6single crystal, the excess depositions of Rb do not induce the bulk-like fcc to bct or bcc structure transitions at room temperature.",
+      "术语": "room temperature",
+      "参考翻译": "['室温', '常温']",
+      "原句翻译": "在C 6单晶的表层上形成厚度为纳米的Rb 3C 6薄膜后，Rb的过量沉积不会诱导块状fcc向bct或bcc结构转变。",
+      "原句术语翻译": [
+         "。"
+      ],
+      "insert变异": "After the Rb 3C 6thin film with a thickness of nanometers has formed on the surface layers of the C 6single crystal, the excess depositions of Rb do not induce the bulk-like fcc to bct or bcc structure transitions at room temperature (a normal temperature of a room in which people live; typically 20 to 23°C (68 to 73°F); neither heated nor cooled).",
+      "insert变异翻译": "在C 6单晶的表层上形成厚度为纳米的Rb 3C 6薄膜后，Rb的过量沉积不会在室温（人们居住的房间的常温;通常为20至23°C（68至73°F;既不加热也不冷却）下诱导块状fcc向bct或bcc结构转变。",
+      "insert术语翻译": "['室温常温。']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "\"\" \"advertisement\" \"includes a catalogue, a circular and a price list;\"": {
+      "序号": 28,
+      "原句": "\"\" \"advertisement\" \"includes a catalogue, a circular and a price list;\"",
+      "术语": "price list",
+      "参考翻译": "['价目表']",
+      "原句翻译": "“”",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "\"\" \"advertisement\" \"includes a catalogue, a circular and a price list (a list of items for sale with their prices);\"",
+      "insert变异翻译": "“”广告“”包括目录、通告和价目表（待售物品及其价格清单）;”",
+      "insert术语翻译": "['价目表;”']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "This principle-that if two objects are in uniform motion relative to each other, it is impossible to decide which one is moving and which one is at rest-applies to all objects moving uniformly in a straight line through the universe.": {
+      "序号": 29,
+      "原句": "This principle-that if two objects are in uniform motion relative to each other, it is impossible to decide which one is moving and which one is at rest-applies to all objects moving uniformly in a straight line through the universe.",
+      "术语": "straight line",
+      "参考翻译": "['直线']",
+      "原句翻译": "这个原则——如果两个物体相对于彼此匀速运动，就不可能决定哪个在运动，哪个在静止——适用于宇宙中沿直线均匀运动的所有物体。",
+      "原句术语翻译": [
+         "直线"
+      ],
+      "insert变异": "This principle-that if two objects are in uniform motion relative to each other, it is impossible to decide which one is moving and which one is at rest-applies to all objects moving uniformly in a straight line (a line with no curvature; a line with constant direction, the path of shortest length between two points) through the universe.",
+      "insert变异翻译": "这个原则——如果两个物体相对于彼此处于匀速运动状态，就不可能决定哪个物体在运动，哪个物体在静止——适用于所有在宇宙中匀速运动的物体（一条没有曲率的线;一条方向恒定的线，两点之间最短长度的路径）。",
+      "insert术语翻译": "['匀速运动']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Whats the best way to go to Jiu - zhai - gou National Park?": {
+      "序号": 30,
+      "原句": "Whats the best way to go to Jiu - zhai - gou National Park?",
+      "术语": "national park",
+      "参考翻译": "['国家公园', '国立公园']",
+      "原句翻译": "前往Jiu - zhai - gou National Park的最佳方式是什么？",
+      "原句术语翻译": [
+         "gouNationalPark？"
+      ],
+      "insert变异": "Whats the best way to go to Jiu - zhai - gou National Park (an area of land that is not built upon, but reserved by the national government for conservation of nature and usually also for recreational use)?",
+      "insert变异翻译": "去九寨沟国家公园（一块没有建好的土地，但由国家政府保留用于保护自然，通常也用于娱乐用途）的最佳方式是什么？",
+      "insert术语翻译": "['国家公园？']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "No action for damages for the death of or personal injury to a passenger, or for the loss of or damage to luggage, shall be brought against a carrier or performing carrier otherwise than in accordance with this Convention.": {
+      "序号": 31,
+      "原句": "No action for damages for the death of or personal injury to a passenger, or for the loss of or damage to luggage, shall be brought against a carrier or performing carrier otherwise than in accordance with this Convention.",
+      "术语": "personal injury",
+      "参考翻译": "['人身伤害']",
+      "原句翻译": "除根据本公约规定外，不得对承运人或履约承运人提起损害赔偿诉讼，不得对承运人或履约承运人提起诉讼。",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "No action for damages for the death of or personal injury (an injury to the body, mind or emotions, as opposed to an injury to property) to a passenger, or for the loss of or damage to luggage, shall be brought against a carrier or performing carrier otherwise than in accordance with this Convention.",
+      "insert变异翻译": "除根据本公约规定外，不得对承运人或履约承运人提起损害赔偿诉讼（对乘客的死亡或人身伤害（对身体、精神或情感的伤害，而不是对财产的伤害），或对行李的丢失或损坏提起诉讼。",
+      "insert术语翻译": "['人身伤害']",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "And you cannot afford to abide your current definitions or perceptions of them , as though they constituted justification for your continuing to perceive yourself as there , in the three-dimensional frame of reference .": {
+      "序号": 32,
+      "原句": "And you cannot afford to abide your current definitions or perceptions of them , as though they constituted justification for your continuing to perceive yourself as there , in the three-dimensional frame of reference .",
+      "术语": "frame of reference",
+      "参考翻译": "['参考系', '理念', '参照系']",
+      "原句翻译": "你 不能 忍受 你 目前 对 它们 的 定义 或 看法 ， 好像 它们 构成 了 你 继续 感知 自己 的 理由 。",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "And you cannot afford to abide your current definitions or perceptions of them , as though they constituted justification for your continuing to perceive yourself as there , in the three-dimensional frame of reference (a set of assumptions, ideas and standards that form a viewpoint from which philosophical, religious and other ideas may be evaluated) .",
+      "insert变异翻译": "你不能忍受你目前对它们的定义或看法，就好像它们构成了你继续在三维参照系中感知自己存在的理由（一组假设、想法和标准，形成一个可以评估哲学、宗教和其他想法的观点）。",
+      "insert术语翻译": "['参照系']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "A Theoretical Analysis on Droplet Spraying in Vacuum Arc Coating in the Presence of a Magnetic Field": {
+      "序号": 33,
+      "原句": "A Theoretical Analysis on Droplet Spraying in Vacuum Arc Coating in the Presence of a Magnetic Field",
+      "术语": "magnetic field",
+      "参考翻译": "['磁场']",
+      "原句翻译": "真空电弧涂层在磁场下的液滴喷涂理论分析",
+      "原句术语翻译": [
+         "磁场"
+      ],
+      "insert变异": "A Theoretical Analysis on Droplet Spraying in Vacuum Arc Coating in the Presence of a Magnetic Field (a condition in the space around a magnet or electric current in which there is a detectable magnetic force and two magnetic poles are present)",
+      "insert变异翻译": "真空电弧涂层中液滴喷涂的理论分析 （磁铁或电流周围空间中存在可检测磁力且存在两个磁极的情况）",
+      "insert术语翻译": "['电弧']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "'I think they are more harmful today. We're certainly worried,' Surgeon General Boris Lushniak said in an interview.": {
+      "序号": 34,
+      "原句": "'I think they are more harmful today. We're certainly worried,' Surgeon General Boris Lushniak said in an interview.",
+      "术语": "Surgeon General",
+      "参考翻译": "['公共卫生局局长', '军医总监']",
+      "原句翻译": "“我认为他们今天更有害。我们当然很担心，“外科医生鲍里斯·卢什尼亚克在接受采访时说。",
+      "原句术语翻译": [
+         "外科医生"
+      ],
+      "insert变异": "'I think they are more harmful today. We're certainly worried,' Surgeon General (the leading public health official in a country, state, or military division) Boris Lushniak said in an interview.",
+      "insert变异翻译": "“我认为他们今天更有害。我们当然很担心，“卫生局局长（一个国家、州或军事部门的主要公共卫生官员）鲍里斯·卢什尼亚克在接受采访时说。",
+      "insert术语翻译": "['卫生局局长']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "What Happened: A Welsh hamlet was ground zero for a test on a pill to fight angina.": {
+      "序号": 35,
+      "原句": "What Happened: A Welsh hamlet was ground zero for a test on a pill to fight angina.",
+      "术语": "ground zero",
+      "参考翻译": "['爆心投影点', '原爆点']",
+      "原句翻译": "发生了什么：威尔士的一个小村庄正在测试一种对抗心绞痛的药丸。",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "What Happened: A Welsh hamlet was ground zero (the point at which something begins) for a test on a pill to fight angina.",
+      "insert变异翻译": "发生了什么：威尔士的一个小村庄是零点（事情开始的点），用于测试一种对抗心绞痛的药丸。",
+      "insert术语翻译": "['零点']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "A model shows fashionable dresses made environmental protective materials at a fashion show of environmental protective packaging material in Asian Packaging Design Exhibition held in Shanghai, China, Nov. 26, 2006.": {
+      "序号": 36,
+      "原句": "A model shows fashionable dresses made environmental protective materials at a fashion show of environmental protective packaging material in Asian Packaging Design Exhibition held in Shanghai, China, Nov. 26, 2006.",
+      "术语": "fashion show",
+      "参考翻译": "['时装表演会']",
+      "原句翻译": "2006年11月26日，在中国上海举行的亚洲包装设计展上，一名模特展示了环保包装材料的时尚连衣裙。",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "A model shows fashionable dresses made environmental protective materials at a fashion show (an event at which fashionable clothes are modelled for an audience) of environmental protective packaging material in Asian Packaging Design Exhibition held in Shanghai, China, Nov. 26, 2006.",
+      "insert变异翻译": "2006年11月26日，在中国上海举行的亚洲包装设计展上，一名模特在环保包装材料时装秀（为观众制作时尚服装的模特活动）上展示环保材料制成的时尚连衣裙。",
+      "insert术语翻译": "['时装秀']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Existense Theorems of Variance of Mean Integration in Respect to Set-valued Stochastic Process": {
+      "序号": 37,
+      "原句": "Existense Theorems of Variance of Mean Integration in Respect to Set-valued Stochastic Process",
+      "术语": "stochastic process",
+      "参考翻译": "['随机过程']",
+      "原句翻译": "集合值随机过程的均值积分方差的存在定理",
+      "原句术语翻译": [
+         "随机过程"
+      ],
+      "insert变异": "Existense Theorems of Variance of Mean Integration in Respect to Set-valued Stochastic Process (a function that maps elements of an index set to elements of a collection of random variables; historically, a collection of random variables indexed by a set of numbers usually regarded as points in time)",
+      "insert变异翻译": "Existense Theorems of Variance of Mean Integration in to Set-value Stochastic Process（将索引集的元素映射到随机变量集合的元素的函数;从历史上看，由通常被视为时间点的一组数字索引的随机变量集合）",
+      "insert术语翻译": "['valueStochasticProcess']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "On the Reduction of Radar Cross Section for Airborne Radar Antennas": {
+      "序号": 38,
+      "原句": "On the Reduction of Radar Cross Section for Airborne Radar Antennas",
+      "术语": "cross section",
+      "参考翻译": "['横截面']",
+      "原句翻译": "关于机载雷达天线雷达截面的减小",
+      "原句术语翻译": [
+         "截面"
+      ],
+      "insert变异": "On the Reduction of Radar Cross Section (a sample meant to be representative of a whole population) for Airborne Radar Antennas",
+      "insert变异翻译": "关于减少机载雷达天线的雷达截面（代表整个人群的样本）",
+      "insert术语翻译": "['天线']",
+      "manual_1_result": 0,
+      "manual_2_result": 1,
+      "final_result": "futher check needed"
+   },
+   "A distance weighted interpolation method of scattered data points, which exploits the Kriging method in geostatistics is presented. Case study of interpolation for the hat surface this method gives good result.": {
+      "序号": 39,
+      "原句": "A distance weighted interpolation method of scattered data points, which exploits the Kriging method in geostatistics is presented. Case study of interpolation for the hat surface this method gives good result.",
+      "术语": "case study",
+      "参考翻译": "['案例研究', '个案调查', '个案研究']",
+      "原句翻译": "提出了一种在地统计学中利用克里金法的分散数据点距离加权插值方法。以帽子表面插值为例，该方法得到了很好的效果。",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "A distance weighted interpolation method of scattered data points, which exploits the Kriging method in geostatistics is presented. Case study (a case used in a such research) of interpolation for the hat surface this method gives good result.",
+      "insert变异翻译": "提出了一种在地统计学中利用克里金法的分散数据点距离加权插值方法。帽子表面插值的案例研究（此类研究中使用的案例）该方法给出了良好的结果。",
+      "insert术语翻译": "['案例研究']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "The main speakers will include Peter Barge, of Jones Land LaSalle Asia Pacific, who will talk about the potential of the real estate market in Macau and Lawrence Ho, of Melco-PBL.": {
+      "序号": 40,
+      "原句": "The main speakers will include Peter Barge, of Jones Land LaSalle Asia Pacific, who will talk about the potential of the real estate market in Macau and Lawrence Ho, of Melco-PBL.",
+      "术语": "real estate",
+      "参考翻译": "['空间', '余地', '不动产', '房地产', '地方']",
+      "原句翻译": "主讲嘉宾包括仲量联行亚太区的Peter Barge，他将谈论澳门房地产市场的潜力，以及新濠PBL的Lawrence Ho。",
+      "原句术语翻译": [
+         "房地产"
+      ],
+      "insert变异": "The main speakers will include Peter Barge, of Jones Land LaSalle Asia Pacific, who will talk about the potential of the real estate (space used for a particular purpose) market in Macau and Lawrence Ho, of Melco-PBL.",
+      "insert变异翻译": "主讲嘉宾包括仲量联行亚太区的Peter Barge和新濠博亚的何鸿燊。",
+      "insert术语翻译": "['']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Research on Dead Load Testing Methods of Prestressed Concrete Hollow Beams": {
+      "序号": 41,
+      "原句": "Research on Dead Load Testing Methods of Prestressed Concrete Hollow Beams",
+      "术语": "dead load",
+      "参考翻译": "['静荷重']",
+      "原句翻译": "预应力混凝土空心梁静载试验方法研究",
+      "原句术语翻译": [
+         "混凝土"
+      ],
+      "insert变异": "Research on Dead Load (the weight of a structure itself, including the weight of fixtures or equipment permanently attached to it) Testing Methods of Prestressed Concrete Hollow Beams",
+      "insert变异翻译": "静荷载研究（结构本身的重量，包括固定装置或永久附着在其上的设备的重量） 预应力混凝土空心梁的试验方法",
+      "insert术语翻译": "['静荷载']",
+      "manual_1_result": 1,
+      "manual_2_result": 0,
+      "final_result": "futher check needed"
+   },
+   "References to dollars are to United States dollars, unless otherwise stated": {
+      "序号": 42,
+      "原句": "References to dollars are to United States dollars, unless otherwise stated",
+      "术语": "United States",
+      "参考翻译": "['合众国', '美利坚合众国', '美国']",
+      "原句翻译": "除非另有说明，否则所指美元均指美元",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "References to dollars are to United States (the collection of individual states of the United States of America) dollars, unless otherwise stated",
+      "insert变异翻译": "除非另有说明，否则所指美元均指美国（美利坚合众国各州的集合）美元",
+      "insert术语翻译": "['美国']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "(4) A closure order under subsection (3) shall continue in force in so far as the sanction requiring closure of UNITA offices imposed by the Security Council of the United Nations is in force unless declared revoked under subsection (6).": {
+      "序号": 43,
+      "原句": "(4) A closure order under subsection (3) shall continue in force in so far as the sanction requiring closure of UNITA offices imposed by the Security Council of the United Nations is in force unless declared revoked under subsection (6).",
+      "术语": "United Nations",
+      "参考翻译": "['联合国']",
+      "原句翻译": "（4） 根据第（3）分节发出的关闭令，在联合国安全理事会要求关闭安盟办事处的制裁有效期间，应继续有效，除非根据第（6）分节宣布撤销。",
+      "原句术语翻译": [
+         "联合国安全理事会"
+      ],
+      "insert变异": "(4) A closure order under subsection (3) shall continue in force in so far as the sanction requiring closure of UNITA offices imposed by the Security Council of the United Nations (the Allies of World War II; the countries fighting against the Axis Powers) is in force unless declared revoked under subsection (6).",
+      "insert变异翻译": "（4） 除非根据第（6）款宣布撤销，否则根据第（3）款发出的关闭安盟办事处的制裁应继续有效。",
+      "insert术语翻译": "['']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Study on Athletic Subject Teaching Method of Department of Sports Training in Shenyang Physical Education Institute": {
+      "序号": 44,
+      "原句": "Study on Athletic Subject Teaching Method of Department of Sports Training in Shenyang Physical Education Institute",
+      "术语": "physical education",
+      "参考翻译": "['体育']",
+      "原句翻译": "沈阳体育学院体育训练系运动学科教学方法研究",
+      "原句术语翻译": [
+         "沈阳体育学院"
+      ],
+      "insert变异": "Study on Athletic Subject Teaching Method of Department of Sports Training in Shenyang Physical Education (an element of an educational curriculum concerned with bodily development, physical health and wellness, strength, physical co-ordination, and agility) Institute",
+      "insert变异翻译": "沈阳市体育训练系运动学科教学方法研究（涉及身体发育、身体健康与保健、力量、身体协调和敏捷性的教育课程） 研究所",
+      "insert术语翻译": "['']",
+      "manual_1_result": 0,
+      "manual_2_result": 1,
+      "final_result": "futher check needed"
+   },
+   "us english spell checker is not installed.": {
+      "序号": 45,
+      "原句": "us english spell checker is not installed.",
+      "术语": "spell checker",
+      "参考翻译": "['拼写检查']",
+      "原句翻译": "未安装美式英语拼写检查器。",
+      "原句术语翻译": [
+         "拼写检查器"
+      ],
+      "insert变异": "us english spell checker (a software application that attempts to verify spelling in a document) is not installed.",
+      "insert变异翻译": "未安装 US English Spell Checker（一种尝试验证文档拼写的软件应用程序）。",
+      "insert术语翻译": "['USEnglishSpellChecker']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Research and practice on the application of experimental psychology to the travel map's symbol design-a case study of the confusing differentiation experiment": {
+      "序号": 46,
+      "原句": "Research and practice on the application of experimental psychology to the travel map's symbol design-a case study of the confusing differentiation experiment",
+      "术语": "case study",
+      "参考翻译": "['案例研究', '个案调查', '个案研究']",
+      "原句翻译": "实验心理学在旅行地图符号设计中的应用研究与实践——以混淆分化实验为例",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "Research and practice on the application of experimental psychology to the travel map's symbol design-a case study (a case used in a such research) of the confusing differentiation experiment",
+      "insert变异翻译": "实验心理学在旅行地图符号设计中的应用研究与实践——混淆分化实验的案例研究（此类研究中使用的案例）",
+      "insert术语翻译": "['案例研究']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "(I) the proportion of non-listed foreign shares of a joint stock company with foreign investment in the total share capital shall not be lower than 25% after the company has turned its non-listed foreign shares into B-shares and issued them;": {
+      "序号": 47,
+      "原句": "(I) the proportion of non-listed foreign shares of a joint stock company with foreign investment in the total share capital shall not be lower than 25% after the company has turned its non-listed foreign shares into B-shares and issued them;",
+      "术语": "share capital",
+      "参考翻译": "['股本']",
+      "原句翻译": "（一）外资股份公司非上市外资股份公司将非上市外资股份转为B股发行后，不得低于25%;",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "(I) the proportion of non-listed foreign shares of a joint stock company with foreign investment in the total share capital (the part of a company's capital that is financed by shareholders through the issue of shares) shall not be lower than 25% after the company has turned its non-listed foreign shares into B-shares and issued them;",
+      "insert变异翻译": "（一）外资股份公司非上市外资股份占总股本（股东通过发行股份筹措的公司资本部分）的比例，不得低于公司将非上市外资股份转为B股发行后的25%;",
+      "insert术语翻译": "['股本']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Flags fly at half-staff at the base of the Washington Monument in memory of those who perished aboard the space shuttle Columbia Saturday, Fe1, 2003, in Washington.": {
+      "序号": 48,
+      "原句": "Flags fly at half-staff at the base of the Washington Monument in memory of those who perished aboard the space shuttle Columbia Saturday, Fe1, 2003, in Washington.",
+      "术语": "space shuttle",
+      "参考翻译": "['航天飞机']",
+      "原句翻译": "旗帜在华盛顿纪念碑的底部降半旗，以纪念那些在2003年2月1日星期六在华盛顿哥伦比亚号航天飞机上遇难的人。",
+      "原句术语翻译": [
+         "航天飞机"
+      ],
+      "insert变异": "Flags fly at half-staff at the base of the Washington Monument in memory of those who perished aboard the space shuttle (any vehicle capable of repeatedly travelling between destinations in outer space carrying people or cargo) Columbia Saturday, Fe1, 2003, in Washington.",
+      "insert变异翻译": "2003年2月1日，哥伦比亚星期六，在华盛顿，华盛顿，在华盛顿，华盛顿，在",
+      "insert术语翻译": "['']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "The Application of Similarly Calculation Among Data Set for Oil and Gas Identification": {
+      "序号": 49,
+      "原句": "The Application of Similarly Calculation Among Data Set for Oil and Gas Identification",
+      "术语": "data set",
+      "参考翻译": "['资料集', '数据集']",
+      "原句翻译": "类比计算在油气鉴定中的应用",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "The Application of Similarly Calculation Among Data Set (a set of data to be analyzed) for Oil and Gas Identification",
+      "insert变异翻译": "数据集（待分析数据集）中类似计算在油气鉴定中的应用",
+      "insert术语翻译": "['数据']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "(2) In the case of any proceedings against a person for an offence under this section involving the proof of a purpose prejudicial to the safety or interests of the United Kingdom or Hong Kong, section 3 (2) applies in like manner as it applies to proceedings under that section.": {
+      "序号": 50,
+      "原句": "(2) In the case of any proceedings against a person for an offence under this section involving the proof of a purpose prejudicial to the safety or interests of the United Kingdom or Hong Kong, section 3 (2) applies in like manner as it applies to proceedings under that section.",
+      "术语": "United Kingdom",
+      "参考翻译": "['英国', '大不列颠及北爱尔兰联合王国', '联合王国']",
+      "原句翻译": "（2） 如任何人因本条所订罪行而提起的法律程序，而该法律程序涉及证明其目的有损于英国或香港的安全或利益，则第3（2）条的适用方式与该条所规定的法律程序的适用方式相同。",
+      "原句术语翻译": [
+         "英国"
+      ],
+      "insert变异": "(2) In the case of any proceedings against a person for an offence under this section involving the proof of a purpose prejudicial to the safety or interests of the United Kingdom (kingdom consisting of several constituencies, actual, historical, or hypothetical) or Hong Kong, section 3 (2) applies in like manner as it applies to proceedings under that section.",
+      "insert变异翻译": "（2） 如任何人因本条所订罪行而提起的任何法律程序，涉及证明其目的有损于联合王国（由若干选区组成，包括实际的、历史的或假设的）或香港的安全或利益，则第3（2）条的适用方式与适用于该条所规定的法律程序的方式相同。",
+      "insert术语翻译": "['联合王国']",
+      "manual_1_result": 0,
+      "manual_2_result": 1,
+      "final_result": "futher check needed"
+   },
+   "This paper discusses on the main contents of archives management of intellectual property rights in enterprise through eight links of the collecting,arranging,safe-keeping,identifying,retrieving,providing for utilization,cataloging and studying,accounting and recording of the archives.": {
+      "序号": 51,
+      "原句": "This paper discusses on the main contents of archives management of intellectual property rights in enterprise through eight links of the collecting,arranging,safe-keeping,identifying,retrieving,providing for utilization,cataloging and studying,accounting and recording of the archives.",
+      "术语": "intellectual property",
+      "参考翻译": "['知识产权', '知识产品', '智慧财产']",
+      "原句翻译": "本文从档案的收集、整理、保管、鉴定、检索、利用、编目研究、核算、备案八个环节，对企业知识产权档案管理的主要内容进行了探讨。",
+      "原句术语翻译": [
+         "知识产权"
+      ],
+      "insert变异": "This paper discusses on the main contents of archives management of intellectual property (any individual work that is protected under intellectual property law) rights in enterprise through eight links of the collecting,arranging,safe-keeping,identifying,retrieving,providing for utilization,cataloging and studying,accounting and recording of the archives.",
+      "insert变异翻译": "本文从档案的收集、整理、保管、鉴定、检索、利用、编目研究、核算、记录八个环节，探讨档案管理的主要内容。",
+      "insert术语翻译": "['']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Visual Range Evaluation of LLL Night Vision System with Laser Illuminator": {
+      "序号": 52,
+      "原句": "Visual Range Evaluation of LLL Night Vision System with Laser Illuminator",
+      "术语": "night vision",
+      "参考翻译": "['夜视']",
+      "原句翻译": "LLL激光照明系统视程评估",
+      "原句术语翻译": [
+         "激光照明"
+      ],
+      "insert变异": "Visual Range Evaluation of LLL Night Vision (the ability, either naturally, by technology or by superpowers, to see in a low light or even dark environment) System with Laser Illuminator",
+      "insert变异翻译": "LLL夜视仪的视距评估（自然地，通过技术或超能力，在弱光甚至黑暗环境中看到的能力） 带激光照明器的系统",
+      "insert术语翻译": "['夜视仪']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "(b) authorize the removal from a bus of any person committing an offence against the regulations or by-laws, as the case may be, by the driver, the conductor or an authorized person, or by a police officer at the request of a driver, conductor or authorized person;": {
+      "序号": 53,
+      "原句": "(b) authorize the removal from a bus of any person committing an offence against the regulations or by-laws, as the case may be, by the driver, the conductor or an authorized person, or by a police officer at the request of a driver, conductor or authorized person;",
+      "术语": "police officer",
+      "参考翻译": "['警察', '警官', '警员']",
+      "原句翻译": "（b） 准许司机、售票员或获授权人，或警务人员应司机、售票员或获授权人的要求，将任何违反规例或附则的人从公共汽车上带走;",
+      "原句术语翻译": [
+         "警务人员"
+      ],
+      "insert变异": "(b) authorize the removal from a bus of any person committing an offence against the regulations or by-laws, as the case may be, by the driver, the conductor or an authorized person, or by a police officer (a peace officer who is a member of a police force) at the request of a driver, conductor or authorized person;",
+      "insert变异翻译": "（b） 准许司机、售票员或获授权人，或应司机、售票员或获授权人的要求，将任何违反条例或附则的人（视情况而定）从公共汽车上带走;",
+      "insert术语翻译": "['公共汽车']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Obama's Republican opponent, Senator John McCain, focused on education reform during a speech in Cincinnati, Ohio, to the National Association for the Advancement of Colored People, a leading civil rights organization.": {
+      "序号": 54,
+      "原句": "Obama's Republican opponent, Senator John McCain, focused on education reform during a speech in Cincinnati, Ohio, to the National Association for the Advancement of Colored People, a leading civil rights organization.",
+      "术语": "civil rights",
+      "参考翻译": "['公民权', '民权']",
+      "原句翻译": "奥巴马的共和党对手、参议员约翰·麦凯恩（John McCain）在俄亥俄州辛辛那提市（Cincinnati， Ohio）向全国有色人种促进协会（National Association for the Advancement of Colored People）发表演讲时，重点关注教育改革。",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "Obama's Republican opponent, Senator John McCain, focused on education reform during a speech in Cincinnati, Ohio, to the National Association for the Advancement of Colored People, a leading civil rights (the rights that can reasonably be expected by any citizen) organization.",
+      "insert变异翻译": "奥巴马的共和党对手、参议员约翰·麦凯恩（John McCain）在俄亥俄州辛辛那提市（Cincinnati， Ohio）向全国有色人种协进会（National Association for the Advancement of Colored People）发表演讲时，重点关注教育改革，该协会是一个领先的民权组织（任何公民都可以合理期望的权利）。",
+      "insert术语翻译": "['民权']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Maputo, Mozambique, 9 Feb–Portuguese construction company Mota-Engil wants to“boost its business ”in Mozambique, extending its involvement to“all business areas and activity sectors, ”in which the group operates in Portugal and other markets, the group's chief executive said in Maputo.": {
+      "序号": 55,
+      "原句": "Maputo, Mozambique, 9 Feb–Portuguese construction company Mota-Engil wants to“boost its business ”in Mozambique, extending its involvement to“all business areas and activity sectors, ”in which the group operates in Portugal and other markets, the group's chief executive said in Maputo.",
+      "术语": "chief executive",
+      "参考翻译": "['首席执行官', '执行总裁', '行政长官', '最高执行官']",
+      "原句翻译": "莫桑比克马普托，2月9日--葡萄牙建筑公司Mota-Engil首席执行官在马普托表示，该公司希望 “促进其在莫桑比克的业务”，将其参与范围扩大到 “所有业务领域和活动部门”，该集团在葡萄牙和其他市场开展业务。",
+      "原句术语翻译": [
+         "首席执行官"
+      ],
+      "insert变异": "Maputo, Mozambique, 9 Feb–Portuguese construction company Mota-Engil wants to“boost its business ”in Mozambique, extending its involvement to“all business areas and activity sectors, ”in which the group operates in Portugal and other markets, the group's chief executive (chief executive officer) said in Maputo.",
+      "insert变异翻译": "莫桑比克马普托，2月9日--葡萄牙建筑公司Mota-Engil在马普托表示，该公司希望 “促进其在莫桑比克的业务”，将其参与范围扩大到 “所有业务领域和活动部门”，该集团在葡萄牙和其他市场开展业务。",
+      "insert术语翻译": "['']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Studies on the Structure and Function of Male and Female Reproductive System and Spermatophore Artifical Transfer of the Mud Crab Scylla Serrata (Forsk(?)l)": {
+      "序号": 56,
+      "原句": "Studies on the Structure and Function of Male and Female Reproductive System and Spermatophore Artifical Transfer of the Mud Crab Scylla Serrata (Forsk(?)l)",
+      "术语": "reproductive system",
+      "参考翻译": "['生殖系统']",
+      "原句翻译": "泥蟹Scylla serrata（Forsk（？）l)",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "Studies on the Structure and Function of Male and Female Reproductive System (the system of organs within an organism which work together for the purpose of reproduction) and Spermatophore Artifical Transfer of the Mud Crab Scylla Serrata (Forsk(?)l)",
+      "insert变异翻译": "男性和女性生殖系统（生物体内为繁殖目的而协同工作的器官系统）的结构和功能研究以及泥蟹Scylla Serrata（Forsk（？）l)",
+      "insert术语翻译": "['生殖系统']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "\"Orient Overseas Container Line (OOCL) is a wholly owned subsidiary of Orient Overseas (International) Limited (OOIL), a public company (0316) listed on the Hong Kong Stock Exchange.\"": {
+      "序号": 57,
+      "原句": "\"Orient Overseas Container Line (OOCL) is a wholly owned subsidiary of Orient Overseas (International) Limited (OOIL), a public company (0316) listed on the Hong Kong Stock Exchange.\"",
+      "术语": "stock exchange",
+      "参考翻译": "['证券交易所', '交易所', '股票交易所']",
+      "原句翻译": "“东方海外集装箱航运公司（东方海外）是东方海外（国际）有限公司（东方海外）的全资子公司，东方海外",
+      "原句术语翻译": [
+         "，"
+      ],
+      "insert变异": "\"Orient Overseas Container Line (OOCL) is a wholly owned subsidiary of Orient Overseas (International) Limited (OOIL), a public company (0316) listed on the Hong Kong Stock Exchange (an organisation that trades stocks in of companies for money and vice versa).\"",
+      "insert变异翻译": "“东方海外集装箱航运公司（东方海外）是东方海外（国际）有限公司（东方海外）的全资子公司，东方海外（国际）是一家在香港联交所上市的公众公司（0316），反之亦然。”",
+      "insert术语翻译": "['香港联交所。”']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "The airline flies to 18 destinations in China, Taipei(Taiwan), the Philippines and South Korea. Half of its 442 weekly flights are to Taipei, where direct flights to China are not allowed and travelers use Macau for semi-direct flights to the mainland.": {
+      "序号": 58,
+      "原句": "The airline flies to 18 destinations in China, Taipei(Taiwan), the Philippines and South Korea. Half of its 442 weekly flights are to Taipei, where direct flights to China are not allowed and travelers use Macau for semi-direct flights to the mainland.",
+      "术语": "South Korea",
+      "参考翻译": "['韩国']",
+      "原句翻译": "航空公司飞往 China， Taipei（Taiwan）， Philippines 和 South Korea的 18 个目的地.其每周442个航班中有一半飞往台北，台北不允许直飞中国，旅客使用澳门飞往大陆的半直飞航班。",
+      "原句术语翻译": [
+         "SouthKorea."
+      ],
+      "insert变异": "The airline flies to 18 destinations in China, Taipei(Taiwan), the Philippines and South Korea (country in East Asia). Half of its 442 weekly flights are to Taipei, where direct flights to China are not allowed and travelers use Macau for semi-direct flights to the mainland.",
+      "insert变异翻译": "航空公司飞往中国， 台北（台湾）， 菲律宾 和 韩国 （东亚国家）的 18 个目的地.其每周442个航班中有一半飞往台北，台北不允许直飞中国，旅客使用澳门飞往大陆的半直飞航班。",
+      "insert术语翻译": "['韩国.']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "A. D. Renteln A Conceptual Analysis of International Human Rights: Universalism vs. Relativism，A Bell and Howell Information Company，1987，P.35.": {
+      "序号": 59,
+      "原句": "A. D. Renteln A Conceptual Analysis of International Human Rights: Universalism vs. Relativism，A Bell and Howell Information Company，1987，P.35.",
+      "术语": "human rights",
+      "参考翻译": "['人权']",
+      "原句翻译": "A. D. Renteln，《国际人权的概念分析：普遍主义与相对主义》，贝尔和豪威尔信息公司，1987年，第35页。",
+      "原句术语翻译": [
+         "人权："
+      ],
+      "insert变异": "A. D. Renteln A Conceptual Analysis of International Human Rights (the set of basic rights and freedoms that all humans should be guaranteed, including the right to life and liberty, freedom of thought and expression, and equality before the law): Universalism vs. Relativism，A Bell and Howell Information Company，1987，P.35.",
+      "insert变异翻译": "A. D. Renteln A Conceptual Analysis of International Human Rights （The set of basic rights and freedom， that all human should be guaranteeed， including the right to life and freedom， the freedom to life， freedom of thought and expression， and the human before the Law）： Universalism vs. Relativism， A Bell and Howell Information Company，1987，P.35.",
+      "insert术语翻译": "['：']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Jai bows to his First Brother, the Crown Prince Wan.": {
+      "序号": 60,
+      "原句": "Jai bows to his First Brother, the Crown Prince Wan.",
+      "术语": "crown prince",
+      "参考翻译": "['继承人', '皇太子', '储君', '太子']",
+      "原句翻译": "杰伊向他的大哥万太子鞠躬。",
+      "原句术语翻译": [
+         "太子"
+      ],
+      "insert变异": "Jai bows to his First Brother, the Crown Prince (a person designated and raised to become the next king) Wan.",
+      "insert变异翻译": "Jai 向他的大哥 Wan（一个被指定并培养成为下一任国王的人）Wan 鞠躬。",
+      "insert术语翻译": "['']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "VII. The existing laws of Macao adopted as the laws of Macao Special Administrative Region may be amended or abolished pursuant to the provisions of the (Basic Law) and legal procedures if found conflicting with the (Basic Law) subsequently.": {
+      "序号": 61,
+      "原句": "VII. The existing laws of Macao adopted as the laws of Macao Special Administrative Region may be amended or abolished pursuant to the provisions of the (Basic Law) and legal procedures if found conflicting with the (Basic Law) subsequently.",
+      "术语": "administrative region",
+      "参考翻译": "['行政区', '行政区域']",
+      "原句翻译": "七、澳门现行法律如与《基本法》相抵触，可依照《基本法》的规定和法律程序予以修改或废止。",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "VII. The existing laws of Macao adopted as the laws of Macao Special Administrative Region (a type of region in some countries) may be amended or abolished pursuant to the provisions of the (Basic Law) and legal procedures if found conflicting with the (Basic Law) subsequently.",
+      "insert变异翻译": "七、澳门现行法律作为澳门特别行政区（某些国家的一类地区）的法律，如果发现其后与（基本法）相抵触，可以依照《基本法》的规定和法律程序进行修改或废止。",
+      "insert术语翻译": "['澳门特别行政区']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Exploiting this vulnerability requires that an application that utilizes the affected Microsoft technology, such as WordPad, to be instructed by an interactive user to load a maliciously constructed Rich Text document.": {
+      "序号": 62,
+      "原句": "Exploiting this vulnerability requires that an application that utilizes the affected Microsoft technology, such as WordPad, to be instructed by an interactive user to load a maliciously constructed Rich Text document.",
+      "术语": "rich text",
+      "参考翻译": "['富文字', '富文本']",
+      "原句翻译": "利用此漏洞需要交互式用户指示使用受影响的 Microsoft 技术（如写字板）的应用程序加载恶意构造的 RTF 文档。",
+      "原句术语翻译": [
+         "RTF"
+      ],
+      "insert变异": "Exploiting this vulnerability requires that an application that utilizes the affected Microsoft technology, such as WordPad, to be instructed by an interactive user to load a maliciously constructed Rich Text (text that has been enhanced with formatting, multimedia, etc., such as Microsoft's Rich Text Format or the enriched text format used in electronic mail) document.",
+      "insert变异翻译": "利用此漏洞需要交互式用户指示使用受影响的 Microsoft 技术（如写字板）的应用程序加载恶意构造的富文本（已通过格式、多媒体等增强的文本，如 Microsoft 的富文本格式或电子邮件中使用的扩充文本格式）文档。",
+      "insert术语翻译": "['富文本文档']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "All hell broke loose, the police came into a by - now crowded ring to try and restore order and like a ripple effect the bedlam moved to the hotel lobby and then the streets outside.": {
+      "序号": 63,
+      "原句": "All hell broke loose, the police came into a by - now crowded ring to try and restore order and like a ripple effect the bedlam moved to the hotel lobby and then the streets outside.",
+      "术语": "ripple effect",
+      "参考翻译": "['涟漪效应']",
+      "原句翻译": "一切都崩溃了，警察进入了一个现在拥挤的圈子，试图恢复秩序，就像涟漪效应一样，混乱转移到酒店大堂，然后是外面的街道。",
+      "原句术语翻译": [
+         "涟漪效应"
+      ],
+      "insert变异": "All hell broke loose, the police came into a by - now crowded ring to try and restore order and like a ripple effect (the circumstance in which one event instigates an expansive set of other events) the bedlam moved to the hotel lobby and then the streets outside.",
+      "insert变异翻译": "所有的地狱都松散了，警察进入了一个现在拥挤的圈子，试图恢复秩序，就像连锁反应一样（一个事件引发一系列其他事件的情况），混乱转移到酒店大堂，然后是外面的街道。",
+      "insert术语翻译": "['连锁反应']",
+      "manual_1_result": 1,
+      "manual_2_result": 0,
+      "final_result": "futher check needed"
+   },
+   "FRACTAL ANALYSIS APPLIED TO MOUNTAIN RIDGES AND FAULTS──A CASE STUDY OF CHINA": {
+      "序号": 64,
+      "原句": "FRACTAL ANALYSIS APPLIED TO MOUNTAIN RIDGES AND FAULTS──A CASE STUDY OF CHINA",
+      "术语": "case study",
+      "参考翻译": "['案例研究', '个案调查', '个案研究']",
+      "原句翻译": "应用于山脊和断层的分形分析──以中国为例",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "FRACTAL ANALYSIS APPLIED TO MOUNTAIN RIDGES AND FAULTS──A CASE STUDY (a case used in a such research) OF CHINA",
+      "insert变异翻译": "应用于山脊和断层的分形分析──中国案例研究（此类研究中使用的案例）",
+      "insert术语翻译": "['案例研究']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "The student revealed her plastic surgery secret after photos emerged of her looking very different at school, but she said she hadn't misled anyone.": {
+      "序号": 65,
+      "原句": "The student revealed her plastic surgery secret after photos emerged of her looking very different at school, but she said she hadn't misled anyone.",
+      "术语": "plastic surgery",
+      "参考翻译": "['整形外科', '整容']",
+      "原句翻译": "这名学生在学校的照片显示她看起来非常不同，但她说她没有误导任何人。",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "The student revealed her plastic surgery (cosmetic surgery for appearance) secret after photos emerged of her looking very different at school, but she said she hadn't misled anyone.",
+      "insert变异翻译": "这名学生在学校看到她看起来非常不同的照片后，透露了她的整容手术（外表整容手术）的秘密，但她说她没有误导任何人。",
+      "insert术语翻译": "['整容手术']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "(a) in sections 8, 9, 11, 20, 21, 33, 34 and 36 a reference to \"licence\" is a reference to a licence issued under the Ozone Layer Protection Ordinance (Cap 403);": {
+      "序号": 66,
+      "原句": "(a) in sections 8, 9, 11, 20, 21, 33, 34 and 36 a reference to \"licence\" is a reference to a licence issued under the Ozone Layer Protection Ordinance (Cap 403);",
+      "术语": "ozone layer",
+      "参考翻译": "['臭氧层']",
+      "原句翻译": "（a） 在第8、9、11、20、21、33、34及36条中，所提述的“牌照”是指根据《保护臭氧层条例》（第403章）发出的牌照;",
+      "原句术语翻译": [
+         "臭氧层"
+      ],
+      "insert变异": "(a) in sections 8, 9, 11, 20, 21, 33, 34 and 36 a reference to \"licence\" is a reference to a licence issued under the Ozone Layer (a region of the stratosphere, between 15 and 30 kilometres in altitude, containing a relatively high concentration of ozone, which absorbs most solar ultraviolet radiation) Protection Ordinance (Cap 403);",
+      "insert变异翻译": "（a） 在第8、9、11、20、21、33、34及36条中，“牌照”是指根据《保护条例》（第403章）发出的牌照;",
+      "insert术语翻译": "['']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "World Charter on the Rights and Duties of Humanity in Relation to the Global Water Cycle": {
+      "序号": 67,
+      "原句": "World Charter on the Rights and Duties of Humanity in Relation to the Global Water Cycle",
+      "术语": "water cycle",
+      "参考翻译": "['水循环']",
+      "原句翻译": "《世界人权宪章》",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "World Charter on the Rights and Duties of Humanity in Relation to the Global Water Cycle (the natural cycle of evaporation of water from the oceans etc, and subsequent condensation and precipitation as rain and snow)",
+      "insert变异翻译": "《世界人权宪章》与全球水循环（海洋等水蒸发的自然循环，以及随后的雨雪等凝结和降水）的关系",
+      "insert术语翻译": "['水循环']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "As soon as we receive the sale note, we shall establish the necessary letter of credit in your": {
+      "序号": 68,
+      "原句": "As soon as we receive the sale note, we shall establish the necessary letter of credit in your",
+      "术语": "letter of credit",
+      "参考翻译": "['信用状', '信用证']",
+      "原句翻译": "一旦我们收到销售单据，我们将在您的",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "As soon as we receive the sale note, we shall establish the necessary letter of credit (a document, used primarily in trade finance and issued generally by a financial institution, in which the institution promises to pay debts up to a certain limit to be acquired by the beneficiary against delivery of documents specified in the letter) in your",
+      "insert变异翻译": "一旦我们收到销售单据，我们将建立必要的信用证（一种主要用于贸易融资的文件，通常由金融机构签发，该机构承诺在交付信函中指定的文件时支付一定限额的债务）",
+      "insert术语翻译": "['信用证']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Improving Weld Quality for Automatic Submerged arc Welding of 20g Steel by way of Electromagnetic stirring in the puddle": {
+      "序号": 69,
+      "原句": "Improving Weld Quality for Automatic Submerged arc Welding of 20g Steel by way of Electromagnetic stirring in the puddle",
+      "术语": "arc welding",
+      "参考翻译": "['电弧焊', '弧焊']",
+      "原句翻译": "通过水坑中的电磁搅拌提高20g钢自动埋弧焊的焊接质量",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "Improving Weld Quality for Automatic Submerged arc Welding (the process of welding two pieces of metal together using the heat generated by an electric arc between two electrodes) of 20g Steel by way of Electromagnetic stirring in the puddle",
+      "insert变异翻译": "提高20g钢的自动埋弧焊（利用两个电极之间电弧产生的热量将两块金属焊接在一起的过程）的焊接质量",
+      "insert术语翻译": "['焊接']",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "Lee Harvey Oswald was booked with mug shot number 54018.": {
+      "序号": 70,
+      "原句": "Lee Harvey Oswald was booked with mug shot number 54018.",
+      "术语": "mug shot",
+      "参考翻译": "['脸部照片']",
+      "原句翻译": "李-哈维-奥斯瓦尔德被黄牌警告，他的射门号码为54018。",
+      "原句术语翻译": [
+         "射门"
+      ],
+      "insert变异": "Lee Harvey Oswald was booked with mug shot (a photograph taken of the head and shoulders, often from the front and in profile, usually taken in conjunction with somebody's arrest) number 54018.",
+      "insert变异翻译": "李·哈维·奥斯瓦尔德（Lee Harvey Oswald）被预订了54018号照片（头部和肩膀的照片，通常从正面和侧面拍摄，通常与某人被捕时一起拍摄）。",
+      "insert术语翻译": "['照片']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "(a) any vessel (other than a pipe or coil, or an accessory fitting or part of a compressor) for containing compressed air and which is connected with an air compressing plant;": {
+      "序号": 71,
+      "原句": "(a) any vessel (other than a pipe or coil, or an accessory fitting or part of a compressor) for containing compressed air and which is connected with an air compressing plant;",
+      "术语": "compressed air",
+      "参考翻译": "['压缩空气']",
+      "原句翻译": "（a） 任何与空气压缩设备相连的容器（管道或盘管，或附件或压缩机的一部分除外）;",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "(a) any vessel (other than a pipe or coil, or an accessory fitting or part of a compressor) for containing compressed air (air which has been reduced in volume and increased in pressure for use in industrial processes or for cleaning) and which is connected with an air compressing plant;",
+      "insert变异翻译": "（a） 任何用于盛装压缩空气（体积减小、压力增加的空气，用于工业过程或清洁）并与空气压缩设备相连的容器（管道或盘管、附件或压缩机的一部分除外）;",
+      "insert术语翻译": "['压缩空气']",
+      "manual_1_result": 1,
+      "manual_2_result": 0,
+      "final_result": "futher check needed"
+   },
+   "American officials say they have evidence of around $15m in UN money being misused North Korea between 200and 2005; this allegedly included $7m used to buy property in Britain, France and Canada.": {
+      "序号": 72,
+      "原句": "American officials say they have evidence of around $15m in UN money being misused North Korea between 200and 2005; this allegedly included $7m used to buy property in Britain, France and Canada.",
+      "术语": "North Korea",
+      "参考翻译": "['北韩', '朝鲜', '北朝鲜']",
+      "原句翻译": "美国官员说，他们有证据表明，在200年至2005年期间，大约有1500万美元的联合国资金被朝鲜滥用;据称，其中包括用于在英国，法国和加拿大购买房产的700万美元。",
+      "原句术语翻译": [
+         "朝鲜"
+      ],
+      "insert变异": "American officials say they have evidence of around $15m in UN money being misused North Korea (country in East Asia) between 200and 2005; this allegedly included $7m used to buy property in Britain, France and Canada.",
+      "insert变异翻译": "美国官员说，他们有证据表明，在200年至2005年期间，大约有1500万美元的联合国资金被滥用。据称，其中包括用于在英国，法国和加拿大购买房产的700万美元。",
+      "insert术语翻译": "['']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Hydrocarbon reservoir prediction of the Baozhong block, Baolang oil field, Yanqi Basin, Xinjiang using the inversion technique of wave impedance": {
+      "序号": 73,
+      "原句": "Hydrocarbon reservoir prediction of the Baozhong block, Baolang oil field, Yanqi Basin, Xinjiang using the inversion technique of wave impedance",
+      "术语": "oil field",
+      "参考翻译": "['油田']",
+      "原句翻译": "基于波阻抗反演技术的新疆雁栖盆地宝中油田保中区块油气储层预测",
+      "原句术语翻译": [
+         "油田"
+      ],
+      "insert变异": "Hydrocarbon reservoir prediction of the Baozhong block, Baolang oil field (an area under which are reserves of petroleum, especially one with productive oil wells), Yanqi Basin, Xinjiang using the inversion technique of wave impedance",
+      "insert变异翻译": "基于波阻抗反演技术对新疆雁栖盆地宝中区块（石油储量，特别是生产油井的区域）的油气储量预测",
+      "insert术语翻译": "['盆地区块']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "This Ordinance may be cited as the Mass Transit Railway (Land Resumption and Related Provisions) Ordinance.": {
+      "序号": 74,
+      "原句": "This Ordinance may be cited as the Mass Transit Railway (Land Resumption and Related Provisions) Ordinance.",
+      "术语": "mass transit",
+      "参考翻译": "['大众运输', '公共运输']",
+      "原句翻译": "本条例可称为《港铁（收回土地及相关条文）条例》。",
+      "原句术语翻译": [
+         "港铁"
+      ],
+      "insert变异": "This Ordinance may be cited as the Mass Transit (a large-scale transportation system in which the passengers do not travel in their own vehicles) Railway (Land Resumption and Related Provisions) Ordinance.",
+      "insert变异翻译": "本条例可称为《大众运输（乘客不自行出行的大型交通系统）铁路（收回土地及相关条文）条例》。",
+      "insert术语翻译": "['大众运输']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "A multi-purpose triaxial apparatus, that can strictly control the boundary force and apply the tensile or compressive force along vertical axis to the hollow cylinder specimens, has been used to study the properties of hydraulic fracturing for compacted cohesive soil under seepage force.": {
+      "序号": 75,
+      "原句": "A multi-purpose triaxial apparatus, that can strictly control the boundary force and apply the tensile or compressive force along vertical axis to the hollow cylinder specimens, has been used to study the properties of hydraulic fracturing for compacted cohesive soil under seepage force.",
+      "术语": "hydraulic fracturing",
+      "参考翻译": "['水力压裂', '水力劈裂']",
+      "原句翻译": "利用一种多用途三轴装置，严格控制边界力，沿垂直轴对空心圆柱体试件施加拉力或压缩力，研究了压实粘性土在渗流力作用下的性能。",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "A multi-purpose triaxial apparatus, that can strictly control the boundary force and apply the tensile or compressive force along vertical axis to the hollow cylinder specimens, has been used to study the properties of hydraulic fracturing (a technique in which a mixture of water and sand is forced down an oil well (or similar) in order to create fractures in the oil-bearing rock and thus release more oil) for compacted cohesive soil under seepage force.",
+      "insert变异翻译": "一种多用途三轴装置，可以严格控制边界力，并沿垂直轴对空心圆柱体试样施加拉力或压缩力，用于研究水力压裂（一种将水和沙子的混合物压入油井（或类似技术，以便在含油岩石中产生裂缝，从而释放更多石油的技术）在渗流力的作用下压实粘性土。",
+      "insert术语翻译": "['水力压裂压入']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Car be checked as they come off the production line": {
+      "序号": 76,
+      "原句": "Car be checked as they come off the production line",
+      "术语": "production line",
+      "参考翻译": "['生产线']",
+      "原句翻译": "汽车下线时要进行检查",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "Car be checked as they come off the production line (a set of sequential operations established in a factory whereby materials are put through a refining process or components are assembled to make a finished article)",
+      "insert变异翻译": "汽车从生产线上下来时进行检查（在工厂中建立的一组顺序操作，通过精炼过程将材料放入或组装组件以制造成品）",
+      "insert术语翻译": "['生产线']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Analysis and Calculation of Forming Pressure for Aluminium Alloy Shock Absorber Tube of Motorcycle by Liquid Extrusion": {
+      "序号": 77,
+      "原句": "Analysis and Calculation of Forming Pressure for Aluminium Alloy Shock Absorber Tube of Motorcycle by Liquid Extrusion",
+      "术语": "shock absorber",
+      "参考翻译": "['缓冲器', '避震器', '阻尼器', '减震器']",
+      "原句翻译": "液体挤压法对摩托车铝合金减震管成型压力的分析与计算",
+      "原句术语翻译": [
+         "减震"
+      ],
+      "insert变异": "Analysis and Calculation of Forming Pressure for Aluminium Alloy Shock Absorber (a mechanical device designed to smooth out or damp any sudden shock impulse and dissipate kinetic energy; usually consists of a combination of a spring and a dashpot) Tube of Motorcycle by Liquid Extrusion",
+      "insert变异翻译": "铝合金减震器（一种机械装置，用于平滑或抑制任何突然的冲击脉冲并耗散动能，通常由弹簧和仪表盘的组合组成）成型压力的分析和计算 通过液体挤压的摩托车管",
+      "insert术语翻译": "['']",
+      "manual_1_result": 0,
+      "manual_2_result": 1,
+      "final_result": "futher check needed"
+   },
+   "A Chinese Part of Speech Tagging Method Based on Maximum Entropy Principle": {
+      "序号": 78,
+      "原句": "A Chinese Part of Speech Tagging Method Based on Maximum Entropy Principle",
+      "术语": "part of speech",
+      "参考翻译": "['词性', '词类']",
+      "原句翻译": "一种基于最大熵原理的中文词性标记方法",
+      "原句术语翻译": [
+         "的词性"
+      ],
+      "insert变异": "A Chinese Part of Speech (a linguistic category of words sharing syntactic or morphological behaviour and semantic properties, such as noun or verb) Tagging Method Based on Maximum Entropy Principle",
+      "insert变异翻译": "汉语词性（具有句法或形态行为和语义特性的词的语言类别，如名词或动词） 基于最大熵原理的标记方法",
+      "insert术语翻译": "['汉语']",
+      "manual_1_result": 0,
+      "manual_2_result": 1,
+      "final_result": "futher check needed"
+   },
+   "Innovation Incubator in Knowledge Economy Age:A Case Study on the Pattern and Representative of Technological Innovation of Tsinghua Tongfang Co,Ltd": {
+      "序号": 79,
+      "原句": "Innovation Incubator in Knowledge Economy Age:A Case Study on the Pattern and Representative of Technological Innovation of Tsinghua Tongfang Co,Ltd",
+      "术语": "case study",
+      "参考翻译": "['案例研究', '个案调查', '个案研究']",
+      "原句翻译": "知识经济时代的创新孵化器——以清华同方科技创新模式及代表性案例分析",
+      "原句术语翻译": [
+         "案例分析"
+      ],
+      "insert变异": "Innovation Incubator in Knowledge Economy Age:A Case Study (a case used in a such research) on the Pattern and Representative of Technological Innovation of Tsinghua Tongfang Co,Ltd",
+      "insert变异翻译": "知识经济时代的创新孵化器——以清华同方科技创新模式与代表性案例为例",
+      "insert术语翻译": "['']",
+      "manual_1_result": 0,
+      "manual_2_result": 1,
+      "final_result": "futher check needed"
+   },
+   "A buffer overflow vulnerability exists in the Microsoft Windows RichEdit controls, related to the parsing of Rich Text documents.": {
+      "序号": 80,
+      "原句": "A buffer overflow vulnerability exists in the Microsoft Windows RichEdit controls, related to the parsing of Rich Text documents.",
+      "术语": "rich text",
+      "参考翻译": "['富文字', '富文本']",
+      "原句翻译": "Microsoft Windows RichEdit 控件中存在一个缓冲区溢出漏洞，该漏洞与 RTF 文档的分析有关。",
+      "原句术语翻译": [
+         "RTF"
+      ],
+      "insert变异": "A buffer overflow vulnerability exists in the Microsoft Windows RichEdit controls, related to the parsing of Rich Text (text that has been enhanced with formatting, multimedia, etc., such as Microsoft's Rich Text Format or the enriched text format used in electronic mail) documents.",
+      "insert变异翻译": "Microsoft Windows RichEdit 控件中存在一个缓冲区溢出漏洞，该漏洞与分析富文本（已通过格式、多媒体等增强的文本，如 Microsoft 的富文本格式或电子邮件中使用的扩充文本格式）文档有关。",
+      "insert术语翻译": "['富文本文档']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "The Ministry of Finance Relevant ministries and committees under the State Council, financial departments or bureaus in all provinces, autonomous regions, municipalities directly under the Central Government and municipalities separately listed on the State plan, Xinjiang Production and Construction Corps:": {
+      "序号": 81,
+      "原句": "The Ministry of Finance Relevant ministries and committees under the State Council, financial departments or bureaus in all provinces, autonomous regions, municipalities directly under the Central Government and municipalities separately listed on the State plan, Xinjiang Production and Construction Corps:",
+      "术语": "central government",
+      "参考翻译": "['中央政府']",
+      "原句翻译": "财政部 国务院有关部委、各省、自治区、直辖市财政厅、局和国家计划单独列举的市、新疆生产建设兵团：",
+      "原句术语翻译": [
+         "国家计划"
+      ],
+      "insert变异": "The Ministry of Finance Relevant ministries and committees under the State Council, financial departments or bureaus in all provinces, autonomous regions, municipalities directly under the Central Government (the highest level of government in a unitary state) and municipalities separately listed on the State plan, Xinjiang Production and Construction Corps:",
+      "insert变异翻译": "财政部 国务院有关部委、各省、自治区、直辖市（单一制国家的最高级别政府）和国家计划单独列出的市的财政部门、局、新疆生产建设兵团：",
+      "insert术语翻译": "['']",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "Review of the Project Titled Scheduling Agent for Logistics Distribution in E-Commerce by Using Knowledge Representation in Operations Research Supported by NSFC": {
+      "序号": 82,
+      "原句": "Review of the Project Titled Scheduling Agent for Logistics Distribution in E-Commerce by Using Knowledge Representation in Operations Research Supported by NSFC",
+      "术语": "operations research",
+      "参考翻译": "['运筹学']",
+      "原句翻译": "国家自然科学基金支持的“电子商务物流配送调度代理”项目综述",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "Review of the Project Titled Scheduling Agent for Logistics Distribution in E-Commerce by Using Knowledge Representation in Operations Research (the application of scientific methods and techniques to problems of decision making, especially in business management and government administration) Supported by NSFC",
+      "insert变异翻译": "在国家自然科学基金资助下，利用知识表示在运筹学中运用知识表征（将科学方法和技术应用于决策问题，特别是在企业管理和政府行政管理方面）项目综述",
+      "insert术语翻译": "['运筹学']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Mary take his story at face value and do not know he is joking": {
+      "序号": 83,
+      "原句": "Mary take his story at face value and do not know he is joking",
+      "术语": "face value",
+      "参考翻译": "['面值', '额面', '票面金额']",
+      "原句翻译": "玛丽只看他的故事，不知道他在开玩笑",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "Mary take his story at face value (no more or less than what is stated; a literal or direct meaning or interpretation) and do not know he is joking",
+      "insert变异翻译": "瑪麗從表面上看他的故事（不多於或少於所說的;字面上或直接的意思或解釋），並不知道他在開玩笑",
+      "insert术语翻译": "['表面上']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Rm202, 2 /F., Duke of Windsor Social Service Bldg., 15 Hennessy Road, Wanchai, Hong Kong.": {
+      "序号": 84,
+      "原句": "Rm202, 2 /F., Duke of Windsor Social Service Bldg., 15 Hennessy Road, Wanchai, Hong Kong.",
+      "术语": "social service",
+      "参考翻译": "['社会服务']",
+      "原句翻译": "香港湾仔轩尼诗道15号温莎公爵社会服务大厦202室2楼。",
+      "原句术语翻译": [
+         "社会服务"
+      ],
+      "insert变异": "Rm202, 2 /F., Duke of Windsor Social Service (a government-run program meant to benefit society as a whole, with a particular view to the less economically fortunate) Bldg., 15 Hennessy Road, Wanchai, Hong Kong.",
+      "insert变异翻译": "Rm202， 2 /F.， Duke of Windsor Social Service（一项政府运营的计划，旨在造福整个社会，特别关注经济上较不幸的人）大厦，香港湾仔轩尼诗道15号。",
+      "insert术语翻译": "['DukeofWindsorSocialService']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Pursuant to the relevant regulations of the State Council, the people's governments of provinces, autonomous regions, and municipalities directly under the Central Government may decide to levy local extra charges for educational purpose, which shall be used exclusively for education.": {
+      "序号": 85,
+      "原句": "Pursuant to the relevant regulations of the State Council, the people's governments of provinces, autonomous regions, and municipalities directly under the Central Government may decide to levy local extra charges for educational purpose, which shall be used exclusively for education.",
+      "术语": "central government",
+      "参考翻译": "['中央政府']",
+      "原句翻译": "省、自治区、直辖市人民政府依照国务院有关规定，决定征收地方教育附加费，专用于教育。",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "Pursuant to the relevant regulations of the State Council, the people's governments of provinces, autonomous regions, and municipalities directly under the Central Government (the highest level of government in a unitary state) may decide to levy local extra charges for educational purpose, which shall be used exclusively for education.",
+      "insert变异翻译": "省、自治区、直辖市人民政府（单一制国家的最高级别政府）可以依照国务院有关规定，决定征收地方教育附加费，专用于教育。",
+      "insert术语翻译": "['国务院']",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "Genomic Characterization of an Avian Influenza Virus of H9N2 Subtype and Generation of H9N2 Reassortants and Attenuated H5 Recombinants by Reverse Genetics": {
+      "序号": 86,
+      "原句": "Genomic Characterization of an Avian Influenza Virus of H9N2 Subtype and Generation of H9N2 Reassortants and Attenuated H5 Recombinants by Reverse Genetics",
+      "术语": "avian influenza",
+      "参考翻译": "['禽流感']",
+      "原句翻译": "H9N2亚型禽流感病毒的基因组表征以及H9N2重组体和减毒H5重组体的生成",
+      "原句术语翻译": [
+         "禽流感"
+      ],
+      "insert变异": "Genomic Characterization of an Avian Influenza (any strain of influenza carried by and primarily affecting birds) Virus of H9N2 Subtype and Generation of H9N2 Reassortants and Attenuated H5 Recombinants by Reverse Genetics",
+      "insert变异翻译": "H9N2亚型H9N2病毒的基因组特征，以及通过反向遗传学产生H9N2重组体和减毒H5重组体",
+      "insert术语翻译": "['']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "(1) No person shall enter, remain in or take a motor vehicle into an abattoir without a valid entry permit for himself, and for the vehicle (if any), issued by the manager.": {
+      "序号": 87,
+      "原句": "(1) No person shall enter, remain in or take a motor vehicle into an abattoir without a valid entry permit for himself, and for the vehicle (if any), issued by the manager.",
+      "术语": "motor vehicle",
+      "参考翻译": "['汽车', '机动车']",
+      "原句翻译": "（1） 任何人不得在没有经理签发的有效车辆入境许可证的情况下进入、停留或驾驶机动车辆进入屠宰场。",
+      "原句术语翻译": [
+         "车辆"
+      ],
+      "insert变异": "(1) No person shall enter, remain in or take a motor vehicle (any land-based means of transportation in the form of a machine that operates primarily through a motor to provide power to rotate the tires) into an abattoir without a valid entry permit for himself, and for the vehicle (if any), issued by the manager.",
+      "insert变异翻译": "（1） 任何人未经经理签发的有效进入许可证，不得进入、停留在屠宰场（任何主要通过电机操作的机器形式的陆上运输工具，以提供轮胎旋转动力）进入屠宰场。",
+      "insert术语翻译": "['']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "(5) A person who, on polling day, wears a badge, emblem or any clothing which makes direct reference to an election, political organization in Hong Kong, a candidate, the number allocated to a candidate or a list of candidates, within a polling station, commits an offence.": {
+      "序号": 88,
+      "原句": "(5) A person who, on polling day, wears a badge, emblem or any clothing which makes direct reference to an election, political organization in Hong Kong, a candidate, the number allocated to a candidate or a list of candidates, within a polling station, commits an offence.",
+      "术语": "polling station",
+      "参考翻译": "['投票站']",
+      "原句翻译": "（5） 任何人在投票日内佩戴徽章、徽章或任何直接提及香港选举、政治组织、候选人、获分配候选人人数或候选人名单的衣物，即属犯罪。",
+      "原句术语翻译": [
+         "，"
+      ],
+      "insert变异": "(5) A person who, on polling day, wears a badge, emblem or any clothing which makes direct reference to an election, political organization in Hong Kong, a candidate, the number allocated to a candidate or a list of candidates, within a polling station (a place where voters go to cast their ballot in an election or referendum; a voting station), commits an offence.",
+      "insert变异翻译": "（5） 在投票日，在投票站（选民在选举或公投中投票的地点，投票站）内佩戴徽章、徽章或任何直接提及香港选举、政治组织、候选人、获分配候选人人数或候选人名单的服装， 犯了罪。",
+      "insert术语翻译": "['投票站，']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "The flaw lies in processing by the RichEdit control of malicious Rich Text Format documents with specially-crafted OLE objects embedded within.": {
+      "序号": 89,
+      "原句": "The flaw lies in processing by the RichEdit control of malicious Rich Text Format documents with specially-crafted OLE objects embedded within.",
+      "术语": "rich text",
+      "参考翻译": "['富文字', '富文本']",
+      "原句翻译": "该缺陷存在于 RichEdit 控件处理嵌入了特制 OLE 对象的恶意 RTF 格式文档。",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "The flaw lies in processing by the RichEdit control of malicious Rich Text (text that has been enhanced with formatting, multimedia, etc., such as Microsoft's Rich Text Format or the enriched text format used in electronic mail) Format documents with specially-crafted OLE objects embedded within.",
+      "insert变异翻译": "该缺陷在于 RichEdit 控件处理恶意富文本（已通过格式、多媒体等增强的文本，例如 Microsoft 的富文本格式或电子邮件中使用的扩充文本格式）格式化嵌入特制 OLE 对象的文档。",
+      "insert术语翻译": "['文本格式']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Article  2 Organs for examining and confirming the two-type enterprises (EC organs) shall be MOFERT and foreign economic relations and trade departments of provinces, autonomous regions, municipalities directly under the Central Government, municipalities separately listed on the State plan and special economic zones (hereinafter referred to as provincial-level EC organs).": {
+      "序号": 90,
+      "原句": "Article  2 Organs for examining and confirming the two-type enterprises (EC organs) shall be MOFERT and foreign economic relations and trade departments of provinces, autonomous regions, municipalities directly under the Central Government, municipalities separately listed on the State plan and special economic zones (hereinafter referred to as provincial-level EC organs).",
+      "术语": "central government",
+      "参考翻译": "['中央政府']",
+      "原句翻译": "第二条 两类企业（欧共体机关）的审查确认机构为省、自治区、直辖市、国家计划另行市和经济特区外经贸部门（以下简称省级欧共体机关）。",
+      "原句术语翻译": [
+         "、"
+      ],
+      "insert变异": "Article  2 Organs for examining and confirming the two-type enterprises (EC organs) shall be MOFERT and foreign economic relations and trade departments of provinces, autonomous regions, municipalities directly under the Central Government (the highest level of government in a unitary state), municipalities separately listed on the State plan and special economic zones (hereinafter referred to as provincial-level EC organs).",
+      "insert变异翻译": "第二条 两类企业（欧共体机关）的审查确认机关为省、自治区、直辖市（单一制国家的最高级别政府）、国家计划另列市和经济特区的外经贸部门（以下简称省级欧共体机关）。",
+      "insert术语翻译": "['']",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "The Application of the Technology of Prediction and Description of Three Dimensional Gas Reservoir in the Prospect for Natural Gas in Chenjiazhuang Swell": {
+      "序号": 91,
+      "原句": "The Application of the Technology of Prediction and Description of Three Dimensional Gas Reservoir in the Prospect for Natural Gas in Chenjiazhuang Swell",
+      "术语": "natural gas",
+      "参考翻译": "['天然煤气', '天然气']",
+      "原句翻译": "三维气藏预测描述技术在陈家庄涌气前景中的应用",
+      "原句术语翻译": [
+         "涌气"
+      ],
+      "insert变异": "The Application of the Technology of Prediction and Description of Three Dimensional Gas Reservoir in the Prospect for Natural Gas (a mixture of gaseous hydrocarbons associated with petroleum deposits; mostly methane with smaller amounts of ethane, propane and butane; principally used as a fuel) in Chenjiazhuang Swell",
+      "insert变异翻译": "三维气藏预测与描述技术在陈家庄涌天然气（与石油矿床相关的气态烃的混合物，主要是甲烷，少量乙烷、丙烷和丁烷，主要用作燃料）前景中的应用",
+      "insert术语翻译": "['天然气']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "factors of 195 gravidas, including 50 cases of cholestasis of pregnancy, 43 cases of pregnancy-induced hypertension syndrome (4.85%), 34 cases of advanced age primigravidas (3 83%), 25 cases of scarred uteruses (2.82%), and 16 cases of pregnancies exceeding the time limit (1.85%);": {
+      "序号": 92,
+      "原句": "factors of 195 gravidas, including 50 cases of cholestasis of pregnancy, 43 cases of pregnancy-induced hypertension syndrome (4.85%), 34 cases of advanced age primigravidas (3 83%), 25 cases of scarred uteruses (2.82%), and 16 cases of pregnancies exceeding the time limit (1.85%);",
+      "术语": "time limit",
+      "参考翻译": "['时限', '限期']",
+      "原句翻译": "妊娠195例，其中妊娠胆汁淤积50例，妊娠高血压综合征43例（4.85%），高龄初孕34例（3 83%），子宫瘢痕形成25例（2.82%），逾期妊娠16例（1.85%）;",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "factors of 195 gravidas, including 50 cases of cholestasis of pregnancy, 43 cases of pregnancy-induced hypertension syndrome (4.85%), 34 cases of advanced age primigravidas (3 83%), 25 cases of scarred uteruses (2.82%), and 16 cases of pregnancies exceeding the time limit (a duration beyond which something may not exceed) (1.85%);",
+      "insert变异翻译": "妊娠因素195例，其中妊娠胆汁淤积50例，妊娠高血压综合征43例（4.85%），高龄初产34例（3 83%），子宫瘢痕形成25例（2.82%），超过时限（不得超过）妊娠16例（1.85%）;",
+      "insert术语翻译": "['时限;']",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "On Lok No. 2 Fresh Water Pump House": {
+      "序号": 93,
+      "原句": "On Lok No. 2 Fresh Water Pump House",
+      "术语": "fresh water",
+      "参考翻译": "['淡水']",
+      "原句翻译": "安乐二号食水泵房",
+      "原句术语翻译": [
+         "食水泵房"
+      ],
+      "insert变异": "On Lok No. 2 Fresh Water (water with a very low content of dissolved salt, as opposed to brackish water or salt water) Pump House",
+      "insert变异翻译": "在Lok No. 2 Freshwater（溶解盐含量非常低的水，而不是微咸水或盐水）泵房",
+      "insert术语翻译": "['']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Design and Realization of Automatic Measure and Control Device of Paper Constant Tension in Production Line for Currugated Board": {
+      "序号": 94,
+      "原句": "Design and Realization of Automatic Measure and Control Device of Paper Constant Tension in Production Line for Currugated Board",
+      "术语": "production line",
+      "参考翻译": "['生产线']",
+      "原句翻译": "曲线板生产线纸张恒张力自动测量控制装置的设计与实现",
+      "原句术语翻译": [
+         "生产线"
+      ],
+      "insert变异": "Design and Realization of Automatic Measure and Control Device of Paper Constant Tension in Production Line (a set of sequential operations established in a factory whereby materials are put through a refining process or components are assembled to make a finished article) for Currugated Board",
+      "insert变异翻译": "曲线板纸张恒张力自动测量与控制装置（在工厂中建立的一组顺序操作，通过精炼过程将材料放入或组装组件以制成成品）的设计与实现",
+      "insert术语翻译": "['']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "The parents of a boy who killed himself in a suicide pact arranged over China's most popular instant messaging service, QQ, are suing its owner, Shenzhen-based Tencent Holdings Ltd, in Zhejiang province, Qianjiang Evening News reported over the weekend.": {
+      "序号": 95,
+      "原句": "The parents of a boy who killed himself in a suicide pact arranged over China's most popular instant messaging service, QQ, are suing its owner, Shenzhen-based Tencent Holdings Ltd, in Zhejiang province, Qianjiang Evening News reported over the weekend.",
+      "术语": "instant messaging",
+      "参考翻译": "['即时通讯', '即时通信']",
+      "原句翻译": "据《钱江晚报》周末报道，一名男孩在中国最受欢迎的即时通讯服务QQ上达成的自杀协议中自杀，他的父母正在起诉其所有者，总部位于深圳的腾讯控股有限公司。",
+      "原句术语翻译": [
+         "即时通讯"
+      ],
+      "insert变异": "The parents of a boy who killed himself in a suicide pact arranged over China's most popular instant messaging (a form of realtime communication where two or more people exchange text messages, usually short, using computers or other devices with communications capabilities) service, QQ, are suing its owner, Shenzhen-based Tencent Holdings Ltd, in Zhejiang province, Qianjiang Evening News reported over the weekend.",
+      "insert变异翻译": "据《钱江晚报》周末报道，一名男孩的父母正在起诉其所有者，总部位于浙江省的腾讯控股有限公司，总部位于浙江省的深圳腾讯控股有限公司。",
+      "insert术语翻译": "['']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Mr. Obama said there’s a window of opportunity in which the dispute with Iran can still be resolved diplomatically.": {
+      "序号": 96,
+      "原句": "Mr. Obama said there’s a window of opportunity in which the dispute with Iran can still be resolved diplomatically.",
+      "术语": "window of opportunity",
+      "参考翻译": "['机会窗口']",
+      "原句翻译": "奥巴马说，与伊朗的争端仍可以通过外交途径解决。",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "Mr. Obama said there’s a window of opportunity (a (usually limited) period of time in which suitable action can achieve success) in which the dispute with Iran can still be resolved diplomatically.",
+      "insert变异翻译": "奥巴马说，有一个机会之窗（（通常是有限的）一段时间，在这个时间里，适当的行动可以取得成功），在这个窗口中，与伊朗的争端仍然可以通过外交途径解决。",
+      "insert术语翻译": "['机会之窗']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "This venture is seen as an acid test of the alliance.": {
+      "序号": 97,
+      "原句": "This venture is seen as an acid test of the alliance.",
+      "术语": "acid test",
+      "参考翻译": "['洗礼', '决定性考验']",
+      "原句翻译": "这次合资被视为对联盟的严峻考验。",
+      "原句术语翻译": [
+         "严峻考验"
+      ],
+      "insert变异": "This venture is seen as an acid test (a test involving the reaction of an acid with another chemical) of the alliance.",
+      "insert变异翻译": "这项冒险被视为联盟的酸性测试（涉及酸与另一种化学物质反应的测试）。",
+      "insert术语翻译": "['酸性测试']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Article  10 In the process of agro-technical popularization, a popularization system of combining agro-technical popularization setups with institutions of agricultural scientific research, relevant schools or colleges, mass organizations of science and technology, and peasant technical personnel shall be practised.": {
+      "序号": 98,
+      "原句": "Article  10 In the process of agro-technical popularization, a popularization system of combining agro-technical popularization setups with institutions of agricultural scientific research, relevant schools or colleges, mass organizations of science and technology, and peasant technical personnel shall be practised.",
+      "术语": "scientific research",
+      "参考翻译": "['科学研究', '科研']",
+      "原句翻译": "第十条 在农业技术普及过程中，实行农业技术普及机构、有关学校、高等院校、群众性科技组织、农民技术人员相结合的普及制度。",
+      "原句术语翻译": [
+         "、"
+      ],
+      "insert变异": "Article  10 In the process of agro-technical popularization, a popularization system of combining agro-technical popularization setups with institutions of agricultural scientific research (research performed using the scientific method), relevant schools or colleges, mass organizations of science and technology, and peasant technical personnel shall be practised.",
+      "insert变异翻译": "第十条 在农业技术普及过程中，实行农业技术普及机构（采用科学方法进行的研究）、有关学校、学院、科技群众组织、农民技术人员相结合的普及制度。",
+      "insert术语翻译": "['']",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "The solar energy use efficiency of Lemont/Qiguizao expressed in seed yield was about 8% ￣ 62% higher than its parents both in Guangzhou of China and in Arkansas of U.S.A.": {
+      "序号": 99,
+      "原句": "The solar energy use efficiency of Lemont/Qiguizao expressed in seed yield was about 8% ￣ 62% higher than its parents both in Guangzhou of China and in Arkansas of U.S.A.",
+      "术语": "solar energy",
+      "参考翻译": "['太阳能']",
+      "原句翻译": "在中国广州和美国阿肯色州，以种子产量表示的Lemont/Qiguizao的太阳能利用效率比其亲本高出约8%至62%。",
+      "原句术语翻译": [
+         "太阳能"
+      ],
+      "insert变异": "The solar energy (energy in the form of electromagnetic radiation emitted from the Sun; especially that part of this energy that is converted into usable thermal or electrical energy by man) use efficiency of Lemont/Qiguizao expressed in seed yield was about 8% ￣ 62% higher than its parents both in Guangzhou of China and in Arkansas of U.S.A.",
+      "insert变异翻译": "在中国广州和美国阿肯色州，以太阳发出的电磁辐射形式的能量，特别是这种能量中被人转化为可用热能或电能的那部分能量）的利用效率比其亲本高出约8%至62%。",
+      "insert术语翻译": "['电磁辐射']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   }
+}

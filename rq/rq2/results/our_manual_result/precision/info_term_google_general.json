@@ -1,0 +1,1602 @@
+{
+   "Image quality and diagnostic accuracy of non-invasive coronary imaging with 16 detector slice spiral computed tomography with 188 ms temporal resolution": {
+      "序号": 0,
+      "原句": "Image quality and diagnostic accuracy of non-invasive coronary imaging with 16 detector slice spiral computed tomography with 188 ms temporal resolution",
+      "术语": "computed tomography",
+      "参考翻译": "['计算机体层成像', '电脑断层扫描']",
+      "原句翻译": "时间分辨率为 188 毫秒的 16 层螺旋 CT 无创冠状动脉成像的图像质量和诊断准确性",
+      "原句术语翻译": [
+         "成像图像"
+      ],
+      "insert变异": "Image quality and diagnostic accuracy of non-invasive coronary imaging with 16 detector slice spiral computed tomography (a form of radiography which uses computer software to create images, or slices, at various planes of depth from images taken around a body or volume of interest, sometimes called “computerized tomography”) with 188 ms temporal resolution",
+      "insert变异翻译": "使用 16 探测器螺旋计算机断层扫描（一种使用计算机软件从围绕身体或感兴趣体积拍摄的图像中创建不同深度平面的图像或切片的放射线照相术，有时称为“计算机断层扫描”）进行非侵入性冠状动脉成像的图像质量和诊断准确性，时间分辨率为 188 毫秒",
+      "insert术语翻译": "['']",
+      "manual_1_result": 1,
+      "manual_2_result": 0,
+      "final_result": "futher check needed"
+   },
+   "Article 7 The administrations for industry and commerce at the level of a province, autonomous region or municipality directly under the Central Government are responsible for the registration of the following companies in areas under their respective jurisdiction:": {
+      "序号": 1,
+      "原句": "Article 7 The administrations for industry and commerce at the level of a province, autonomous region or municipality directly under the Central Government are responsible for the registration of the following companies in areas under their respective jurisdiction:",
+      "术语": "central government",
+      "参考翻译": "['中央政府']",
+      "原句翻译": "第七条 省、自治区、直辖市工商行政管理局负责本行政区域内下列公司的登记：",
+      "原句术语翻译": [
+         "本行政区域"
+      ],
+      "insert变异": "Article 7 The administrations for industry and commerce at the level of a province, autonomous region or municipality directly under the Central Government (the highest level of government in a unitary state) are responsible for the registration of the following companies in areas under their respective jurisdiction:",
+      "insert变异翻译": "第七条 省、自治区、直辖市工商行政管理局（单一制国家的最高政府机关）负责本辖区内下列公司的登记：",
+      "insert术语翻译": "['']",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "Technical specification for load design of main building in fossil fuel power plants": {
+      "序号": 2,
+      "原句": "Technical specification for load design of main building in fossil fuel power plants",
+      "术语": "fossil fuel",
+      "参考翻译": "['化石燃料']",
+      "原句翻译": "火力发电厂主厂房荷载设计技术规范",
+      "原句术语翻译": [
+         "火力发电厂"
+      ],
+      "insert变异": "Technical specification for load design of main building in fossil fuel (any fuel derived from hydrocarbon deposits such as coal, petroleum, natural gas and, to some extent, peat; these fuels are non-renewable, and their burning moves carbon from underground into the atmosphere via the greenhouse gas carbon dioxide) power plants",
+      "insert变异翻译": "化石燃料主建筑负荷设计技术规范（任何源自碳氢化合物沉积物的燃料，如煤、石油、天然气，在某种程度上还有泥炭；这些燃料是不可再生的，它们的燃烧将碳从地下转移到地下）大气（通过温室气体二氧化碳）发电厂",
+      "insert术语翻译": "['化石燃料']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "And the bottom line of why I'm here, besides being a crazy mofo,": {
+      "序号": 3,
+      "原句": "And the bottom line of why I'm here, besides being a crazy mofo,",
+      "术语": "bottom line",
+      "参考翻译": "['总结', '帐本底线']",
+      "原句翻译": "我来这里的原因除了是个疯狂的混蛋之外，",
+      "原句术语翻译": [
+         "原因"
+      ],
+      "insert变异": "And the bottom line (the summary or result; the most important information) of why I'm here, besides being a crazy mofo,",
+      "insert变异翻译": "以及我为什么来这里的底线（总结或结果；最重要的信息），除了是一个疯狂的混蛋之外，",
+      "insert术语翻译": "['底线']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Specification for design of labour safety and industrial hygiene for fossil fuel power plants": {
+      "序号": 4,
+      "原句": "Specification for design of labour safety and industrial hygiene for fossil fuel power plants",
+      "术语": "fossil fuel",
+      "参考翻译": "['化石燃料']",
+      "原句翻译": "火力发电厂劳动安全和工业卫生设计规范",
+      "原句术语翻译": [
+         "火力发电厂"
+      ],
+      "insert变异": "Specification for design of labour safety and industrial hygiene for fossil fuel (any fuel derived from hydrocarbon deposits such as coal, petroleum, natural gas and, to some extent, peat; these fuels are non-renewable, and their burning moves carbon from underground into the atmosphere via the greenhouse gas carbon dioxide) power plants",
+      "insert变异翻译": "化石燃料劳动安全和工业卫生设计规范（任何从碳氢化合物沉积物中提取的燃料，如煤、石油、天然气，以及某种程度上的泥炭；这些燃料是不可再生的，它们的燃烧将碳从地下转移到通过温室气体（二氧化碳）排放到大气中）发电厂",
+      "insert术语翻译": "['化石燃料']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "A Garden City with A Lake Around It, And Two Rivers with the Charm of Xichu--Suqian City Plan for Urban Green Space System": {
+      "序号": 5,
+      "原句": "A Garden City with A Lake Around It, And Two Rivers with the Charm of Xichu--Suqian City Plan for Urban Green Space System",
+      "术语": "garden city",
+      "参考翻译": "['花园城市']",
+      "原句翻译": "一湖环抱，两江汇聚，西楚风韵——宿迁市城市绿地系统规划",
+      "原句术语翻译": [
+         "环抱"
+      ],
+      "insert变异": "A Garden City (any of several planned, self-contained communities, surrounded by \"green belts\", containing proportionate areas of residences, industry and agriculture) with A Lake Around It, And Two Rivers with the Charm of Xichu--Suqian City Plan for Urban Green Space System",
+      "insert变异翻译": "一湖环水、两江相望的西楚园林城市（规划中的自给自足的社区，周围环绕着“绿带”，包含一定比例的居住、工业和农业区域）——宿迁市城市绿地系统规划",
+      "insert术语翻译": "['园林城市']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Mr. Singh says in this hour of crisis divisive politics will not lead the country anywhere. He asked all political parties to find a solution keeping in view the long-term interests of Jammu and Kashmir.": {
+      "序号": 6,
+      "原句": "Mr. Singh says in this hour of crisis divisive politics will not lead the country anywhere. He asked all political parties to find a solution keeping in view the long-term interests of Jammu and Kashmir.",
+      "术语": "Jammu and Kashmir",
+      "参考翻译": "['查谟-克什米尔邦']",
+      "原句翻译": "辛格先生说，在这个危机时刻，分裂政治不会给国家带来任何好处。他要求所有政党从查谟和克什米尔的长远利益出发，找到解决方案。",
+      "原句术语翻译": [
+         "谟和克什米尔。"
+      ],
+      "insert变异": "Mr. Singh says in this hour of crisis divisive politics will not lead the country anywhere. He asked all political parties to find a solution keeping in view the long-term interests of Jammu and Kashmir (autonomous territory of Pakistan).",
+      "insert变异翻译": "辛格先生说，在这个危机时刻，分裂政治不会给国家带来任何好处。他要求所有政党从长远利益出发，找到解决方案。",
+      "insert术语翻译": "['。']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "\"It was easy at first, but we're in deep water now.\"": {
+      "序号": 7,
+      "原句": "\"It was easy at first, but we're in deep water now.\"",
+      "术语": "deep water",
+      "参考翻译": "['水深火热', '深水']",
+      "原句翻译": "“一开始很容易，但现在我们已陷入困境。”",
+      "原句术语翻译": [
+         "陷入困境"
+      ],
+      "insert变异": "\"It was easy at first, but we're in deep water (see: deep, water) now.\"",
+      "insert变异翻译": "“一开始很容易，但我们现在处于深水区（参见：深水）。”",
+      "insert术语翻译": "['深水']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "The ambassador told Portuguese news agency Lusa that the initiative“will be Mozambique first big event outside Beijing ”and its main aim was to“exchange ideas and experience in an are of great technological, commercial and industrial development.”": {
+      "序号": 8,
+      "原句": "The ambassador told Portuguese news agency Lusa that the initiative“will be Mozambique first big event outside Beijing ”and its main aim was to“exchange ideas and experience in an are of great technological, commercial and industrial development.”",
+      "术语": "news agency",
+      "参考翻译": "['新闻社', '通讯社']",
+      "原句翻译": "该大使告诉葡萄牙卢萨社，该倡议“将成为莫桑比克在北京以外的第一个大型活动”，其主要目的是“在技术、商业和工业发展迅速的地区交流思想和经验”。",
+      "原句术语翻译": [
+         "卢萨社"
+      ],
+      "insert变异": "The ambassador told Portuguese news agency (alternative form of newsagency) Lusa that the initiative“will be Mozambique first big event outside Beijing ”and its main aim was to“exchange ideas and experience in an are of great technological, commercial and industrial development.”",
+      "insert变异翻译": "该大使告诉葡萄牙新闻社 Lusa，该活动“将成为莫桑比克在北京以外的首个大型活动”，其主要目的是“在技术、商业和工业发展迅速的地区交流思想和经验”。",
+      "insert术语翻译": "['新闻社']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "\"This film makes us question how we deal with people like this,\" said Shi Peng, a reporter at the government news agency, Xinhua, where a screening was arranged this summer. \"Do we help them enough?\"": {
+      "序号": 9,
+      "原句": "\"This film makes us question how we deal with people like this,\" said Shi Peng, a reporter at the government news agency, Xinhua, where a screening was arranged this summer. \"Do we help them enough?\"",
+      "术语": "news agency",
+      "参考翻译": "['新闻社', '通讯社']",
+      "原句翻译": "“这部电影让我们思考，我们该如何对待这样的人，”新华社记者石鹏说。今年夏天，新华社安排了一次放映。“我们对他们提供的帮助够多了吗？”",
+      "原句术语翻译": [
+         "新华社"
+      ],
+      "insert变异": "\"This film makes us question how we deal with people like this,\" said Shi Peng, a reporter at the government news agency (an organisation that gathers and distributes news to newspapers and radio and television broadcasters), Xinhua, where a screening was arranged this summer. \"Do we help them enough?\"",
+      "insert变异翻译": "“这部电影让我们思考，我们该如何对待这样的人，”新华社记者石鹏说道。新华社是政府新闻机构（负责收集和发布新闻给报纸、广播电视机构的机构），今年夏天安排了一次放映。“我们对他们提供的帮助够多了吗？”",
+      "insert术语翻译": "['新闻机构']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Road vehicles--50 semi-trailer fifth wheel coupling pin--Basic and mounting / interchangeability dimensions": {
+      "序号": 10,
+      "原句": "Road vehicles--50 semi-trailer fifth wheel coupling pin--Basic and mounting / interchangeability dimensions",
+      "术语": "fifth wheel",
+      "参考翻译": "['电灯泡', '灯泡', '电灯泡儿', '灯泡儿']",
+      "原句翻译": "道路车辆--50半挂车牵引座连接销基本尺寸和安装/互换性尺寸",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "Road vehicles--50 semi-trailer fifth wheel (anything superfluous or unnecessary) coupling pin--Basic and mounting / interchangeability dimensions",
+      "insert变异翻译": "道路车辆--50半挂车第五轮(任何多余或不必要的)连接销-基本尺寸和安装/互换性尺寸",
+      "insert术语翻译": "['半挂车第五轮']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Technical regulation for design of waste water treatment of fossil fuel power plant": {
+      "序号": 11,
+      "原句": "Technical regulation for design of waste water treatment of fossil fuel power plant",
+      "术语": "fossil fuel",
+      "参考翻译": "['化石燃料']",
+      "原句翻译": "火力发电厂废水处理设计技术规定",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "Technical regulation for design of waste water treatment of fossil fuel (any fuel derived from hydrocarbon deposits such as coal, petroleum, natural gas and, to some extent, peat; these fuels are non-renewable, and their burning moves carbon from underground into the atmosphere via the greenhouse gas carbon dioxide) power plant",
+      "insert变异翻译": "化石燃料废水处理设计技术规范（任何源自碳氢化合物沉积物的燃料，如煤、石油、天然气，在某种程度上还有泥炭；这些燃料是不可再生的，它们的燃烧将碳从地下转移到地下）大气（通过温室气体二氧化碳）发电厂",
+      "insert术语翻译": "['化石燃料']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "This paper discusses operational mechanism of Microsoft Proxy Server and illustrates the methods of its arrangement and allocation.": {
+      "序号": 12,
+      "原句": "This paper discusses operational mechanism of Microsoft Proxy Server and illustrates the methods of its arrangement and allocation.",
+      "术语": "proxy server",
+      "参考翻译": "['代理服务器']",
+      "原句翻译": "讨论了Microsoft Proxy Server的运行机制并说明了其安排和配置方法。",
+      "原句术语翻译": [
+         "MicrosoftProxyServer"
+      ],
+      "insert变异": "This paper discusses operational mechanism of Microsoft Proxy Server (a hardware server that acts as an intermediary between a user and another server, usually on the Internet) and illustrates the methods of its arrangement and allocation.",
+      "insert变异翻译": "本文讨论了 Microsoft 代理服务器（一种充当用户和另一台服务器（通常在 Internet 上）之间的中介的硬件服务器）的运行机制，并说明了其安排和配置方法。",
+      "insert术语翻译": "['代理服务器']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "\"Merchant Shipping Notice\" (商船公告) means a Notice described as such, issued by the United Kingdom Department of Transport and published by Her Majesty's Stationery Office, and any reference to a particular Merchant Shipping Notice includes a reference to that Notice as amended from time to time by a subsequent Notice;": {
+      "序号": 13,
+      "原句": "\"Merchant Shipping Notice\" (商船公告) means a Notice described as such, issued by the United Kingdom Department of Transport and published by Her Majesty's Stationery Office, and any reference to a particular Merchant Shipping Notice includes a reference to that Notice as amended from time to time by a subsequent Notice;",
+      "术语": "United Kingdom",
+      "参考翻译": "['英国', '大不列颠及北爱尔兰联合王国', '联合王国']",
+      "原句翻译": "“商船公告”指由英国交通部发布并由英国女王陛下文具办公室出版的此类公告，任何对特定商船公告的提及均包括对经修订的该公告的提及不时通过后续通知；",
+      "原句术语翻译": [
+         "英国"
+      ],
+      "insert变异": "\"Merchant Shipping Notice\" (商船公告) means a Notice described as such, issued by the United Kingdom (the United Kingdom of Great Britain and Ireland (1801–1922)) Department of Transport and published by Her Majesty's Stationery Office, and any reference to a particular Merchant Shipping Notice includes a reference to that Notice as amended from time to time by a subsequent Notice;",
+      "insert变异翻译": "“商船公告”（Merchant Shipping Notice） 指由联合王国（大不列颠及爱尔兰联合王国（1801-1922））运输部发出并由女王陛下文书局出版的通告，凡提述某一商船公告，包括提述经其后通告不时修订的该公告；",
+      "insert术语翻译": "['联合王国']",
+      "manual_1_result": 0,
+      "manual_2_result": 1,
+      "final_result": "futher check needed"
+   },
+   "(1) Where any Ordinance empowers the Director to audit, examine or inquire into the accounts of any person, body corporate or other body, the Director-": {
+      "序号": 14,
+      "原句": "(1) Where any Ordinance empowers the Director to audit, examine or inquire into the accounts of any person, body corporate or other body, the Director-",
+      "术语": "body corporate",
+      "参考翻译": "['业主法团']",
+      "原句翻译": "(c) 任何根据本条例获授权的人，可就该人所获授权的事宜，向处长提出申请，要求处长批准该人所获授权的事宜。",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "(1) Where any Ordinance empowers the Director to audit, examine or inquire into the accounts of any person, body corporate (a legal person) or other body, the Director-",
+      "insert变异翻译": "(c) 任何根据本条例获授权的人，可向处长或任何获授权代表该人行事的任何人，或任何获授权代表该人行事的人，或任何获授权代表该人行事的人，",
+      "insert术语翻译": "['人行事']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Moving this fast is bad science, no matter who the guinea pig is.": {
+      "序号": 15,
+      "原句": "Moving this fast is bad science, no matter who the guinea pig is.",
+      "术语": "guinea pig",
+      "参考翻译": "['天竺鼠', '白老鼠', '实验品', '豚鼠']",
+      "原句翻译": "无论实验对象是谁，如此快速的行动都是糟糕的科学。",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "Moving this fast is bad science, no matter who the guinea pig (a living experimental subject) is.",
+      "insert变异翻译": "无论豚鼠（活生生的实验对象）是谁，如此快速的行动都是糟糕的科学。",
+      "insert术语翻译": "['豚鼠']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "\"Division Officer, Family and Child Care Services, Hong Kong Council of Social Service\"": {
+      "序号": 16,
+      "原句": "\"Division Officer, Family and Child Care Services, Hong Kong Council of Social Service\"",
+      "术语": "social service",
+      "参考翻译": "['社会服务']",
+      "原句翻译": "&quot;香港社会服务联会家庭及幼儿服务部主任&quot;",
+      "原句术语翻译": [
+         "社会;"
+      ],
+      "insert变异": "\"Division Officer, Family and Child Care Services, Hong Kong Council of Social Service (a government-run program meant to benefit society as a whole, with a particular view to the less economically fortunate)\"",
+      "insert变异翻译": "”",
+      "insert术语翻译": "['”']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Trade Related Investment Measures and the Adjustment of Host Country's Foreign Investment Policy": {
+      "序号": 17,
+      "原句": "Trade Related Investment Measures and the Adjustment of Host Country's Foreign Investment Policy",
+      "术语": "host country",
+      "参考翻译": "['东道国']",
+      "原句翻译": "贸易相关投资措施与东道国外资政策调整",
+      "原句术语翻译": [
+         "东道国"
+      ],
+      "insert变异": "Trade Related Investment Measures and the Adjustment of Host Country (a country in which an international event is held)'s Foreign Investment Policy",
+      "insert变异翻译": "贸易相关投资措施与国际盛事举办国外资政策调整",
+      "insert术语翻译": "['']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "The LWB Mg/Al weld was characterized by complex vortex flow at the bottom, and there existed intermetallic compound layer between weld pool and lower sheet metal, which was composed of the brittle phases of Al_3Mg_2 and Al_(12)Mg_(17), resulting in the formation of weld cracking.": {
+      "序号": 18,
+      "原句": "The LWB Mg/Al weld was characterized by complex vortex flow at the bottom, and there existed intermetallic compound layer between weld pool and lower sheet metal, which was composed of the brittle phases of Al_3Mg_2 and Al_(12)Mg_(17), resulting in the formation of weld cracking.",
+      "术语": "sheet metal",
+      "参考翻译": "['板金']",
+      "原句翻译": "激光焊接Mg/Al焊缝底部存在复杂涡流,且焊池与下层板料之间存在由Al_3Mg_2及Al_（12）Mg_（17）脆性相组成的金属间化合物层,导致焊接裂纹的形成。",
+      "原句术语翻译": [
+         "板料"
+      ],
+      "insert变异": "The LWB Mg/Al weld was characterized by complex vortex flow at the bottom, and there existed intermetallic compound layer between weld pool and lower sheet metal (metal worked into a thin, flat sheet, used widely as construction material and raw material for a multitude of industrial products, it is thicker than foil and thinner than plate), which was composed of the brittle phases of Al_3Mg_2 and Al_(12)Mg_(17), resulting in the formation of weld cracking.",
+      "insert变异翻译": "激光焊接Mg/Al焊缝底部具有复杂的涡流特征,且焊接熔池与下层金属(金属加工成薄平板状,广泛用于建筑材料和多种工业产品的原材料,其厚度大于箔材而小于板材)之间存在由Al_3Mg_2及Al_(12)Mg_(17)脆性相组成的金属间化合物层,导致焊接裂纹的形成。",
+      "insert术语翻译": "['下层金属']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "(1) This section applies to an agreement between 2 or more persons which includes provision for the acquisition by any one or more of them of interests in shares of a particular listed company (\"the target company\"), being shares comprised in the relevant share capital of that company if-": {
+      "序号": 19,
+      "原句": "(1) This section applies to an agreement between 2 or more persons which includes provision for the acquisition by any one or more of them of interests in shares of a particular listed company (\"the target company\"), being shares comprised in the relevant share capital of that company if-",
+      "术语": "share capital",
+      "参考翻译": "['股本']",
+      "原句翻译": "(b) 凡任何人士就某项协议而获授权代表该人士行事，而该项协议的涵义并不影响该人士就该项协议所订立的条文。",
+      "原句术语翻译": [
+         "条文"
+      ],
+      "insert变异": "(1) This section applies to an agreement between 2 or more persons which includes provision for the acquisition by any one or more of them of interests in shares of a particular listed company (\"the target company\"), being shares comprised in the relevant share capital (the part of a company's capital that is financed by shareholders through the issue of shares) of that company if-",
+      "insert变异翻译": "(1) 本条适用于2名或多于2名人士之间达成的协议，该协议包括订立协议，规定其中任何一人或多于一人收购某上市公司(“目标公司”)的股份权益，而该等股份是该公司有关股本(公司股本中由股东透过发行股份而资助的部分)所组成的股份，但如该等股份属例外，则属例外。",
+      "insert术语翻译": "['股本']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "The economy of the People's Republic of China, in its turn, is projected to grow 9.3 percent this year and 8.8 percent in 2007 according to figures published Monday by the“China Securites Journal ”quoting the state information service.": {
+      "序号": 20,
+      "原句": "The economy of the People's Republic of China, in its turn, is projected to grow 9.3 percent this year and 8.8 percent in 2007 according to figures published Monday by the“China Securites Journal ”quoting the state information service.",
+      "术语": "People's Republic of China",
+      "参考翻译": "['中华人民共和国']",
+      "原句翻译": "据《中国证券报》周一援引国家信息服务机构的数据，预计今年中国经济将增长 9.3%，2007 年将增长 8.8%。",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "The economy of the People's Republic of China (the official name of China, sometimes contrasted to the Republic of China (Taiwan)), in its turn, is projected to grow 9.3 percent this year and 8.8 percent in 2007 according to figures published Monday by the“China Securites Journal ”quoting the state information service.",
+      "insert变异翻译": "据《中国证券报》周一援引国家信息服务机构的数据，中华人民共和国（中国的正式名称，有时与中华民国（台湾）相对）的经济预计今年将增长 9.3％，2007 年将增长 8.8％。",
+      "insert术语翻译": "['中华人民共和国']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Sugar apple is a medium - sized tropical fruit.": {
+      "序号": 21,
+      "原句": "Sugar apple is a medium - sized tropical fruit.",
+      "术语": "sugar apple",
+      "参考翻译": "['番荔枝', '释迦', '释迦果']",
+      "原句翻译": "释迦牟尼是一种中型的热带水果。",
+      "原句术语翻译": [
+         "释迦牟尼"
+      ],
+      "insert变异": "Sugar apple (Sweetsop, Annona squamosa, a West Indian tree or its fruit) is a medium - sized tropical fruit.",
+      "insert变异翻译": "番荔枝（Sweetsop、Annona squamosa，一种西印度树或其果实）是一种中等大小的热带水果。",
+      "insert术语翻译": "['番荔枝']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "A time period shall not include traveling time, a litigation document that is mailed before the expiration of a time limit shall not be regarded as overdue.": {
+      "序号": 22,
+      "原句": "A time period shall not include traveling time, a litigation document that is mailed before the expiration of a time limit shall not be regarded as overdue.",
+      "术语": "time limit",
+      "参考翻译": "['时限', '限期']",
+      "原句翻译": "期间不包括路途时间，提前寄送的诉讼文书不视为逾期。",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "A time period shall not include traveling time, a litigation document that is mailed before the expiration of a time limit (a time by which something must be finished) shall not be regarded as overdue.",
+      "insert变异翻译": "期间不包括旅行时间，在期限届满前寄出的诉讼文书，不视为逾期。",
+      "insert术语翻译": "['期限']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Follow - up was carried out, computed tomography(CT) images and color ultrasonic images proved a fully patent graft 8 - 6months after operation and no recurrence.": {
+      "序号": 23,
+      "原句": "Follow - up was carried out, computed tomography(CT) images and color ultrasonic images proved a fully patent graft 8 - 6months after operation and no recurrence.",
+      "术语": "computed tomography",
+      "参考翻译": "['计算机体层成像', '电脑断层扫描']",
+      "原句翻译": "术后8 - 6个月随访，CT图像及彩色超声图像显示移植瘤完全通畅，无复发。",
+      "原句术语翻译": [
+         "CT"
+      ],
+      "insert变异": "Follow - up was carried out, computed tomography (a form of radiography which uses computer software to create images, or slices, at various planes of depth from images taken around a body or volume of interest, sometimes called “computerized tomography”)(CT) images and color ultrasonic images proved a fully patent graft 8 - 6months after operation and no recurrence.",
+      "insert变异翻译": "进行了随访，计算机断层扫描（一种使用计算机软件从围绕身体或感兴趣体积拍摄的图像中在各个深度平面上创建图像或切片的射线照相技术，有时称为“计算机断层扫描”）（CT）图像和彩色超声波图像证明手术后 8 - 6 个月移植物完全通畅并且没有复发。",
+      "insert术语翻译": "['计算机断层扫描']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "SAFE Branches in all provinces, autonomous regions, and municipalities directly under the Central Government, exchange administration offices, and SAFE branches in the cities of Shenzhen, Dalian, Qingdao, Xiamen, and Ningbo:": {
+      "序号": 24,
+      "原句": "SAFE Branches in all provinces, autonomous regions, and municipalities directly under the Central Government, exchange administration offices, and SAFE branches in the cities of Shenzhen, Dalian, Qingdao, Xiamen, and Ningbo:",
+      "术语": "central government",
+      "参考翻译": "['中央政府']",
+      "原句翻译": "各省、自治区、直辖市分局，外汇管理局，深圳、大连、青岛、厦门、宁波市分局：",
+      "原句术语翻译": [
+         "，"
+      ],
+      "insert变异": "SAFE Branches in all provinces, autonomous regions, and municipalities directly under the Central Government (the highest level of government in a unitary state), exchange administration offices, and SAFE branches in the cities of Shenzhen, Dalian, Qingdao, Xiamen, and Ningbo:",
+      "insert变异翻译": "国家外汇管理局各省、自治区、直辖市分局，外汇管理部，深圳、大连、青岛、厦门、宁波市分局：",
+      "insert术语翻译": "['国家外汇管理局']",
+      "manual_1_result": 0,
+      "manual_2_result": 1,
+      "final_result": "futher check needed"
+   },
+   "A: I won't have that coffee right now, but can I take a rain check on it?": {
+      "序号": 25,
+      "原句": "A: I won't have that coffee right now, but can I take a rain check on it?",
+      "术语": "rain check",
+      "参考翻译": "['改天']",
+      "原句翻译": "A：我现在不喝咖啡，但是我可以先喝一下吗？",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "A: I won't have that coffee right now, but can I take a rain check (an agreement to honor a current offer after its normal expiration) on it?",
+      "insert变异翻译": "A：我现在不会喝那杯咖啡，但是我可以接受临时支票（正常到期后兑现当前报价的协议）吗？",
+      "insert术语翻译": "['临时支票']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Computer Real-Time Monitor and Control for the Working Process of a New Type of Slotting Machine": {
+      "序号": 26,
+      "原句": "Computer Real-Time Monitor and Control for the Working Process of a New Type of Slotting Machine",
+      "术语": "slotting machine",
+      "参考翻译": "['插床']",
+      "原句翻译": "新型插床工作过程的计算机实时监控",
+      "原句术语翻译": [
+         "插床"
+      ],
+      "insert变异": "Computer Real-Time Monitor and Control for the Working Process of a New Type of Slotting Machine (a reciprocating machine tool used to cut mortises and to shape openings)",
+      "insert变异翻译": "新型开槽机（用于开榫眼和成型开口的往复机床）工作过程的计算机实时监控",
+      "insert术语翻译": "['开槽机']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Application in the World Expo Model Based on the Virtual Reality Technology of VRML": {
+      "序号": 27,
+      "原句": "Application in the World Expo Model Based on the Virtual Reality Technology of VRML",
+      "术语": "virtual reality",
+      "参考翻译": "['虚拟现实']",
+      "原句翻译": "基于VRML虚拟现实技术的世博模型应用",
+      "原句术语翻译": [
+         "虚拟现实"
+      ],
+      "insert变异": "Application in the World Expo Model Based on the Virtual Reality (a computer technology that simulates a real or imagined environment so that the user can interact with it as if physically present) Technology of VRML",
+      "insert变异翻译": "VRML技术在世博会模型中的应用",
+      "insert术语翻译": "['']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Objective To gain stable genetic modification of neural stem cells (NSC) that constitutively secrete brain-derived neurotropic factor (BDNF) and to explore the biological role on the survival and neurite outgrowth of cultured dorsal root ganglion (DRG) neurons.": {
+      "序号": 28,
+      "原句": "Objective To gain stable genetic modification of neural stem cells (NSC) that constitutively secrete brain-derived neurotropic factor (BDNF) and to explore the biological role on the survival and neurite outgrowth of cultured dorsal root ganglion (DRG) neurons.",
+      "术语": "genetic modification",
+      "参考翻译": "['转基因', '遗传改良', '基因转变', '遗传修饰', '基因改造']",
+      "原句翻译": "目的获得稳定分泌脑源性神经营养因子（BDNF）的神经干细胞（NSC）的遗传改造，并探讨其对培养背根神经节（DRG）神经元存活和神经突生长的生物学作用。",
+      "原句术语翻译": [
+         "遗传改造"
+      ],
+      "insert变异": "Objective To gain stable genetic modification (see: genetic, modification) of neural stem cells (NSC) that constitutively secrete brain-derived neurotropic factor (BDNF) and to explore the biological role on the survival and neurite outgrowth of cultured dorsal root ganglion (DRG) neurons.",
+      "insert变异翻译": "目的获得稳定分泌脑源性神经营养因子（BDNF）的神经干细胞（NSC），并探讨其对培养背根神经节（DRG）神经元存活和神经突生长的生物学作用。",
+      "insert术语翻译": "['分泌']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Technical specification for investigation of geotechnical engineering of fossil fuel power plant": {
+      "序号": 29,
+      "原句": "Technical specification for investigation of geotechnical engineering of fossil fuel power plant",
+      "术语": "fossil fuel",
+      "参考翻译": "['化石燃料']",
+      "原句翻译": "火力发电厂岩土工程勘察技术规范",
+      "原句术语翻译": [
+         "火力发电厂岩土"
+      ],
+      "insert变异": "Technical specification for investigation of geotechnical engineering of fossil fuel (any fuel derived from hydrocarbon deposits such as coal, petroleum, natural gas and, to some extent, peat; these fuels are non-renewable, and their burning moves carbon from underground into the atmosphere via the greenhouse gas carbon dioxide) power plant",
+      "insert变异翻译": "化石燃料岩土工程调查技术规范（任何源自碳氢化合物沉积物的燃料，例如煤、石油、天然气，以及某种程度上的泥炭；这些燃料是不可再生的，它们的燃烧将碳从地下转移到大气中通过温室气体二氧化碳）发电厂",
+      "insert术语翻译": "['化石燃料']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "People have a sweet tooth at movies.": {
+      "序号": 30,
+      "原句": "People have a sweet tooth at movies.",
+      "术语": "sweet tooth",
+      "参考翻译": "['爱吃甜食']",
+      "原句翻译": "人们喜欢看电影。",
+      "原句术语翻译": [
+         "喜欢"
+      ],
+      "insert变异": "People have a sweet tooth (someone with a liking for sweet foods) at movies.",
+      "insert变异翻译": "人们在看电影时爱吃甜食（喜欢吃甜食的人）。",
+      "insert术语翻译": "['甜食']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "To “stumble” means to fall; “stumbling block,” then, would be something in your path – in your way that would make you fall.": {
+      "序号": 31,
+      "原句": "To “stumble” means to fall; “stumbling block,” then, would be something in your path – in your way that would make you fall.",
+      "术语": "stumbling block",
+      "参考翻译": "['障碍物', '绊脚石']",
+      "原句翻译": "“stumble” 的意思是跌倒；那么“stamling block” 就是你路上的某种东西，会使你跌倒。",
+      "原句术语翻译": [
+         "“stamlingblock”"
+      ],
+      "insert变异": "To “stumble” means to fall; “stumbling block (a hindrance, obstacle or impediment; an opportunity for error),” then, would be something in your path – in your way that would make you fall.",
+      "insert变异翻译": "“stumble” 的意思是跌倒；“绊脚石（阻碍、障碍或阻碍；犯错的机会）”是指你路上的某样东西，会使你跌倒。",
+      "insert术语翻译": "['“绊脚石”']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Article 9 The relevant competent administrative departments in the provinces, autonomous regions and municipalities directly under the Central Government are responsible for the standardization work in their own departments and trades in the respective administrative regions, and shall perform the following duties:": {
+      "序号": 32,
+      "原句": "Article 9 The relevant competent administrative departments in the provinces, autonomous regions and municipalities directly under the Central Government are responsible for the standardization work in their own departments and trades in the respective administrative regions, and shall perform the following duties:",
+      "术语": "central government",
+      "参考翻译": "['中央政府']",
+      "原句翻译": "第九条 省、自治区、直辖市人民政府有关行政主管部门负责本行政区域内本部门、本行业的标准化工作，履行下列职责：",
+      "原句术语翻译": [
+         "人民政府"
+      ],
+      "insert变异": "Article 9 The relevant competent administrative departments in the provinces, autonomous regions and municipalities directly under the Central Government (the highest level of government in a unitary state) are responsible for the standardization work in their own departments and trades in the respective administrative regions, and shall perform the following duties:",
+      "insert变异翻译": "第九条 省、自治区、直辖市（单一制国家的最高政府）有关行政主管部门负责本行政区域内本部门、本行业的标准化工作，履行下列职责：",
+      "insert术语翻译": "['']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "(1) Where, on the application of the Manager of an authorized institution at any time during the period for which a direction given under section 52 (1) (C) is in force in respect of the institution, it appears to the Court of First Instance that-": {
+      "序号": 33,
+      "原句": "(1) Where, on the application of the Manager of an authorized institution at any time during the period for which a direction given under section 52 (1) (C) is in force in respect of the institution, it appears to the Court of First Instance that-",
+      "术语": "court of first instance",
+      "参考翻译": "['原讼法庭']",
+      "原句翻译": "(c) 凡任何认可机构的经理根据第52(1)(C)条发出的指示在该机构的有效期内的任何时间提出申请，原讼法庭认为该机构的经理可就该机构的职能或程序，向该机构发出指示。",
+      "原句术语翻译": [
+         "原讼法庭"
+      ],
+      "insert变异": "(1) Where, on the application of the Manager of an authorized institution at any time during the period for which a direction given under section 52 (1) (C) is in force in respect of the institution, it appears to the Court of First Instance (a court of law where legal proceedings are first heard) that-",
+      "insert变异翻译": "(c) 在该等指示的有效期内，该等指示须由该认可机构的经理根据该等指示行事，而该等指示须由该机构的经理根据该等指示行事。",
+      "insert术语翻译": "['的']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Circular of the State Administration of Taxation of the People's Republic of China, on Issues Concerning Strengthening the Administration of Special Payment Books of Customs Import VAT and that of the Invoice of Waste and Outdated Materials": {
+      "序号": 34,
+      "原句": "Circular of the State Administration of Taxation of the People's Republic of China, on Issues Concerning Strengthening the Administration of Special Payment Books of Customs Import VAT and that of the Invoice of Waste and Outdated Materials",
+      "术语": "People's Republic of China",
+      "参考翻译": "['中华人民共和国']",
+      "原句翻译": "国家税务总局关于加强海关进口增值税专用缴款书和废旧物资发票管理有关问题的通知",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "Circular of the State Administration of Taxation of the People's Republic of China (the official name of China, sometimes contrasted to the Republic of China (Taiwan)), on Issues Concerning Strengthening the Administration of Special Payment Books of Customs Import VAT and that of the Invoice of Waste and Outdated Materials",
+      "insert变异翻译": "中华人民共和国国家税务总局关于加强海关进口增值税专用缴款簿管理有关问题的通知废物和过时材料的发票",
+      "insert术语翻译": "['中华人民共和国']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "“This year we want to highlight the Portuguese-speaking countries and maximize business with the Portuguese and African markets, ”Hor ácio Melo, who was responsible for the event promoted by the Brazilian Service to Support Micro and Small Companies(Sebrae) of the State of Ceará, told Portuguese news agency Lusa.": {
+      "序号": 35,
+      "原句": "“This year we want to highlight the Portuguese-speaking countries and maximize business with the Portuguese and African markets, ”Hor ácio Melo, who was responsible for the event promoted by the Brazilian Service to Support Micro and Small Companies(Sebrae) of the State of Ceará, told Portuguese news agency Lusa.",
+      "术语": "news agency",
+      "参考翻译": "['新闻社', '通讯社']",
+      "原句翻译": "巴西塞阿拉州中小微型企业支持服务局（Sebrae）主办的此次展会的负责人 Hor ácio Melo 向葡萄牙卢萨社表示：“今年，我们希望重点展示葡语国家，并最大程度地拓展葡萄牙和非洲市场的业务。”",
+      "原句术语翻译": [
+         "卢萨社"
+      ],
+      "insert变异": "“This year we want to highlight the Portuguese-speaking countries and maximize business with the Portuguese and African markets, ”Hor ácio Melo, who was responsible for the event promoted by the Brazilian Service to Support Micro and Small Companies(Sebrae) of the State of Ceará, told Portuguese news agency (an organisation that gathers and distributes news to newspapers and radio and television broadcasters) Lusa.",
+      "insert变异翻译": "巴西塞阿拉州中小微企业支持服务局（Sebrae）主办的此次展会的负责人 Hor ácio Melo 向葡萄牙新闻社（一家收集并向报纸、广播电台和电视台分发新闻的机构）卢萨社表示：“今年，我们希望重点展示葡语国家，并最大程度地拓展葡萄牙和非洲市场的业务。”",
+      "insert术语翻译": "['新闻社']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Oxygen in the gas phase was beneficial to the absorption of NO into the hexamminecobalt solution. The experiments performe manifestly that the hexamminecobalt solution coupled with catalytic regeneration of hexamminecobalt (Ⅱ) was able to maintain a high nitric oxide removal efficiency for a long time.": {
+      "序号": 36,
+      "原句": "Oxygen in the gas phase was beneficial to the absorption of NO into the hexamminecobalt solution. The experiments performe manifestly that the hexamminecobalt solution coupled with catalytic regeneration of hexamminecobalt (Ⅱ) was able to maintain a high nitric oxide removal efficiency for a long time.",
+      "术语": "nitric oxide",
+      "参考翻译": "['一氧化氮']",
+      "原句翻译": "气相中的氧气有利于六氨合钴溶液对NO的吸收，实验表明六氨合钴溶液结合六氨合钴（Ⅱ）催化再生能长时间维持较高的NO去除率。",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "Oxygen in the gas phase was beneficial to the absorption of NO into the hexamminecobalt solution. The experiments performe manifestly that the hexamminecobalt solution coupled with catalytic regeneration of hexamminecobalt (Ⅱ) was able to maintain a high nitric oxide (the binary compound of nitrogen and oxygen NO; an unstable compound which rapidly oxidizes in the presence of air) removal efficiency for a long time.",
+      "insert变异翻译": "气相中的氧气有利于六氨合钴溶液对NO的吸收，实验表明六氨合钴溶液结合六氨合钴（Ⅱ）催化再生能够长时间维持较高的一氧化氮（NO是氮和氧的二元化合物，是一种不稳定的化合物，在空气存在下会迅速氧化）去除率。",
+      "insert术语翻译": "['一氧化氮']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "3. The foreign exchange sale, purchase and payment of the QFII; and": {
+      "序号": 37,
+      "原句": "3. The foreign exchange sale, purchase and payment of the QFII; and",
+      "术语": "foreign exchange",
+      "参考翻译": "['外汇']",
+      "原句翻译": "（三）合格投资者的结售汇、购汇、付汇业务；和",
+      "原句术语翻译": [
+         "合格"
+      ],
+      "insert变异": "3. The foreign exchange (foreign currency) sale, purchase and payment of the QFII; and",
+      "insert变异翻译": "3.QFII外汇（外币）售汇、购汇及支付情况；",
+      "insert术语翻译": "['外汇']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Convention on the Conservation and Management of Pollack Resources in Central Bering Sea Area, Washington, 1994": {
+      "序号": 38,
+      "原句": "Convention on the Conservation and Management of Pollack Resources in Central Bering Sea Area, Washington, 1994",
+      "术语": "Bering Sea",
+      "参考翻译": "['白令海']",
+      "原句翻译": "白令中部海域明太鱼资源保护和管理公约，华盛顿，1994 年",
+      "原句术语翻译": [
+         "海域"
+      ],
+      "insert变异": "Convention on the Conservation and Management of Pollack Resources in Central Bering Sea (the sea between Siberia and Alaska, north of the Pacific Ocean, that is connected to the Arctic Ocean by the Bering Strait) Area, Washington, 1994",
+      "insert变异翻译": "中部白令海（西伯利亚和阿拉斯加之间的海域，太平洋以北，通过白令海峡与北冰洋相连）地区明太鱼资源保护和管理公约，华盛顿，1994 年",
+      "insert术语翻译": "['白令海']",
+      "manual_1_result": 0,
+      "manual_2_result": 1,
+      "final_result": "futher check needed"
+   },
+   "But the Pentagon recently gave the program the green light to build the first 20 avionics kits under Low -Rate Initial Production.": {
+      "序号": 39,
+      "原句": "But the Pentagon recently gave the program the green light to build the first 20 avionics kits under Low -Rate Initial Production.",
+      "术语": "green light",
+      "参考翻译": "['开绿灯', '绿灯']",
+      "原句翻译": "但五角大楼最近批准该计划以低速率初始生产的方式制造前 20 套航空电子设备。",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "But the Pentagon recently gave the program the green light (approval, or permission to proceed) to build the first 20 avionics kits under Low -Rate Initial Production.",
+      "insert变异翻译": "但五角大楼最近为该计划开了绿灯（批准或准许继续进行），以低速率初始生产的方式制造前 20 套航空电子设备。",
+      "insert术语翻译": "['绿灯']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "The company, which operates over 500 routes, also plans a stock exchange listing by the end of the year, after merging with subsidiary airlines, under the name Grand China.": {
+      "序号": 40,
+      "原句": "The company, which operates over 500 routes, also plans a stock exchange listing by the end of the year, after merging with subsidiary airlines, under the name Grand China.",
+      "术语": "stock exchange",
+      "参考翻译": "['证券交易所', '交易所', '股票交易所']",
+      "原句翻译": "该公司运营着 500 多条航线，还计划在与子公司合并后，以“大新华航空”的名义在今年年底上市。",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "The company, which operates over 500 routes, also plans a stock exchange (an organisation that trades stocks in of companies for money and vice versa) listing by the end of the year, after merging with subsidiary airlines, under the name Grand China.",
+      "insert变异翻译": "该公司经营着 500 多条航线，还计划在与子公司合并后，以大新华航空的名义在年底前在证券交易所（一种将公司股票与金钱进行交易的组织）上市。",
+      "insert术语翻译": "['证券']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Specification for design of insulation and painting of fossil fuel power plant": {
+      "序号": 41,
+      "原句": "Specification for design of insulation and painting of fossil fuel power plant",
+      "术语": "fossil fuel",
+      "参考翻译": "['化石燃料']",
+      "原句翻译": "火力发电厂保温与涂装设计规范",
+      "原句术语翻译": [
+         "火力发电厂"
+      ],
+      "insert变异": "Specification for design of insulation and painting of fossil fuel (any fuel derived from hydrocarbon deposits such as coal, petroleum, natural gas and, to some extent, peat; these fuels are non-renewable, and their burning moves carbon from underground into the atmosphere via the greenhouse gas carbon dioxide) power plant",
+      "insert变异翻译": "化石燃料绝缘和涂装设计规范（任何源自碳氢化合物沉积物的燃料，例如煤、石油、天然气以及某种程度上的泥炭；这些燃料是不可再生的，它们的燃烧将碳从地下转移到大气中通过温室气体二氧化碳）发电厂",
+      "insert术语翻译": "['化石燃料']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "That deeply angered not only Ecuador but other countries in South America who will meet next Friday.": {
+      "序号": 42,
+      "原句": "That deeply angered not only Ecuador but other countries in South America who will meet next Friday.",
+      "术语": "South America",
+      "参考翻译": "['南美洲', '南美']",
+      "原句翻译": "这不仅激怒了厄瓜多尔，也激怒了下周五即将举行会议的其他国家。",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "That deeply angered not only Ecuador but other countries in South America (the continent that is the southern part of the Americas, it is east of the Pacific Ocean, west of the Atlantic Ocean, south of North America and north of Antarctica) who will meet next Friday.",
+      "insert变异翻译": "此举不仅激怒了厄瓜多尔，也激怒了将于下周五举行会议的南美洲（南美洲大陆，位于太平洋以东、大西洋以西、北美洲以南、南极洲以北）其他国家。",
+      "insert术语翻译": "['南美洲']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "\"Now we'll have an order of magnitude more people that interview for those same positions.\"": {
+      "序号": 43,
+      "原句": "\"Now we'll have an order of magnitude more people that interview for those same positions.\"",
+      "术语": "order of magnitude",
+      "参考翻译": "['数量级']",
+      "原句翻译": "“现在，参加相同职位面试的人数将大大增加。”",
+      "原句术语翻译": [
+         "人数大大增加"
+      ],
+      "insert变异": "\"Now we'll have an order of magnitude (the class of scale or magnitude of any amount, where each class contains values of a fixed ratio (most often 10) to the class preceding it) more people that interview for those same positions.\"",
+      "insert变异翻译": "“现在，我们将有更多人参加同一职位的面试（数量级或任意数量的量级，其中每个类别与其前一个类别的值具有固定比率（通常为 10）。”",
+      "insert术语翻译": "['的比率']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Circular of the General Administration of Quality Supervision, Inspection and Quarantine of the People's Republic of China, on Several Opinions on Further Strengthening Administration of Inspection of Import Waste Raw Materials": {
+      "序号": 44,
+      "原句": "Circular of the General Administration of Quality Supervision, Inspection and Quarantine of the People's Republic of China, on Several Opinions on Further Strengthening Administration of Inspection of Import Waste Raw Materials",
+      "术语": "People's Republic of China",
+      "参考翻译": "['中华人民共和国']",
+      "原句翻译": "国家质量监督检验检疫总局关于进一步加强进口废物原料检验管理的若干意见的通知",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "Circular of the General Administration of Quality Supervision, Inspection and Quarantine of the People's Republic of China (the official name of China, sometimes contrasted to the Republic of China (Taiwan)), on Several Opinions on Further Strengthening Administration of Inspection of Import Waste Raw Materials",
+      "insert变异翻译": "中华民国国家质量监督检验检疫总局关于进一步加强进口废物原料检验管理的若干意见的通知材料",
+      "insert术语翻译": "['中华民国的']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "(5) The Road Company and the Mass Transit Railway Corporation shall afford reasonable access to any utility in the immersed tube by the owner or person having the control of that utility.": {
+      "序号": 45,
+      "原句": "(5) The Road Company and the Mass Transit Railway Corporation shall afford reasonable access to any utility in the immersed tube by the owner or person having the control of that utility.",
+      "术语": "mass transit",
+      "参考翻译": "['大众运输', '公共运输']",
+      "原句翻译": "(5) 道路公司及地下铁路公司须为拥有者或控制沉管内任何公用设施的人提供合理通道。",
+      "原句术语翻译": [
+         "地下铁路"
+      ],
+      "insert变异": "(5) The Road Company and the Mass Transit (a large-scale transportation system in which the passengers do not travel in their own vehicles) Railway Corporation shall afford reasonable access to any utility in the immersed tube by the owner or person having the control of that utility.",
+      "insert变异翻译": "（5）道路公司和公共交通（乘客不乘坐自己车辆的大型运输系统）铁路公司应当为沉管内任何设施的所有者或控制者提供合理的使用权。",
+      "insert术语翻译": "['公共交通']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "For ALT,levels only incrased in patients with hepatitis and typhoid fever with none in bacillary dysentery and mumps. In pediatric patients with RRI,RBCC_3bRR(%),CG,C_3,IgG levels were significantly higher than those in controls(P<0.05) with no significant differences in the case of RBCICR(%),HA,IgM and IgA levels(P>0.05).": {
+      "序号": 46,
+      "原句": "For ALT,levels only incrased in patients with hepatitis and typhoid fever with none in bacillary dysentery and mumps. In pediatric patients with RRI,RBCC_3bRR(%),CG,C_3,IgG levels were significantly higher than those in controls(P<0.05) with no significant differences in the case of RBCICR(%),HA,IgM and IgA levels(P>0.05).",
+      "术语": "typhoid fever",
+      "参考翻译": "['伤寒', '伤寒症']",
+      "原句翻译": "结论:A、B两组RRI患儿血清ALT、HCV、IL-1β、IL-6、IL-8、IL-1β ...",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "For ALT,levels only incrased in patients with hepatitis and typhoid fever (an illness caused by the bacterium serovar Salmonella Typhi. Not to be confused with typhus) with none in bacillary dysentery and mumps. In pediatric patients with RRI,RBCC_3bRR(%),CG,C_3,IgG levels were significantly higher than those in controls(P<0.05) with no significant differences in the case of RBCICR(%),HA,IgM and IgA levels(P>0.05).",
+      "insert变异翻译": "对于 ALT，只有肝炎和伤寒（一种由伤寒沙门氏菌引起的疾病，不要与斑疹伤寒混淆）患者 ALT 水平升高，而细菌性痢疾和腮腺炎患者 ALT 水平不升高。在 RRI 患儿中，RBCC_3bRR(%)、CG、C_3、IgG 水平显著高于对照组（P&lt;0.05），而 RBCICR(%)、HA、IgM 和 IgA 水平无显著差异（P&gt;0.05）。",
+      "insert术语翻译": "['伤寒']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Circular of the National Development and Reform Commission, the Ministry of Commerce of the People's Republic of China, on Making Efforts to Accomplish the Work of Administrating the Procurement Price and Market of Cocoon in 2004": {
+      "序号": 47,
+      "原句": "Circular of the National Development and Reform Commission, the Ministry of Commerce of the People's Republic of China, on Making Efforts to Accomplish the Work of Administrating the Procurement Price and Market of Cocoon in 2004",
+      "术语": "People's Republic of China",
+      "参考翻译": "['中华人民共和国']",
+      "原句翻译": "国家发展改革委、商务部关于做好2004年茧丝收购价格和市场管理工作的通知",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "Circular of the National Development and Reform Commission, the Ministry of Commerce of the People's Republic of China (the official name of China, sometimes contrasted to the Republic of China (Taiwan)), on Making Efforts to Accomplish the Work of Administrating the Procurement Price and Market of Cocoon in 2004",
+      "insert变异翻译": "国家发展和改革委员会、中华民国商务部关于做好采购价格管理工作的通知2004年蚕茧市场",
+      "insert术语翻译": "['中华民国']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "According to the directorate there were a number of factors that had buoyed Macau's economic growth, particularly investment which had increased by 56.9 percent against 2004 and total gaming revenues, which rose by 8.3 percent year on year.": {
+      "序号": 48,
+      "原句": "According to the directorate there were a number of factors that had buoyed Macau's economic growth, particularly investment which had increased by 56.9 percent against 2004 and total gaming revenues, which rose by 8.3 percent year on year.",
+      "术语": "economic growth",
+      "参考翻译": "['经济增长']",
+      "原句翻译": "澳门特区政府旅游局局长李满长表示，2004年澳门的经济增长得益于多项因素，尤其是投资，投资额比2004年增长了56.9%，博彩总收入也比2004年增长了8.3%。",
+      "原句术语翻译": [
+         "经济增长，"
+      ],
+      "insert变异": "According to the directorate there were a number of factors that had buoyed Macau's economic growth (the growth of the economic output of a country), particularly investment which had increased by 56.9 percent against 2004 and total gaming revenues, which rose by 8.3 percent year on year.",
+      "insert变异翻译": "澳门特区政府旅游局局长兼旅游局局长罗尔德•阿卜杜拉•阿齐兹表示，2004年澳门的旅游业增长了2.4%，而2005年的旅游业收入增长了1.4%。",
+      "insert术语翻译": "['']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "\"conventional liquid fuel\" (常规液体燃料) and \"conventional solid fuel\" (常规固体燃料) have the same meanings as in regulation 3 (2) of the Air Pollution Control (Furnaces, Ovens and Chimneys) (Installation and Alteration) Regulations (Cap 311 sub. leg.);": {
+      "序号": 49,
+      "原句": "\"conventional liquid fuel\" (常规液体燃料) and \"conventional solid fuel\" (常规固体燃料) have the same meanings as in regulation 3 (2) of the Air Pollution Control (Furnaces, Ovens and Chimneys) (Installation and Alteration) Regulations (Cap 311 sub. leg.);",
+      "术语": "air pollution",
+      "参考翻译": "['空气污染']",
+      "原句翻译": "\"conventional liquid fuel\" (常规液体燃料) and \"conventional solid fuel\" (常规固体燃料) have the same meanings as in regulation 3 (2) of the Air Pollution Control (Furnaces, Ovens and Chimneys) (Installation and Alteration) Regulations (Cap 311 sub. leg.);",
+      "原句术语翻译": [
+         "oftheAirPollutionControl"
+      ],
+      "insert变异": "\"conventional liquid fuel\" (常规液体燃料) and \"conventional solid fuel\" (常规固体燃料) have the same meanings as in regulation 3 (2) of the Air Pollution (the contamination of the atmosphere by noxious gases and particulates) Control (Furnaces, Ovens and Chimneys) (Installation and Alteration) Regulations (Cap 311 sub. leg.);",
+      "insert变异翻译": "“常规液体燃料”(conventional liquid fuel) 及“常规固体燃料”(conventional solid fuel) 的涵义与《空气污染(有毒气体及粒子对大气的污染)管制(火炉、烤炉及烟囱)(安装及改动)规例》(第311章，附属法例)第3(2)条中该等词的涵义相同；",
+      "insert术语翻译": "['空气污染']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Requisition of land other than those prescribed in the preceding paragraph shall be subject to the approval of people's governments of the provinces, autonomous regions and municipalities directly under the Central Government, and submitted to the State Council for the record.": {
+      "序号": 50,
+      "原句": "Requisition of land other than those prescribed in the preceding paragraph shall be subject to the approval of people's governments of the provinces, autonomous regions and municipalities directly under the Central Government, and submitted to the State Council for the record.",
+      "术语": "central government",
+      "参考翻译": "['中央政府']",
+      "原句翻译": "征用前款规定以外的土地，应当经省、自治区、直辖市人民政府批准，并报国务院备案。",
+      "原句术语翻译": [
+         "，"
+      ],
+      "insert变异": "Requisition of land other than those prescribed in the preceding paragraph shall be subject to the approval of people's governments of the provinces, autonomous regions and municipalities directly under the Central Government (the highest level of government in a unitary state), and submitted to the State Council for the record.",
+      "insert变异翻译": "征用前款规定以外的其他土地，须经省、自治区、直辖市人民政府(单一制国家为最高人民政府)批准，报国务院备案。",
+      "insert术语翻译": "['人民政府']",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "The gene expression of chimeric virus could be detected in 293T cells transfected by SHIV proviral DNA.": {
+      "序号": 51,
+      "原句": "The gene expression of chimeric virus could be detected in 293T cells transfected by SHIV proviral DNA.",
+      "术语": "gene expression",
+      "参考翻译": "['基因表达']",
+      "原句翻译": "SHIV前病毒DNA转染的293T细胞中可以检测到嵌合病毒基因的表达。",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "The gene expression (the transcription and translation of a gene into messenger RNA and thus into a protein) of chimeric virus could be detected in 293T cells transfected by SHIV proviral DNA.",
+      "insert变异翻译": "在SHIV前病毒DNA转染的293T细胞中可以检测到嵌合病毒的基因表达(基因转录和翻译成信使RNA，进而翻译成蛋白质的过程)。",
+      "insert术语翻译": "['基因']",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "(2) All matters relating to the remuneration and the terms and conditions of appointment of the Chief Executive, and his suspension or dismissal from office, shall be determined by the Corporation, subject to the approval of the Governor.": {
+      "序号": 52,
+      "原句": "(2) All matters relating to the remuneration and the terms and conditions of appointment of the Chief Executive, and his suspension or dismissal from office, shall be determined by the Corporation, subject to the approval of the Governor.",
+      "术语": "chief executive",
+      "参考翻译": "['首席执行官', '执行总裁', '行政长官', '最高执行官']",
+      "原句翻译": "(1) 任何有关行政长官的薪酬及聘用条款及条件，以及行政长官的停职或免职，均由公司决定，但须经总督批准。",
+      "原句术语翻译": [
+         "行政长官，"
+      ],
+      "insert变异": "(2) All matters relating to the remuneration and the terms and conditions of appointment of the Chief Executive (chief executive officer), and his suspension or dismissal from office, shall be determined by the Corporation, subject to the approval of the Governor.",
+      "insert变异翻译": "(1) 任何因应本条例所订定的事宜，均须经总督批准。",
+      "insert术语翻译": "['']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Research on Perception Ability of Risk and Resignation of Independent Directors: Case Study of Chinese Listed Companies": {
+      "序号": 53,
+      "原句": "Research on Perception Ability of Risk and Resignation of Independent Directors: Case Study of Chinese Listed Companies",
+      "术语": "case study",
+      "参考翻译": "['案例研究', '个案调查', '个案研究']",
+      "原句翻译": "独立董事风险感知能力与辞职研究——基于中国上市公司的案例研究",
+      "原句术语翻译": [
+         "案例研究"
+      ],
+      "insert变异": "Research on Perception Ability of Risk and Resignation of Independent Directors: Case Study (a case used in a such research) of Chinese Listed Companies",
+      "insert变异翻译": "独立董事风险感知能力与辞职研究——以中国上市公司为例",
+      "insert术语翻译": "['']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "The same source indicated that between January and May exports to Cape Verde increased 27 percent to 72.3 million euros(US$92.9 million), while sales to Brazil rose 35 percent to 82.3 million euros(US$106 million).": {
+      "序号": 54,
+      "原句": "The same source indicated that between January and May exports to Cape Verde increased 27 percent to 72.3 million euros(US$92.9 million), while sales to Brazil rose 35 percent to 82.3 million euros(US$106 million).",
+      "术语": "Cape Verde",
+      "参考翻译": "['佛得角']",
+      "原句翻译": "葡萄牙里斯本8月11日电－据葡萄牙通讯社报道，葡萄牙对巴西的出口额达8230万欧元（1.06亿美元），同比分别增长14%和27%。",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "The same source indicated that between January and May exports to Cape Verde (archipelago in West Africa) increased 27 percent to 72.3 million euros(US$92.9 million), while sales to Brazil rose 35 percent to 82.3 million euros(US$106 million).",
+      "insert变异翻译": "同一消息来源显示，1月至5月，中国对佛得角（西非群岛）的出口增长27%，至7230万欧元（9290万美元），而对巴西的出口增长35%，至8230万欧元（1.06亿美元）。",
+      "insert术语翻译": "['佛得角']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "The safest course of action would be to re-build the system.": {
+      "序号": 55,
+      "原句": "The safest course of action would be to re-build the system.",
+      "术语": "course of action",
+      "参考翻译": "['计划', '办法', '行动']",
+      "原句翻译": "最安全的做法是重建系统。",
+      "原句术语翻译": [
+         "做法"
+      ],
+      "insert变异": "The safest course of action (a plan; a set of intended actions, through which one intends to achieve a goal) would be to re-build the system.",
+      "insert变异翻译": "最安全的行动方案（一项计划；一组预期的行动，通过这些行动，人们打算实现一个目标）是重建系统。",
+      "insert术语翻译": "['行动方案']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Article  2 Organs for examining and confirming the two-type enterprises (EC organs) shall be MOFERT and foreign economic relations and trade departments of provinces, autonomous regions, municipalities directly under the Central Government, municipalities separately listed on the State plan and special economic zones (hereinafter referred to as provincial-level EC organs).": {
+      "序号": 56,
+      "原句": "Article  2 Organs for examining and confirming the two-type enterprises (EC organs) shall be MOFERT and foreign economic relations and trade departments of provinces, autonomous regions, municipalities directly under the Central Government, municipalities separately listed on the State plan and special economic zones (hereinafter referred to as provincial-level EC organs).",
+      "术语": "central government",
+      "参考翻译": "['中央政府']",
+      "原句翻译": "第二条 两型企业的审核认定机关（简称认定机关）为商务部和各省、自治区、直辖市、计划单列市及经济特区对外经济贸易主管部门（以下简称省级认定机关）。",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "Article  2 Organs for examining and confirming the two-type enterprises (EC organs) shall be MOFERT and foreign economic relations and trade departments of provinces, autonomous regions, municipalities directly under the Central Government (the highest level of government in a unitary state), municipalities separately listed on the State plan and special economic zones (hereinafter referred to as provincial-level EC organs).",
+      "insert变异翻译": "第二条 两型企业的审核认定机关（以下简称认定机关）为商务部和各省、自治区、直辖市（单一制国家的最高政府部门）、计划单列市、经济特区对外经济贸易主管部门（以下简称省级认定机关）。",
+      "insert术语翻译": "['、']",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "Chen's daily chat show is on Phoenix satellite television station, the first foreign-funded station to be beamed into the mainland.": {
+      "序号": 57,
+      "原句": "Chen's daily chat show is on Phoenix satellite television station, the first foreign-funded station to be beamed into the mainland.",
+      "术语": "satellite television",
+      "参考翻译": "['卫视', '卫星电视']",
+      "原句翻译": "陈的每日脱口秀节目在凤凰卫视播出，该电视台是第一家在大陆播出的外资电视台。",
+      "原句术语翻译": [
+         "凤凰卫视"
+      ],
+      "insert变异": "Chen's daily chat show is on Phoenix satellite television (a type of cable television service that is broadcasted by a communications satellite and is received by an outdoor antenna or satellite dish) station, the first foreign-funded station to be beamed into the mainland.",
+      "insert变异翻译": "陈的每日脱口秀节目在凤凰卫视（一种通过通信卫星播放、通过室外天线或卫星天线接收的有线电视服务）电台播出，该电台是第一家在大陆播出的外资电视台。",
+      "insert术语翻译": "['电台']",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "The project is part of the next Inidcative Cooperation Program(PIC) between Portugal and Mozambique for the 2007-2009 period, the memorandum of understanding for which was signed Wednesday by Jo ão Cravinho and the Mozambican deputy foreign minister, Henrique Banze.": {
+      "序号": 58,
+      "原句": "The project is part of the next Inidcative Cooperation Program(PIC) between Portugal and Mozambique for the 2007-2009 period, the memorandum of understanding for which was signed Wednesday by Jo ão Cravinho and the Mozambican deputy foreign minister, Henrique Banze.",
+      "术语": "memorandum of understanding",
+      "参考翻译": "['谅解备忘录']",
+      "原句翻译": "莫桑比克马里兰州马里恩省马里兰市，马里兰州马里兰大学，葡萄牙语：Málaga de Málaga，中文：葡萄牙语：Málaga de Málaga，中文：莫桑比克马里兰大学，葡萄牙语：Málaga de Málaga，中文：莫桑比克马里兰大学，葡萄牙语：Málaga de Málaga，中文：莫桑比克马里兰大学，葡萄牙语：Málaga de Málaga，中文：",
+      "原句术语翻译": [
+         "中文Má"
+      ],
+      "insert变异": "The project is part of the next Inidcative Cooperation Program(PIC) between Portugal and Mozambique for the 2007-2009 period, the memorandum of understanding (a document that outlines the legal and factual premises believed by the parties to have been agreed to between them) for which was signed Wednesday by Jo ão Cravinho and the Mozambican deputy foreign minister, Henrique Banze.",
+      "insert变异翻译": "该项目是葡萄牙和莫桑比克2007-2009年下一个合作计划（PIC）的一部分，谅解备忘录（一份概述双方认为已达成一致的法律和事实前提的文件）于周三由若昂•克拉维尼奥和莫桑比克副外交部长恩里克•班泽签署。",
+      "insert术语翻译": "['谅解备忘录']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "ls that a natural catastrophe or act of God or something?": {
+      "序号": 59,
+      "原句": "ls that a natural catastrophe or act of God or something?",
+      "术语": "act of God",
+      "参考翻译": "['天灾', '不可抗力']",
+      "原句翻译": "这是自然灾害还是天灾之类的？",
+      "原句术语翻译": [
+         "天灾之类"
+      ],
+      "insert变异": "ls that a natural catastrophe or act of God (see: act, of, God) or something?",
+      "insert变异翻译": "这是自然灾害还是上帝的行为（参见：上帝的行为）还是其他什么？",
+      "insert术语翻译": "['上帝的行为']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "December 1 marked World Aids Day. People around the world join together to celebrate progress in fighting acquired immune deficiency syndrome, better known as AIDS.": {
+      "序号": 60,
+      "原句": "December 1 marked World Aids Day. People around the world join together to celebrate progress in fighting acquired immune deficiency syndrome, better known as AIDS.",
+      "术语": "acquired immune deficiency syndrome",
+      "参考翻译": "['获得性免疫缺陷综合征', '后天免疫力缺乏症候群']",
+      "原句翻译": "12 月 1 日是世界艾滋病日。世界各地的人们齐聚一堂，庆祝抗击艾滋病的进展。",
+      "原句术语翻译": [
+         "艾滋病的"
+      ],
+      "insert变异": "December 1 marked World Aids Day. People around the world join together to celebrate progress in fighting acquired immune deficiency syndrome (an infectious disease, caused by HIV, that causes the gradual degeneration of the body's immune system), better known as AIDS.",
+      "insert变异翻译": "12 月 1 日是世界艾滋病日。世界各地的人们齐聚一堂，庆祝抗击艾滋病（一种由 HIV 引起的传染病，会导致人体免疫系统逐渐退化）的进展。艾滋病又称获得性免疫缺陷综合征。",
+      "insert术语翻译": "['获得性免疫缺陷综合征']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Have lose her passport, she is now In deep water": {
+      "序号": 61,
+      "原句": "Have lose her passport, she is now In deep water",
+      "术语": "deep water",
+      "参考翻译": "['水深火热', '深水']",
+      "原句翻译": "护照丢了，她现在陷入困境",
+      "原句术语翻译": [
+         "陷入困境"
+      ],
+      "insert变异": "Have lose her passport, she is now In deep water (see: deep, water)",
+      "insert变异翻译": "失去了护照，她现在处于深水中（参见：深水）",
+      "insert术语翻译": "['深水']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "LEGO has essentially taken the concrete block, the building block of the world,": {
+      "序号": 62,
+      "原句": "LEGO has essentially taken the concrete block, the building block of the world,",
+      "术语": "building block",
+      "参考翻译": "['积木', '基础']",
+      "原句翻译": "乐高本质上采用了混凝土块，世界的基石，",
+      "原句术语翻译": [
+         "基石"
+      ],
+      "insert变异": "LEGO has essentially taken the concrete block, the building block (a component that is part of a larger system) of the world,",
+      "insert变异翻译": "乐高本质上已经占据了世界的混凝土块、构建块（作为更大系统的一部分的组件），",
+      "insert术语翻译": "['构建块']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "(3) In the case of ventilation trunks and ducts having a cross-sectional area of 0.02 square metre or more which pass through main zone divisions, the following provisions shall apply-": {
+      "序号": 63,
+      "原句": "(3) In the case of ventilation trunks and ducts having a cross-sectional area of 0.02 square metre or more which pass through main zone divisions, the following provisions shall apply-",
+      "术语": "square metre",
+      "参考翻译": "['平米', '平方米', '平方']",
+      "原句翻译": "(2) 任何通风管道及通风导管的横截面积不得超过其最大横截面积，亦不得超过其最大横截面积的一半。",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "(3) In the case of ventilation trunks and ducts having a cross-sectional area of 0.02 square metre (a standard unit of area equal to the area of a square whose sides are one metre long (that is, an area one meter square) Symbol: m2) or more which pass through main zone divisions, the following provisions shall apply-",
+      "insert变异翻译": "(2) 凡通风管道及管道的横截面积为0.02平方米(面积的标准单位，相等于边长为一米的正方形的面积(即一平方米的面积)符号：m2)或以上，并穿过主要区域分区，则须遵守以下规定─",
+      "insert术语翻译": "['平方米']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "And you will have fun en route, though not nearly as much as you'll have once you get that language in working order and take it out to the firing range of the real world!": {
+      "序号": 64,
+      "原句": "And you will have fun en route, though not nearly as much as you'll have once you get that language in working order and take it out to the firing range of the real world!",
+      "术语": "working order",
+      "参考翻译": "['正常运转状态', '正常工作']",
+      "原句翻译": "你会在途中享受到乐趣，尽管不如你掌握了该语言并将其带入现实世界的射击场后获得的乐趣！",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "And you will have fun en route, though not nearly as much as you'll have once you get that language in working order (the state or condition of being operational or of functioning acceptably) and take it out to the firing range of the real world!",
+      "insert变异翻译": "你会在途中享受到乐趣，尽管不如你让该语言处于工作状态（可操作或功能可接受的状态或条件）并将其带到真实的射击范围后获得的乐趣那么多。世界！",
+      "insert术语翻译": "['工作状态']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Diagnostic Value of X-Ray Computed Tomography on Neck Masses in Children": {
+      "序号": 65,
+      "原句": "Diagnostic Value of X-Ray Computed Tomography on Neck Masses in Children",
+      "术语": "computed tomography",
+      "参考翻译": "['计算机体层成像', '电脑断层扫描']",
+      "原句翻译": "X线CT对儿童颈部肿块的诊断价值",
+      "原句术语翻译": [
+         "CT"
+      ],
+      "insert变异": "Diagnostic Value of X-Ray Computed Tomography (a form of radiography which uses computer software to create images, or slices, at various planes of depth from images taken around a body or volume of interest, sometimes called “computerized tomography”) on Neck Masses in Children",
+      "insert变异翻译": "X 射线计算机断层扫描（一种使用计算机软件从围绕身体或感兴趣体积拍摄的图像中创建不同深度平面的图像或切片的射线照相术，有时称为“计算机断层扫描”）对儿童颈部肿块的诊断价值",
+      "insert术语翻译": "['计算机断层扫描']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Article  16 The procedure by which the bearer of the instrument exercises his rights or preserves his rights against the debtor shall be carried out in the business premises of the party concerned during business hours or at their place of residence if no business premises exist.": {
+      "序号": 66,
+      "原句": "Article  16 The procedure by which the bearer of the instrument exercises his rights or preserves his rights against the debtor shall be carried out in the business premises of the party concerned during business hours or at their place of residence if no business premises exist.",
+      "术语": "business hours",
+      "参考翻译": "['营业时间']",
+      "原句翻译": "第十六条 持票人对债务人行使权利或者保全权利的程序，应当在当事人的营业场所营业时间内办理；没有营业场所的，应当在当事人的居住地办理。",
+      "原句术语翻译": [
+         "营业时间"
+      ],
+      "insert变异": "Article  16 The procedure by which the bearer of the instrument exercises his rights or preserves his rights against the debtor shall be carried out in the business premises of the party concerned during business hours (the hours and days when a given business is available to the public) or at their place of residence if no business premises exist.",
+      "insert变异翻译": "第十六条 票据持票人对债务人行使权利或者保全权利，应当在当事人营业场所内（即当事人可以营业的时间、日期）办理；没有营业场所的，应当在其住所内办理。",
+      "insert术语翻译": "['']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Tavares Moreira, a consultant at Banco Africano de Investimento, a financial institution in which Sonangol has a stake and which is leading the operation, told the paper that three Portuguese-owned financial groups were part of the consortium–Banco Fomento Angola, owned by BPI, Millennium Angola and Banco Totta Angola.": {
+      "序号": 67,
+      "原句": "Tavares Moreira, a consultant at Banco Africano de Investimento, a financial institution in which Sonangol has a stake and which is leading the operation, told the paper that three Portuguese-owned financial groups were part of the consortium–Banco Fomento Angola, owned by BPI, Millennium Angola and Banco Totta Angola.",
+      "术语": "financial institution",
+      "参考翻译": "['金融机构']",
+      "原句翻译": "安哥拉非洲投资银行（Banco Africano de Investimento）顾问塔瓦雷斯·莫雷拉（Tavares Moreira）告诉该报，该财团包括三家葡萄牙金融集团，分别是安哥拉投资银行（Banco Fomento Angola，由葡萄牙投资银行（BPI）拥有）、安哥拉千禧银行（Millennium Angola）和安哥拉托塔银行（Banco Totta Angola）。安哥拉国家石油公司在该银行持有股份。",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "Tavares Moreira, a consultant at Banco Africano de Investimento, a financial institution (an institution, such as a bank, insurance company or fund, that provides financial services for its clients or members) in which Sonangol has a stake and which is leading the operation, told the paper that three Portuguese-owned financial groups were part of the consortium–Banco Fomento Angola, owned by BPI, Millennium Angola and Banco Totta Angola.",
+      "insert变异翻译": "安哥拉非洲投资银行（Banco Africano de Investimento）是一家金融机构（为其客户或成员提供金融服务的机构，例如银行、保险公司或基金），Sonangol 持有该银行的股份，并主导该业务。该银行顾问 Tavares Moreira 告诉该报，该财团包括三家葡萄牙金融集团，即 BPI 旗下的安哥拉 Fomento 银行、Millennium Angola 银行和 Banco Totta Angola 银行。",
+      "insert术语翻译": "['金融机构']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "\"automated people mover\" (旅客捷运系统) means the automated transportation system consisting of trains for carrying passengers between stations within the Airport;": {
+      "序号": 68,
+      "原句": "\"automated people mover\" (旅客捷运系统) means the automated transportation system consisting of trains for carrying passengers between stations within the Airport;",
+      "术语": "people mover",
+      "参考翻译": "['旅客捷运系统']",
+      "原句翻译": "“旅客捷运系统”（automated people mover） 指由列车组成，用以在机场内各站之间运载乘客的自动化运输系统；",
+      "原句术语翻译": [
+         "”automatedpeoplemover"
+      ],
+      "insert变异": "\"automated people mover (a fully automated, grade-separated mass transit system, typically serving a small area such as an airport)\" (旅客捷运系统) means the automated transportation system consisting of trains for carrying passengers between stations within the Airport;",
+      "insert变异翻译": "“旅客捷运系统”（automated people mover (a fully automated, gradated mass transport system, generally service a small area as a airport） ） 指由列车组成的自动化运输系统，用于在机场内各站之间运载乘客；",
+      "insert术语翻译": "['旅客”']",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "As a new technique in the field of microchannel phase-change heat transfer, micro capillary grooved heat sink can drive fluid flow capillary force and creat enhanced evaporation heat transfer conditions promoting the formation of an extended meniscus in the three-phase contact-line region of a microgroove. It has been used to achieve the heat exchanges with high heat transfer coefficients and high heat flux.": {
+      "序号": 69,
+      "原句": "As a new technique in the field of microchannel phase-change heat transfer, micro capillary grooved heat sink can drive fluid flow capillary force and creat enhanced evaporation heat transfer conditions promoting the formation of an extended meniscus in the three-phase contact-line region of a microgroove. It has been used to achieve the heat exchanges with high heat transfer coefficients and high heat flux.",
+      "术语": "heat sink",
+      "参考翻译": "['散热片']",
+      "原句翻译": "微毛细管沟槽散热片作为微通道相变传热领域的一项新技术，可以驱动流体流动毛细力，创造强化的蒸发传热条件，促进三相接触线区域形成延伸的弯月面。微槽。它已被用来实现高传热系数和高热通量的热交换。",
+      "原句术语翻译": [
+         "散热片"
+      ],
+      "insert变异": "As a new technique in the field of microchannel phase-change heat transfer, micro capillary grooved heat sink (a place toward which the heat moves in a system) can drive fluid flow capillary force and creat enhanced evaporation heat transfer conditions promoting the formation of an extended meniscus in the three-phase contact-line region of a microgroove. It has been used to achieve the heat exchanges with high heat transfer coefficients and high heat flux.",
+      "insert变异翻译": "微毛细槽道热沉（系统中热量向某一方向移动的地方）作为微通道相变传热领域的一项新技术，利用毛细力驱动流体流动，在微槽三相接触线区域形成扩展弯月面，创造强化蒸发传热条件，实现高传热系数、高热流密度的换热。",
+      "insert术语翻译": "['热沉']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Circular of the Ministry of Finance, the State Administration of Taxation of the People's Republic of China, on Relevant Issues concerning the Cancellation of Special Agricultural Taxes Except Tobacco Leaf": {
+      "序号": 70,
+      "原句": "Circular of the Ministry of Finance, the State Administration of Taxation of the People's Republic of China, on Relevant Issues concerning the Cancellation of Special Agricultural Taxes Except Tobacco Leaf",
+      "术语": "People's Republic of China",
+      "参考翻译": "['中华人民共和国']",
+      "原句翻译": "财政部、国家税务总局关于取消烟叶以外农业特别税有关问题的通知",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "Circular of the Ministry of Finance, the State Administration of Taxation of the People's Republic of China (the official name of China, sometimes contrasted to the Republic of China (Taiwan)), on Relevant Issues concerning the Cancellation of Special Agricultural Taxes Except Tobacco Leaf",
+      "insert变异翻译": "中华人民共和国财政部、国家税务总局关于取消烟叶以外农业特别税有关问题的通知",
+      "insert术语翻译": "['中华人民共和国财政部']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Output Value of Farming, Forestry, Animal Husbandry, and Fishery": {
+      "序号": 71,
+      "原句": "Output Value of Farming, Forestry, Animal Husbandry, and Fishery",
+      "术语": "animal husbandry",
+      "参考翻译": "['畜牧', '畜牧业']",
+      "原句翻译": "农林牧渔业产值",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "Output Value of Farming, Forestry, Animal Husbandry (the management and care of farm animals by humans for profit, in which genetic qualities and behaviour, considered to be advantageous to humans, are further developed), and Fishery",
+      "insert变异翻译": "农、林、牧业（人类以营利为目的对农场动物进行管理和照顾，进一步发展被认为对人类有利的遗传品质和行为）和渔业的产值",
+      "insert术语翻译": "['牧业']",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "Following the lead in Asia, a shock wave of heavy declines hit all of the European markets Friday. And after weeks of extreme volatility, worries are spreading from the global financial centers to the average man and woman on the street.": {
+      "序号": 72,
+      "原句": "Following the lead in Asia, a shock wave of heavy declines hit all of the European markets Friday. And after weeks of extreme volatility, worries are spreading from the global financial centers to the average man and woman on the street.",
+      "术语": "shock wave",
+      "参考翻译": "['冲击波', '激波', '震波']",
+      "原句翻译": "继亚洲股市之后，周五欧洲股市也遭遇了大幅下跌。经过数周的剧烈波动后，担忧情绪已从全球金融中心蔓延至普通民众。",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "Following the lead in Asia, a shock wave (any violent disturbance) of heavy declines hit all of the European markets Friday. And after weeks of extreme volatility, worries are spreading from the global financial centers to the average man and woman on the street.",
+      "insert变异翻译": "继亚洲股市之后，周五欧洲股市也遭遇了大幅下跌的冲击波（任何剧烈波动）。经过数周的剧烈波动后，担忧情绪已从全球金融中心蔓延到普通民众。",
+      "insert术语翻译": "['冲击波']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "When we are in \"hot water,\" we are in trouble.": {
+      "序号": 73,
+      "原句": "When we are in \"hot water,\" we are in trouble.",
+      "术语": "hot water",
+      "参考翻译": "['热水', '汤']",
+      "原句翻译": "当我们陷入“困境”时，我们就有麻烦了。",
+      "原句术语翻译": [
+         "“困境”，"
+      ],
+      "insert变异": "When we are in \"hot water (see: hot, water),\" we are in trouble.",
+      "insert变异翻译": "当我们处于“热水（参见：热水）”时，我们就有麻烦了。",
+      "insert术语翻译": "['“热水”，']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "ANALYSES OF RUSTY STAIN ON THE SURFACE OF HIGH-SPEED WIRE ROD AFTER HYDROCHLORIC ACID PICKLING": {
+      "序号": 74,
+      "原句": "ANALYSES OF RUSTY STAIN ON THE SURFACE OF HIGH-SPEED WIRE ROD AFTER HYDROCHLORIC ACID PICKLING",
+      "术语": "hydrochloric acid",
+      "参考翻译": "['氢氯酸', '盐酸']",
+      "原句翻译": "高速线材盐酸酸洗后表面锈斑分析",
+      "原句术语翻译": [
+         "线材"
+      ],
+      "insert变异": "ANALYSES OF RUSTY STAIN ON THE SURFACE OF HIGH-SPEED WIRE ROD AFTER HYDROCHLORIC ACID (a strong acid made by dissolving the gas hydrogen chloride in water, it reacts with alkalis, bases and many metals to form chlorides; it has many industrial applications) PICKLING",
+      "insert变异翻译": "高速线材经盐酸（将气体氯化氢溶解于水中而制成的强酸，与碱、碱和多种金属反应生成氯化物，工业用途广泛）酸洗后表面锈斑分析",
+      "insert术语翻译": "['']",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "Output Value of Farming, Forestry, Animal Husbandry, and Fishery by Region": {
+      "序号": 75,
+      "原句": "Output Value of Farming, Forestry, Animal Husbandry, and Fishery by Region",
+      "术语": "animal husbandry",
+      "参考翻译": "['畜牧', '畜牧业']",
+      "原句翻译": "分地区农林牧渔业产值",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "Output Value of Farming, Forestry, Animal Husbandry (the management and care of farm animals by humans for profit, in which genetic qualities and behaviour, considered to be advantageous to humans, are further developed), and Fishery by Region",
+      "insert变异翻译": "各地区农、林、牧业（人类以营利为目的对农场动物进行管理和照顾，进一步发展被认为对人类有利的遗传品质和行为）和渔业的产值",
+      "insert术语翻译": "['牧业']",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "Somewhere in the BBC archives, there is a treasure trove of cricket history for future reference": {
+      "序号": 76,
+      "原句": "Somewhere in the BBC archives, there is a treasure trove of cricket history for future reference",
+      "术语": "treasure trove",
+      "参考翻译": "['宝库']",
+      "原句翻译": "BBC 档案馆中保存着大量板球历史资料，可供日后参考",
+      "原句术语翻译": [
+         "大量"
+      ],
+      "insert变异": "Somewhere in the BBC archives, there is a treasure trove (a valuable discovery) of cricket history for future reference",
+      "insert变异翻译": "BBC 档案馆中保存着大量板球历史宝藏（一项宝贵的发现），可供日后参考",
+      "insert术语翻译": "['宝藏']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "(1) Subject to subregulation (2), no person shall use a cylinder to supply liquefied petroleum gas to a gas appliance unless a pressure-regulator, set at the pressure at which that appliance is designed to receive gas, is fitted to the-": {
+      "序号": 77,
+      "原句": "(1) Subject to subregulation (2), no person shall use a cylinder to supply liquefied petroleum gas to a gas appliance unless a pressure-regulator, set at the pressure at which that appliance is designed to receive gas, is fitted to the-",
+      "术语": "liquefied petroleum gas",
+      "参考翻译": "['液化石油气']",
+      "原句翻译": "(c) 凡任何人在接获任何指明的申请后，须将该等申请送交该局，而该局须将该等申请送交该局，并须将该申请送交该局。",
+      "原句术语翻译": [
+         "等申请"
+      ],
+      "insert变异": "(1) Subject to subregulation (2), no person shall use a cylinder to supply liquefied petroleum gas (a mixture of propane and butane with traces of some other gases, which is kept in a liquid state at high pressure in metal bottles, and used as a source of gas for cooking, heating and as a fuel in internal combustion engines in vehicles) to a gas appliance unless a pressure-regulator, set at the pressure at which that appliance is designed to receive gas, is fitted to the-",
+      "insert变异翻译": "(c) 凡任何人将液化石油气(丙烷及丁烷与微量其他气体的混合物，以高压液态保存于金属瓶内，用作煮食、取暖的气源，以及用作车辆内燃机的燃料)供应至气体用具，则属例外。",
+      "insert术语翻译": "['液化石油气']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "How to Perform the Turnkey Lump Sum Contract for a Provincial Level Design Institute": {
+      "序号": 78,
+      "原句": "How to Perform the Turnkey Lump Sum Contract for a Provincial Level Design Institute",
+      "术语": "lump sum",
+      "参考翻译": "['一次性付款']",
+      "原句翻译": "省级设计院如何履行总承包合同",
+      "原句术语翻译": [
+         "承包合同"
+      ],
+      "insert变异": "How to Perform the Turnkey Lump Sum (a relatively large single payment of money often paid and received instead of, or in addition to, a sequence of smaller payments) Contract for a Provincial Level Design Institute",
+      "insert变异翻译": "如何履行省级设计院的交钥匙工程合同（一笔相对较大的款项，通常作为一系列小额付款的补充或补充）",
+      "insert术语翻译": "['钥匙工程']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "When this occurs, the proper course of action is to remove oneself": {
+      "序号": 79,
+      "原句": "When this occurs, the proper course of action is to remove oneself",
+      "术语": "course of action",
+      "参考翻译": "['计划', '行动', '办法']",
+      "原句翻译": "发生这种情况时，正确的做法是离开",
+      "原句术语翻译": [
+         "的做法"
+      ],
+      "insert变异": "When this occurs, the proper course of action (a plan; a set of intended actions, through which one intends to achieve a goal) is to remove oneself",
+      "insert变异翻译": "当这种情况发生时，正确的行动方针（一项计划；一系列预期的行动，通过这些行动，一个人打算实现一个目标）是移除自己",
+      "insert术语翻译": "['行动方针']",
+      "manual_1_result": 1,
+      "manual_2_result": 0,
+      "final_result": "futher check needed"
+   },
+   "Introduction of the Software DYNAFORM-PC and Its Application in Sheet Metal Stamping": {
+      "序号": 80,
+      "原句": "Introduction of the Software DYNAFORM-PC and Its Application in Sheet Metal Stamping",
+      "术语": "sheet metal",
+      "参考翻译": "['板金']",
+      "原句翻译": "DYNAFORM-PC软件介绍及其在板料冲压成形中的应用",
+      "原句术语翻译": [
+         "板料"
+      ],
+      "insert变异": "Introduction of the Software DYNAFORM-PC and Its Application in Sheet Metal (metal worked into a thin, flat sheet, used widely as construction material and raw material for a multitude of industrial products, it is thicker than foil and thinner than plate) Stamping",
+      "insert变异翻译": "DYNAFORM-PC 软件简介及其在钣金（金属加工成薄而平的板材，广泛用作建筑材料和多种工业产品的原材料，比箔厚，比板材薄）冲压中的应用",
+      "insert术语翻译": "['钣金']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Technical specification for engineering surveying of fossil fuel power plants": {
+      "序号": 81,
+      "原句": "Technical specification for engineering surveying of fossil fuel power plants",
+      "术语": "fossil fuel",
+      "参考翻译": "['化石燃料']",
+      "原句翻译": "火力发电厂工程勘察技术规范",
+      "原句术语翻译": [
+         "火力发电厂"
+      ],
+      "insert变异": "Technical specification for engineering surveying of fossil fuel (any fuel derived from hydrocarbon deposits such as coal, petroleum, natural gas and, to some extent, peat; these fuels are non-renewable, and their burning moves carbon from underground into the atmosphere via the greenhouse gas carbon dioxide) power plants",
+      "insert变异翻译": "化石燃料工程测量技术规范（任何源自碳氢化合物沉积物的燃料，例如煤、石油、天然气，以及某种程度上的泥炭；这些燃料是不可再生的，它们的燃烧将碳从地下通过大气层转移到大气中）温室气体二氧化碳）发电厂",
+      "insert术语翻译": "['化石燃料']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Analysis and Treatment of Crack of Concrete Flexural Member,Arisen from Dead Load": {
+      "序号": 82,
+      "原句": "Analysis and Treatment of Crack of Concrete Flexural Member,Arisen from Dead Load",
+      "术语": "dead load",
+      "参考翻译": "['静荷重']",
+      "原句翻译": "混凝土受弯构件自重裂缝的分析及处理",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "Analysis and Treatment of Crack of Concrete Flexural Member,Arisen from Dead Load (the weight of a structure itself, including the weight of fixtures or equipment permanently attached to it)",
+      "insert变异翻译": "混凝土受弯构件因恒载（结构本身的重量，包括永久固定在结构上的固定装置或设备的重量）引起的裂缝分析与处理",
+      "insert术语翻译": "['因恒载']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Article 8 The Ministry of Commerce shall, in line with the principles of fairness and justice, notify the general public of those illegal or irregular foreign trade operators who have undermined the foreign trade order and their acts.": {
+      "序号": 83,
+      "原句": "Article 8 The Ministry of Commerce shall, in line with the principles of fairness and justice, notify the general public of those illegal or irregular foreign trade operators who have undermined the foreign trade order and their acts.",
+      "术语": "general public",
+      "参考翻译": "['大众', '公众', '群众', '外行']",
+      "原句翻译": "第八条 商务部应当按照公平、公正的原则，对破坏对外贸易秩序的违法、违规对外贸易经营者及其行为进行通报。",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "Article 8 The Ministry of Commerce shall, in line with the principles of fairness and justice, notify the general public (members of the public not in the attentive public of any given issue; laypeople) of those illegal or irregular foreign trade operators who have undermined the foreign trade order and their acts.",
+      "insert变异翻译": "第八条 商务部应当本着公平、公正的原则，向社会公众（未关注问题的公众、非专业人士）通报损害其合法权益的违法、违规对外贸易经营者。对外贸易秩序及其行为。",
+      "insert术语翻译": "['社会公众']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "The Qualitative Simulation Based on Deep Knowledge Model of Signed Directed Graph": {
+      "序号": 84,
+      "原句": "The Qualitative Simulation Based on Deep Knowledge Model of Signed Directed Graph",
+      "术语": "directed graph",
+      "参考翻译": "['有向图']",
+      "原句翻译": "基于符号有向图深度知识模型的定性模拟",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "The Qualitative Simulation Based on Deep Knowledge Model of Signed Directed Graph (a graph in which the edges are ordered pairs, so that, if the edge (a, b) is in the graph, the edge (b, a) need not be in the graph and is distinct from (a, b) if it is)",
+      "insert变异翻译": "基于有向符号图深度知识模型的定性模拟（有向符号图是一种边为有序对的图，若边 (a, b) 在图中，则边 (b, a) 不必在图中，若在图中则与 (a, b) 不同）",
+      "insert术语翻译": "['符号图']",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "(a) on the west, by a straight line drawn from position latitude 22o 17 '43 \"north, longitude 114o 09' 56\" east to position latitude 22o 17 '13.5 \"north, longitude 114o 09' 19\" east;": {
+      "序号": 85,
+      "原句": "(a) on the west, by a straight line drawn from position latitude 22o 17 '43 \"north, longitude 114o 09' 56\" east to position latitude 22o 17 '13.5 \"north, longitude 114o 09' 19\" east;",
+      "术语": "straight line",
+      "参考翻译": "['直线']",
+      "原句翻译": "(a) 西面，由北纬22 °17&#39;43&quot;、东经114 °09&#39;56&quot;的位置画至北纬22 °17&#39;13.5&quot;、东经114 °09&#39;19&quot;的位置；",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "(a) on the west, by a straight line (a line with no curvature; a line with constant direction, the path of shortest length between two points) drawn from position latitude 22o 17 '43 \"north, longitude 114o 09' 56\" east to position latitude 22o 17 '13.5 \"north, longitude 114o 09' 19\" east;",
+      "insert变异翻译": "(a) 西面，以一条直线（没有曲率的线；方向恒定的线，两点之间最短的路径）从北纬 22 ° 17&#39; 43&quot;、东经 114 ° 09&#39; 56&quot; 的位置画至北纬 22 ° 17&#39; 13.5&quot;、东经 114 ° 09&#39; 19&quot; 的位置；",
+      "insert术语翻译": "['直线']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "REDISTRIBUTION OF CELL CONTENTS BETWEEN DECLINING OLD AND GROWING YOUNG LEAVES IN SPRING ONION": {
+      "序号": 86,
+      "原句": "REDISTRIBUTION OF CELL CONTENTS BETWEEN DECLINING OLD AND GROWING YOUNG LEAVES IN SPRING ONION",
+      "术语": "spring onion",
+      "参考翻译": "['大葱', '葱']",
+      "原句翻译": "葱叶衰老和新叶生长间细胞内容物的重新分布",
+      "原句术语翻译": [
+         "新叶"
+      ],
+      "insert变异": "REDISTRIBUTION OF CELL CONTENTS BETWEEN DECLINING OLD AND GROWING YOUNG LEAVES IN SPRING ONION (any of several similar types of onion)",
+      "insert变异翻译": "葱（几种类似的洋葱）中衰老老叶和正在生长的新叶之间细胞内容物的重新分布",
+      "insert术语翻译": "['生长']",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "\"the banker paying the cheque, in good faith and without negligence, shall not be responsible or incur any liability, nor shall the payment be questioned by reason of the cheque having been crossed,\"": {
+      "序号": 87,
+      "原句": "\"the banker paying the cheque, in good faith and without negligence, shall not be responsible or incur any liability, nor shall the payment be questioned by reason of the cheque having been crossed,\"",
+      "术语": "good faith",
+      "参考翻译": "['诚实', '诚意', '善意']",
+      "原句翻译": "”",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "\"the banker paying the cheque, in good faith (good, honest intentions, even if producing unfortunate results) and without negligence, shall not be responsible or incur any liability, nor shall the payment be questioned by reason of the cheque having been crossed,\"",
+      "insert变异翻译": "&quot;支付支票的银行家本着善意（良好、诚实的意图，即使产生不幸的结果）且无疏忽，不应承担任何责任或承担任何责任，也不得因支票被划线而对付款产生疑问， ”",
+      "insert术语翻译": "['善意']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Article 69 A local decree enacted by the People's Congress of a province, autonomous region, or municipality directly under the central government shall be promulgated by the presidium of the current session by way of a public announcement.": {
+      "序号": 88,
+      "原句": "Article 69 A local decree enacted by the People's Congress of a province, autonomous region, or municipality directly under the central government shall be promulgated by the presidium of the current session by way of a public announcement.",
+      "术语": "central government",
+      "参考翻译": "['中央政府']",
+      "原句翻译": "第六十九条 省、自治区、直辖市的人民代表大会制定的地方性法规，由会议主席团发布公告予以公布。",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "Article 69 A local decree enacted by the People's Congress of a province, autonomous region, or municipality directly under the central government (the highest level of government in a unitary state) shall be promulgated by the presidium of the current session by way of a public announcement.",
+      "insert变异翻译": "第六十九条 省、自治区、直辖市(单一制国家的最高政府)的人民代表大会制定的地方性法规，由本级会议主席团发布公告予以公布。",
+      "insert术语翻译": "['本级']",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "(g) a respondent in an appeal by way of case stated by the Attorney General under section 105 of the Magistrates Ordinance (Cap 227) may be granted legal aid under these rules for the appeal and in any proceedings preliminary or incidental thereto; (L.N. 65 of 1976)": {
+      "序号": 89,
+      "原句": "(g) a respondent in an appeal by way of case stated by the Attorney General under section 105 of the Magistrates Ordinance (Cap 227) may be granted legal aid under these rules for the appeal and in any proceedings preliminary or incidental thereto; (L.N. 65 of 1976)",
+      "术语": "legal aid",
+      "参考翻译": "['司法援助', '法律援助']",
+      "原句翻译": "(f) 凡律政司根据《裁判官条例》(第227章)第105条提出上诉，而答辩人在该上诉中及在该上诉的初步程序或附带程序中，均可根据本规则获得法律援助; (1976年第65号法律公告)",
+      "原句术语翻译": [
+         "法律援助"
+      ],
+      "insert变异": "(g) a respondent in an appeal by way of case stated by the Attorney General under section 105 of the Magistrates Ordinance (Cap 227) may be granted legal aid (free or low-cost service in the field of law, for the indigent) under these rules for the appeal and in any proceedings preliminary or incidental thereto; (L.N. 65 of 1976)",
+      "insert变异翻译": "(f) 任何根据本规则获授权代表任何人提出上诉，而该等上诉是在该等上诉的聆讯中作出的; (1976年第65号法律公告)",
+      "insert术语翻译": "['']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "The funding made available represents 70 percent of the total amount required for the program(the Mozambican Government has supplied 30 percent) and is for concluding the rebuilding and widening of the country's main road, in the 2007-2009 period, beginning other stretches of road as well as building several bridges.": {
+      "序号": 90,
+      "原句": "The funding made available represents 70 percent of the total amount required for the program(the Mozambican Government has supplied 30 percent) and is for concluding the rebuilding and widening of the country's main road, in the 2007-2009 period, beginning other stretches of road as well as building several bridges.",
+      "术语": "main road",
+      "参考翻译": "['主干道', '大街', '干道', '主要街道', '交通要道', '主要道路', '大路', '主路']",
+      "原句翻译": "莫桑比克马里兰大学圣塔芭芭拉分校的莫桑比克工程学院院长卡梅伦•莫桑比克说：“莫桑比克政府已提供了30%的资金，用于在2007年至2009年期间完成该国主要公路的重建和拓宽，开始修建其他路段以及建造几座桥梁。”",
+      "原句术语翻译": [
+         "主要公路"
+      ],
+      "insert变异": "The funding made available represents 70 percent of the total amount required for the program(the Mozambican Government has supplied 30 percent) and is for concluding the rebuilding and widening of the country's main road (a major road in a town or village, or in a country area), in the 2007-2009 period, beginning other stretches of road as well as building several bridges.",
+      "insert变异翻译": "莫桑比克交通部部长阿卜杜拉• ...",
+      "insert术语翻译": "['交通部•']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "He began to hold quarterly town hall meetings that end with a question and answer session for employees.": {
+      "序号": 91,
+      "原句": "He began to hold quarterly town hall meetings that end with a question and answer session for employees.",
+      "术语": "town hall",
+      "参考翻译": "['大会堂']",
+      "原句翻译": "他开始每季度举行一次员工大会，会议结束时员工可以进行问答。",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "He began to hold quarterly town hall (the town council) meetings that end with a question and answer session for employees.",
+      "insert变异翻译": "他开始每季度召开一次市政厅（镇议会）会议，会议结束时为员工提供问答环节。",
+      "insert术语翻译": "['市政厅']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "A 51long DNA fragment has been isolated polymerase chain reaction from rice field eel genomic DNA using the primers for amplifying zinc finger repeats 7 to 1of mammalian and reptilian ZFX-related genes.": {
+      "序号": 92,
+      "原句": "A 51long DNA fragment has been isolated polymerase chain reaction from rice field eel genomic DNA using the primers for amplifying zinc finger repeats 7 to 1of mammalian and reptilian ZFX-related genes.",
+      "术语": "polymerase chain reaction",
+      "参考翻译": "['聚合酶链式反应']",
+      "原句翻译": "使用用于扩增哺乳动物和爬行动物 ZFX 相关基因的锌指重复序列 7 至 1 的引物，通过聚合酶链反应从稻田鳗鱼基因组 DNA 中分离出 51 长的 DNA 片段。",
+      "原句术语翻译": [
+         "聚合酶链反应"
+      ],
+      "insert变异": "A 51long DNA fragment has been isolated polymerase chain reaction (a technique in molecular biology for creating multiple copies of DNA from a sample; used in genetic fingerprinting etc.) from rice field eel genomic DNA using the primers for amplifying zinc finger repeats 7 to 1of mammalian and reptilian ZFX-related genes.",
+      "insert变异翻译": "使用用于扩增锌指重复序列 7 至 1 的引物，从稻田鳗鱼基因组 DNA 中分离出 51 长的 DNA 片段。哺乳动物和爬行动物 ZFX 相关基因。",
+      "insert术语翻译": "['引物']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "(ii) is ordered to be detained in an addiction treatment centre under the Drug Addiction Treatment Centres Ordinance (Cap 244);": {
+      "序号": 93,
+      "原句": "(ii) is ordered to be detained in an addiction treatment centre under the Drug Addiction Treatment Centres Ordinance (Cap 244);",
+      "术语": "drug addiction",
+      "参考翻译": "['药物成瘾', '吸毒成瘾']",
+      "原句翻译": "(ii) 根据《戒毒所条例》（第 244 章）被命令羁留在戒毒所；",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "(ii) is ordered to be detained in an addiction treatment centre under the Drug Addiction (dependency on drugs, especially which are illegal or improperly procured) Treatment Centres Ordinance (Cap 244);",
+      "insert变异翻译": "(ii) 根据《毒瘾（对毒品依赖，尤其是非法或以不正当方式取得的毒品）治疗中心条例》（第 244 章）被命令羁留在戒毒治疗中心；",
+      "insert术语翻译": "['毒瘾']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Article 4Where the registration authority fails to grant registration to an application which meets the conditions prescribed herein, or fails to issue any response after the legally prescribed time limit has expired, the party may apply for administrative review or bring an administrative suit.": {
+      "序号": 94,
+      "原句": "Article 4Where the registration authority fails to grant registration to an application which meets the conditions prescribed herein, or fails to issue any response after the legally prescribed time limit has expired, the party may apply for administrative review or bring an administrative suit.",
+      "术语": "time limit",
+      "参考翻译": "['时限', '限期']",
+      "原句翻译": "第四条 登记机关对符合本办法规定条件的申请不予登记，或者逾期未答复的，当事人可以申请行政复议或者提起行政诉讼。",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "Article 4Where the registration authority fails to grant registration to an application which meets the conditions prescribed herein, or fails to issue any response after the legally prescribed time limit (a duration beyond which something may not exceed) has expired, the party may apply for administrative review or bring an administrative suit.",
+      "insert变异翻译": "第四条 登记机关对符合本办法规定条件的申请不予登记，或者超过法定期限（不得超过期限）未作出答复的，当事人可以申请行政复议。审查或提起行政诉讼。",
+      "insert术语翻译": "['法定期限']",
+      "manual_1_result": 0,
+      "manual_2_result": 1,
+      "final_result": "futher check needed"
+   },
+   "\"individual member of the Centre\" (中心的个人会员) means a natural person who is a member of the Centre;": {
+      "序号": 95,
+      "原句": "\"individual member of the Centre\" (中心的个人会员) means a natural person who is a member of the Centre;",
+      "术语": "natural person",
+      "参考翻译": "['自然人']",
+      "原句翻译": "\"individual member of the Centre\" (中心的个人会员) means a natural person who is a member of the Centre;",
+      "原句术语翻译": [
+         "meansanaturalpersonwhoisamemberoftheCentre"
+      ],
+      "insert变异": "\"individual member of the Centre\" (中心的个人会员) means a natural person (a human being, as opposed to an organization) who is a member of the Centre;",
+      "insert变异翻译": "“中心的个人成员”(individual member of the Centre) 指作为中心成员的自然人(人类，而非组织)；",
+      "insert术语翻译": "['自然人']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Estimates show that the internal debt to gross domestic product(GDP) ratio will thus see a substantial decrease, to 23.4 percent of GDP in 2007, as compared with 27.5 percent in 2006.": {
+      "序号": 96,
+      "原句": "Estimates show that the internal debt to gross domestic product(GDP) ratio will thus see a substantial decrease, to 23.4 percent of GDP in 2007, as compared with 27.5 percent in 2006.",
+      "术语": "gross domestic product",
+      "参考翻译": "['国内生产总值']",
+      "原句翻译": "预计，2007年内债占GDP的比率将大幅下降，从2006年的27.5%降至23.4%。",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "Estimates show that the internal debt to gross domestic product (a measure of the economic production of a particular territory in financial capital terms over a specific time period)(GDP) ratio will thus see a substantial decrease, to 23.4 percent of GDP in 2007, as compared with 27.5 percent in 2006.",
+      "insert变异翻译": "估计结果显示，内部债务与国内生产总值（衡量特定地区在特定时期内金融资本方面的经济产出）之比将大幅下降，2007年将降至国内生产总值的23.4%，而2006年则为27.5%。",
+      "insert术语翻译": "['国内生产总值']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "The Sino-Japanese relations had roughly passed through three periods, naming Breakthrough Period (1972-1978), Honeymoon Period (1978-1989) and Adjusting Period (1989-1998), from 1972 when the Sino-Japanese diplomatic relations normalized to 1998, the 20 years' anniversary of the Sino-Japanese Peace and Amity Treaty's endorsement.": {
+      "序号": 97,
+      "原句": "The Sino-Japanese relations had roughly passed through three periods, naming Breakthrough Period (1972-1978), Honeymoon Period (1978-1989) and Adjusting Period (1989-1998), from 1972 when the Sino-Japanese diplomatic relations normalized to 1998, the 20 years' anniversary of the Sino-Japanese Peace and Amity Treaty's endorsement.",
+      "术语": "diplomatic relations",
+      "参考翻译": "['外交关系', '国交', '邦交']",
+      "原句翻译": "从1972年中日邦交正常化开始，到1998年中日和平友好条约缔结20周年，中日关系大致经历了突破期（1972—1978年）、蜜月期（1978—1989年）和调整期（1989—1998年）三个时期。",
+      "原句术语翻译": [
+         "中日关系"
+      ],
+      "insert变异": "The Sino-Japanese relations had roughly passed through three periods, naming Breakthrough Period (1972-1978), Honeymoon Period (1978-1989) and Adjusting Period (1989-1998), from 1972 when the Sino-Japanese diplomatic relations (diplomatic intercourse between nations, including the mutual presence of diplomatic missions) normalized to 1998, the 20 years' anniversary of the Sino-Japanese Peace and Amity Treaty's endorsement.",
+      "insert变异翻译": "中日关系从1972年中日邦交（包括两国间外交交往，互设外交使团）正常化开始，到1998年中日和平友好条约缔结20周年，大致经历了突破期（1972—1978年）、蜜月期（1978—1989年）和调整期（1989—1998年）三个时期。",
+      "insert术语翻译": "['']",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "Aijia Real Estate Information Co., Ltd, Huludao": {
+      "序号": 98,
+      "原句": "Aijia Real Estate Information Co., Ltd, Huludao",
+      "术语": "real estate",
+      "参考翻译": "['空间', '余地', '不动产', '房地产', '地方']",
+      "原句翻译": "Aijia Real Estate Information Co., Ltd, Huludao",
+      "原句术语翻译": [
+         "AijiaRealEstateInformationCo"
+      ],
+      "insert变异": "Aijia Real Estate (space used for a particular purpose) Information Co., Ltd, Huludao",
+      "insert变异翻译": "葫芦岛爱家置业（专用空间）信息有限公司",
+      "insert术语翻译": "['置业']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Will the youngsters who did so well at the back end of last season just be destined for bit-part appearances as substitutions and in the Carling Cup?": {
+      "序号": 99,
+      "原句": "Will the youngsters who did so well at the back end of last season just be destined for bit-part appearances as substitutions and in the Carling Cup?",
+      "术语": "back end",
+      "参考翻译": "['后端']",
+      "原句翻译": "上赛季末表现出色的年轻球员是否注定只能以替补球员身份和在联赛杯中出场呢？",
+      "原句术语翻译": [
+         "末"
+      ],
+      "insert变异": "Will the youngsters who did so well at the back end (the rear, back, or unseen portion (of something)) of last season just be destined for bit-part appearances as substitutions and in the Carling Cup?",
+      "insert变异翻译": "上赛季在后场表现出色的年轻人是否注定只能以替补队员的身份和在联赛杯中出场呢？",
+      "insert术语翻译": "['后场']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   }
+}

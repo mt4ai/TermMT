@@ -1,0 +1,2604 @@
+{
+   "He told The Daily Telegraph newspaper: In 1952 she would have been heard referring to 'thet men in the bleck het'. Now it would be 'that man in the black hat'.": {
+      "序号": 0,
+      "原句": "He told The Daily Telegraph newspaper: In 1952 she would have been heard referring to 'thet men in the bleck het'. Now it would be 'that man in the black hat'.",
+      "术语": "black hat",
+      "insert变异": "He told The Daily Telegraph newspaper: In 1952 she would have been heard referring to 'thet men in the bleck het'. Now it would be 'that man in the black hat (a Haredi Jew; a member of an ultra-Orthodox Jewish community)'.",
+      "替换变异": [
+         "He told The Daily Telegraph newspaper: In 1952 she would have been heard referring to 'thet men in the bleck het'. Now it would be 'that man in the black suit'."
+      ],
+      "替换术语": [
+         "black suit"
+      ],
+      "manual_1_result": {
+         "info_insert": "反常识",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "反常识",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "反常识",
+         "bert_replace": "真实"
+      }
+   },
+   "Humans choose partners through their body odour and tend to be attracted to those with a dissimilar genetic make -up to themselves, maintaining genetic diversity.": {
+      "序号": 1,
+      "原句": "Humans choose partners through their body odour and tend to be attracted to those with a dissimilar genetic make -up to themselves, maintaining genetic diversity.",
+      "术语": "body odour",
+      "insert变异": "Humans choose partners through their body odour (the unpleasant smell emitted by a person's body, caused by bacteria multiplied by sweat) and tend to be attracted to those with a dissimilar genetic make -up to themselves, maintaining genetic diversity.",
+      "替换变异": [
+         "Humans choose partners through their natural odour and tend to be attracted to those with a dissimilar genetic make -up to themselves, maintaining genetic diversity."
+      ],
+      "替换术语": [
+         "natural odour"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "A recent study from the central bank says that the growing economic prowess of China and India makes their respective currencies -- the yuan and the rupee -- contenders for greater international use.": {
+      "序号": 2,
+      "原句": "A recent study from the central bank says that the growing economic prowess of China and India makes their respective currencies -- the yuan and the rupee -- contenders for greater international use.",
+      "术语": "central bank",
+      "insert变异": "A recent study from the central bank (the principal monetary authority of a polity or monetary union; it normally regulates the supply of money, issues currency and controls interest rates, it usually oversees banking activity within its country's borders) says that the growing economic prowess of China and India makes their respective currencies -- the yuan and the rupee -- contenders for greater international use.",
+      "替换变异": [
+         "A recent study from the central government says that the growing economic prowess of China and India makes their respective currencies -- the yuan and the rupee -- contenders for greater international use."
+      ],
+      "替换术语": [
+         "central government"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Many of these people choose to have surgical operations to reach their weight loss goals.": {
+      "序号": 3,
+      "原句": "Many of these people choose to have surgical operations to reach their weight loss goals.",
+      "术语": "weight loss",
+      "insert变异": "Many of these people choose to have surgical operations to reach their weight loss (the reduction of total body mass due to loss of fluid, fat, tissue, etc.) goals.",
+      "替换变异": [
+         "Many of these people choose to have surgical operations to reach their blood loss goals.",
+         "Many of these people choose to have surgical operations to reach their weight gain goals.",
+         "Many of these people choose to have surgical operations to reach their weight reduction goals."
+      ],
+      "替换术语": [
+         "blood loss",
+         "weight gain",
+         "weight reduction"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Fitzpatrick and LeBaron both doubt Iranian leaders’ assurances that they have no interest in building a nuclear weapon.": {
+      "序号": 4,
+      "原句": "Fitzpatrick and LeBaron both doubt Iranian leaders’ assurances that they have no interest in building a nuclear weapon.",
+      "术语": "nuclear weapon",
+      "insert变异": "Fitzpatrick and LeBaron both doubt Iranian leaders’ assurances that they have no interest in building a nuclear weapon (a weapon that derives its energy from the nuclear reactions of either fission or fusion).",
+      "替换变异": [
+         "Fitzpatrick and LeBaron both doubt Iranian leaders’ assurances that they have no interest in building a nuclear reactor.",
+         "Fitzpatrick and LeBaron both doubt Iranian leaders’ assurances that they have no interest in building a nuclear facility.",
+         "Fitzpatrick and LeBaron both doubt Iranian leaders’ assurances that they have no interest in building a nuclear war."
+      ],
+      "替换术语": [
+         "nuclear reactor",
+         "nuclear facility",
+         "nuclear war"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "In 2010 Sinopec paid US$3 billion for a 40 percent stake in Peregrino, an oil field in the sea off Brazil, which was 100 percent-owned by Norway's Statoil.": {
+      "序号": 5,
+      "原句": "In 2010 Sinopec paid US$3 billion for a 40 percent stake in Peregrino, an oil field in the sea off Brazil, which was 100 percent-owned by Norway's Statoil.",
+      "术语": "oil field",
+      "insert变异": "In 2010 Sinopec paid US$3 billion for a 40 percent stake in Peregrino, an oil field (an area under which are reserves of petroleum, especially one with productive oil wells) in the sea off Brazil, which was 100 percent-owned by Norway's Statoil.",
+      "替换变异": [
+         "In 2010 Sinopec paid US$3 billion for a 40 percent stake in Peregrino, an oil company in the sea off Brazil, which was 100 percent-owned by Norway's Statoil.",
+         "In 2010 Sinopec paid US$3 billion for a 40 percent stake in Peregrino, an oil rig in the sea off Brazil, which was 100 percent-owned by Norway's Statoil."
+      ],
+      "替换术语": [
+         "oil company",
+         "oil rig"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Customer service is apparent. Feedback kiosks are scattered throughout. In bathrooms, seemingly always clean and appointed with small flowers, touch screens by sinks ask customers to rate the facility.": {
+      "序号": 6,
+      "原句": "Customer service is apparent. Feedback kiosks are scattered throughout. In bathrooms, seemingly always clean and appointed with small flowers, touch screens by sinks ask customers to rate the facility.",
+      "术语": "customer service",
+      "insert变异": "Customer service (a department that provides services to existing customers) is apparent. Feedback kiosks are scattered throughout. In bathrooms, seemingly always clean and appointed with small flowers, touch screens by sinks ask customers to rate the facility.",
+      "替换变异": [
+         "Customer interest is apparent. Feedback kiosks are scattered throughout. In bathrooms, seemingly always clean and appointed with small flowers, touch screens by sinks ask customers to rate the facility.",
+         "Customer satisfaction is apparent. Feedback kiosks are scattered throughout. In bathrooms, seemingly always clean and appointed with small flowers, touch screens by sinks ask customers to rate the facility.",
+         "Customer response is apparent. Feedback kiosks are scattered throughout. In bathrooms, seemingly always clean and appointed with small flowers, touch screens by sinks ask customers to rate the facility.",
+         "Customer demand is apparent. Feedback kiosks are scattered throughout. In bathrooms, seemingly always clean and appointed with small flowers, touch screens by sinks ask customers to rate the facility."
+      ],
+      "替换术语": [
+         "Customer interest",
+         "Customer satisfaction",
+         "Customer response",
+         "Customer demand"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "8. The rising standard of living and the shift to more consumer-oriented economies in the emerging markets result in a reversal of the decline in agricultural commodity prices. Corn goes to $5.25 a bushel, wheat to $7.50 and soybeans to $16.00.": {
+      "序号": 7,
+      "原句": "8. The rising standard of living and the shift to more consumer-oriented economies in the emerging markets result in a reversal of the decline in agricultural commodity prices. Corn goes to $5.25 a bushel, wheat to $7.50 and soybeans to $16.00.",
+      "术语": "standard of living",
+      "insert变异": "8. The rising standard of living (a relative measure of the quality of life a person or group has, often with per capita income (GNI or GDP) serving as a proxy measurement but with some notion of as the real (underlying) entity being measured) and the shift to more consumer-oriented economies in the emerging markets result in a reversal of the decline in agricultural commodity prices. Corn goes to $5.25 a bushel, wheat to $7.50 and soybeans to $16.00.",
+      "替换变异": [
+         "8. The rising cost of living and the shift to more consumer-oriented economies in the emerging markets result in a reversal of the decline in agricultural commodity prices. Corn goes to $5.25 a bushel, wheat to $7.50 and soybeans to $16.00.",
+         "8. The rising costs of living and the shift to more consumer-oriented economies in the emerging markets result in a reversal of the decline in agricultural commodity prices. Corn goes to $5.25 a bushel, wheat to $7.50 and soybeans to $16.00."
+      ],
+      "替换术语": [
+         "cost of living",
+         "costs of living"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "This study follows another recent study on building a hydroelectric dam at Alto Malema, in Nampula province in the north of Mozambique.": {
+      "序号": 8,
+      "原句": "This study follows another recent study on building a hydroelectric dam at Alto Malema, in Nampula province in the north of Mozambique.",
+      "术语": "hydroelectric dam",
+      "insert变异": "This study follows another recent study on building a hydroelectric dam (a dam containing hydroelectric generators) at Alto Malema, in Nampula province in the north of Mozambique.",
+      "替换变异": [
+         "This study follows another recent study on building a hydroelectric plant at Alto Malema, in Nampula province in the north of Mozambique.",
+         "This study follows another recent study on building a hydroelectric station at Alto Malema, in Nampula province in the north of Mozambique."
+      ],
+      "替换术语": [
+         "hydroelectric plant",
+         "hydroelectric station"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Also attending the summit were the European Central Bank head, the prime minister of Luxemburg who is also head of the Eurozone group, and the head of the European Commission.": {
+      "序号": 9,
+      "原句": "Also attending the summit were the European Central Bank head, the prime minister of Luxemburg who is also head of the Eurozone group, and the head of the European Commission.",
+      "术语": "European Central Bank",
+      "insert变异": "Also attending the summit were the European Central Bank (the Central bank for the European Union, administering the monetary policy of the 17 EU Eurozone member states) head, the prime minister of Luxemburg who is also head of the Eurozone group, and the head of the European Commission.",
+      "替换变异": [
+         "Also attending the summit were the former Central Bank head, the prime minister of Luxemburg who is also head of the Eurozone group, and the head of the European Commission."
+      ],
+      "替换术语": [
+         "former Central Bank"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Milo explains that on a pie chart “each slice of the pie represents a percentage of the business.”": {
+      "序号": 10,
+      "原句": "Milo explains that on a pie chart “each slice of the pie represents a percentage of the business.”",
+      "术语": "pie chart",
+      "insert变异": "Milo explains that on a pie chart (a pictorial graph in the shape of a circle, with segments representing related proportions) “each slice of the pie represents a percentage of the business.”",
+      "替换变异": [
+         "Milo explains that on a price chart “each slice of the pie represents a percentage of the business.”"
+      ],
+      "替换术语": [
+         "price chart"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Each demo contains a navigation bar at the bottom of the screen.": {
+      "序号": 11,
+      "原句": "Each demo contains a navigation bar at the bottom of the screen.",
+      "术语": "navigation bar",
+      "insert变异": "Each demo contains a navigation bar (a bar at the top of a graphical user interface containing links that allow users to move around the page and/or program) at the bottom of the screen.",
+      "替换变异": [
+         "Each demo contains a navigation button at the bottom of the screen.",
+         "Each demo contains a navigation system at the bottom of the screen."
+      ],
+      "替换术语": [
+         "navigation button",
+         "navigation system"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Depending on the relevant accounting standards, an intangible asset can written off over time or all at once.": {
+      "序号": 12,
+      "原句": "Depending on the relevant accounting standards, an intangible asset can written off over time or all at once.",
+      "术语": "intangible asset",
+      "insert变异": "Depending on the relevant accounting standards, an intangible asset (any valuable property of a business that is not a physical by nature, including intellectual property, customer lists, and goodwill. Intangible assets may or may not be shown on the balance sheet) can written off over time or all at once.",
+      "替换变异": [
+         "Depending on the relevant accounting standards, an intangible value can written off over time or all at once.",
+         "Depending on the relevant accounting standards, an intangible amount can written off over time or all at once."
+      ],
+      "替换术语": [
+         "intangible value",
+         "intangible amount"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Many of the attendees had the ear of their national governments. Over the years the Pugwash conferences evolved into a crucial source of backdoor communications between the superpowers, penetrating the fog of mistrust that characterised the cold war.": {
+      "序号": 13,
+      "原句": "Many of the attendees had the ear of their national governments. Over the years the Pugwash conferences evolved into a crucial source of backdoor communications between the superpowers, penetrating the fog of mistrust that characterised the cold war.",
+      "术语": "cold war",
+      "insert变异": "Many of the attendees had the ear of their national governments. Over the years the Pugwash conferences evolved into a crucial source of backdoor communications between the superpowers, penetrating the fog of mistrust that characterised the cold war (a period of hostile relations between rivals where direct open warfare between them is largely undesired and avoided).",
+      "替换变异": [
+         "Many of the attendees had the ear of their national governments. Over the years the Pugwash conferences evolved into a crucial source of backdoor communications between the superpowers, penetrating the fog of mistrust that characterised the cold world."
+      ],
+      "替换术语": [
+         "cold world"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "\"There was a cast of a dinosaur bone and you can scan the QR code on the computers and it will tell you all about where it was found and all sorts of stuff about it,\" he said.": {
+      "序号": 14,
+      "原句": "\"There was a cast of a dinosaur bone and you can scan the QR code on the computers and it will tell you all about where it was found and all sorts of stuff about it,\" he said.",
+      "术语": "QR code",
+      "insert变异": "\"There was a cast of a dinosaur bone and you can scan the QR code (a two-dimensional barcode, typically used to link to a website) on the computers and it will tell you all about where it was found and all sorts of stuff about it,\" he said.",
+      "替换变异": [
+         "\"There was a cast of a dinosaur bone and you can scan the QR scan on the computers and it will tell you all about where it was found and all sorts of stuff about it,\" he said.",
+         "\"There was a cast of a dinosaur bone and you can scan the QR file on the computers and it will tell you all about where it was found and all sorts of stuff about it,\" he said."
+      ],
+      "替换术语": [
+         "QR scan",
+         "QR file"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "语法错误"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "语法错误"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "语法错误"
+      }
+   },
+   "Middle class workers aged 50 and above are being forced to delay their retirement until they are 'at least 70', with many blaming their children, a report revealed yesterday.": {
+      "序号": 15,
+      "原句": "Middle class workers aged 50 and above are being forced to delay their retirement until they are 'at least 70', with many blaming their children, a report revealed yesterday.",
+      "术语": "middle class",
+      "insert变异": "Middle class (the groups in society composed of professionals, semi-professionals, and lower to middle managerial level workers) workers aged 50 and above are being forced to delay their retirement until they are 'at least 70', with many blaming their children, a report revealed yesterday.",
+      "替换变异": [
+         "Middle aged workers aged 50 and above are being forced to delay their retirement until they are 'at least 70', with many blaming their children, a report revealed yesterday."
+      ],
+      "替换术语": [
+         "Middle aged"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Through a brief description on the project management and project bid-invitation management, the thesis definitely explains some basic conceptions, analyses some problems in the current project bid-invitation methods, and finds out the causes for the problems.": {
+      "序号": 16,
+      "原句": "Through a brief description on the project management and project bid-invitation management, the thesis definitely explains some basic conceptions, analyses some problems in the current project bid-invitation methods, and finds out the causes for the problems.",
+      "术语": "project management",
+      "insert变异": "Through a brief description on the project management (see: project, management) and project bid-invitation management, the thesis definitely explains some basic conceptions, analyses some problems in the current project bid-invitation methods, and finds out the causes for the problems.",
+      "替换变异": [
+         "Through a brief description on the project methodology and project bid-invitation management, the thesis definitely explains some basic conceptions, analyses some problems in the current project bid-invitation methods, and finds out the causes for the problems."
+      ],
+      "替换术语": [
+         "project methodology"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "After a few dog treats disappeared, employees at a Dollar General store in Clinton soon discovered their thief was a four-legged bandit.": {
+      "序号": 17,
+      "原句": "After a few dog treats disappeared, employees at a Dollar General store in Clinton soon discovered their thief was a four-legged bandit.",
+      "术语": "general store",
+      "insert变异": "After a few dog treats disappeared, employees at a Dollar General store (a store which sells a large variety of useful things, without specializing highly in any particular type of merchandise, and which is not departmentalized) in Clinton soon discovered their thief was a four-legged bandit.",
+      "替换变异": [
+         "After a few dog treats disappeared, employees at a Dollar General supermarket in Clinton soon discovered their thief was a four-legged bandit.",
+         "After a few dog treats disappeared, employees at a Dollar General plant in Clinton soon discovered their thief was a four-legged bandit."
+      ],
+      "替换术语": [
+         "General supermarket",
+         "General plant"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "He also suspected that running an electric current through the silver might help the process, because electrical fields have the ability to break down the membranes that surround bacterial cells.": {
+      "序号": 18,
+      "原句": "He also suspected that running an electric current through the silver might help the process, because electrical fields have the ability to break down the membranes that surround bacterial cells.",
+      "术语": "electric current",
+      "insert变异": "He also suspected that running an electric current (a net unidirectional movement of electrons, or other charge carriers, caused by a potential difference) through the silver might help the process, because electrical fields have the ability to break down the membranes that surround bacterial cells.",
+      "替换变异": [
+         "He also suspected that running an electric field through the silver might help the process, because electrical fields have the ability to break down the membranes that surround bacterial cells."
+      ],
+      "替换术语": [
+         "electric field"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Beltran says the gene therapy appears to be safe and effective in stopping the progression of the disease, but he cautions that it can't do much to reverse vision loss.": {
+      "序号": 19,
+      "原句": "Beltran says the gene therapy appears to be safe and effective in stopping the progression of the disease, but he cautions that it can't do much to reverse vision loss.",
+      "术语": "gene therapy",
+      "insert变异": "Beltran says the gene therapy (any of several therapies involving the insertion of genes into a patient's cells in order to replace defective ones) appears to be safe and effective in stopping the progression of the disease, but he cautions that it can't do much to reverse vision loss.",
+      "替换变异": [
+         "Beltran says the radiation therapy appears to be safe and effective in stopping the progression of the disease, but he cautions that it can't do much to reverse vision loss.",
+         "Beltran says the laser therapy appears to be safe and effective in stopping the progression of the disease, but he cautions that it can't do much to reverse vision loss.",
+         "Beltran says the gene product appears to be safe and effective in stopping the progression of the disease, but he cautions that it can't do much to reverse vision loss."
+      ],
+      "替换术语": [
+         "radiation therapy",
+         "laser therapy",
+         "gene product"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "B: Don't worry. The driver's used to meeting people like that. If there's any problem, he'll ask for an announcement to be made over the Tannoy System, asking Mr. Schmitt to come to the reception desk.": {
+      "序号": 20,
+      "原句": "B: Don't worry. The driver's used to meeting people like that. If there's any problem, he'll ask for an announcement to be made over the Tannoy System, asking Mr. Schmitt to come to the reception desk.",
+      "术语": "reception desk",
+      "insert变异": "B: Don't worry. The driver's used to meeting people like that. If there's any problem, he'll ask for an announcement to be made over the Tannoy System, asking Mr. Schmitt to come to the reception desk (the place in public and company buildings where a receptionist presides, typically located in the front entrance of a building just inside the door, at a reception desk you may ask how to gain access to different parts of the building).",
+      "替换变异": [
+         "B: Don't worry. The driver's used to meeting people like that. If there's any problem, he'll ask for an announcement to be made over the Tannoy System, asking Mr. Schmitt to come to the front desk.",
+         "B: Don't worry. The driver's used to meeting people like that. If there's any problem, he'll ask for an announcement to be made over the Tannoy System, asking Mr. Schmitt to come to the reception area.",
+         "B: Don't worry. The driver's used to meeting people like that. If there's any problem, he'll ask for an announcement to be made over the Tannoy System, asking Mr. Schmitt to come to the reception first.",
+         "B: Don't worry. The driver's used to meeting people like that. If there's any problem, he'll ask for an announcement to be made over the Tannoy System, asking Mr. Schmitt to come to the reception room."
+      ],
+      "替换术语": [
+         "front desk",
+         "reception area",
+         "reception first",
+         "reception room"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "That premature babies have a higher death rate in the first years of life is not surprising, but Crump says it had been thought that the risk decreased as the child got older.": {
+      "序号": 21,
+      "原句": "That premature babies have a higher death rate in the first years of life is not surprising, but Crump says it had been thought that the risk decreased as the child got older.",
+      "术语": "death rate",
+      "insert变异": "That premature babies have a higher death rate (the number of deaths per given unit of population over a given period of time) in the first years of life is not surprising, but Crump says it had been thought that the risk decreased as the child got older.",
+      "替换变异": [
+         "That premature babies have a higher survival rate in the first years of life is not surprising, but Crump says it had been thought that the risk decreased as the child got older.",
+         "That premature babies have a higher birth rate in the first years of life is not surprising, but Crump says it had been thought that the risk decreased as the child got older.",
+         "That premature babies have a higher fertility rate in the first years of life is not surprising, but Crump says it had been thought that the risk decreased as the child got older.",
+         "That premature babies have a higher death risk in the first years of life is not surprising, but Crump says it had been thought that the risk decreased as the child got older.",
+         "That premature babies have a higher death toll in the first years of life is not surprising, but Crump says it had been thought that the risk decreased as the child got older."
+      ],
+      "替换术语": [
+         "survival rate",
+         "birth rate",
+         "fertility rate",
+         "death risk",
+         "death toll"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "The M&A work of investment bank is to provide service in the dealer of enterprises M&A.": {
+      "序号": 22,
+      "原句": "The M&A work of investment bank is to provide service in the dealer of enterprises M&A.",
+      "术语": "investment bank",
+      "insert变异": "The M&A work of investment bank (a financial institution that deals with raising capital, trading in securities and managing corporate mergers and acquisitions) is to provide service in the dealer of enterprises M&A.",
+      "替换变异": [
+         "The M&A work of investment management is to provide service in the dealer of enterprises M&A."
+      ],
+      "替换术语": [
+         "investment management"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "However, this technology cannot yet be automated from the command line.": {
+      "序号": 23,
+      "原句": "However, this technology cannot yet be automated from the command line.",
+      "术语": "command line",
+      "insert变异": "However, this technology cannot yet be automated from the command line (a shell, a command line interface).",
+      "替换变异": [
+         "However, this technology cannot yet be automated from the assembly line.",
+         "However, this technology cannot yet be automated from the production line.",
+         "However, this technology cannot yet be automated from the command center."
+      ],
+      "替换术语": [
+         "assembly line",
+         "production line",
+         "command center"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Both groups also use the anti- histamine drugs, calcium, corticosteroids, the treatment group and Chinese herbal medicine outside the wash treatment.": {
+      "序号": 24,
+      "原句": "Both groups also use the anti- histamine drugs, calcium, corticosteroids, the treatment group and Chinese herbal medicine outside the wash treatment.",
+      "术语": "herbal medicine",
+      "insert变异": "Both groups also use the anti- histamine drugs, calcium, corticosteroids, the treatment group and Chinese herbal medicine (herbalism) outside the wash treatment.",
+      "替换变异": [
+         "Both groups also use the anti- histamine drugs, calcium, corticosteroids, the treatment group and Chinese herbal tea outside the wash treatment."
+      ],
+      "替换术语": [
+         "herbal tea"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "The principles should he followed during the management are to have a high regard for natural law, ensuring harmonious development with nature;": {
+      "序号": 25,
+      "原句": "The principles should he followed during the management are to have a high regard for natural law, ensuring harmonious development with nature;",
+      "术语": "natural law",
+      "insert变异": "The principles should he followed during the management are to have a high regard for natural law (a law relating to natural phenomena, a law of nature), ensuring harmonious development with nature;",
+      "替换变异": [
+         "The principles should he followed during the management are to have a high regard for natural environment, ensuring harmonious development with nature;",
+         "The principles should he followed during the management are to have a high regard for natural beauty, ensuring harmonious development with nature;"
+      ],
+      "替换术语": [
+         "natural environment",
+         "natural beauty"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Information technology is predicated on the idea that the material being processed is but an analogue of real - world things.": {
+      "序号": 26,
+      "原句": "Information technology is predicated on the idea that the material being processed is but an analogue of real - world things.",
+      "术语": "information technology",
+      "insert变异": "Information technology (the computing department of an organization) is predicated on the idea that the material being processed is but an analogue of real - world things.",
+      "替换变异": [
+         "Information processing is predicated on the idea that the material being processed is but an analogue of real - world things."
+      ],
+      "替换术语": [
+         "Information processing"
+      ],
+      "manual_1_result": {
+         "info_insert": "反常识",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "反常识",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "反常识",
+         "bert_replace": "真实"
+      }
+   },
+   "Clear off the coffee table with one wag of its tail.": {
+      "序号": 27,
+      "原句": "Clear off the coffee table with one wag of its tail.",
+      "术语": "coffee table",
+      "insert变异": "Clear off the coffee table (a long, low table, often placed before seating in a living room, on which drinks may be served, and magazines etc placed) with one wag of its tail.",
+      "替换变异": [
+         "Clear off the kitchen table with one wag of its tail.",
+         "Clear off the pool table with one wag of its tail."
+      ],
+      "替换术语": [
+         "kitchen table",
+         "pool table"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "The current euro zone financial crisis should not obscure the historic accomplishment that was the building of an integrated Europe over the past half-century.": {
+      "序号": 28,
+      "原句": "The current euro zone financial crisis should not obscure the historic accomplishment that was the building of an integrated Europe over the past half-century.",
+      "术语": "financial crisis",
+      "insert变异": "The current euro zone financial crisis (an episode of sharp instability in the global or a local financial system in which financial assets lose a significant proportion of their value, often caused by the bursting of an economic bubble) should not obscure the historic accomplishment that was the building of an integrated Europe over the past half-century.",
+      "替换变异": [
+         "The current euro zone financial system should not obscure the historic accomplishment that was the building of an integrated Europe over the past half-century."
+      ],
+      "替换术语": [
+         "financial system"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "A milder form commonly called Asperger's syndrome will no longer be listed as a separate disorder with its own name.": {
+      "序号": 29,
+      "原句": "A milder form commonly called Asperger's syndrome will no longer be listed as a separate disorder with its own name.",
+      "术语": "Asperger's syndrome",
+      "insert变异": "A milder form commonly called Asperger's syndrome (an autism-related developmental disorder characterised by sustained impairment in social interaction and nonverbal communication and by repetitive behaviour as well as restricted interests and routines) will no longer be listed as a separate disorder with its own name.",
+      "替换变异": [
+         "A milder form commonly called Asperger's disease will no longer be listed as a separate disorder with its own name."
+      ],
+      "替换术语": [
+         "Asperger's disease"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "As the ban against these weapons erodes, other tyrants will have no reason to think twice about acquiring poison gas, and using them.": {
+      "序号": 30,
+      "原句": "As the ban against these weapons erodes, other tyrants will have no reason to think twice about acquiring poison gas, and using them.",
+      "术语": "poison gas",
+      "insert变异": "As the ban against these weapons erodes, other tyrants will have no reason to think twice about acquiring poison gas (a poisonous gas), and using them.",
+      "替换变异": [
+         "As the ban against these weapons erodes, other tyrants will have no reason to think twice about acquiring tear gas, and using them.",
+         "As the ban against these weapons erodes, other tyrants will have no reason to think twice about acquiring nerve gas, and using them."
+      ],
+      "替换术语": [
+         "tear gas",
+         "nerve gas"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Fine chemicals database collected a large amount of fine chemicals information, including their names, molecular structures, physical chemistry properties and so on.": {
+      "序号": 31,
+      "原句": "Fine chemicals database collected a large amount of fine chemicals information, including their names, molecular structures, physical chemistry properties and so on.",
+      "术语": "physical chemistry",
+      "insert变异": "Fine chemicals database collected a large amount of fine chemicals information, including their names, molecular structures, physical chemistry (the science that uses theories and techniques from physics to study chemical systems) properties and so on.",
+      "替换变异": [
+         "Fine chemicals database collected a large amount of fine chemicals information, including their names, molecular structures, physical chemical properties and so on."
+      ],
+      "替换术语": [
+         "physical chemical"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "There is, in other words, a deep fear stalking the heart of all government bond markets.": {
+      "序号": 32,
+      "原句": "There is, in other words, a deep fear stalking the heart of all government bond markets.",
+      "术语": "government bond",
+      "insert变异": "There is, in other words, a deep fear stalking the heart of all government bond (a bond issued by a national government, generally with a promise to pay periodic interest payments and to repay the face value on the maturity date) markets.",
+      "替换变异": [
+         "There is, in other words, a deep fear stalking the heart of all government capital markets.",
+         "There is, in other words, a deep fear stalking the heart of all government stock markets."
+      ],
+      "替换术语": [
+         "government capital",
+         "government stock"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Despite this, Macau posted a trade surplus with Brazil last year of US$5.1 million. However, this year Macau exports were ten time Brazilian imports, while in 2005 they were 23 times greater.": {
+      "序号": 33,
+      "原句": "Despite this, Macau posted a trade surplus with Brazil last year of US$5.1 million. However, this year Macau exports were ten time Brazilian imports, while in 2005 they were 23 times greater.",
+      "术语": "trade surplus",
+      "insert变异": "Despite this, Macau posted a trade surplus (a positive balance of trade) with Brazil last year of US$5.1 million. However, this year Macau exports were ten time Brazilian imports, while in 2005 they were 23 times greater.",
+      "替换变异": [
+         "Despite this, Macau posted a trade deficit with Brazil last year of US$5.1 million. However, this year Macau exports were ten time Brazilian imports, while in 2005 they were 23 times greater."
+      ],
+      "替换术语": [
+         "trade deficit"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Dirk Van Vlaanderen of Jefferies, a bank, notes that buying Foster’s will only drag the emerging-market share of SABMiller’s revenues down from 80% to 70% of the total.": {
+      "序号": 34,
+      "原句": "Dirk Van Vlaanderen of Jefferies, a bank, notes that buying Foster’s will only drag the emerging-market share of SABMiller’s revenues down from 80% to 70% of the total.",
+      "术语": "market share",
+      "insert变异": "Dirk Van Vlaanderen of Jefferies, a bank, notes that buying Foster’s will only drag the emerging-market share (the percentage of some market held by a company, country, (sub)sector or any other actor or aggregate) of SABMiller’s revenues down from 80% to 70% of the total.",
+      "替换变异": [
+         "Dirk Van Vlaanderen of Jefferies, a bank, notes that buying Foster’s will only drag the emerging-market value of SABMiller’s revenues down from 80% to 70% of the total.",
+         "Dirk Van Vlaanderen of Jefferies, a bank, notes that buying Foster’s will only drag the emerging-market level of SABMiller’s revenues down from 80% to 70% of the total."
+      ],
+      "替换术语": [
+         "market value",
+         "market level"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "We should be grateful to have an opportunity to continue to study in a vocational school, so we must make good use of time.": {
+      "序号": 35,
+      "原句": "We should be grateful to have an opportunity to continue to study in a vocational school, so we must make good use of time.",
+      "术语": "vocational school",
+      "insert变异": "We should be grateful to have an opportunity to continue to study in a vocational school (a school that provides training in specific skills required for different industries), so we must make good use of time.",
+      "替换变异": [
+         "We should be grateful to have an opportunity to continue to study in a vocational college, so we must make good use of time.",
+         "We should be grateful to have an opportunity to continue to study in a vocational institution, so we must make good use of time."
+      ],
+      "替换术语": [
+         "vocational college",
+         "vocational institution"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "A charity has hit out at proposals to legalise child pornography in a bid to cut the number of child sex abuse cases.": {
+      "序号": 36,
+      "原句": "A charity has hit out at proposals to legalise child pornography in a bid to cut the number of child sex abuse cases.",
+      "术语": "child pornography",
+      "insert变异": "A charity has hit out at proposals to legalise child pornography (pornographic material depicting minors; sexually explicit (or suggestive) images of children) in a bid to cut the number of child sex abuse cases.",
+      "替换变异": [
+         "A charity has hit out at proposals to legalise child prostitution in a bid to cut the number of child sex abuse cases.",
+         "A charity has hit out at proposals to legalise child sex in a bid to cut the number of child sex abuse cases."
+      ],
+      "替换术语": [
+         "child prostitution",
+         "child sex"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "The biggest slice of PALOP debt to Portugal is the responsibility of Angola–US$698 million(440 million euros), which in line with an agreement signed in 2004 will be paid back as of 2009, over 30 years at an interest rate of 1 percent.": {
+      "序号": 37,
+      "原句": "The biggest slice of PALOP debt to Portugal is the responsibility of Angola–US$698 million(440 million euros), which in line with an agreement signed in 2004 will be paid back as of 2009, over 30 years at an interest rate of 1 percent.",
+      "术语": "interest rate",
+      "insert变异": "The biggest slice of PALOP debt to Portugal is the responsibility of Angola–US$698 million(440 million euros), which in line with an agreement signed in 2004 will be paid back as of 2009, over 30 years at an interest rate (the percentage of an amount of money charged for its use per some period of time (often a year)) of 1 percent.",
+      "替换变异": [
+         "The biggest slice of PALOP debt to Portugal is the responsibility of Angola–US$698 million(440 million euros), which in line with an agreement signed in 2004 will be paid back as of 2009, over 30 years at an annual rate of 1 percent.",
+         "The biggest slice of PALOP debt to Portugal is the responsibility of Angola–US$698 million(440 million euros), which in line with an agreement signed in 2004 will be paid back as of 2009, over 30 years at an average rate of 1 percent.",
+         "The biggest slice of PALOP debt to Portugal is the responsibility of Angola–US$698 million(440 million euros), which in line with an agreement signed in 2004 will be paid back as of 2009, over 30 years at an exchange rate of 1 percent."
+      ],
+      "替换术语": [
+         "annual rate",
+         "average rate",
+         "exchange rate"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "This paper proposed a new license plate location algorithm, which based on scene classification and gray level jump.": {
+      "序号": 38,
+      "原句": "This paper proposed a new license plate location algorithm, which based on scene classification and gray level jump.",
+      "术语": "license plate",
+      "insert变异": "This paper proposed a new license plate (an identifying tag, usually of metal, bearing a sequence of letters, numbers, or both identifying the vehicle, and placed at the back and, often, also at the front of a motor vehicle) location algorithm, which based on scene classification and gray level jump.",
+      "替换变异": [
+         "This paper proposed a new color plate location algorithm, which based on scene classification and gray level jump."
+      ],
+      "替换术语": [
+         "color plate"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "A camel’s metabolism lowers at night, making its body temperature much lower than a human’s.": {
+      "序号": 39,
+      "原句": "A camel’s metabolism lowers at night, making its body temperature much lower than a human’s.",
+      "术语": "body temperature",
+      "insert变异": "A camel’s metabolism lowers at night, making its body temperature (the current temperature of the body of a person or animal, especially when used as a simple guide to health) much lower than a human’s.",
+      "替换变异": [
+         "A camel’s metabolism lowers at night, making its body feel much lower than a human’s."
+      ],
+      "替换术语": [
+         "body feel"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "For a while he had no car, or radio, or bank account.": {
+      "序号": 40,
+      "原句": "For a while he had no car, or radio, or bank account.",
+      "术语": "bank account",
+      "insert变异": "For a while he had no car, or radio, or bank account (a fund, held by a bank in a contractual arrangement between the bank and the owner of the fund, a customer of the bank, into which they can deposit and from which they can withdraw money).",
+      "替换变异": [
+         "For a while he had no car, or radio, or bank card."
+      ],
+      "替换术语": [
+         "bank card"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "The central heating's thermostat may turn down a notch or two.": {
+      "序号": 41,
+      "原句": "The central heating's thermostat may turn down a notch or two.",
+      "术语": "central heating",
+      "insert变异": "The central heating (any of various heating systems in which a central source of heat is used to distribute heat (and sometimes hot water) throughout a building in a controlled manner)'s thermostat may turn down a notch or two.",
+      "替换变异": [
+         "The central chamber's thermostat may turn down a notch or two.",
+         "The central valve's thermostat may turn down a notch or two."
+      ],
+      "替换术语": [
+         "central chamber",
+         "central valve"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "On Monday the Swedish businesspeople visited economic projects located at the Beluluane industrial park in Boane district, which is the location of Mozal, an aluminium foundry representing an investment of over US$2 billion.": {
+      "序号": 42,
+      "原句": "On Monday the Swedish businesspeople visited economic projects located at the Beluluane industrial park in Boane district, which is the location of Mozal, an aluminium foundry representing an investment of over US$2 billion.",
+      "术语": "industrial park",
+      "insert变异": "On Monday the Swedish businesspeople visited economic projects located at the Beluluane industrial park (an area zoned and planned for the purpose of industrial development) in Boane district, which is the location of Mozal, an aluminium foundry representing an investment of over US$2 billion.",
+      "替换变异": [
+         "On Monday the Swedish businesspeople visited economic projects located at the Beluluane industrial area in Boane district, which is the location of Mozal, an aluminium foundry representing an investment of over US$2 billion.",
+         "On Monday the Swedish businesspeople visited economic projects located at the Beluluane industrial complex in Boane district, which is the location of Mozal, an aluminium foundry representing an investment of over US$2 billion.",
+         "On Monday the Swedish businesspeople visited economic projects located at the Beluluane industrial zone in Boane district, which is the location of Mozal, an aluminium foundry representing an investment of over US$2 billion."
+      ],
+      "替换术语": [
+         "industrial area",
+         "industrial complex",
+         "industrial zone"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "That must be the reason why all the people congratulate on their health care system providing more lives for them.": {
+      "序号": 43,
+      "原句": "That must be the reason why all the people congratulate on their health care system providing more lives for them.",
+      "术语": "health care",
+      "insert变异": "That must be the reason why all the people congratulate on their health care (the prevention, treatment, and management of illness or the preservation of mental and physical well-being through the services offered by the medical, nursing, and allied health professions) system providing more lives for them.",
+      "替换变异": [
+         "That must be the reason why all the people congratulate on their foster care system providing more lives for them.",
+         "That must be the reason why all the people congratulate on their health insurance system providing more lives for them."
+      ],
+      "替换术语": [
+         "foster care",
+         "health insurance"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "What they saw was an attempt to use the crisis to push the political economy of America in a more statist and Washington-centric direction.": {
+      "序号": 44,
+      "原句": "What they saw was an attempt to use the crisis to push the political economy of America in a more statist and Washington-centric direction.",
+      "术语": "political economy",
+      "insert变异": "What they saw was an attempt to use the crisis to push the political economy (interdisciplinary studies drawing upon economics, law, and political science in explaining how political institutions, the political environment, and the economic system — capitalist, socialist, mixed, and so on — influence each other) of America in a more statist and Washington-centric direction.",
+      "替换变异": [
+         "What they saw was an attempt to use the crisis to push the political climate of America in a more statist and Washington-centric direction.",
+         "What they saw was an attempt to use the crisis to push the political landscape of America in a more statist and Washington-centric direction."
+      ],
+      "替换术语": [
+         "political climate",
+         "political landscape"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "The old was the men's 10 -metre air pistol gold medallist Wang Yifu, at 43, the oldest in China's delegation. The young was fellow shooter Du Li, 22, who won the women's 10 -metre air rifle.": {
+      "序号": 45,
+      "原句": "The old was the men's 10 -metre air pistol gold medallist Wang Yifu, at 43, the oldest in China's delegation. The young was fellow shooter Du Li, 22, who won the women's 10 -metre air rifle.",
+      "术语": "air pistol",
+      "insert变异": "The old was the men's 10 -metre air pistol (a pistol that propels a pellet or other projectile by using compressed gas, rather than an explosion of gunpowder or other means) gold medallist Wang Yifu, at 43, the oldest in China's delegation. The young was fellow shooter Du Li, 22, who won the women's 10 -metre air rifle.",
+      "替换变异": [
+         "The old was the men's 10 -metre air rifle gold medallist Wang Yifu, at 43, the oldest in China's delegation. The young was fellow shooter Du Li, 22, who won the women's 10 -metre air rifle."
+      ],
+      "替换术语": [
+         "air rifle"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Of the cases identified on the campaign day in 2008, more than 3000 were basal cell carcinomas (non- melanomas) and 354 were malignant melanomas, the most deadly type of skin cancer.": {
+      "序号": 46,
+      "原句": "Of the cases identified on the campaign day in 2008, more than 3000 were basal cell carcinomas (non- melanomas) and 354 were malignant melanomas, the most deadly type of skin cancer.",
+      "术语": "skin cancer",
+      "insert变异": "Of the cases identified on the campaign day in 2008, more than 3000 were basal cell carcinomas (non- melanomas) and 354 were malignant melanomas, the most deadly type of skin cancer (a malignant growth on the skin, such as melanoma).",
+      "替换变异": [
+         "Of the cases identified on the campaign day in 2008, more than 3000 were basal cell carcinomas (non- melanomas) and 354 were malignant melanomas, the most deadly type of breast cancer.",
+         "Of the cases identified on the campaign day in 2008, more than 3000 were basal cell carcinomas (non- melanomas) and 354 were malignant melanomas, the most deadly type of lung cancer.",
+         "Of the cases identified on the campaign day in 2008, more than 3000 were basal cell carcinomas (non- melanomas) and 354 were malignant melanomas, the most deadly type of brain cancer."
+      ],
+      "替换术语": [
+         "breast cancer",
+         "lung cancer",
+         "brain cancer"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Israel has confirmed that it start to allow some building materials into the Gaza Strip supply which has been banned under the long running Israeli blockade.": {
+      "序号": 47,
+      "原句": "Israel has confirmed that it start to allow some building materials into the Gaza Strip supply which has been banned under the long running Israeli blockade.",
+      "术语": "Gaza Strip",
+      "insert变异": "Israel has confirmed that it start to allow some building materials into the Gaza Strip (region in Palestine: a small area of land on the eastern coast of the Mediterranean Sea, a Palestinian territory bordered by Egypt and Israel) supply which has been banned under the long running Israeli blockade.",
+      "替换变异": [
+         "Israel has confirmed that it start to allow some building materials into the Gaza water supply which has been banned under the long running Israeli blockade."
+      ],
+      "替换术语": [
+         "Gaza water"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "The folded, meandering surface allows the brain to pack in more surface area — and thus, more processing power — into the limited confines of the skull.": {
+      "序号": 48,
+      "原句": "The folded, meandering surface allows the brain to pack in more surface area — and thus, more processing power — into the limited confines of the skull.",
+      "术语": "surface area",
+      "insert变异": "The folded, meandering surface allows the brain to pack in more surface area (the total area on the surface of an object) — and thus, more processing power — into the limited confines of the skull.",
+      "替换变异": [
+         "The folded, meandering surface allows the brain to pack in more surface space — and thus, more processing power — into the limited confines of the skull."
+      ],
+      "替换术语": [
+         "surface space"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "But Banerjee says a downturn will be eased somewhat by the strength in domestic consumption in Asia, with most governments holding substantial foreign exchange reserves. He says the medium term outlook is favorable.": {
+      "序号": 49,
+      "原句": "But Banerjee says a downturn will be eased somewhat by the strength in domestic consumption in Asia, with most governments holding substantial foreign exchange reserves. He says the medium term outlook is favorable.",
+      "术语": "foreign exchange",
+      "insert变异": "But Banerjee says a downturn will be eased somewhat by the strength in domestic consumption in Asia, with most governments holding substantial foreign exchange (foreign currency) reserves. He says the medium term outlook is favorable.",
+      "替换变异": [
+         "But Banerjee says a downturn will be eased somewhat by the strength in domestic consumption in Asia, with most governments holding substantial foreign currency reserves. He says the medium term outlook is favorable.",
+         "But Banerjee says a downturn will be eased somewhat by the strength in domestic consumption in Asia, with most governments holding substantial foreign energy reserves. He says the medium term outlook is favorable.",
+         "But Banerjee says a downturn will be eased somewhat by the strength in domestic consumption in Asia, with most governments holding substantial foreign oil reserves. He says the medium term outlook is favorable."
+      ],
+      "替换术语": [
+         "foreign currency",
+         "foreign energy",
+         "foreign oil"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "The “uniform” is the special clothing that you wear for a job, in this case, a police officer.": {
+      "序号": 50,
+      "原句": "The “uniform” is the special clothing that you wear for a job, in this case, a police officer.",
+      "术语": "police officer",
+      "insert变异": "The “uniform” is the special clothing that you wear for a job, in this case, a police officer (a peace officer who is a member of a police force).",
+      "替换变异": [
+         "The “uniform” is the special clothing that you wear for a job, in this case, a police job.",
+         "The “uniform” is the special clothing that you wear for a job, in this case, a police uniform.",
+         "The “uniform” is the special clothing that you wear for a job, in this case, a police department.",
+         "The “uniform” is the special clothing that you wear for a job, in this case, a police station."
+      ],
+      "替换术语": [
+         "police job",
+         "police uniform",
+         "police department",
+         "police station"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "About 90% gold can be leached out using solution of bromine and sodium bromide to macerate the ore for 15￣20 days.": {
+      "序号": 51,
+      "原句": "About 90% gold can be leached out using solution of bromine and sodium bromide to macerate the ore for 15￣20 days.",
+      "术语": "sodium bromide",
+      "insert变异": "About 90% gold can be leached out using solution of bromine and sodium bromide (the sodium salt of hydrobromic acid (chemical formula NaBr)) to macerate the ore for 15￣20 days.",
+      "替换变异": [
+         "About 90% gold can be leached out using solution of bromine and potassium bromide to macerate the ore for 15￣20 days."
+      ],
+      "替换术语": [
+         "potassium bromide"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Brussels has also granted support of euros 4 million to civil society institutions and euros 1.6 million to water and sanitation projects being implemented by the Aga Khan Foundation.": {
+      "序号": 52,
+      "原句": "Brussels has also granted support of euros 4 million to civil society institutions and euros 1.6 million to water and sanitation projects being implemented by the Aga Khan Foundation.",
+      "术语": "civil society",
+      "insert变异": "Brussels has also granted support of euros 4 million to civil society (all of the institutions, voluntary organizations and corporate bodies that are less than the state but greater than the family) institutions and euros 1.6 million to water and sanitation projects being implemented by the Aga Khan Foundation.",
+      "替换变异": [
+         "Brussels has also granted support of euros 4 million to civil service institutions and euros 1.6 million to water and sanitation projects being implemented by the Aga Khan Foundation."
+      ],
+      "替换术语": [
+         "civil service"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "‘The skin contains three times the anti¬oxidants of the pulp; it also fights off bugs such as Staphylococcus and E-coli, which are responsible for food poisoning.’": {
+      "序号": 53,
+      "原句": "‘The skin contains three times the anti¬oxidants of the pulp; it also fights off bugs such as Staphylococcus and E-coli, which are responsible for food poisoning.’",
+      "术语": "food poisoning",
+      "insert变异": "‘The skin contains three times the anti¬oxidants of the pulp; it also fights off bugs such as Staphylococcus and E-coli, which are responsible for food poisoning (any food-borne disease, such as salmonella, which causes diarrhea, nausea, fever and abdominal cramps).’",
+      "替换变异": [
+         "‘The skin contains three times the anti¬oxidants of the pulp; it also fights off bugs such as Staphylococcus and E-coli, which are responsible for lead poisoning.’"
+      ],
+      "替换术语": [
+         "lead poisoning"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "反常识"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Part of this was a change in the way the medical community decided to look at mental illness.": {
+      "序号": 54,
+      "原句": "Part of this was a change in the way the medical community decided to look at mental illness.",
+      "术语": "mental illness",
+      "insert变异": "Part of this was a change in the way the medical community decided to look at mental illness (a mental disorder).",
+      "替换变异": [
+         "Part of this was a change in the way the medical community decided to look at mental health."
+      ],
+      "替换术语": [
+         "mental health"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "On the other hand, your weight loss is in fact a continuous function, so each piece of data should be attached.": {
+      "序号": 55,
+      "原句": "On the other hand, your weight loss is in fact a continuous function, so each piece of data should be attached.",
+      "术语": "weight loss",
+      "insert变异": "On the other hand, your weight loss (the reduction of total body mass due to loss of fluid, fat, tissue, etc.) is in fact a continuous function, so each piece of data should be attached.",
+      "替换变异": [
+         "On the other hand, your data loss is in fact a continuous function, so each piece of data should be attached.",
+         "On the other hand, your memory loss is in fact a continuous function, so each piece of data should be attached.",
+         "On the other hand, your weight function is in fact a continuous function, so each piece of data should be attached.",
+         "On the other hand, your weight distribution is in fact a continuous function, so each piece of data should be attached."
+      ],
+      "替换术语": [
+         "data loss",
+         "memory loss",
+         "weight function",
+         "weight distribution"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "This paper gives a method of the reliability optimizing design of fixed moment of force spanner.": {
+      "序号": 56,
+      "原句": "This paper gives a method of the reliability optimizing design of fixed moment of force spanner.",
+      "术语": "moment of force",
+      "insert变异": "This paper gives a method of the reliability optimizing design of fixed moment of force (the turning effect of a force applied to a rotational system at a distance from the axis of rotation, the moment is equal to the magnitude of the force multiplied by the perpendicular distance between its line of action and the axis of rotation) spanner.",
+      "替换变异": [
+         "This paper gives a method of the reliability optimizing design of fixed type of force spanner."
+      ],
+      "替换术语": [
+         "type of force"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "If you are developing an application to run on a local Web server, give thought to the question of what happens when someone else accesses it over the network.": {
+      "序号": 57,
+      "原句": "If you are developing an application to run on a local Web server, give thought to the question of what happens when someone else accesses it over the network.",
+      "术语": "web server",
+      "insert变异": "If you are developing an application to run on a local Web server (the computer on which such software runs), give thought to the question of what happens when someone else accesses it over the network.",
+      "替换变异": [
+         "If you are developing an application to run on a local network server, give thought to the question of what happens when someone else accesses it over the network.",
+         "If you are developing an application to run on a local computer server, give thought to the question of what happens when someone else accesses it over the network.",
+         "If you are developing an application to run on a local application server, give thought to the question of what happens when someone else accesses it over the network.",
+         "If you are developing an application to run on a local Web site, give thought to the question of what happens when someone else accesses it over the network.",
+         "If you are developing an application to run on a local Web application, give thought to the question of what happens when someone else accesses it over the network.",
+         "If you are developing an application to run on a local Web connection, give thought to the question of what happens when someone else accesses it over the network."
+      ],
+      "替换术语": [
+         "network server",
+         "computer server",
+         "application server",
+         "Web site",
+         "Web application",
+         "Web connection"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "In an interview with Portuguese news agency Lusa, on the sidelines of an International Sea Transport Conference, Admiro Nelson Belo said that there were“several ”other parties interested in the partnership with the private Guinean airline, but“work with TAAG is very advanced.”": {
+      "序号": 58,
+      "原句": "In an interview with Portuguese news agency Lusa, on the sidelines of an International Sea Transport Conference, Admiro Nelson Belo said that there were“several ”other parties interested in the partnership with the private Guinean airline, but“work with TAAG is very advanced.”",
+      "术语": "news agency",
+      "insert变异": "In an interview with Portuguese news agency (alternative form of newsagency) Lusa, on the sidelines of an International Sea Transport Conference, Admiro Nelson Belo said that there were“several ”other parties interested in the partnership with the private Guinean airline, but“work with TAAG is very advanced.”",
+      "替换变异": [
+         "In an interview with Portuguese news channel Lusa, on the sidelines of an International Sea Transport Conference, Admiro Nelson Belo said that there were“several ”other parties interested in the partnership with the private Guinean airline, but“work with TAAG is very advanced.”",
+         "In an interview with Portuguese news magazine Lusa, on the sidelines of an International Sea Transport Conference, Admiro Nelson Belo said that there were“several ”other parties interested in the partnership with the private Guinean airline, but“work with TAAG is very advanced.”",
+         "In an interview with Portuguese news portal Lusa, on the sidelines of an International Sea Transport Conference, Admiro Nelson Belo said that there were“several ”other parties interested in the partnership with the private Guinean airline, but“work with TAAG is very advanced.”"
+      ],
+      "替换术语": [
+         "news channel",
+         "news magazine",
+         "news portal"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Because of short time, we have not study if soil fertility could come back or advance after withered and defoliation and part of herding grass returned to the soil and decomposed.": {
+      "序号": 59,
+      "原句": "Because of short time, we have not study if soil fertility could come back or advance after withered and defoliation and part of herding grass returned to the soil and decomposed.",
+      "术语": "soil fertility",
+      "insert变异": "Because of short time, we have not study if soil fertility (the ability of a soil to sustain plant growth) could come back or advance after withered and defoliation and part of herding grass returned to the soil and decomposed.",
+      "替换变异": [
+         "Because of short time, we have not study if plant fertility could come back or advance after withered and defoliation and part of herding grass returned to the soil and decomposed.",
+         "Because of short time, we have not study if soil material could come back or advance after withered and defoliation and part of herding grass returned to the soil and decomposed.",
+         "Because of short time, we have not study if soil roots could come back or advance after withered and defoliation and part of herding grass returned to the soil and decomposed."
+      ],
+      "替换术语": [
+         "plant fertility",
+         "soil material",
+         "soil roots"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "反常识"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "反常识"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "反常识"
+      }
+   },
+   "Extreme lumber disc herniation mainly showed radiating pain of sciatic nerve, besides slight lumbago, negative Bragards test and location sign of pressure epistatic or inferiority nerve root.": {
+      "序号": 60,
+      "原句": "Extreme lumber disc herniation mainly showed radiating pain of sciatic nerve, besides slight lumbago, negative Bragards test and location sign of pressure epistatic or inferiority nerve root.",
+      "术语": "sciatic nerve",
+      "insert变异": "Extreme lumber disc herniation mainly showed radiating pain of sciatic nerve (a large nerve that starts in the lower back and runs through the buttock and down the lower limb), besides slight lumbago, negative Bragards test and location sign of pressure epistatic or inferiority nerve root.",
+      "替换变异": [
+         "Extreme lumber disc herniation mainly showed radiating pain of sciatic origin, besides slight lumbago, negative Bragards test and location sign of pressure epistatic or inferiority nerve root.",
+         "Extreme lumber disc herniation mainly showed radiating pain of sciatic pain, besides slight lumbago, negative Bragards test and location sign of pressure epistatic or inferiority nerve root."
+      ],
+      "替换术语": [
+         "sciatic origin",
+         "sciatic pain"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Compared with the control group, MPHD had significant lower melancholy, be vulnerable to weep, disturbance of sleep, poor appetite, decreased libido, weight loss, uneasiness, irritability, hesitation, worthlessness factor scores, lower total scores of SDS(P<0.01), and had higher scores in heart-throb, thinking retardation and desperation factors.": {
+      "序号": 61,
+      "原句": "Compared with the control group, MPHD had significant lower melancholy, be vulnerable to weep, disturbance of sleep, poor appetite, decreased libido, weight loss, uneasiness, irritability, hesitation, worthlessness factor scores, lower total scores of SDS(P<0.01), and had higher scores in heart-throb, thinking retardation and desperation factors.",
+      "术语": "weight loss",
+      "insert变异": "Compared with the control group, MPHD had significant lower melancholy, be vulnerable to weep, disturbance of sleep, poor appetite, decreased libido, weight loss (the reduction of total body mass due to loss of fluid, fat, tissue, etc.), uneasiness, irritability, hesitation, worthlessness factor scores, lower total scores of SDS(P<0.01), and had higher scores in heart-throb, thinking retardation and desperation factors.",
+      "替换变异": [
+         "Compared with the control group, MPHD had significant lower melancholy, be vulnerable to weep, disturbance of sleep, poor appetite, decreased libido, memory loss, uneasiness, irritability, hesitation, worthlessness factor scores, lower total scores of SDS(P<0.01), and had higher scores in heart-throb, thinking retardation and desperation factors.",
+         "Compared with the control group, MPHD had significant lower melancholy, be vulnerable to weep, disturbance of sleep, poor appetite, decreased libido, weight gain, uneasiness, irritability, hesitation, worthlessness factor scores, lower total scores of SDS(P<0.01), and had higher scores in heart-throb, thinking retardation and desperation factors."
+      ],
+      "替换术语": [
+         "memory loss",
+         "weight gain"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "It gained the authority to force employers to provide back pay if employees were unjustly discharged because of union activities.": {
+      "序号": 62,
+      "原句": "It gained the authority to force employers to provide back pay if employees were unjustly discharged because of union activities.",
+      "术语": "back pay",
+      "insert变异": "It gained the authority to force employers to provide back pay (pay received by an employee from an increase awarded retrospectively, and backdated) if employees were unjustly discharged because of union activities.",
+      "替换变异": [
+         "It gained the authority to force employers to provide back payment if employees were unjustly discharged because of union activities."
+      ],
+      "替换术语": [
+         "back payment"
+      ],
+      "manual_1_result": {
+         "info_insert": "反常识",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "The device is 20 x 20 x 7 millimeters. It operates by temporarily melting a seal using an electric current, allowing that days medication to be dispersed.": {
+      "序号": 63,
+      "原句": "The device is 20 x 20 x 7 millimeters. It operates by temporarily melting a seal using an electric current, allowing that days medication to be dispersed.",
+      "术语": "electric current",
+      "insert变异": "The device is 20 x 20 x 7 millimeters. It operates by temporarily melting a seal using an electric current (a net unidirectional movement of electrons, or other charge carriers, caused by a potential difference), allowing that days medication to be dispersed.",
+      "替换变异": [
+         "The device is 20 x 20 x 7 millimeters. It operates by temporarily melting a seal using an electric motor, allowing that days medication to be dispersed.",
+         "The device is 20 x 20 x 7 millimeters. It operates by temporarily melting a seal using an electric field, allowing that days medication to be dispersed."
+      ],
+      "替换术语": [
+         "electric motor",
+         "electric field"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "College is the four years where you have:• the greatest amount of free time.• the first chance to be independent.• the most flexibility to change.• the lowest risk for making mistakes.": {
+      "序号": 64,
+      "原句": "College is the four years where you have:• the greatest amount of free time.• the first chance to be independent.• the most flexibility to change.• the lowest risk for making mistakes.",
+      "术语": "free time",
+      "insert变异": "College is the four years where you have:• the greatest amount of free time (time when one is not working).• the first chance to be independent.• the most flexibility to change.• the lowest risk for making mistakes.",
+      "替换变异": [
+         "College is the four years where you have:• the greatest amount of free will.• the first chance to be independent.• the most flexibility to change.• the lowest risk for making mistakes."
+      ],
+      "替换术语": [
+         "free will"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "There are many reasons for domestic talents shortage in India, the most important of which is brain drain.": {
+      "序号": 65,
+      "原句": "There are many reasons for domestic talents shortage in India, the most important of which is brain drain.",
+      "术语": "brain drain",
+      "insert变异": "There are many reasons for domestic talents shortage in India, the most important of which is brain drain (the migration of educated or talented people from less economically advanced areas to more economically advanced areas, especially to large cities or richer countries).",
+      "替换变异": [
+         "There are many reasons for domestic talents shortage in India, the most important of which is brain injury."
+      ],
+      "替换术语": [
+         "brain injury"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Wynn Resorts in 2007 posted net profit of 1.486 billion patacas, with net operating income of 11.184 billion patacas and operating costs and expenses of 9.715 billion patacas.": {
+      "序号": 66,
+      "原句": "Wynn Resorts in 2007 posted net profit of 1.486 billion patacas, with net operating income of 11.184 billion patacas and operating costs and expenses of 9.715 billion patacas.",
+      "术语": "net profit",
+      "insert变异": "Wynn Resorts in 2007 posted net profit (the gross revenue minus all expenses) of 1.486 billion patacas, with net operating income of 11.184 billion patacas and operating costs and expenses of 9.715 billion patacas.",
+      "替换变异": [
+         "Wynn Resorts in 2007 posted net income of 1.486 billion patacas, with net operating income of 11.184 billion patacas and operating costs and expenses of 9.715 billion patacas."
+      ],
+      "替换术语": [
+         "net income"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Very low level that did not exceed the drinking water standard but they had such a brouhaha that they almost shut this lab down because of the public outcry demanding that it be shut down.": {
+      "序号": 67,
+      "原句": "Very low level that did not exceed the drinking water standard but they had such a brouhaha that they almost shut this lab down because of the public outcry demanding that it be shut down.",
+      "术语": "drinking water",
+      "insert变异": "Very low level that did not exceed the drinking water (water that is suitable or intended for ingestion by humans) standard but they had such a brouhaha that they almost shut this lab down because of the public outcry demanding that it be shut down.",
+      "替换变异": [
+         "Very low level that did not exceed the national water standard but they had such a brouhaha that they almost shut this lab down because of the public outcry demanding that it be shut down.",
+         "Very low level that did not exceed the minimum water standard but they had such a brouhaha that they almost shut this lab down because of the public outcry demanding that it be shut down."
+      ],
+      "替换术语": [
+         "national water",
+         "minimum water"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Another ‘ green ’ use of bamboo is as a building material for alternative energy installations.": {
+      "序号": 68,
+      "原句": "Another ‘ green ’ use of bamboo is as a building material for alternative energy installations.",
+      "术语": "building material",
+      "insert变异": "Another ‘ green ’ use of bamboo is as a building material (any material which is used for construction purposes) for alternative energy installations.",
+      "替换变异": [
+         "Another ‘ green ’ use of bamboo is as a construction material for alternative energy installations.",
+         "Another ‘ green ’ use of bamboo is as a raw material for alternative energy installations.",
+         "Another ‘ green ’ use of bamboo is as a source material for alternative energy installations."
+      ],
+      "替换术语": [
+         "construction material",
+         "raw material",
+         "source material"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Scientists blame rising temperatures for the drop in sea ice levels.": {
+      "序号": 69,
+      "原句": "Scientists blame rising temperatures for the drop in sea ice levels.",
+      "术语": "sea ice",
+      "insert变异": "Scientists blame rising temperatures for the drop in sea ice (frozen seawater) levels.",
+      "替换变异": [
+         "Scientists blame rising temperatures for the drop in water ice levels.",
+         "Scientists blame rising temperatures for the drop in sea water levels."
+      ],
+      "替换术语": [
+         "water ice",
+         "sea water"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "If you reduce the stress of your job by choosing something with shorter work hours and greater flexibility, your body will thank you for it. You'll notice improvements in your immune system, digestion, circulation, and other key signs of physical health compared to an exhausted full-time worker.": {
+      "序号": 70,
+      "原句": "If you reduce the stress of your job by choosing something with shorter work hours and greater flexibility, your body will thank you for it. You'll notice improvements in your immune system, digestion, circulation, and other key signs of physical health compared to an exhausted full-time worker.",
+      "术语": "immune system",
+      "insert变异": "If you reduce the stress of your job by choosing something with shorter work hours and greater flexibility, your body will thank you for it. You'll notice improvements in your immune system (the system that differentiates self from non-self and protects the body from foreign substances and pathogenic organisms by producing an immune response, it includes organs such as the thymus, the spleen and lymph nodes; tissue such as bone marrow, and lymphoid tissues such as the tonsils; cells such as lymphocytes including the B cells and T cells, and cell products such as antibodies), digestion, circulation, and other key signs of physical health compared to an exhausted full-time worker.",
+      "替换变异": [
+         "If you reduce the stress of your job by choosing something with shorter work hours and greater flexibility, your body will thank you for it. You'll notice improvements in your immune function, digestion, circulation, and other key signs of physical health compared to an exhausted full-time worker."
+      ],
+      "替换术语": [
+         "immune function"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Your local bank probably won’t change much – they offer so little on the average savings account that it doesn’t matter too much.": {
+      "序号": 71,
+      "原句": "Your local bank probably won’t change much – they offer so little on the average savings account that it doesn’t matter too much.",
+      "术语": "savings account",
+      "insert变异": "Your local bank probably won’t change much – they offer so little on the average savings account (a bank account designed for a client's savings, which compared to a current account typically entails withdrawal restrictions but yields a better interest) that it doesn’t matter too much.",
+      "替换变异": [
+         "Your local bank probably won’t change much – they offer so little on the average bank account that it doesn’t matter too much."
+      ],
+      "替换术语": [
+         "bank account"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Traditionally, foreign policy does not decide the outcome of American elections.": {
+      "序号": 72,
+      "原句": "Traditionally, foreign policy does not decide the outcome of American elections.",
+      "术语": "foreign policy",
+      "insert变异": "Traditionally, foreign policy (a government's policy relating to relations with other nations and international organisations) does not decide the outcome of American elections.",
+      "替换变异": [
+         "Traditionally, foreign law does not decide the outcome of American elections."
+      ],
+      "替换术语": [
+         "foreign law"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Since 2008 Japanese software firms have lost 20% of their market value, even as software firms elsewhere grew by 15%.": {
+      "序号": 73,
+      "原句": "Since 2008 Japanese software firms have lost 20% of their market value, even as software firms elsewhere grew by 15%.",
+      "术语": "market value",
+      "insert变异": "Since 2008 Japanese software firms have lost 20% of their market value (the price which a seller or insurer might reasonably expect to fetch for goods, services or securities on the open market), even as software firms elsewhere grew by 15%.",
+      "替换变异": [
+         "Since 2008 Japanese software firms have lost 20% of their market share, even as software firms elsewhere grew by 15%."
+      ],
+      "替换术语": [
+         "market share"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "The reliability analysis shows that the method is not complicated for the pumps station of crude oil transmitting pipelines.": {
+      "序号": 74,
+      "原句": "The reliability analysis shows that the method is not complicated for the pumps station of crude oil transmitting pipelines.",
+      "术语": "crude oil",
+      "insert变异": "The reliability analysis shows that the method is not complicated for the pumps station of crude oil (unrefined oil; as it is found underground, consisting mainly of hydrocarbons) transmitting pipelines.",
+      "替换变异": [
+         "The reliability analysis shows that the method is not complicated for the pumps station of crude gas transmitting pipelines."
+      ],
+      "替换术语": [
+         "crude gas"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Try them and transform your brain fog into brain power and some!": {
+      "序号": 75,
+      "原句": "Try them and transform your brain fog into brain power and some!",
+      "术语": "brain fog",
+      "insert变异": "Try them and transform your brain fog (a mental condition in which the subject experiences problems in concentrating, thinking clearly, or remembering things; a sense of not being completely awake or mentally acute) into brain power and some!",
+      "替换变异": [
+         "Try them and transform your brain power into brain power and some!"
+      ],
+      "替换术语": [
+         "brain power"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "反常识"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "反常识"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "反常识"
+      }
+   },
+   "Family world is such a world where everyone finds his value in himself, so his value is not market value but love value.": {
+      "序号": 76,
+      "原句": "Family world is such a world where everyone finds his value in himself, so his value is not market value but love value.",
+      "术语": "market value",
+      "insert变异": "Family world is such a world where everyone finds his value in himself, so his value is not market value (the price which a seller or insurer might reasonably expect to fetch for goods, services or securities on the open market) but love value.",
+      "替换变异": [
+         "Family world is such a world where everyone finds his value in himself, so his value is not love value but love value.",
+         "Family world is such a world where everyone finds his value in himself, so his value is not life value but love value.",
+         "Family world is such a world where everyone finds his value in himself, so his value is not family value but love value."
+      ],
+      "替换术语": [
+         "love value",
+         "life value",
+         "family value"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "反常识"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "反常识"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "反常识"
+      }
+   },
+   "As more and more people look to Wikipedia as their first (and often only) source for arbitrary information, Wikipedia will begin to seriously encroach on the market share of the search companies.": {
+      "序号": 77,
+      "原句": "As more and more people look to Wikipedia as their first (and often only) source for arbitrary information, Wikipedia will begin to seriously encroach on the market share of the search companies.",
+      "术语": "market share",
+      "insert变异": "As more and more people look to Wikipedia as their first (and often only) source for arbitrary information, Wikipedia will begin to seriously encroach on the market share (the percentage of some market held by a company, country, (sub)sector or any other actor or aggregate) of the search companies.",
+      "替换变异": [
+         "As more and more people look to Wikipedia as their first (and often only) source for arbitrary information, Wikipedia will begin to seriously encroach on the market value of the search companies.",
+         "As more and more people look to Wikipedia as their first (and often only) source for arbitrary information, Wikipedia will begin to seriously encroach on the market segment of the search companies."
+      ],
+      "替换术语": [
+         "market value",
+         "market segment"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Avoid asking the way in the railway or bus station in case of baddie.": {
+      "序号": 78,
+      "原句": "Avoid asking the way in the railway or bus station in case of baddie.",
+      "术语": "bus station",
+      "insert变异": "Avoid asking the way in the railway or bus station (a major bus stop, one that serves as a transfer point between a large number of routes) in case of baddie.",
+      "替换变异": [
+         "Avoid asking the way in the railway or train station in case of baddie.",
+         "Avoid asking the way in the railway or railway station in case of baddie."
+      ],
+      "替换术语": [
+         "train station",
+         "railway station"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "To practically protect the disadvantaged and keep social justice,Rawls' Theory of Justice is of great value in constructing a harmonious social society and handling correctly the contradictions between freedom and quality,fairness and efficiency.": {
+      "序号": 79,
+      "原句": "To practically protect the disadvantaged and keep social justice,Rawls' Theory of Justice is of great value in constructing a harmonious social society and handling correctly the contradictions between freedom and quality,fairness and efficiency.",
+      "术语": "social justice",
+      "insert变异": "To practically protect the disadvantaged and keep social justice (fairness in society),Rawls' Theory of Justice is of great value in constructing a harmonious social society and handling correctly the contradictions between freedom and quality,fairness and efficiency.",
+      "替换变异": [
+         "To practically protect the disadvantaged and keep social order,Rawls' Theory of Justice is of great value in constructing a harmonious social society and handling correctly the contradictions between freedom and quality,fairness and efficiency.",
+         "To practically protect the disadvantaged and keep social peace,Rawls' Theory of Justice is of great value in constructing a harmonious social society and handling correctly the contradictions between freedom and quality,fairness and efficiency.",
+         "To practically protect the disadvantaged and keep social stability,Rawls' Theory of Justice is of great value in constructing a harmonious social society and handling correctly the contradictions between freedom and quality,fairness and efficiency.",
+         "To practically protect the disadvantaged and keep social harmony,Rawls' Theory of Justice is of great value in constructing a harmonious social society and handling correctly the contradictions between freedom and quality,fairness and efficiency."
+      ],
+      "替换术语": [
+         "social order",
+         "social peace",
+         "social stability",
+         "social harmony"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "If you're an early bird, explore the wee hours of the night for a change.": {
+      "序号": 80,
+      "原句": "If you're an early bird, explore the wee hours of the night for a change.",
+      "术语": "early bird",
+      "insert变异": "If you're an early bird (a person who wakes early or arrives early, typically before most others), explore the wee hours of the night for a change.",
+      "替换变异": [
+         "If you're an early morning, explore the wee hours of the night for a change.",
+         "If you're an early visitor, explore the wee hours of the night for a change.",
+         "If you're an early arrival, explore the wee hours of the night for a change.",
+         "If you're an early tourist, explore the wee hours of the night for a change."
+      ],
+      "替换术语": [
+         "early morning",
+         "early visitor",
+         "early arrival",
+         "early tourist"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "反常识"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "At low altitudes and speeds, SABRE would operate as a powerful, lightweight form of jet engine.": {
+      "序号": 81,
+      "原句": "At low altitudes and speeds, SABRE would operate as a powerful, lightweight form of jet engine.",
+      "术语": "jet engine",
+      "insert变异": "At low altitudes and speeds, SABRE would operate as a powerful, lightweight form of jet engine (an engine that obtains thrust by taking in air at the front, using it to burn fuel, then ejecting the hot combustion products at the rear through a propulsive nozzle).",
+      "替换变异": [
+         "At low altitudes and speeds, SABRE would operate as a powerful, lightweight form of aircraft engine.",
+         "At low altitudes and speeds, SABRE would operate as a powerful, lightweight form of jet aircraft.",
+         "At low altitudes and speeds, SABRE would operate as a powerful, lightweight form of jet fighter.",
+         "At low altitudes and speeds, SABRE would operate as a powerful, lightweight form of jet fuel."
+      ],
+      "替换术语": [
+         "aircraft engine",
+         "jet aircraft",
+         "jet fighter",
+         "jet fuel"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Cindy Marini, assistant director of academic advising, says twenty-eight programs currently offer a bachelor's degree in three years. These include business and nursing.": {
+      "序号": 82,
+      "原句": "Cindy Marini, assistant director of academic advising, says twenty-eight programs currently offer a bachelor's degree in three years. These include business and nursing.",
+      "术语": "bachelor's degree",
+      "insert变异": "Cindy Marini, assistant director of academic advising, says twenty-eight programs currently offer a bachelor's degree (the first or lowest academic degree conferred by universities and colleges; a baccalaureate) in three years. These include business and nursing.",
+      "替换变异": [
+         "Cindy Marini, assistant director of academic advising, says twenty-eight programs currently offer a master's degree in three years. These include business and nursing."
+      ],
+      "替换术语": [
+         "master's degree"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "President Bush says ensuring a smooth transition is a matter of national security. \"This will also be America's first wartime presidential transition in four decades,\" he said.": {
+      "序号": 83,
+      "原句": "President Bush says ensuring a smooth transition is a matter of national security. \"This will also be America's first wartime presidential transition in four decades,\" he said.",
+      "术语": "national security",
+      "insert变异": "President Bush says ensuring a smooth transition is a matter of national security (the safety of a country as managed through the exercise of economic and political power, intelligence agencies and diplomacy). \"This will also be America's first wartime presidential transition in four decades,\" he said.",
+      "替换变异": [
+         "President Bush says ensuring a smooth transition is a matter of national importance. \"This will also be America's first wartime presidential transition in four decades,\" he said.",
+         "President Bush says ensuring a smooth transition is a matter of national policy. \"This will also be America's first wartime presidential transition in four decades,\" he said.",
+         "President Bush says ensuring a smooth transition is a matter of national concern. \"This will also be America's first wartime presidential transition in four decades,\" he said.",
+         "President Bush says ensuring a smooth transition is a matter of national pride. \"This will also be America's first wartime presidential transition in four decades,\" he said."
+      ],
+      "替换术语": [
+         "national importance",
+         "national policy",
+         "national concern",
+         "national pride"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "We must keep to the stipulations of the contract and the letter of credit.": {
+      "序号": 84,
+      "原句": "We must keep to the stipulations of the contract and the letter of credit.",
+      "术语": "letter of credit",
+      "insert变异": "We must keep to the stipulations of the contract and the letter of credit (a document, used primarily in trade finance and issued generally by a financial institution, in which the institution promises to pay debts up to a certain limit to be acquired by the beneficiary against delivery of documents specified in the letter).",
+      "替换变异": [
+         "We must keep to the stipulations of the contract and the line of credit.",
+         "We must keep to the stipulations of the contract and the letter of intent.",
+         "We must keep to the stipulations of the contract and the letter of contract.",
+         "We must keep to the stipulations of the contract and the letter of agreement.",
+         "We must keep to the stipulations of the contract and the letter of recommendation."
+      ],
+      "替换术语": [
+         "line of credit",
+         "letter of intent",
+         "letter of contract",
+         "letter of agreement",
+         "letter of recommendation"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "In the translation of the executive summary, the last line referring to a \"highly skilled workforce\" was translated into a word meaning \"an army of labour\".": {
+      "序号": 85,
+      "原句": "In the translation of the executive summary, the last line referring to a \"highly skilled workforce\" was translated into a word meaning \"an army of labour\".",
+      "术语": "executive summary",
+      "insert变异": "In the translation of the executive summary (a short document that summarizes all the reports of a company, or the contents of a longer report to which it is attached), the last line referring to a \"highly skilled workforce\" was translated into a word meaning \"an army of labour\".",
+      "替换变异": [
+         "In the translation of the executive language, the last line referring to a \"highly skilled workforce\" was translated into a word meaning \"an army of labour\".",
+         "In the translation of the executive order, the last line referring to a \"highly skilled workforce\" was translated into a word meaning \"an army of labour\"."
+      ],
+      "替换术语": [
+         "executive language",
+         "executive order"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "The BBC and its News Night program were already under scrutiny for dropping an investigation into child abuse by a former BBC staff Jimmy Savile.": {
+      "序号": 86,
+      "原句": "The BBC and its News Night program were already under scrutiny for dropping an investigation into child abuse by a former BBC staff Jimmy Savile.",
+      "术语": "child abuse",
+      "insert变异": "The BBC and its News Night program were already under scrutiny for dropping an investigation into child abuse (physical, sexual or emotional mistreatment of a child that causes long-term or permanent damage) by a former BBC staff Jimmy Savile.",
+      "替换变异": [
+         "The BBC and its News Night program were already under scrutiny for dropping an investigation into child pornography by a former BBC staff Jimmy Savile."
+      ],
+      "替换术语": [
+         "child pornography"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "\"Setbacks are just learning experiences,\" added Beth Brooke, EY's global vice chair for public policy, who led the 2013 creation of the firm's Women Athletes Business Network to help elite performers in sports pivot into business.": {
+      "序号": 87,
+      "原句": "\"Setbacks are just learning experiences,\" added Beth Brooke, EY's global vice chair for public policy, who led the 2013 creation of the firm's Women Athletes Business Network to help elite performers in sports pivot into business.",
+      "术语": "public policy",
+      "insert变异": "\"Setbacks are just learning experiences,\" added Beth Brooke, EY's global vice chair for public policy (the set of policies (laws, plans, actions, behaviors) of a government; plans and methods of action that govern that society; a system of laws, courses of action, and priorities directing a government action), who led the 2013 creation of the firm's Women Athletes Business Network to help elite performers in sports pivot into business.",
+      "替换变异": [
+         "\"Setbacks are just learning experiences,\" added Beth Brooke, EY's global vice chair for public relations, who led the 2013 creation of the firm's Women Athletes Business Network to help elite performers in sports pivot into business.",
+         "\"Setbacks are just learning experiences,\" added Beth Brooke, EY's global vice chair for public affairs, who led the 2013 creation of the firm's Women Athletes Business Network to help elite performers in sports pivot into business."
+      ],
+      "替换术语": [
+         "public relations",
+         "public affairs"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "It wasn’t all gloomy though. The survey, of 2,000 people by mobile phone site Recombu.com, also found 11 per cent of us have been asked out by text.": {
+      "序号": 88,
+      "原句": "It wasn’t all gloomy though. The survey, of 2,000 people by mobile phone site Recombu.com, also found 11 per cent of us have been asked out by text.",
+      "术语": "mobile phone",
+      "insert变异": "It wasn’t all gloomy though. The survey, of 2,000 people by mobile phone (a portable telephone that connects with the telephone network over radio wave transmission) site Recombu.com, also found 11 per cent of us have been asked out by text.",
+      "替换变异": [
+         "It wasn’t all gloomy though. The survey, of 2,000 people by mobile dating site Recombu.com, also found 11 per cent of us have been asked out by text."
+      ],
+      "替换术语": [
+         "mobile dating"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "From today, the supermarket will be stocking pure gold leaf, after the chef created a recipe that calls for it as a cakedecoration.": {
+      "序号": 89,
+      "原句": "From today, the supermarket will be stocking pure gold leaf, after the chef created a recipe that calls for it as a cakedecoration.",
+      "术语": "gold leaf",
+      "insert变异": "From today, the supermarket will be stocking pure gold leaf (gold beaten into a thin sheet. Category:en:Gold), after the chef created a recipe that calls for it as a cakedecoration.",
+      "替换变异": [
+         "From today, the supermarket will be stocking pure maple leaf, after the chef created a recipe that calls for it as a cakedecoration.",
+         "From today, the supermarket will be stocking pure oak leaf, after the chef created a recipe that calls for it as a cakedecoration.",
+         "From today, the supermarket will be stocking pure gold bread, after the chef created a recipe that calls for it as a cakedecoration."
+      ],
+      "替换术语": [
+         "maple leaf",
+         "oak leaf",
+         "gold bread"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "It’s difficult to predict the fads that affect how the general public thinks and behaves.": {
+      "序号": 90,
+      "原句": "It’s difficult to predict the fads that affect how the general public thinks and behaves.",
+      "术语": "general public",
+      "insert变异": "It’s difficult to predict the fads that affect how the general public (members of the public not in the attentive public of any given issue; laypeople) thinks and behaves.",
+      "替换变异": [
+         "It’s difficult to predict the fads that affect how the general population thinks and behaves.",
+         "It’s difficult to predict the fads that affect how the general populace thinks and behaves."
+      ],
+      "替换术语": [
+         "general population",
+         "general populace"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "\"For instance, in our own research in Denmark, we found that male smokers wanted a higher interest rate on their savings than did non-smokers. But that this did not apply to women smokers.\"": {
+      "序号": 91,
+      "原句": "\"For instance, in our own research in Denmark, we found that male smokers wanted a higher interest rate on their savings than did non-smokers. But that this did not apply to women smokers.\"",
+      "术语": "interest rate",
+      "insert变异": "\"For instance, in our own research in Denmark, we found that male smokers wanted a higher interest rate (the percentage of an amount of money charged for its use per some period of time (often a year)) on their savings than did non-smokers. But that this did not apply to women smokers.\"",
+      "替换变异": [
+         "\"For instance, in our own research in Denmark, we found that male smokers wanted a higher tax rate on their savings than did non-smokers. But that this did not apply to women smokers.\""
+      ],
+      "替换术语": [
+         "tax rate"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Combining theory with practice,we p ut forward the design,the methods in the quality control of construction,and the measure of dealing with the landslip.": {
+      "序号": 92,
+      "原句": "Combining theory with practice,we p ut forward the design,the methods in the quality control of construction,and the measure of dealing with the landslip.",
+      "术语": "quality control",
+      "insert变异": "Combining theory with practice,we p ut forward the design,the methods in the quality control (a control, such as inspection or testing, introduced into an industrial or business process to ensure quality) of construction,and the measure of dealing with the landslip.",
+      "替换变异": [
+         "Combining theory with practice,we p ut forward the design,the methods in the quality management of construction,and the measure of dealing with the landslip.",
+         "Combining theory with practice,we p ut forward the design,the methods in the quality assessment of construction,and the measure of dealing with the landslip.",
+         "Combining theory with practice,we p ut forward the design,the methods in the quality level of construction,and the measure of dealing with the landslip."
+      ],
+      "替换术语": [
+         "quality management",
+         "quality assessment",
+         "quality level"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "James Daly, chief executive, thought its database would be used to track connections between executives and board members to guard against cronyism in the wake of Enron’s 2001 collapse.": {
+      "序号": 93,
+      "原句": "James Daly, chief executive, thought its database would be used to track connections between executives and board members to guard against cronyism in the wake of Enron’s 2001 collapse.",
+      "术语": "chief executive",
+      "insert变异": "James Daly, chief executive (chief executive officer), thought its database would be used to track connections between executives and board members to guard against cronyism in the wake of Enron’s 2001 collapse.",
+      "替换变异": [
+         "James Daly, chief engineer, thought its database would be used to track connections between executives and board members to guard against cronyism in the wake of Enron’s 2001 collapse."
+      ],
+      "替换术语": [
+         "chief engineer"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "True, the politicisation of the independent central bank is potentially very dangerous.": {
+      "序号": 94,
+      "原句": "True, the politicisation of the independent central bank is potentially very dangerous.",
+      "术语": "central bank",
+      "insert变异": "True, the politicisation of the independent central bank (the principal monetary authority of a polity or monetary union; it normally regulates the supply of money, issues currency and controls interest rates, it usually oversees banking activity within its country's borders) is potentially very dangerous.",
+      "替换变异": [
+         "True, the politicisation of the independent central government is potentially very dangerous.",
+         "True, the politicisation of the independent central state is potentially very dangerous."
+      ],
+      "替换术语": [
+         "central government",
+         "central state"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Therefore military ordered that officer who enter meeting must shout down his mobile phone, or take out its battery.": {
+      "序号": 95,
+      "原句": "Therefore military ordered that officer who enter meeting must shout down his mobile phone, or take out its battery.",
+      "术语": "mobile phone",
+      "insert变异": "Therefore military ordered that officer who enter meeting must shout down his mobile phone (a portable telephone that connects with the telephone network over radio wave transmission), or take out its battery.",
+      "替换变异": [
+         "Therefore military ordered that officer who enter meeting must shout down his mobile telephone, or take out its battery."
+      ],
+      "替换术语": [
+         "mobile telephone"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Iran has warned suntanned women and girls who looked like \"walkingmannequins\" will be arrested as part of a new drive toenforcethe Islamic dress code.": {
+      "序号": 96,
+      "原句": "Iran has warned suntanned women and girls who looked like \"walkingmannequins\" will be arrested as part of a new drive toenforcethe Islamic dress code.",
+      "术语": "dress code",
+      "insert变异": "Iran has warned suntanned women and girls who looked like \"walkingmannequins\" will be arrested as part of a new drive toenforcethe Islamic dress code (a formal specification of acceptable attire for a specific event or location).",
+      "替换变异": [
+         "Iran has warned suntanned women and girls who looked like \"walkingmannequins\" will be arrested as part of a new drive toenforcethe Islamic criminal code."
+      ],
+      "替换术语": [
+         "criminal code"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "I've just got my bank statement and I'm afraid I'm in the red. I've overspent by $50.": {
+      "序号": 97,
+      "原句": "I've just got my bank statement and I'm afraid I'm in the red. I've overspent by $50.",
+      "术语": "bank statement",
+      "insert变异": "I've just got my bank statement (a communication from a bank to a person holding an account in that bank, usually issued monthly, detailing the value of the holdings in that account and the effects of all transactions occurring with respect to that account) and I'm afraid I'm in the red. I've overspent by $50.",
+      "替换变异": [
+         "I've just got my first statement and I'm afraid I'm in the red. I've overspent by $50.",
+         "I've just got my insurance statement and I'm afraid I'm in the red. I've overspent by $50.",
+         "I've just got my tax statement and I'm afraid I'm in the red. I've overspent by $50.",
+         "I've just got my last statement and I'm afraid I'm in the red. I've overspent by $50.",
+         "I've just got my bank account and I'm afraid I'm in the red. I've overspent by $50.",
+         "I've just got my bank balance and I'm afraid I'm in the red. I've overspent by $50.",
+         "I've just got my bank card and I'm afraid I'm in the red. I've overspent by $50."
+      ],
+      "替换术语": [
+         "first statement",
+         "insurance statement",
+         "tax statement",
+         "last statement",
+         "bank account",
+         "bank balance",
+         "bank card"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "This will not only undermine listed companies′ competitiveness but also continuously generate market bubbles, and moreover, the unbalance structure between direct financing and indirect financing caused by lowcost equity financing will accumulate the structural risk of the whole financial market.": {
+      "序号": 98,
+      "原句": "This will not only undermine listed companies′ competitiveness but also continuously generate market bubbles, and moreover, the unbalance structure between direct financing and indirect financing caused by lowcost equity financing will accumulate the structural risk of the whole financial market.",
+      "术语": "financial market",
+      "insert变异": "This will not only undermine listed companies′ competitiveness but also continuously generate market bubbles, and moreover, the unbalance structure between direct financing and indirect financing caused by lowcost equity financing will accumulate the structural risk of the whole financial market (a market where financial securities (such as stocks and bonds) and commodities are bought and sold).",
+      "替换变异": [
+         "This will not only undermine listed companies′ competitiveness but also continuously generate market bubbles, and moreover, the unbalance structure between direct financing and indirect financing caused by lowcost equity financing will accumulate the structural risk of the whole financial system.",
+         "This will not only undermine listed companies′ competitiveness but also continuously generate market bubbles, and moreover, the unbalance structure between direct financing and indirect financing caused by lowcost equity financing will accumulate the structural risk of the whole financial sector.",
+         "This will not only undermine listed companies′ competitiveness but also continuously generate market bubbles, and moreover, the unbalance structure between direct financing and indirect financing caused by lowcost equity financing will accumulate the structural risk of the whole financial crisis."
+      ],
+      "替换术语": [
+         "financial system",
+         "financial sector",
+         "financial crisis"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   },
+   "Half of them come out messed up anyway— broken tails, deformed linings, missing heads. Brainless sperm will try to impregnate a red blood cell like dogs trying to hump your leg.": {
+      "序号": 99,
+      "原句": "Half of them come out messed up anyway— broken tails, deformed linings, missing heads. Brainless sperm will try to impregnate a red blood cell like dogs trying to hump your leg.",
+      "术语": "red blood cell",
+      "insert变异": "Half of them come out messed up anyway— broken tails, deformed linings, missing heads. Brainless sperm will try to impregnate a red blood cell (a type of cell in the blood of vertebrates that contains hemoglobin and transports oxygen from the lungs to the tissues; an erythrocyte) like dogs trying to hump your leg.",
+      "替换变异": [
+         "Half of them come out messed up anyway— broken tails, deformed linings, missing heads. Brainless sperm will try to impregnate a red sperm cell like dogs trying to hump your leg."
+      ],
+      "替换术语": [
+         "red sperm cell"
+      ],
+      "manual_1_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "manual_2_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      },
+      "final_result": {
+         "info_insert": "真实",
+         "bert_replace": "真实"
+      }
+   }
+}
