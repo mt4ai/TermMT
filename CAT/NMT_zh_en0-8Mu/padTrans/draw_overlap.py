@@ -19,22 +19,6 @@ def write_text(string_text, file_path):
         f.write(string_text)
 
 
-def draw_venn(labels, shape_lst, output_path, label_titles, title):
-    # matplotlib.rcParams['font.size'] = 16
-    plt.figure()
-    
-    font_size = 25
-    color_left = "#35B777"
-    color_right = "#30688D"
-    options = dict()
-    figsize = (7, 9)
-    # g, ax=venn2(labels=labels, names=label_titles, fontsize=font_size, figsize=figsize)
-
-    
-    plt.legend().remove()
-    plt.tight_layout()
-    plt.savefig(output_path, dpi=200, bbox_inches='tight')
-    plt.close()
 
 
 if __name__ == "__main__":

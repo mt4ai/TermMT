@@ -163,3 +163,9 @@ cython_debug/
 detect-1-sth/results/
 mutant-1-sth/results/
 preprocess-1-sth/results/
+models/
+rebuttal/results/
+rebuttal/other_model/llm_gpt_alignterm.py
+rebuttal/other_model/llm_judge_mean_corr.py
+rebuttal/other_model/gpt.py
+rebuttal/
