@@ -1,0 +1,902 @@
+{
+   "So, LYAC is a capable and multi - functional unit for teaching, scientific research and up - scale technologies.": {
+      "序号": 0,
+      "source sentence": "So, LYAC is a capable and multi - functional unit for teaching, scientific research and up - scale technologies.",
+      "reference": "本校有两个校区，莱阳校区占地1757亩，青岛木校区位于青岛市城阳区，占地1450亩。",
+      "translate_result": "因此，辽宁航空工业集团有限公司是一个集教学、科研和高端技术为一体的多功能、能力强的单位。",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "(1) Where a construction site is situated on, or adjacent to, water into which a workman is liable to fall with risk of drowning, the contractor responsible for the site shall-": {
+      "序号": 1,
+      "source sentence": "(1) Where a construction site is situated on, or adjacent to, water into which a workman is liable to fall with risk of drowning, the contractor responsible for the site shall-",
+      "reference": "(1) 凡任何建筑地盘位於水上或与水毗邻，而工人会有堕进水里遇溺的危险，则负责该建筑地盘的承建商须─",
+      "translate_result": "(1) 如果建筑工地位于或邻近工人容易掉入水中并有溺水危险的水域，负责该工地的承包商应——",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "Concluding Act of the Negotiations on Personnel Strength of Conventional Armed Forces in Europe": {
+      "序号": 2,
+      "source sentence": "Concluding Act of the Negotiations on Personnel Strength of Conventional Armed Forces in Europe",
+      "reference": "关于欧洲常规武装部队兵力谈判的结论文件",
+      "translate_result": "欧洲常规武装部队兵力谈判结论文件",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "and it was unanimously adopted by every head of state in the world.": {
+      "序号": 3,
+      "source sentence": "and it was unanimously adopted by every head of state in the world.",
+      "reference": "这个提议被世界上各个国家首脑一致采纳通过。",
+      "translate_result": "它得到了世界各国元首的一致通过。",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "\"Is the wording of\" \"confirmed\" \"necessary for the letter of credit?\"": {
+      "序号": 4,
+      "source sentence": "\"Is the wording of\" \"confirmed\" \"necessary for the letter of credit?\"",
+      "reference": "\"信用证上还用写明\"\"保兑\"\"字样吗?\"",
+      "translate_result": "“信用证必须有‘保兑’字样吗？”",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "The superoxide anion(O · 2) produced by NBT PMS NADH system was scavenged and the lipid peroxidation induced by Fe 2+ ascorbic acid in mouse liver microsome was inhibited, the hemolysis of rat RBC induced by H 2O 2 was antagonized.": {
+      "序号": 5,
+      "source sentence": "The superoxide anion(O · 2) produced by NBT PMS NADH system was scavenged and the lipid peroxidation induced by Fe 2+ ascorbic acid in mouse liver microsome was inhibited, the hemolysis of rat RBC induced by H 2O 2 was antagonized.",
+      "reference": "ACP1体外可清除NADH PMS NBT系统产生的超氧阴离子自由基，降低Fe2 + VitC引起的小鼠肝微粒体脂质过氧化产物丙二醛的含量，抑制H2 O2 诱导的大鼠红细胞氧化溶血。",
+      "translate_result": "结论:在体外,抗坏血酸(ACR)诱导的小鼠肝微粒体过氧化应激(P&lt;0.01),而抗坏血酸(ACR)诱导的小鼠红细胞溶血应激(P&lt;0.01)。",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "During the same period the accumulated inflation rate, measured by the Consumer Price Index in Maputo, reached 4.6 percent, with declared exports of 415 million euros(US$533 million) in the first six months.": {
+      "序号": 6,
+      "source sentence": "During the same period the accumulated inflation rate, measured by the Consumer Price Index in Maputo, reached 4.6 percent, with declared exports of 415 million euros(US$533 million) in the first six months.",
+      "reference": "据马普托消费者物价指数，今年上半年，积累通货膨胀率达4.6%，出口4.15亿欧元(5.33亿美元)。",
+      "translate_result": "莫桑比克马普托11月13日电－莫桑比克国家统计局周四公布，莫桑比克今年前6个月的出口额为4.15亿欧元（约合5.33亿美元），同比分别增长11.4%和10.6%。",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "No person shall in any tunnel unless directed or signalled by an authorized officer or unless conforming to the indication of any traffic sign displayed under these regulations-": {
+      "序号": 7,
+      "source sentence": "No person shall in any tunnel unless directed or signalled by an authorized officer or unless conforming to the indication of any traffic sign displayed under these regulations-",
+      "reference": "除非获授权人员有所指示或发出讯号，或除非遵守根据本规例展示的任何交通标志的指示，否则任何人均不得在隧道内─",
+      "translate_result": "除非获授权人员指示或发出信号，或除非符合根据本规例展示的任何交通标志的指示，否则任何人不得在任何隧道内 ——",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "She's 20 years too young to get a deep vein thrombosis.": {
+      "序号": 8,
+      "source sentence": "She's 20 years too young to get a deep vein thrombosis.",
+      "reference": "她离得深度静脉血栓症还早20年",
+      "translate_result": "她还年轻20岁，不可能患上深静脉血栓。",
+      "manual_1_result": 0,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "(1) No person shall, directly or indirectly, in connection with any leveraged foreign exchange trading with any other person-": {
+      "序号": 9,
+      "source sentence": "(1) No person shall, directly or indirectly, in connection with any leveraged foreign exchange trading with any other person-",
+      "reference": "(1) 任何人均不得就与他人所进行的任何杠杆式外汇买卖，直接或间接地─",
+      "translate_result": "(c) 凡任何人根据第(2)款获授权代表任何人，或因任何根据第(1)款获授权代表任何人，而该等授权是因该等授权而引致的。",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "\"special drawing rights\" (特别提款权单位) means units of account used by the International Monetary Fund and known as special drawing rights;": {
+      "序号": 10,
+      "source sentence": "\"special drawing rights\" (特别提款权单位) means units of account used by the International Monetary Fund and known as special drawing rights;",
+      "reference": "“特别提款权单位”(special drawing rights) 指国际货币基金所采用的称为特别提款权单位的会计单位;",
+      "translate_result": "\"special drawing rights\" (特别提款权单位) means units of account used by the International Monetary Fund and known as special drawing rights;",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "\"Division Officer, Family and Child Care Services, Hong Kong Council of Social Service\"": {
+      "序号": 11,
+      "source sentence": "\"Division Officer, Family and Child Care Services, Hong Kong Council of Social Service\"",
+      "reference": "香港社会服务联会家庭及儿童服务部部门干事",
+      "translate_result": "&quot;香港社会服务联会家庭及幼儿服务部主任&quot;",
+      "manual_1_result": 1,
+      "manual_2_result": 0,
+      "final_result": 1
+   },
+   "\"where a bill payable to, or to the order of, a third party is paid by the drawer, the drawer may enforce payment thereof against the acceptor, but may not reissue the bill;\"": {
+      "序号": 12,
+      "source sentence": "\"where a bill payable to, or to the order of, a third party is paid by the drawer, the drawer may enforce payment thereof against the acceptor, but may not reissue the bill;\"",
+      "reference": "如汇票付款与第三者或按其指示付款而经发票人支付者,发票人可要求承兑人执行责任支付该汇票,但不可再发行该汇票;",
+      "translate_result": "”",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Drive along Huihe Expressway, leave the expressway at Si Jiao Lou or Tai Mei Exit, via Pingling to Longmen Hot Spring.": {
+      "序号": 13,
+      "source sentence": "Drive along Huihe Expressway, leave the expressway at Si Jiao Lou or Tai Mei Exit, via Pingling to Longmen Hot Spring.",
+      "reference": "走惠河高速，由四角楼或泰美站出，经平陵到龙门温泉。",
+      "translate_result": "Drive along Huihe Expressway, leave the expressway at Si Jiao Lou or Tai Mei Exit, via Pingling to Longmen Hot Spring.",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "This event indicates an attempt to create a Trojan horse version of EXPLORER.EXE, TASKMANAGER.EXE, NDDEAGENT.EXE, or USERINIT.EXE in the root of the system drive (the default user folder, if none is specified).": {
+      "序号": 14,
+      "source sentence": "This event indicates an attempt to create a Trojan horse version of EXPLORER.EXE, TASKMANAGER.EXE, NDDEAGENT.EXE, or USERINIT.EXE in the root of the system drive (the default user folder, if none is specified).",
+      "reference": "此事件表示有人试图在系统驱动器根目录下（如果没有指定，则是默认的用户文件夹）创建带有木马程序的 EXPLORER.EXE、TASKMANAGER.EXE、NDDEAGENT.EXE。",
+      "translate_result": "此事件表示尝试在系统驱动器根目录（默认用户文件夹，如果未指定）中创建 EXPLORER.EXE、TASKMANAGER.EXE、NDDEAGENT.EXE 或 USERINIT.EXE 的特洛伊木马版本。",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "A construction of authentication codes with arbitration from subspace of vector space over finite fields is presented, the parameters of the code are computed.": {
+      "序号": 15,
+      "source sentence": "A construction of authentication codes with arbitration from subspace of vector space over finite fields is presented, the parameters of the code are computed.",
+      "reference": "摘要利用有限域上向量空间的子空间构作了一个具有仲裁的认证码，计算了这个码的参数。",
+      "translate_result": "提出了有限域上向量空间子空间仲裁的认证码构造，并计算了该码的参数。",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "And the bottom line is -- the reason why this works is": {
+      "序号": 16,
+      "source sentence": "And the bottom line is -- the reason why this works is",
+      "reference": "结论是 - -这样做有效的原因是 --",
+      "translate_result": "最重要的是——这有效的原因是",
+      "manual_1_result": 0,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Her immune system is severely compromised.": {
+      "序号": 17,
+      "source sentence": "Her immune system is severely compromised.",
+      "reference": NaN,
+      "translate_result": "她的免疫系统严重受损。",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "Air Macau also flies to Beijing, Shanghai, Chengdu, Gulin, Kunming, Nanjing, Shenzhen and Xiamen in mainland China, Taipei and Kaohsiung, Bangkok, Seoul, Pusan and Manila.": {
+      "序号": 18,
+      "source sentence": "Air Macau also flies to Beijing, Shanghai, Chengdu, Gulin, Kunming, Nanjing, Shenzhen and Xiamen in mainland China, Taipei and Kaohsiung, Bangkok, Seoul, Pusan and Manila.",
+      "reference": "澳航的航线还包括飞往中国内地的北京、上海、成都、桂林、昆明、南京、深圳、厦门，中国台湾的台北市、高雄市，以及曼谷，首尔，釜山和马尼拉。",
+      "translate_result": "Air Macau also flies to Beijing, Shanghai, Chengdu, Gulin, Kunming, Nanjing, Shenzhen and Xiamen in mainland China, Taipei and Kaohsiung, Bangkok, Seoul, Pusan and Manila.",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Study on a series of fermented taro products with lactic acid": {
+      "序号": 19,
+      "source sentence": "Study on a series of fermented taro products with lactic acid",
+      "reference": "香芋乳酸发酵系列产品的研究",
+      "translate_result": "乳酸发酵芋头系列制品的研究",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "A STUDY ON THE AGE AND GROWTH OF SILVER CARP HYPOPHTHALMICHTHYS MOLITPIX (CUVIER ET VALENCIENNES) AND BIGHEAD ARISTICHTHYS NOBILIS (RICHARDSON) IN HEI MU MAN RESERVOIR AND THEIR RATIONAL STOCKING": {
+      "序号": 20,
+      "source sentence": "A STUDY ON THE AGE AND GROWTH OF SILVER CARP HYPOPHTHALMICHTHYS MOLITPIX (CUVIER ET VALENCIENNES) AND BIGHEAD ARISTICHTHYS NOBILIS (RICHARDSON) IN HEI MU MAN RESERVOIR AND THEIR RATIONAL STOCKING",
+      "reference": "黑屋湾水库鲢鳙鱼的生长及其合理放养的研究",
+      "translate_result": "黑目曼水库鲢鱼、鳙鱼的年龄、生长及合理放养的研究",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "(1) The Commissioner shall assign to a motor vehicle in respect of which he has issued an international circulation permit a registration mark which shall be-": {
+      "序号": 21,
+      "source sentence": "(1) The Commissioner shall assign to a motor vehicle in respect of which he has issued an international circulation permit a registration mark which shall be-",
+      "reference": "(1) 署长得就他已发出国际通行许可证的汽车配予一个登记号码─",
+      "translate_result": "(c) 凡署长根据第(1)款发出国际通行许可证，而该许可证是在该车辆的驾驶执照有效期内有效，则署长可在该车辆的驾驶执照有效期内，将该车辆的驾驶执照发给该车辆的注册代理人。",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "(1) Every motor vehicle, other than a bus or light bus, shall be so designed and constructed that the driver-": {
+      "序号": 22,
+      "source sentence": "(1) Every motor vehicle, other than a bus or light bus, shall be so designed and constructed that the driver-",
+      "reference": "(1) 除巴士或小型巴士外，每部汽车在设计及构造上，须─",
+      "translate_result": "(c) 在第(2)款的规定下，任何车辆在驾驶人认为合适的情况下，不得超逾任何车辆牌照所指明的牌照长度。",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "(4) The Society shall not consider work experience gained prior to entering into a trainee solicitor contract in Hong Kong as relevant for the purposes of paragraph (3) unless it is satisfied that-": {
+      "序号": 23,
+      "source sentence": "(4) The Society shall not consider work experience gained prior to entering into a trainee solicitor contract in Hong Kong as relevant for the purposes of paragraph (3) unless it is satisfied that-",
+      "reference": "(4) 律师会不得将在香港订立实习律师合约前所获得的工作经验视为是就第(3)款而言的有关工作经验，除非律师会信纳─",
+      "translate_result": "(4) 律师会不得将在香港签订见习律师合约之前所获得的工作经验视为与第(3)款的目的相关，除非律师会信纳 ——",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "(2) In the case of any such accident, the driver of the vehicle shall, if required, give to any police officer or to any person having reasonable grounds for so requiring the following particulars-": {
+      "序号": 24,
+      "source sentence": "(2) In the case of any such accident, the driver of the vehicle shall, if required, give to any police officer or to any person having reasonable grounds for so requiring the following particulars-",
+      "reference": "(2) 遇有任何该等意外，该车辆的司机在被要求时须向任何警务人员或任何有合理理由提出要求的人，提供以下详情─",
+      "translate_result": "(1) 凡在根据第(1)款所订的条文所指明的地点，有人因违反第(1)款而引致意外，则该人可在该地点行使其权力，而该人可在该地点行使其权力。",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "(2) Notice may be given to the Commissioner in office hours on any working day before that on which the operation begins, and shall specify-": {
+      "序号": 25,
+      "source sentence": "(2) Notice may be given to the Commissioner in office hours on any working day before that on which the operation begins, and shall specify-",
+      "reference": "(2) 通知可在开始行动前任何一个工作日的办公时间内向总监发出，其内须指明─",
+      "translate_result": "(1) 任何根据第(1)款作出的命令，如属有效，则可将该命令送交关长，并可将该命令送交关长。",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Moulding materials for windows of unplasticized polyvinyl chloride — Part 1: Designation": {
+      "序号": 26,
+      "source sentence": "Moulding materials for windows of unplasticized polyvinyl chloride — Part 1: Designation",
+      "reference": "GB/T12001.1-1989未增塑聚氯乙烯窗用模塑料第一部分:命名",
+      "translate_result": "未增塑聚氯乙烯窗用模塑材料 第 1 部分：名称",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "The ethanol-water extract of Schefflera venulosa was successively partitioned with CHCh, EtoAc and n-butanol to yield crude extracts. From the bioactive part, CHCls extract, three compounds 4-16 were isolated by repeated column chromatography on silica gel, Sephadex LH-20 and RP18, followed by recrystalization.": {
+      "序号": 27,
+      "source sentence": "The ethanol-water extract of Schefflera venulosa was successively partitioned with CHCh, EtoAc and n-butanol to yield crude extracts. From the bioactive part, CHCls extract, three compounds 4-16 were isolated by repeated column chromatography on silica gel, Sephadex LH-20 and RP18, followed by recrystalization.",
+      "reference": "密脉鹅掌柴生药材用上述同样方法得到活性部位氯仿层，再采用减压硅胶柱层析、凝胶柱层析(Sephadex LH-20)、反相硅胶柱层析和反相制备高效液相(HPLC)等手段分离得到13个单体化合物(4～16)。",
+      "translate_result": "以脉叶鹅掌藤的乙醇-水提取物为原料,依次用乙醚、乙酸乙酯和正丁醇进行分离,得到粗提取物;通过硅胶、Sephadex LH-20和RP18柱层析和重结晶等方法,从活性部位氯仿提取物中分离得到3个化合物4~16。",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "So Lo Pun Fresh Water Break Pressure Tank": {
+      "序号": 28,
+      "source sentence": "So Lo Pun Fresh Water Break Pressure Tank",
+      "reference": "锁罗盆食水减压缸",
+      "translate_result": "扫罗盘淡水溢流压力罐",
+      "manual_1_result": 0,
+      "manual_2_result": 1,
+      "final_result": 0
+   },
+   "(2) The committee shall consist of twelve voting members, or such other number as may be prescribed, elected at the annual general meeting together with the following ex-officio members-": {
+      "序号": 29,
+      "source sentence": "(2) The committee shall consist of twelve voting members, or such other number as may be prescribed, elected at the annual general meeting together with the following ex-officio members-",
+      "reference": "(2) 委员会须由在周年大会选出的12名有表决权的成员或其他订明的人数，连同下列当然成员组成─",
+      "translate_result": "(1) 委员会须为本条例所订的条文，并须符合第(1)款的规定。",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "but plasma t - PA is less than those of control group and stable angina pectoris with static signifi-cance (P <0.01).": {
+      "序号": 30,
+      "source sentence": "but plasma t - PA is less than those of control group and stable angina pectoris with static signifi-cance (P <0.01).",
+      "reference": "而D一二聚体在冠心病组的三种不同类型中的变化不同，在稳定型心绞痛组升高但不具有统计学意义(P>0.05)，在不稳定型心绞痛组和心肌梗塞组中的变化与对照组比较升高并具有统计学意义(P<0.01)。",
+      "translate_result": "而血浆t-PA低于对照组及稳定性心绞痛组，具有统计学意义（P&lt;0.01）。",
+      "manual_1_result": 1,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "they couldn't shrink the vacuum tube any more and keep the vacuum.": {
+      "序号": 31,
+      "source sentence": "they couldn't shrink the vacuum tube any more and keep the vacuum.",
+      "reference": "他们无法继续缩小真空管并同时保持着真空的状态。",
+      "translate_result": "他们无法再缩小真空管并保持真空。",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "(g) a respondent in an appeal by way of case stated by the Attorney General under section 105 of the Magistrates Ordinance (Cap 227) may be granted legal aid under these rules for the appeal and in any proceedings preliminary or incidental thereto; (L.N. 65 of 1976)": {
+      "序号": 32,
+      "source sentence": "(g) a respondent in an appeal by way of case stated by the Attorney General under section 105 of the Magistrates Ordinance (Cap 227) may be granted legal aid under these rules for the appeal and in any proceedings preliminary or incidental thereto; (L.N. 65 of 1976)",
+      "reference": "(g) 律政司根据《裁判官条例》(第227章)第105条以案件呈述方式提出的上诉中的答辩人，可根据本规则就该上诉并在相关的任何初步或附带法律程序中，获给予法律援助; (1976年第65号法律公告)",
+      "translate_result": "(f) 凡律政司根据《裁判官条例》(第227章)第105条提出上诉，而答辩人在该上诉中及在该上诉的初步程序或附带程序中，均可根据本规则获得法律援助; (1976年第65号法律公告)",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "(3) Where the Council is of the opinion that a person undergoing a period of assessment is unlikely to attain the professional standards required of a registered medical practitioner, the Council may terminate that person's period of assessment. (Amended 87 of 1995 s. 9)": {
+      "序号": 33,
+      "source sentence": "(3) Where the Council is of the opinion that a person undergoing a period of assessment is unlikely to attain the professional standards required of a registered medical practitioner, the Council may terminate that person's period of assessment. (Amended 87 of 1995 s. 9)",
+      "reference": "(3) 如医务委员会认为任何在经历评核期的人相当不可能达到注册医生被规定达到的专业标准，则医务委员会可终止该人的评核期。(由1995年第87号第9条修订)",
+      "translate_result": "(2) 任何获认可的注册医生，如其专业水平符合注册医生所须符合的水平，则该局可发出该等认可的注册医生证书，以证明该医生已获认可。(由1995年第87号第9条修订)",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Application of affine transformation in leak location for pipelines": {
+      "序号": 34,
+      "source sentence": "Application of affine transformation in leak location for pipelines",
+      "reference": "仿射变换在管道泄漏定位中的应用",
+      "translate_result": "仿射变换在管道泄漏定位中的应用",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "My day off today, just looking around": {
+      "序号": 35,
+      "source sentence": "My day off today, just looking around",
+      "reference": "今天休息 ，随便瞎逛",
+      "translate_result": "今天休息，随便逛逛",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "(b) subject to subsection (3), require the applicant to apply to the Court of First Instance for rectification of the register. (Amended 25 of 1998 s. 2)": {
+      "序号": 36,
+      "source sentence": "(b) subject to subsection (3), require the applicant to apply to the Court of First Instance for rectification of the register. (Amended 25 of 1998 s. 2)",
+      "reference": "(b) 除第(3)款另有规定外，要求该申请人向原讼法庭申请将注册纪录册内资料更正。(由1998年第25号第2条修订)",
+      "translate_result": "(a) 就本条例所订的事宜，向原讼法庭提出申请，要求更正登记册，惟该等申请须经原讼法庭批准，并须在该登记册内注明日期起计的期间内，向原讼法庭提出申请，要求更正登记册，而 ...",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "(1) Subject to paragraph (2), no person shall store, or cause or permit to be stored, a freight container containing dangerous goods-": {
+      "序号": 37,
+      "source sentence": "(1) Subject to paragraph (2), no person shall store, or cause or permit to be stored, a freight container containing dangerous goods-",
+      "reference": "(1) 除第(2)款另有规定外，任何人不得贮存，或致使或准许他人贮存载有以下危险品的货柜─",
+      "translate_result": "(c) 凡在指明的日期前，将载有危险货物的货柜存放在指明的地点，或指明的地点存放在该指明的地点的货物，则须将该货柜存放在指明的地点。",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "(1) No member of the Authority or of any committee, acting in good faith, shall be personally liable for any act done or default made-": {
+      "序号": 38,
+      "source sentence": "(1) No member of the Authority or of any committee, acting in good faith, shall be personally liable for any act done or default made-",
+      "reference": "(1) 医管局或任何委员会的成员如真诚地办事，则对─",
+      "translate_result": "(c) 任何委员会的成员，不论是委员会成员或任何委员会的主席或成员是否已就任何委员会的职能或职责而委任，均须负上个人法律责任。",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "We can get blood type right away.": {
+      "序号": 39,
+      "source sentence": "We can get blood type right away.",
+      "reference": "我们多长时间可以拿到结果? - 我们可以马上拿到血型的化验结果.",
+      "translate_result": "我们可以立即得到血型。",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "(3) In addition to the requirements of subregulation (1) there shall be provided in any such spaces containing internal combustion type machinery-": {
+      "序号": 40,
+      "source sentence": "(3) In addition to the requirements of subregulation (1) there shall be provided in any such spaces containing internal combustion type machinery-",
+      "reference": "(3) 除第(1)款的规定外，另须在任何设有内燃式机械的该等舱间内设置─",
+      "translate_result": "(2) 除第(1)款另有规定外，任何设有内燃机的舱间，须设置─",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "(1) Any power conferred on the Commission by section 50, 51, or 52 may be exercised in relation to a licensed leveraged foreign exchange trader if, and only if, it appears to the Commission that-": {
+      "序号": 41,
+      "source sentence": "(1) Any power conferred on the Commission by section 50, 51, or 52 may be exercised in relation to a licensed leveraged foreign exchange trader if, and only if, it appears to the Commission that-",
+      "reference": "(1) 证监会可就持牌杠杆式外汇买卖商行使第50、51或52条所赋予该会的权力，但证监会必须觉得─",
+      "translate_result": "(1) 当且仅当委员会认为：",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "\"Every bill of lading in the hands of a consignee or indorsee for valuable consideration representing goods to have been shipped on board a vessel shall be conclusive evidence of such shipment as against the master or other person signing the same,\"": {
+      "序号": 42,
+      "source sentence": "\"Every bill of lading in the hands of a consignee or indorsee for valuable consideration representing goods to have been shipped on board a vessel shall be conclusive evidence of such shipment as against the master or other person signing the same,\"",
+      "reference": "收货人或提货单受让人以有价约因取得之提货单而该提货单乃代表已装船运载之货物者,该提货单应成为针对在该单上签名之船长或其他人士有关该批货物装运之确实证据,",
+      "translate_result": "”",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "(2) The Public Health and Municipal Services Ordinance (Cap 132) does not apply to the Corporation, its property and affairs to the extent set out in the Schedule. (Amended 10 of 1986 s. 32 (1))": {
+      "序号": 43,
+      "source sentence": "(2) The Public Health and Municipal Services Ordinance (Cap 132) does not apply to the Corporation, its property and affairs to the extent set out in the Schedule. (Amended 10 of 1986 s. 32 (1))",
+      "reference": "(2) 在附表所列范围内，《公众生及市政条例》(第132章)不适用於地铁公司和其财产及事务。(由1986年第10号第32(1)条修订)",
+      "translate_result": "(1) 任何根据本条例第14A条订立的规例，均属有效。(由1986年第10号第32(1)条修订)",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "(5) In this section \"Consumer Price Index (A)\" (甲类消费物价指数) means the index of that name compiled by the Commissioner for Census and Statistics.": {
+      "序号": 44,
+      "source sentence": "(5) In this section \"Consumer Price Index (A)\" (甲类消费物价指数) means the index of that name compiled by the Commissioner for Census and Statistics.",
+      "reference": "(5) 在本条内，“甲类消费物价指数”(Consumer Price Index (A)) 指由政府统计处处长编制而以此为名的指数。",
+      "translate_result": "(5) In this section \"Consumer Price Index (A)\" (甲类消费物价指数) means the index of that name compiled by the Commissioner for Census and Statistics.",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Have you been visiting with the Crown Prince again?": {
+      "序号": 45,
+      "source sentence": "Have you been visiting with the Crown Prince again?",
+      "reference": "又去太子殿下那儿了",
+      "translate_result": "你又去拜访太子了吗？",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "Affirmative and the Focal Point of Affirmative": {
+      "序号": 46,
+      "source sentence": "Affirmative and the Focal Point of Affirmative",
+      "reference": "肯定与肯定焦点",
+      "translate_result": "平权与平权的焦点",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "\"conventional liquid fuel\" (常规液体燃料) and \"conventional solid fuel\" (常规固体燃料) have the same meanings as in regulation 3 (2) of the Air Pollution Control (Furnaces, Ovens and Chimneys) (Installation and Alteration) Regulations (Cap 311 sub. leg.);": {
+      "序号": 47,
+      "source sentence": "\"conventional liquid fuel\" (常规液体燃料) and \"conventional solid fuel\" (常规固体燃料) have the same meanings as in regulation 3 (2) of the Air Pollution Control (Furnaces, Ovens and Chimneys) (Installation and Alteration) Regulations (Cap 311 sub. leg.);",
+      "reference": "“常规液体燃料”(conventional liquid fuel) 及“常规固体燃料”(conventional solid fuel)的涵义与《空气污染管制(火炉、烘炉及烟囱)(安装及更改)规例》(第311章，附属法例)第3(2)条中该两词的涵义相同;",
+      "translate_result": "\"conventional liquid fuel\" (常规液体燃料) and \"conventional solid fuel\" (常规固体燃料) have the same meanings as in regulation 3 (2) of the Air Pollution Control (Furnaces, Ovens and Chimneys) (Installation and Alteration) Regulations (Cap 311 sub. leg.);",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "The Angolan economy grew 15.5 percent last year, almost 4 percentage points above the growth posted in 2004, thanks to oil price increases and increased production of crude oil.": {
+      "序号": 48,
+      "source sentence": "The Angolan economy grew 15.5 percent last year, almost 4 percentage points above the growth posted in 2004, thanks to oil price increases and increased production of crude oil.",
+      "reference": "去年安哥拉经济增长15.5%，几乎比2004年增长率高出4个百分点，主要原因是石油产量的提高和油价的上涨。",
+      "translate_result": "安哥拉国家石油公司总裁兼首席执行官阿卜杜拉•阿卜杜拉•阿卜杜拉在致辞中表示，安哥拉是“一带一路”沿线国家之一，是安哥拉经济的重要引擎。",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Clinical Observation of Diabetes Mellitus of Type II Managed with Repaylinide": {
+      "序号": 49,
+      "source sentence": "Clinical Observation of Diabetes Mellitus of Type II Managed with Repaylinide",
+      "reference": "孚来迪治疗2型糖尿病临床观察",
+      "translate_result": "瑞贝西胺治疗2型糖尿病的临床观察",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "ANALYSIS OF SHOCK WAVE IN DTH BIT": {
+      "序号": 50,
+      "source sentence": "ANALYSIS OF SHOCK WAVE IN DTH BIT",
+      "reference": "潜孔钻头中冲击波的分析",
+      "translate_result": "潜孔钻头冲击波分析",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "Expression of Inducible Co-Stimulator on T lymphocytes in Peripheral Blood from the Patients with Systemic Lupus Erythematosus": {
+      "序号": 51,
+      "source sentence": "Expression of Inducible Co-Stimulator on T lymphocytes in Peripheral Blood from the Patients with Systemic Lupus Erythematosus",
+      "reference": "可诱导共刺激分子在系统性红斑狼疮患者外周血T淋巴细胞的表达",
+      "translate_result": "系统性红斑狼疮患者外周血T淋巴细胞诱导型共刺激分子的表达",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "Studies on Physical Carbon,Chemical Carbon and Mixed Carbon in the Declouring of Monosodium Glutamate": {
+      "序号": 52,
+      "source sentence": "Studies on Physical Carbon,Chemical Carbon and Mixed Carbon in the Declouring of Monosodium Glutamate",
+      "reference": "物理碳、化学碳及混合碳对味精脱色的对比试验",
+      "translate_result": "物理炭、化学炭及混合炭对味精脱色作用的研究",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "An ecological study on the laboratory population of Oryzaephilus surinamensis (L.) was carried out under the treatment combination of five levels of temperature(25,20,28 9,30,38℃)and three levels of relative humidity(55%RH,76%RH,93%RH).": {
+      "序号": 53,
+      "source sentence": "An ecological study on the laboratory population of Oryzaephilus surinamensis (L.) was carried out under the treatment combination of five levels of temperature(25,20,28 9,30,38℃)and three levels of relative humidity(55%RH,76%RH,93%RH).",
+      "reference": "在 5种温度 (,,8 9,3,38℃ )和 3种相对湿度 (%RH ,76%RH ,93%RH)组合的情况下 ,对锯谷盗实验种群的生长、发育进行了研究。",
+      "translate_result": "【摘要】：以5级温度(25、20、28 9、30、38℃)和3级相对湿度(55%RH、 76%RH、93%RH）。",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Neves also said the government would launch an international promotion campaign for the other large public work that the archipelago has in mind, Sao Tome's new international airport.": {
+      "序号": 54,
+      "source sentence": "Neves also said the government would launch an international promotion campaign for the other large public work that the archipelago has in mind, Sao Tome's new international airport.",
+      "reference": "内韦斯还称，圣普政府还将为其它大型市政工程(如圣多美的新国际机场)举行吹风会。",
+      "translate_result": "圣普政府计划在2011年建设一座机场，以取代传统的巴士。圣普政府计划在2012年建设一座机场，以取代传统的巴士。",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "(1) For the purposes of these regulations the documents to be completed in respect of dangerous goods are-": {
+      "序号": 55,
+      "source sentence": "(1) For the purposes of these regulations the documents to be completed in respect of dangerous goods are-",
+      "reference": "(1) 为施行本规例，须就危险品而填妥的文件为─",
+      "translate_result": "(c) 凡根据第(1)款获授权代表任何危险货物的承运人，或因任何该等承运人认为合适的人选而获授权代表该等承运人，则可就该等承运人就该等承运人而订立的任何规例。",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "automatic oil temperature control tank for machine tool": {
+      "序号": 56,
+      "source sentence": "automatic oil temperature control tank for machine tool",
+      "reference": "机床油温自动控制箱",
+      "translate_result": "机床自动油温控制箱",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "(c) to authorize the annual report or statements of receipts and payments and of assets and liabilities of the Council; (Amended 65 of 1979 s. 2)": {
+      "序号": 57,
+      "source sentence": "(c) to authorize the annual report or statements of receipts and payments and of assets and liabilities of the Council; (Amended 65 of 1979 s. 2)",
+      "reference": "(c) 认可市政局的年报、现金收支表及资产负债表; (由1979年第65号第2条修订)",
+      "translate_result": "(b) 批准委员会的日常工作，并批准委员会就该局的日常运作及该局的财务事宜作出报告; (由1979年第65号第2条修订)",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "(c) the declaration of any dangerous goods to be prohibited goods for the purposes of this Ordinance; (Added 8 of 1959 s. 3)": {
+      "序号": 58,
+      "source sentence": "(c) the declaration of any dangerous goods to be prohibited goods for the purposes of this Ordinance; (Added 8 of 1959 s. 3)",
+      "reference": "(c) 为施行本条例而将任何危险品宣布为违禁品; (由1959年第8号第3条增补)",
+      "translate_result": "(b) 就本条例而言，任何危险品的运输或运输方式，须受《1959年第8号第3条增补)",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "The change in financing is in line with recent recommendations from the Development Assistance Committee of the Organization for Economic Cooperation and Development(OECD), which suggested the change, considering the progress made by Cape Verde's public financing.": {
+      "序号": 59,
+      "source sentence": "The change in financing is in line with recent recommendations from the Development Assistance Committee of the Organization for Economic Cooperation and Development(OECD), which suggested the change, considering the progress made by Cape Verde's public financing.",
+      "reference": "资助方式的改变符合经济合作发展组织（OECD）发展援助委员会最近出台的建议书，该建议书认为佛公共财务已经取得了进展，建议做出这样的改变。",
+      "translate_result": "佛得角财政部长姆努钦表示，佛得角政府已开始实施一项财政改革，以取代政府的财政紧缩政策。",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "After converted from CT to conservational tillage for 13 years,the mean organic carbon sequestration rate was 53 g·m-2·a-1 and 25 g·m-2·a-1 at the depths of 0-10 cm and 10-20 cm,while under CT,it was 26 g·m-2·a-1 and 33 g·m-2·a-1,respectively.": {
+      "序号": 60,
+      "source sentence": "After converted from CT to conservational tillage for 13 years,the mean organic carbon sequestration rate was 53 g·m-2·a-1 and 25 g·m-2·a-1 at the depths of 0-10 cm and 10-20 cm,while under CT,it was 26 g·m-2·a-1 and 33 g·m-2·a-1,respectively.",
+      "reference": "传统耕作转变为保护性耕作13年后0~10和10~20 cm土壤有机碳固定率分别为53和25 g. m-2.a-1,传统耕作有机碳固定率分别为26和33 g.",
+      "translate_result": "连续耕作转为保护性耕作13年后,0~10 cm和10~20 cm土层平均有机碳固存速率分别为53 g·m-2·a-1和25 g·m-2·a-1,而连续耕作条件下0~10 cm和10~20 cm土层平均有机碳固存速率分别为26 g·m-2·a-1和33 g·m-2·a-1。",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "\"gazetted police officer\" (宪委级警务人员) includes officers of all ranks from and including the Commissioner down to and including superintendent; (Amended 37 of 1974 s. 2)": {
+      "序号": 61,
+      "source sentence": "\"gazetted police officer\" (宪委级警务人员) includes officers of all ranks from and including the Commissioner down to and including superintendent; (Amended 37 of 1974 s. 2)",
+      "reference": "“非委任级人员”(non -commissioned officer) 指督察级以下至警长级的警务人员，包括警长在内，亦指相等职级的侦缉人员; (由1977年第42号第2条修订)",
+      "translate_result": "\"gazetted police officer\" (宪委级警务人员) includes officers of all ranks from and including the Commissioner down to and including superintendent; (Amended 37 of 1974 s. 2)",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "The 1990 Nobel Prize for medicine was won by two Americans.": {
+      "序号": 62,
+      "source sentence": "The 1990 Nobel Prize for medicine was won by two Americans.",
+      "reference": "两名美国人获得了1990年度诺贝尔医学奖。",
+      "translate_result": "1990年诺贝尔医学奖由两名美国人获得。",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "Zhang Sifu, Jia Zhongsheng, Du Xingjia et al.Immiscible natural gas displacement field test in Daqing oilfield.": {
+      "序号": 63,
+      "source sentence": "Zhang Sifu, Jia Zhongsheng, Du Xingjia et al.Immiscible natural gas displacement field test in Daqing oilfield.",
+      "reference": "大庆油田注天然气非混相驱矿场试验研究",
+      "translate_result": "Zhang Sifu, Jia Zhongsheng, Du Xingjia et al.Immiscible natural gas displacement field test in Daqing oilfield.",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "A PROOF MATHEMATICAL INDUCTION OF THEOREM “det(AB)=detA det B”": {
+      "序号": 64,
+      "source sentence": "A PROOF MATHEMATICAL INDUCTION OF THEOREM “det(AB)=detA det B”",
+      "reference": "“det(AB)=det Adet B”的数学归纳法证明",
+      "translate_result": "定理“the(AB)=theA the B”的数学归纳证明",
+      "manual_1_result": 0,
+      "manual_2_result": 1,
+      "final_result": 0
+   },
+   "Long-term Trends and Prospects in Supply and Demand for Wood Products and Possible Implications for Sustainable Forest Management": {
+      "序号": 65,
+      "source sentence": "Long-term Trends and Prospects in Supply and Demand for Wood Products and Possible Implications for Sustainable Forest Management",
+      "reference": "木制品供求的长期趋势和前景及对可持续森林管理的可能影响",
+      "translate_result": "木制品供需的长期趋势和前景以及对可持续森林管理的可能影响",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "(1) Every application for any such licence shall be made in writing, addressed to the Council, and shall be accompanied by 3 copies of a plan, drawn to scale, of the swimming pool and the whole of the precincts thereof, and such plan shall include the following particulars-": {
+      "序号": 66,
+      "source sentence": "(1) Every application for any such licence shall be made in writing, addressed to the Council, and shall be accompanied by 3 copies of a plan, drawn to scale, of the swimming pool and the whole of the precincts thereof, and such plan shall include the following particulars-",
+      "reference": "(1) 如申请上述牌照，须藉书面致予区域市政局而提出，并须附有按比例绘制的有关泳池及其整个场地范围的图则一式3份，而该图则亦须包括以下详情─",
+      "translate_result": "(c) 凡在根据本条例第11条订立的规例中，有指明的条文，可将该泳池的设施、设备及设施的用途，以及该泳池的用途，连同该泳池的用途，指明的条文，载有该泳池的设施、设备及设施的用途。",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "(1) This section applies to an agreement between 2 or more persons which includes provision for the acquisition by any one or more of them of interests in shares of a particular listed company (\"the target company\"), being shares comprised in the relevant share capital of that company if-": {
+      "序号": 67,
+      "source sentence": "(1) This section applies to an agreement between 2 or more persons which includes provision for the acquisition by any one or more of them of interests in shares of a particular listed company (\"the target company\"), being shares comprised in the relevant share capital of that company if-",
+      "reference": "(1) 如2人或多於2人缔结协议，协议包括条文，规定由其中1人或多於1人取得某间指定的上市公司(“目标公司”)有关股本中的股份的权益，而又有以下各项情况时，则本条适用於该协议─",
+      "translate_result": "(b) 凡任何人士就某项协议而获授权代表该人士行事，而该项协议的涵义并不影响该人士就该项协议所订立的条文。",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "(2) Where a cause of action survives as aforesaid for the benefit of the estate of a deceased person, the damages recoverable for the benefit of the estate of that person-": {
+      "序号": 68,
+      "source sentence": "(2) Where a cause of action survives as aforesaid for the benefit of the estate of a deceased person, the damages recoverable for the benefit of the estate of that person-",
+      "reference": "(2) 如任何诉讼因由为了死者遗产的利益而以上述形式留存，则为了该人遗产的利益而可追讨的损害赔偿，须受下述条文的规限─",
+      "translate_result": "(2) 凡为死者遗产的利益而提起的诉讼因如上所述继续存在，则为该人的遗产的利益可追讨的损害赔偿金 ——",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "On March 9, 2001, Li Peng, then chairman of the Standing Committee of the National People 's Congress, warned his compatriots:": {
+      "序号": 69,
+      "source sentence": "On March 9, 2001, Li Peng, then chairman of the Standing Committee of the National People 's Congress, warned his compatriots:",
+      "reference": "2001年5月9日,全国人民代表大会常务委员会委员长李鹏警告他的同胞:",
+      "translate_result": "2001年3月9日，时任全国人大常委会委员长李鹏告诫同胞：",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "And what's an act of God?": {
+      "序号": 70,
+      "source sentence": "And what's an act of God?",
+      "reference": "神的行为 -什么是神的行为呢?",
+      "translate_result": "什么是天灾？",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "\"Determination of vitamin C in vegetables and fruits (2,6-dichloro indophenol titration method)\"": {
+      "序号": 71,
+      "source sentence": "\"Determination of vitamin C in vegetables and fruits (2,6-dichloro indophenol titration method)\"",
+      "reference": "\"GB/T6195-1986水果,蔬菜维生素C含量测定法(2,6-二氯靛酚滴定法)\"",
+      "translate_result": "《蔬菜、水果中维生素C的测定（2,6-二氯靛酚滴定法）》",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "(1) Any person who sends by, or, not being the owner or master of the vessel, carries in, any ship any dangerous goods without-": {
+      "序号": 72,
+      "source sentence": "(1) Any person who sends by, or, not being the owner or master of the vessel, carries in, any ship any dangerous goods without-",
+      "reference": "(1) 任何人以船舶运送危险品或如该人并非该船只的船东或船长而在船舶上承运危险品，而没有─",
+      "translate_result": "(c) 凡任何人在根据本条例第14条发出的指示下，在船舶上载有危险货物，或在该等指示下，该等指示是属有效，并不影响该人在该等指示下的行事。",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "In sections 67B and 67C, \"discretionary life sentence\" (酌情性终身监禁刑罚) has the same meaning as in the Long-term Prison Sentences Review Ordinance (Cap 524).": {
+      "序号": 73,
+      "source sentence": "In sections 67B and 67C, \"discretionary life sentence\" (酌情性终身监禁刑罚) has the same meaning as in the Long-term Prison Sentences Review Ordinance (Cap 524).",
+      "reference": "在第67B及67C条中，“酌情性终身监禁刑罚”(discretionary life sentence) 的涵义与《长期监禁刑罚覆核条例》(第524章)中该词的涵义相同。",
+      "translate_result": "In sections 67B and 67C, \"discretionary life sentence\" (酌情性终身监禁刑罚) has the same meaning as in the Long-term Prison Sentences Review Ordinance (Cap 524).",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Neither Lawspirit, nor its affiliates, subsidiaries nor the Licensors will have any liability for any claim based upon or arising out of the combination, operation or use of the Products with (a) any Microsoft or other third party software programs,": {
+      "序号": 74,
+      "source sentence": "Neither Lawspirit, nor its affiliates, subsidiaries nor the Licensors will have any liability for any claim based upon or arising out of the combination, operation or use of the Products with (a) any Microsoft or other third party software programs,",
+      "reference": "对于基于或由于下述各项而发生的任何索赔,无论Lawspirit,其联属公司,子公司或许可人均无任何责任:产品与(a)任何微软或其他第三方软件程序组合,操作或使用,",
+      "translate_result": "对于因产品与 (a) 任何 Microsoft 或其他第三方软件程序、",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "(1) For the management of the fund, there shall be established a committee to be known as the Social Work Training Fund Committee which shall consist of-": {
+      "序号": 75,
+      "source sentence": "(1) For the management of the fund, there shall be established a committee to be known as the Social Work Training Fund Committee which shall consist of-",
+      "reference": "(1) 为管理基金，现设立一个委员会，名为社会工作训练基金委员会，成员如下─",
+      "translate_result": "(1) 为管理基金，现设立一个名为社会工作培训基金委员会的委员会，该委员会的成员包括 ——",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "He said they worked well in Eastern Europe, where governments have kept records of land ownership.": {
+      "序号": 76,
+      "source sentence": "He said they worked well in Eastern Europe, where governments have kept records of land ownership.",
+      "reference": "他表示东欧的工作已经顺利开展,政府已经记录了土地所有权。",
+      "translate_result": "他说，这种方法在东欧很有效，因为那里的政府都保存着土地所有权的记录。",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "the commitment of a patient to a mental hospital": {
+      "序号": 77,
+      "source sentence": "the commitment of a patient to a mental hospital",
+      "reference": "把病人送进精神病院",
+      "translate_result": "病人对精神病院的承诺",
+      "manual_1_result": 0,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "\"licensed trader\" (持牌买卖商) means a licensed leveraged foreign exchange trader for the purposes of the Ordinance;": {
+      "序号": 78,
+      "source sentence": "\"licensed trader\" (持牌买卖商) means a licensed leveraged foreign exchange trader for the purposes of the Ordinance;",
+      "reference": "“持牌买卖商”(licensed trader) 就本条例而言，指持牌杠杆式外汇买卖商;",
+      "translate_result": "\"licensed trader\" (持牌买卖商) means a licensed leveraged foreign exchange trader for the purposes of the Ordinance;",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "The patient dies, or the patient's immune system fights off the invader.": {
+      "序号": 79,
+      "source sentence": "The patient dies, or the patient's immune system fights off the invader.",
+      "reference": "病人死了或者病人免疫系统抵抗入侵的病菌",
+      "translate_result": "病人死亡，或者病人的免疫系统击退了入侵者。",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "STUDIES ON SPACE DISTRIBUTION MODEL AND POPULATION DENSITY ESTIMATION OF BATOCERA HORSFIEDI HOPE": {
+      "序号": 80,
+      "source sentence": "STUDIES ON SPACE DISTRIBUTION MODEL AND POPULATION DENSITY ESTIMATION OF BATOCERA HORSFIEDI HOPE",
+      "reference": "云斑天牛空间分布型与种群密度估计的研究",
+      "translate_result": "马斑天牛空间分布模型及种群密度估算研究",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "Au Tau Raw Water and Fresh Water Pumping Station": {
+      "序号": 81,
+      "source sentence": "Au Tau Raw Water and Fresh Water Pumping Station",
+      "reference": "凹头原水及食水抽水站",
+      "translate_result": "凹头原水及食水抽水站",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "\"ballot paper account\" (选票结算表) means a statement prepared under section 64;": {
+      "序号": 82,
+      "source sentence": "\"ballot paper account\" (选票结算表) means a statement prepared under section 64;",
+      "reference": "“未用的选票”(unused ballot paper) 指第61(2)条所指的未用的选票;",
+      "translate_result": "\"ballot paper account\" (选票结算表) means a statement prepared under section 64;",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "On every goods vehicle and special purpose vehicle the exhaust pipe shall be so fitted or shielded, and maintained that-": {
+      "序号": 83,
+      "source sentence": "On every goods vehicle and special purpose vehicle the exhaust pipe shall be so fitted or shielded, and maintained that-",
+      "reference": "每部货车及特别用途车辆的排气管，须在装配或防护以及在保养方面符合以下的规定─",
+      "translate_result": "(c) 在第(2)款和(3)款的规定下，排气管的安装和维护不得超过规定时间。",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "A construction of Non-Cartesian Authentication Codes from Vector Space over Finite Fields": {
+      "序号": 84,
+      "source sentence": "A construction of Non-Cartesian Authentication Codes from Vector Space over Finite Fields",
+      "reference": "有限域上向量空间中一类Non-cartesian认证码的构作",
+      "translate_result": "有限域上向量空间非笛卡尔认证码的构造",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "To provide for the incorporation of the Procurator in the Colony for the Dominican Missions in the Far East.": {
+      "序号": 85,
+      "source sentence": "To provide for the incorporation of the Procurator in the Colony for the Dominican Missions in the Far East.",
+      "reference": "本条例旨在就道明会远东香港总务长成立为法团而订定条文。",
+      "translate_result": "本条例的条文规定，在任何情况下，在任何情况下，在任何情况下，在任何情况下，在任何情况下，都必须遵守法律的规定。",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Days of fresh air in the rain and the sun": {
+      "序号": 86,
+      "source sentence": "Days of fresh air in the rain and the sun",
+      "reference": "天阴天晴的清新空气",
+      "translate_result": "风雨无阻、阳光灿烂的日子",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "(b) in subsection (5) (a), the expression \"appropriate medical certificate\" (适当的医生证明书) means-": {
+      "序号": 87,
+      "source sentence": "(b) in subsection (5) (a), the expression \"appropriate medical certificate\" (适当的医生证明书) means-",
+      "reference": "(b) 第(5)(a)款内“适当的医生证明书”(appropriate medical certificate) 一词指─",
+      "translate_result": "(b) in subsection (5) (a), the expression \"appropriate medical certificate\" (适当的医生证明书) means-",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Analyzed in 6patients with lymph node tuberculosis in a clinical review": {
+      "序号": 88,
+      "source sentence": "Analyzed in 6patients with lymph node tuberculosis in a clinical review",
+      "reference": "63例结核性淋巴结炎临床分析",
+      "translate_result": "临床回顾中对 6 例淋巴结结核患者进行了分析",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "(3) In addition to the requirements of subregulation (1) there shall be provided in any such space containing internal combustion type machinery-": {
+      "序号": 89,
+      "source sentence": "(3) In addition to the requirements of subregulation (1) there shall be provided in any such space containing internal combustion type machinery-",
+      "reference": "(3) 除第(1)款的规定外，另须在任何设有内燃式机械的该等舱间内设置─",
+      "translate_result": "(3) 除第(1)款的要求外，在任何装有内燃型机械的处所内还须设置——",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "Report on the Supply and Demand in Accommodations for Small Households": {
+      "序号": 90,
+      "source sentence": "Report on the Supply and Demand in Accommodations for Small Households",
+      "reference": "《小家庭居所供求报告书》",
+      "translate_result": "小户型住宿供需报告",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "The Normal Bar is the brainchild of entrepreneur Chrisanna Northrupp and is co-authored by academics Professor Pepper Schwartz, sociologist at the University of Washington, and Professor James Schwartz, Director of the Centre for Social Science Research at George Mason University in Virginia.": {
+      "序号": 91,
+      "source sentence": "The Normal Bar is the brainchild of entrepreneur Chrisanna Northrupp and is co-authored by academics Professor Pepper Schwartz, sociologist at the University of Washington, and Professor James Schwartz, Director of the Centre for Social Science Research at George Mason University in Virginia.",
+      "reference": "《正常度调查》是企业家Chrisanna Northrupp的智慧结晶，并由华盛顿大学社会学家Pepper Schwartz教授、弗吉尼亚州乔治梅森大学社会科学研究中心主任James Schwartz 教授合著。",
+      "translate_result": "《普通律师》是企业家克里斯安娜·诺斯鲁普 (Chrisanna Northrupp) 的创意，由华盛顿大学社会学家佩珀·施瓦茨 (Pepper Schwartz) 教授和弗吉尼亚州乔治梅森大学社会科学研究中心主任詹姆斯·施瓦茨 (James Schwartz) 教授共同撰写。",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "Moulding materials for windows of unplasticized polyvinyl chloride — Part 2: Quality specification": {
+      "序号": 92,
+      "source sentence": "Moulding materials for windows of unplasticized polyvinyl chloride — Part 2: Quality specification",
+      "reference": "GB/T12001.2-1989未增塑聚氯乙烯窗用模塑料第二部分:质量规格",
+      "translate_result": "未增塑聚氯乙烯窗用模塑料 第 2 部分：质量规范",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "A Primary Inquiry into the Application of BSC (Balance Score Card) in the Effective Management of Local Government": {
+      "序号": 93,
+      "source sentence": "A Primary Inquiry into the Application of BSC (Balance Score Card) in the Effective Management of Local Government",
+      "reference": "平衡计分卡在地方政府绩效管理中的应用初探",
+      "translate_result": "平衡计分卡在地方政府有效管理中的应用初探",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "(2) Save with the permission of the Court of First Instance, an appellant shall not be entitled at the hearing of the appeal to rely on any ground of appeal not specified in the application for leave to appeal. (L.N. 215 of 1982)": {
+      "序号": 94,
+      "source sentence": "(2) Save with the permission of the Court of First Instance, an appellant shall not be entitled at the hearing of the appeal to rely on any ground of appeal not specified in the application for leave to appeal. (L.N. 215 of 1982)",
+      "reference": "(2) 除非获原讼法庭准许，否则上诉人无权在上诉聆讯中倚赖任何并无在其上诉许可申请书中指明的上诉理由。(1982年第215号法律公告)",
+      "translate_result": "(2) 除非获得原讼法庭许可，否则上诉人无权在上诉聆讯中依赖上诉许可申请中未指明的任何上诉理由。 (1982年第215号法律公告)",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "However, 40 percent of Cape Verde's tax revenues come from its customs, a situation which will have to change due to the company's membership of the WTO.": {
+      "序号": 95,
+      "source sentence": "However, 40 percent of Cape Verde's tax revenues come from its customs, a situation which will have to change due to the company's membership of the WTO.",
+      "reference": "然而，佛得角40%的税收来自海关，该国加入WTO之后，此局面将必须改变。",
+      "translate_result": "佛得角总统拉加德表示，佛得角政府希望通过扩大其在国际贸易中的份额，以减少贸易壁垒。",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Ronald Coase get the Nobel Prize in 1991 because of the article <<nature of firm>>, after then, enterprise research of corporate governance have become more and more.": {
+      "序号": 96,
+      "source sentence": "Ronald Coase get the Nobel Prize in 1991 because of the article <<nature of firm>>, after then, enterprise research of corporate governance have become more and more.",
+      "reference": "罗纳德·科斯《企业的性质》一文获得1991年诺贝尔经济学奖之后，有关公司治理结构的研究便在国内渐成燎原之势。",
+      "translate_result": "罗纳德·科斯因文章《<nature of firm> &gt;此后，企业公司治理的研究也越来越多。",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "(1) Whenever a company limited by shares or a company limited by guarantee and having a share capital makes any allotment of its shares, the company shall within 8 weeks thereafter deliver to the Registrar for registration-": {
+      "序号": 97,
+      "source sentence": "(1) Whenever a company limited by shares or a company limited by guarantee and having a share capital makes any allotment of its shares, the company shall within 8 weeks thereafter deliver to the Registrar for registration-",
+      "reference": "(1) 任何股份有限公司或有股本的担保有限公司将其股份分配，该公司须於分配後8星期内，将下列文件交付处长注册─",
+      "translate_result": "(c) 凡任何公司根据第(1)款获授任何权力，而该等权力乃根据第(1)款获授的权力而厘定，则该公司可在该权力下，就该等权力而将该等权力转授予任何该等公司。",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Asia and Eastern Europe are the two regions with the most positive FDI prospects.": {
+      "序号": 98,
+      "source sentence": "Asia and Eastern Europe are the two regions with the most positive FDI prospects.",
+      "reference": "亚洲和东欧是外国直接投资的两大地区。",
+      "translate_result": "亚洲和东欧是 FDI 前景最乐观的两个地区。",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "(1) Any police officer, or any officer of the Agriculture and Fisheries Department authorized in writing for the purposes of this section by the Director, may-": {
+      "序号": 99,
+      "source sentence": "(1) Any police officer, or any officer of the Agriculture and Fisheries Department authorized in writing for the purposes of this section by the Director, may-",
+      "reference": "(1) 任何警务人员，或任何为施行本条而获处长以书面授权的渔农处人员─",
+      "translate_result": "(3) 凡在根据第(2)款发出的通知书内，有人违反第(1)款的规定，可处第1级罚款及监禁6个月。",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   }
+}

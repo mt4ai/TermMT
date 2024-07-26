@@ -1,0 +1,902 @@
+{
+   "For Help on an item, click? at the top of the dialog box, and then click the item.": {
+      "序号": 0,
+      "source sentence": "For Help on an item, click? at the top of the dialog box, and then click the item.",
+      "reference": "有关项目的帮助，请单击对话框顶部的问号按钮,然后再单击此项",
+      "translate_result": "要获取有关某个项目的帮助，请单击对话框顶部的“？”，然后单击该项目。",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "(2) A swing saw or pendulum saw shall be provided with limit chains or other effective devices to prevent the front edge of the saw being pulled out in front of the work table; and such chains or devices shall be maintained in good working order.": {
+      "序号": 1,
+      "source sentence": "(2) A swing saw or pendulum saw shall be provided with limit chains or other effective devices to prevent the front edge of the saw being pulled out in front of the work table; and such chains or devices shall be maintained in good working order.",
+      "reference": "(2) 摇摆锯或钟摆锯须设有限制链或其他有效装置，以防止锯子前刃被拉出工作台之前;而该等限制链或装置须保持良好操作状态。",
+      "translate_result": "（2）摆锯、摆锯应设有限位链或其他有效装置，防止锯前刃在工作台前被拉出；此类链条或装置应保持良好的工作状态。",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "I just came down with some kind of bug.I got to take a sick leave.": {
+      "序号": 2,
+      "source sentence": "I just came down with some kind of bug.I got to take a sick leave.",
+      "reference": "有点事要麻烦你 我得请病假",
+      "translate_result": "我刚刚得了某种病，我得请病假。",
+      "manual_1_result": 1,
+      "manual_2_result": 0,
+      "final_result": "futher check needed"
+   },
+   "An ideal traction motive power for fast transportation of special goods DF_(8BG) diesel locomotives": {
+      "序号": 3,
+      "source sentence": "An ideal traction motive power for fast transportation of special goods DF_(8BG) diesel locomotives",
+      "reference": "特货快运理想的牵引动力——东风_(8BG)型内燃机车",
+      "translate_result": "特殊货物快速运输的理想牵引动力DF_(8BG)内燃机车",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "The purpose is to make the physical specialized course meet the need of sports for all and the fitness of intelligentsia, so to promote the reforming process of physical education teaching in university.": {
+      "序号": 4,
+      "source sentence": "The purpose is to make the physical specialized course meet the need of sports for all and the fitness of intelligentsia, so to promote the reforming process of physical education teaching in university.",
+      "reference": "目的在于使高校体育专项课程的基本结构能更加适合开展全民健身运动的需要，适合高知识人群健身活动的需要，进一步推动高校体育教学改革的进程，使体育专项课教学更具有实效性",
+      "translate_result": "目的是使体育专业课程适应全民体育和知识分子健身的需要，推动高校体育教学改革的进程。",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "an extract of the contract showing the change in ownership, which extract may be required to be certified, by a notary public or any other competent public authority, as being a true extract of the contract;": {
+      "序号": 5,
+      "source sentence": "an extract of the contract showing the change in ownership, which extract may be required to be certified, by a notary public or any other competent public authority, as being a true extract of the contract;",
+      "reference": "示明所有权变更的合同摘录,可要求由公证部门或任何其他政府主管部门证明摘录确系合同的真实摘录;",
+      "translate_result": "显示所有权变更的合同摘录，该摘录可能需要由公证人或任何其他主管公共机构证明为合同的真实摘录；",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "Research on ammonia excretion and oxygen consumption in allogynogenetic sliver crucian carp": {
+      "序号": 6,
+      "source sentence": "Research on ammonia excretion and oxygen consumption in allogynogenetic sliver crucian carp",
+      "reference": "异育银鲫氨氮排泄与耗氧的研究",
+      "translate_result": "异育银鲫排氨量与耗氧量的研究",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Many problems such as energy shortage, available resource scarcity, severe urban pollution and urbanization lag, pose negative impacts on Wenzhou's future sustainable development in economy and society.": {
+      "序号": 7,
+      "source sentence": "Many problems such as energy shortage, available resource scarcity, severe urban pollution and urbanization lag, pose negative impacts on Wenzhou's future sustainable development in economy and society.",
+      "reference": "能源紧缺、可利用资源匮乏、城市污染严重、城市化水平滞后等问题，都将影响温州市今后经济和社会的可持续发展。",
+      "translate_result": "能源短缺、可用资源稀缺、城市污染严重、城市化滞后等诸多问题对温州未来经济社会的可持续发展构成了负面影响。",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "As for imitator can share innovator benefits, another reason is that any new product produce scale is limited, it can not satisfy all user demand , so it can supply market chance for imitator , even some can occupy more market share than innovator .": {
+      "序号": 8,
+      "source sentence": "As for imitator can share innovator benefits, another reason is that any new product produce scale is limited, it can not satisfy all user demand , so it can supply market chance for imitator , even some can occupy more market share than innovator .",
+      "reference": "至于模仿者所以能够分享创新者的利益，还在于任何一种新产品上市，其生产规模总是有限的，短期内不可能满足所有用户的需求，这就为模仿者提供了市场机会。 甚至好的模仿者还可能后来居上，能比创新者占领更大的市场份额。",
+      "translate_result": "至于模仿者可以分享创新者的利益，另一个原因是任何新产品的生产规模都是有限的，它不能满足所有的用户需求，因此它可以为模仿者提供市场机会，甚至有些可以比创新者占据更多的市场份额。",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "A person trained to live in underwater installations and conduct, assist in, or a subject of scientific research.": {
+      "序号": 9,
+      "source sentence": "A person trained to live in underwater installations and conduct, assist in, or a subject of scientific research.",
+      "reference": "海底（实验室）工作人，深水操作人员训练能在水下装置物中生活并引导、辅助或作为科学研究的对象",
+      "translate_result": "接受过在水下设施中生活并进行、协助或进行科学研究的人员。",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "The atmosphere quality of 25K-type train is better than others in winter and summer, the atmosphere quality of hard sleeping car meets with national standards, the comfortable degree of 25K-type train is the best.": {
+      "序号": 10,
+      "source sentence": "The atmosphere quality of 25K-type train is better than others in winter and summer, the atmosphere quality of hard sleeping car meets with national standards, the comfortable degree of 25K-type train is the best.",
+      "reference": "硬卧车厢空气质量冬夏季均符合标准要求，25K型列车舒适度最佳。",
+      "translate_result": "25K型列车冬季、夏季车内氛围品质较好，硬卧车内氛围品质符合国家标准，25K型列车舒适度最好。",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "Business class is the most expensive, or one of the most expensive ways to travel on a train or a plane, but it is more comfortable.": {
+      "序号": 11,
+      "source sentence": "Business class is the most expensive, or one of the most expensive ways to travel on a train or a plane, but it is more comfortable.",
+      "reference": "商务车厢飞机或者火车最贵的旅行方式，也是最舒适的。",
+      "translate_result": "商务舱是最昂贵的，或者说是最昂贵的火车或飞机旅行方式之一，但它更舒适。",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "A conciliation statement shall have legal effect once signed and accepted by the parties.": {
+      "序号": 12,
+      "source sentence": "A conciliation statement shall have legal effect once signed and accepted by the parties.",
+      "reference": "调解书经双方当事人签收后，即发生法律效力。",
+      "translate_result": "调解书经当事人签字并接受后，即发生法律效力。",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "\"Provinces, autonomous regions, municipalities directly under the central government\"": {
+      "序号": 13,
+      "source sentence": "\"Provinces, autonomous regions, municipalities directly under the central government\"",
+      "reference": "省,自治区,直辖市",
+      "translate_result": "“各省、自治区、直辖市”",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "The general rules of astronautic solar cell calibration": {
+      "序号": 14,
+      "source sentence": "The general rules of astronautic solar cell calibration",
+      "reference": "GB/T6496-1986航天用太阳电池标定的一般规定",
+      "translate_result": "航天太阳能电池标定通用规则",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "\"Failure to apply for tax registration, change or cancellation of tax registration within a prescribed time limit;\"": {
+      "序号": 15,
+      "source sentence": "\"Failure to apply for tax registration, change or cancellation of tax registration within a prescribed time limit;\"",
+      "reference": "未按照规定的期限申报办理税务登记,变更或者注销登记的",
+      "translate_result": "“未在规定期限内申请税务登记、变更或者注销税务登记的；”",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "Article 49 When the medical and health institution finds that a worker is suspected of being an occupational disease patient, it shall let the worker himself know it and inform the employer of the matter without delay.": {
+      "序号": 16,
+      "source sentence": "Article 49 When the medical and health institution finds that a worker is suspected of being an occupational disease patient, it shall let the worker himself know it and inform the employer of the matter without delay.",
+      "reference": "第四十九条  医疗卫生机构发现疑似职业病病人时，应当告知劳动者本人并及时通知用人单位。",
+      "translate_result": "第四十九条 医疗卫生机构发现劳动者疑似职业病病人时，应当告知劳动者本人，并且及时告知用人单位。",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "Measurements of Low Densities and Capture Cross Section of the Surface States at the Si-SiO_2 Interface by the Conductance Technique": {
+      "序号": 17,
+      "source sentence": "Measurements of Low Densities and Capture Cross Section of the Surface States at the Si-SiO_2 Interface by the Conductance Technique",
+      "reference": "用电导法测定Si-SiO_2低界面态密度和俘获截面",
+      "translate_result": "用电导技术测量Si-SiO_2界面处表面态的低密度和俘获截面",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Because of the consumers’ weak status in a market deal and leading status in economic development, the legislation should break through the understanding of equal protection stipulated in the traditional civil law or commercial law, and offer special protection to consumers in the angle of economic law.": {
+      "序号": 18,
+      "source sentence": "Because of the consumers’ weak status in a market deal and leading status in economic development, the legislation should break through the understanding of equal protection stipulated in the traditional civil law or commercial law, and offer special protection to consumers in the angle of economic law.",
+      "reference": "由于消费者在市场交易中处于弱者地位，在经济发展中处于主权地位，立法上应突破传统民商法平等保护的原则，从经济法的角度对消费者予以特别保护，这样做，既符合公平目标，又符合效率目标。 其次，当前保护消费者权益应着力制止欺诈行为。",
+      "translate_result": "由于消费者在市场交易中的弱势地位和在经济发展中的主导地位，立法应突破传统民法或商法规定的平等保护的认识，从经济法的角度对消费者予以特殊的保护。",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "U.S. beef imports were banned here after a single American animal was diagnosed with the fatal nervous disorder known as \"mad cow disease\" in 2003. The fatal disease can be transmitted to humans eating meat from an infected animal.": {
+      "序号": 19,
+      "source sentence": "U.S. beef imports were banned here after a single American animal was diagnosed with the fatal nervous disorder known as \"mad cow disease\" in 2003. The fatal disease can be transmitted to humans eating meat from an infected animal.",
+      "reference": "2003年，美国的一只牛被查出感染了致命的神经系统疾病疯牛病，随后韩国禁止从美国进口牛肉。人吃了感染疯牛病的牛肉有可能染上这种致命的疾病。",
+      "translate_result": "2003年，美国一头牲畜被诊断出患有致命的神经疾病“疯牛病”，此后，美国牛肉被禁止进口。这种致命疾病可以通过食用受感染动物的肉传染给人类。",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "Effects of diagenesis on reservoir property and auality,a case study of the Cainan Oilfield in east of Zhun Ga’er Basin": {
+      "序号": 20,
+      "source sentence": "Effects of diagenesis on reservoir property and auality,a case study of the Cainan Oilfield in east of Zhun Ga’er Basin",
+      "reference": "成岩作用对储集层物性贡献比率研究",
+      "translate_result": "成岩作用对储层物性及品质的影响——以准噶尔盆地东部彩南油田为例",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "An envious friend will want what you have, but will look to you as her inspiration or role model, and compete with you to get in the lead.": {
+      "序号": 21,
+      "source sentence": "An envious friend will want what you have, but will look to you as her inspiration or role model, and compete with you to get in the lead.",
+      "reference": "而羡慕你的朋友想要你所拥有的，但会把你作为对她的激励或是一个榜样，然后与你竞争来超越你。",
+      "translate_result": "嫉妒的朋友会想要你所拥有的东西，但会将你视为她的灵感或榜样，并与你竞争以取得领先地位。",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "(ii) the court shall not make an order mentioned in paragraph (a) where it would prejudice another person who has, in good faith and for valuable consideration, acquired an interest in the land.": {
+      "序号": 22,
+      "source sentence": "(ii) the court shall not make an order mentioned in paragraph (a) where it would prejudice another person who has, in good faith and for valuable consideration, acquired an interest in the land.",
+      "reference": "(ii) 如作出(a)段所述的命令会损害另一名本真诚和以有值代价获取该土地的权益的人，则法院不得作出该项命令。",
+      "translate_result": "(ii) 如果法院作出(a)款中提到的命令会损害其他善意并以有价值的代价获得土地权益的人，则不得作出该命令。",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "At present, big companies are using indexes such as selling income、 net profit、 EPS、 ROA、 ROE etc to assess.": {
+      "序号": 23,
+      "source sentence": "At present, big companies are using indexes such as selling income、 net profit、 EPS、 ROA、 ROE etc to assess.",
+      "reference": "目前各大公司一般都以销售收入、净利润、每股收益、资产回报率、净资产收益率等指标来考核经营者的业绩。",
+      "translate_result": "目前，大公司都采用销售收入、净利润、EPS、ROA、ROE等指标来评估。",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "No regulations made by any committee under section 14 shall be binding on the members of the church until such regulations have been passed by a majority of members present and voting at an annual general meeting of members.": {
+      "序号": 24,
+      "source sentence": "No regulations made by any committee under section 14 shall be binding on the members of the church until such regulations have been passed by a majority of members present and voting at an annual general meeting of members.",
+      "reference": "委员会根据第14条订立的任何规例，在获出席会友周年大会并在大会表决的会友的过半数通过前，对教会会友不具约束力。",
+      "translate_result": "根据第 14 条由任何委员会制定的规章，除非经出席年度会员大会并投票的大多数会员通过，否则对教会会员不具有约束力。",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "In this work we use SDS Polyacrylamid gel electrophoresis (SDS PAGE) to analyzed the protein composition in root like stems and leaves of five species of Polygonatum. The results show:(1)All root like stems contain proteins of 38.5,28,18.6kD molecular weight.": {
+      "序号": 25,
+      "source sentence": "In this work we use SDS Polyacrylamid gel electrophoresis (SDS PAGE) to analyzed the protein composition in root like stems and leaves of five species of Polygonatum. The results show:(1)All root like stems contain proteins of 38.5,28,18.6kD molecular weight.",
+      "reference": "本文用聚丙烯酰胺凝胶电泳（SDS—PAGE）技术分析了5种黄精属植物根状茎和叶的蛋白指纹．结果表明：（1）它们的根状茎均含有38．5、28、18．6kD蛋白质；",
+      "translate_result": "本文采用十二烷基硫酸钠聚丙烯酰胺凝胶电泳(SDS-PAGE)对5种黄精属植物根茎和叶的蛋白质组成进行了分析,结果表明:(1)根茎中均含有38.5,28,18.6kD分子量的蛋白质。",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "(1) Subject to subregulation (2), no person shall use, transport or store a cylinder which contains or has contained liquefied petroleum gas in any manner which prevents the valve connection of the cylinder from being in contact with the vapour space of the cylinder.": {
+      "序号": 26,
+      "source sentence": "(1) Subject to subregulation (2), no person shall use, transport or store a cylinder which contains or has contained liquefied petroleum gas in any manner which prevents the valve connection of the cylinder from being in contact with the vapour space of the cylinder.",
+      "reference": "(1) 除第(2)款另有规定外，石油气瓶如以其瓶阀接头部分不与该石油气瓶的蒸汽空间接触的方式载有或已载有石油气，则任何人不得使用、运送或储存该等石油气瓶。",
+      "translate_result": "(1) 除第 (2) 款外，任何人不得以任何方式使用、运输或储存装有或已装有液化石油气的气瓶，以防止气瓶的阀门连接与气瓶的蒸汽空间接触。 。",
+      "manual_1_result": 0,
+      "manual_2_result": 1,
+      "final_result": "futher check needed"
+   },
+   "It paid the down payment on my house.": {
+      "序号": 27,
+      "source sentence": "It paid the down payment on my house.",
+      "reference": "我刚好可以拿来付房子头期款",
+      "translate_result": "它支付了我房子的首付。",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "The setting was rather heavy for the warm climate. The room, which was fairly big, was furnished with large chairs and a round table with a green baize cover.": {
+      "序号": 28,
+      "source sentence": "The setting was rather heavy for the warm climate. The room, which was fairly big, was furnished with large chairs and a round table with a green baize cover.",
+      "reference": "对于温暖的气候而言，室内布置似乎过于沉闷。房间十分宽敞，内有厚重的会议椅和圆形会议桌，地上铺设绿色粗呢羊毛毯。",
+      "translate_result": "对于温暖的气候来说，布置显得有些沉重。房间相当大，摆放着大椅子和一张铺着绿色绒布桌布的圆桌。",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "The crisis stems from millions of mortgages given in recent years to home-buyers with poor credit or unstable finances. The result has been a tidal wave of foreclosures that have incurred massive losses on financial institutions and some insurance firms.": {
+      "序号": 29,
+      "source sentence": "The crisis stems from millions of mortgages given in recent years to home-buyers with poor credit or unstable finances. The result has been a tidal wave of foreclosures that have incurred massive losses on financial institutions and some insurance firms.",
+      "reference": "这次危机的起因是由于最近几年向信用不佳或收入不稳定的房屋购买者提供数以百万计的房贷。其结果引发了许许多多人丧失了房屋赎回权，让金融机构和一些保险公司蒙上巨大损失。",
+      "translate_result": "此次危机源于近年来数百万笔抵押贷款发放给信用不良或财务状况不稳定的购房者。结果导致大量房屋止赎，给金融机构和一些保险公司带来了巨额损失。",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "(1) refusing an on-site inspection by the competent department of environmental protection administration or another department invested by law with power to conduct environmental supervision and management, or resorting to trickery and fraud while undergoing inspection;": {
+      "序号": 30,
+      "source sentence": "(1) refusing an on-site inspection by the competent department of environmental protection administration or another department invested by law with power to conduct environmental supervision and management, or resorting to trickery and fraud while undergoing inspection;",
+      "reference": "（一）拒绝环境保护行政主管部门或者其他依照法律规定行使环境监督管理权的部门现场检查或者在被检查时弄虚作假的。",
+      "translate_result": "（一）拒绝环境保护行政主管部门或者其他依法具有环境监督管理权的部门现场检查，或者接受检查时采取欺骗手段的；",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "About a quarter work more than 6hours a week, according to official figures, though the real number may higher.": {
+      "序号": 31,
+      "source sentence": "About a quarter work more than 6hours a week, according to official figures, though the real number may higher.",
+      "reference": "官方数据显示，他们中有四分之一的人每周工作时间超过了60个小时，真实的数字则可能更高。",
+      "translate_result": "根据官方数据，大约四分之一的人每周工作时间超过 6 小时，但实际数字可能更高。",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "In this repori,we examined pulse rate and body temperature by the routine method,reviewed symptom and sign on 21 fighter pilots,in the preparatory day and flying training day.": {
+      "序号": 32,
+      "source sentence": "In this repori,we examined pulse rate and body temperature by the routine method,reviewed symptom and sign on 21 fighter pilots,in the preparatory day and flying training day.",
+      "reference": "本报告对正常训练的21名歼击机飞行员，在飞行准备日与飞行日，用常规方法测定脉率和体温，并询问观察其症状与体征。",
+      "translate_result": "本文对21名歼击机飞行员在飞行准备日及飞行训练日按常规方法测量脉率、体温,并回顾性分析其症状体征。",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Air China and Star Alliance signed a memorandum of understanding Monday to make the invitation for the Chinese company to join the alliance official.": {
+      "序号": 33,
+      "source sentence": "Air China and Star Alliance signed a memorandum of understanding Monday to make the invitation for the Chinese company to join the alliance official.",
+      "reference": "周一中国国际航空公司与星空联盟签署了一份谅解备忘录，星空联盟正式邀请中国国际航空公司加入该联盟。",
+      "translate_result": "中国国际航空与星空联盟周一签署谅解备忘录，正式邀请中国公司加入星空联盟。",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Exposing ourselves to traditional Japanese aesthetic ideas — notions that may seem quite foreign to most of us — is a good exercise in lateral thinking, a term coined by Edward de Bono in 1967.": {
+      "序号": 34,
+      "source sentence": "Exposing ourselves to traditional Japanese aesthetic ideas — notions that may seem quite foreign to most of us — is a good exercise in lateral thinking, a term coined by Edward de Bono in 1967.",
+      "reference": "日本传统审美观是EdwarddeBono在1967年提出的术语，它的概念对我们的大多数而言比较陌生的，但它是横向思维是很好的锻炼。",
+      "translate_result": "接触传统的日本美学理念（对我们大多数人来说可能相当陌生）是锻炼横向思维的一个很好的方法，横向思维是爱德华·德·博诺 (Edward de Bono) 于 1967 年创造的一个术语。",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "And unto this people thou shalt say, Thus saith the LORD; Behold, I set before you the way of life, and the way of death.": {
+      "序号": 35,
+      "source sentence": "And unto this people thou shalt say, Thus saith the LORD; Behold, I set before you the way of life, and the way of death.",
+      "reference": "8你要对这百姓说，耶和华如此说，看哪，我将生命的路和死亡的路摆在你们面前。",
+      "translate_result": "你要对这百姓说，耶和华如此说。看哪，我将生命的道路和死亡的道路摆在你们面前。",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "Soon after the September 18th Incident, a tidal wave for Constitution Movement rose in China.": {
+      "序号": 36,
+      "source sentence": "Soon after the September 18th Incident, a tidal wave for Constitution Movement rose in China.",
+      "reference": "\"九一八\"事变后,国内掀起了一场宪政运动的浪潮。",
+      "translate_result": "九一八事变后不久，中国境内兴起了立宪运动的浪潮。",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "The way to measure fuel ingredient contents by Gas Chromatography technology was determined, i. e. the contents of the sensitive fuel C was tested by means of calibration curve with ethyl acetate as solvent;": {
+      "序号": 37,
+      "source sentence": "The way to measure fuel ingredient contents by Gas Chromatography technology was determined, i. e. the contents of the sensitive fuel C was tested by means of calibration curve with ethyl acetate as solvent;",
+      "reference": "确定了以气相色谱测定燃料组分含量的方法，即用乙酸乙酯做溶剂，采用标准曲线方法来测定敏化燃料C的含量；",
+      "translate_result": "确定了用气相色谱技术测定燃料成分含量的方法，即以乙酸乙酯为溶剂，利用校准曲线测定敏感燃料C的含量；",
+      "manual_1_result": 0,
+      "manual_2_result": 1,
+      "final_result": "futher check needed"
+   },
+   "ACom paritive Study on the Distribution of A ChE-positive and VIP-imm unoreactive Nervesin SmallIntestine of Guinea Pig and Rat: ACom bined Histoche micaland Immunohistochemical Observation": {
+      "序号": 38,
+      "source sentence": "ACom paritive Study on the Distribution of A ChE-positive and VIP-imm unoreactive Nervesin SmallIntestine of Guinea Pig and Rat: ACom bined Histoche micaland Immunohistochemical Observation",
+      "reference": "豚鼠和大鼠小肠内AChE和VIP阳性神经的分布关系研究——酶组织化学与免疫组织化学结合法观察",
+      "translate_result": "豚鼠和大鼠小肠A ChE阳性和VIP-imm非反应性神经素分布的ACom对比研究：ACom结合组织化学和免疫组织化学观察",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Faced with the situation of few personnel in scientific research and poor conditions for experiments, the first generation of staffs began an arduous journey of creation and innovation with their wisdom and hard works and became the vanguard of dairy industry in China.": {
+      "序号": 39,
+      "source sentence": "Faced with the situation of few personnel in scientific research and poor conditions for experiments, the first generation of staffs began an arduous journey of creation and innovation with their wisdom and hard works and became the vanguard of dairy industry in China.",
+      "reference": "在科研力量不足，实验条件简陋的环境下，第一代乳业人凭着聪明的智慧和勤劳的双手开始了艰苦的创造和创新之旅，开创了我国乳品行业的先河。",
+      "translate_result": "面对科研人员稀少、实验条件恶劣的局面，第一代人凭借自己的智慧和辛勤劳动，开始了艰苦卓绝的创造创新之旅，成为了中国乳业的排头兵。",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Results The thickness of aorta(ADT),rate of aortic diameter change(ΔAD),systolic pressure(SBP),pulse pressure(PBP),nitric oxide(NO),ROS,intima-media thickness(T),diameter(D),the content of smooth muscel cell 〔SMC(Aa%)〕,the content of collagen〔CF(Aa%)〕,the content of hydroxyproline(HC)and maximal dilatory response to Ach(Emax)were correlated with age closely.": {
+      "序号": 40,
+      "source sentence": "Results The thickness of aorta(ADT),rate of aortic diameter change(ΔAD),systolic pressure(SBP),pulse pressure(PBP),nitric oxide(NO),ROS,intima-media thickness(T),diameter(D),the content of smooth muscel cell 〔SMC(Aa%)〕,the content of collagen〔CF(Aa%)〕,the content of hydroxyproline(HC)and maximal dilatory response to Ach(Emax)were correlated with age closely.",
+      "reference": "结果ADT、主动脉内径变化率(ΔAD)、收缩压(SBP)、脉压(PP)、NO、ROS、内膜中膜厚度(T)、血管内径(D)、中膜平滑肌相对含量〔SMC(Aa%)〕、胶原纤维相对含量(Aa%);",
+      "translate_result": "结果主动脉厚度(ADT)、主动脉内径变化率(ΔAD)、收缩压(SBP)、脉压(PBP)、一氧化氮(NO)、ROS、内膜中层厚度(T)、内径(D)、平滑肌细胞含量〔SMC(Aa%)〕、胶原含量〔CF(Aa%)〕、羟脯氨酸(HC)含量、乙酰胆碱最大舒张反应(Emax)与年龄密切相关。",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "At what age do most students graduate from secondary school?": {
+      "序号": 41,
+      "source sentence": "At what age do most students graduate from secondary school?",
+      "reference": "大多数学生多大中学毕业？",
+      "translate_result": "大多数学生在什么年龄从中学毕业？",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "Any shipper or passenger may, on voluntary basis, buy insurance policy for transport of goods at an insurance agency and the insurance agency shall be liable for indemnity in conformity with the agreement as stated in the insurance contract.": {
+      "序号": 42,
+      "source sentence": "Any shipper or passenger may, on voluntary basis, buy insurance policy for transport of goods at an insurance agency and the insurance agency shall be liable for indemnity in conformity with the agreement as stated in the insurance contract.",
+      "reference": "托运人或者旅客根据自愿可以向保险公司办理货物运输保险，保险公司按照保险合同的约定承担赔偿责任。",
+      "translate_result": "托运人、旅客可以自愿向保险机构投保货物运输保险，保险机构按照保险合同的约定承担赔偿责任。",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "A few years ago Cimentos de Mo çambique was accused of environmental pollution at this plant, which led to its temporary closure, following a campaign by environmental protection organizations.": {
+      "序号": 43,
+      "source sentence": "A few years ago Cimentos de Mo çambique was accused of environmental pollution at this plant, which led to its temporary closure, following a campaign by environmental protection organizations.",
+      "reference": "几年前，莫桑比克水泥公司的水泥厂被指控污染环境，环境保护组织举行了一些运动之后，水泥厂曾被迫临时停产。",
+      "translate_result": "几年前，莫桑比克水泥公司被指控该工厂污染环境，在环保组织的呼吁下，该工厂被暂时关闭。",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "Abstract: The author introduced procreate and effect factors of motor vehicle pollution,and its dangerous to health.Then,analyzed the causes of Guangzhou′s automobile pollution.At last,the author put forward some countermeasures of reducing automobile pollution.": {
+      "序号": 44,
+      "source sentence": "Abstract: The author introduced procreate and effect factors of motor vehicle pollution,and its dangerous to health.Then,analyzed the causes of Guangzhou′s automobile pollution.At last,the author put forward some countermeasures of reducing automobile pollution.",
+      "reference": "文摘:通过对汽车尾气污染的产生及影响因素的分析和尾气成分对身体健康危害的介绍，分析了广州市机动车尾气的形成原因，并提出了相应的控制对策。",
+      "translate_result": "摘要：介绍了机动车污染的产生、影响因素及其对健康的危害，分析了广州市汽车污染的成因，最后提出了减少汽车污染的对策。",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "The second section mainly discusses basic theories of the science-tech progress and sustainable development of area's industry.": {
+      "序号": 45,
+      "source sentence": "The second section mainly discusses basic theories of the science-tech progress and sustainable development of area's industry.",
+      "reference": "主要说明本课题研究的背景、目的、意义和目标等问题。 第二章探讨科技进步与区域工业可持续发展的相关理论问题。",
+      "translate_result": "第二部分主要探讨区域产业科技进步与可持续发展的基本理论。",
+      "manual_1_result": 0,
+      "manual_2_result": 1,
+      "final_result": "futher check needed"
+   },
+   "Article 194 If it is needed to conduct a technical examination for the application for re-examination, the SDA shall organize the relevant professionals to carry it out pursuant to the original application time limit.": {
+      "序号": 46,
+      "source sentence": "Article 194 If it is needed to conduct a technical examination for the application for re-examination, the SDA shall organize the relevant professionals to carry it out pursuant to the original application time limit.",
+      "reference": "第一百九十四条　复审申请需要进行技术审查的，国家药品监督管理局应当组织有关专业技术人员按照原申请时限进行。",
+      "translate_result": "第一百九十四条 复审申请需要进行技术审查的，国家药品监督管理局应当组织相关专业人员按照原申请期限进行。",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "Mr. Greenspan also indicated overnight interest rates, which the central bank raised six times since last June, will continue to rise. He said the increases have not hurt the economy.": {
+      "序号": 47,
+      "source sentence": "Mr. Greenspan also indicated overnight interest rates, which the central bank raised six times since last June, will continue to rise. He said the increases have not hurt the economy.",
+      "reference": "格林斯潘暗示，美国的基本利率会继续上扬。自从去年6月以来，美联储已经连续六次调高短期利率，但是并没有影响经济发展。",
+      "translate_result": "格林斯潘还表示，隔夜利率将继续上升。自去年六月以来，央行已六次上调隔夜利率。他表示，利率上调并未损害经济。",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Grasso's shop, with two employees, is just one of 14 retailers on the ground floor of Hamilton Square, a new apartment building.": {
+      "序号": 48,
+      "source sentence": "Grasso's shop, with two employees, is just one of 14 retailers on the ground floor of Hamilton Square, a new apartment building.",
+      "reference": "”格拉索的蛋糕店有两个雇员，是位于汉密尔顿广场这座新公寓楼一层的14家零售店之一。",
+      "translate_result": "格拉索的商店有两名员工，是新公寓大楼汉密尔顿广场一楼 14 家零售商之一。",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Article 44 Business operators who refuse to provide materials needed for price monitoring and checking or provide false materials shall be ordered to correct, with a warning. Whereas they refuse to correct within the prescribed time limit, a fine shall be imposed.": {
+      "序号": 49,
+      "source sentence": "Article 44 Business operators who refuse to provide materials needed for price monitoring and checking or provide false materials shall be ordered to correct, with a warning. Whereas they refuse to correct within the prescribed time limit, a fine shall be imposed.",
+      "reference": "第四十四条 拒绝按照规定提供监督检查所需资料或者提供虚假资料的，责令改正，予以警告；逾期不改正的，可以处以罚款。",
+      "translate_result": "第四十四条 经营者拒绝提供价格监控所需材料或者提供虚假材料的，责令改正，给予警告。逾期拒不改正的，处以罚款。",
+      "manual_1_result": 1,
+      "manual_2_result": 0,
+      "final_result": "futher check needed"
+   },
+   "Article 29 A foreign-funded insurance company that applies for the establishment of a branch shall satisfy the following requirements:": {
+      "序号": 50,
+      "source sentence": "Article 29 A foreign-funded insurance company that applies for the establishment of a branch shall satisfy the following requirements:",
+      "reference": "第二十九条 外资保险公司申请设立分支机构，应当具备下列条件：",
+      "translate_result": "第二十九条 外资保险公司申请设立分支机构，应当具备下列条件：",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "Comparison study on hemostasis means of vascular seam and by-hand oppress in patients with coronary heart disease after percutaneous transluminal intervention": {
+      "序号": 51,
+      "source sentence": "Comparison study on hemostasis means of vascular seam and by-hand oppress in patients with coronary heart disease after percutaneous transluminal intervention",
+      "reference": "血管缝合器与人工压迫止血对冠心病介入术后病人的影响",
+      "translate_result": "冠心病患者介入治疗后血管缝合与手压止血方法的对比研究",
+      "manual_1_result": 0,
+      "manual_2_result": 1,
+      "final_result": "futher check needed"
+   },
+   "(2) where the act by a citizen, legal person or other organization itself causes damage;": {
+      "序号": 52,
+      "source sentence": "(2) where the act by a citizen, legal person or other organization itself causes damage;",
+      "reference": "（二）因公民、法人和其他组织自己的行为致使损害发生的；",
+      "translate_result": "（2）公民、法人或者其他组织的行为本身造成损害的；",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "When I studied kung fu, I heard a story of a second-degree black belt who had disabled someone trying to steal her purse at a bus stop.": {
+      "序号": 53,
+      "source sentence": "When I studied kung fu, I heard a story of a second-degree black belt who had disabled someone trying to steal her purse at a bus stop.",
+      "reference": "在我学功夫时，听到了一位二级黑带在公共汽车站制伏小偷的故事。",
+      "translate_result": "我在学习功夫的时候听说过一个故事，一位二级黑带在公交车站打伤了试图偷她钱包的人。",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "\"The pork is the biggest user of soybean products. Corn, its biggest user is beef cattle. So with all due respect, everybody keeps an eye on what type of crop you are raising because it really affects the bottom line of livestock producers in this state,\" said Nelson.": {
+      "序号": 54,
+      "source sentence": "\"The pork is the biggest user of soybean products. Corn, its biggest user is beef cattle. So with all due respect, everybody keeps an eye on what type of crop you are raising because it really affects the bottom line of livestock producers in this state,\" said Nelson.",
+      "reference": "比如消耗最多大豆的养猪户，和消耗最多玉米的养牛户。",
+      "translate_result": "“猪肉是大豆产品的最大用户。玉米，其最大的用户是肉牛。所以恕我直言，每个人都会关注你种植的作物类型，因为它确实影响到该州畜牧生产者的底线，”尼尔森说。",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "People realize that education quality is the key to the sustainable development of network education, and a well quality is the core competence for the network school's expansion.": {
+      "序号": 55,
+      "source sentence": "People realize that education quality is the key to the sustainable development of network education, and a well quality is the core competence for the network school's expansion.",
+      "reference": "人们普遍认识到，教育质量是网络教育实现可持续发展的关键，也是网校谋求长远发展的核心竞争力。",
+      "translate_result": "人们认识到教育质量是网络教育可持续发展的关键，良好的教育质量是网络学校发展的核心竞争力。",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "\"When, owing to force majeure, an inward or outward vessel or aircraft is forced to berth, land or jettison and discharge goods and articles at a place without a Customs establishment\"": {
+      "序号": 56,
+      "source sentence": "\"When, owing to force majeure, an inward or outward vessel or aircraft is forced to berth, land or jettison and discharge goods and articles at a place without a Customs establishment\"",
+      "reference": "进出境船舶和航空器,由于不可抗力的原因,被迫在未设立海关的地点停泊,降落或者抛掷,起卸货物,物品",
+      "translate_result": "“因不可抗力，进出境船舶、航空器被迫在无海关地点停泊、降落或者抛卸货物、物品时”",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "CSR is a crucial factor in harmonious development of economy and society, and it is also an important guide line of sustainable development to corporate.": {
+      "序号": 57,
+      "source sentence": "CSR is a crucial factor in harmonious development of economy and society, and it is also an important guide line of sustainable development to corporate.",
+      "reference": "企业社会责任成为推动经济和社会发展的重要因素，也是企业持续发展的主要指标。",
+      "translate_result": "企业社会责任是经济与社会和谐发展的重要因素，也是企业可持续发展的重要指引。",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "As to the series of Jielaili industrial cleasing papers, most of them adopt NBKP or pure non-woven fabrics, which possess strong absorption without hurting objects' surface, dropping soft flocks, generating static electricity or polluting the environment, can meet various industrial requirements, and are the best choice to enhance work efficiency and reduce labor costs.": {
+      "序号": 58,
+      "source sentence": "As to the series of Jielaili industrial cleasing papers, most of them adopt NBKP or pure non-woven fabrics, which possess strong absorption without hurting objects' surface, dropping soft flocks, generating static electricity or polluting the environment, can meet various industrial requirements, and are the best choice to enhance work efficiency and reduce labor costs.",
+      "reference": "洁来利工业用擦拭纸系列产品，大部分采用长纤木浆或纯无纺布材料制成，吸收力强，不伤物体表面、不掉毛屑、无静电产生、不污染环境，可满足各种工业不同工作的需求，是提高工作效率、降低人工成本的最佳选择。",
+      "translate_result": "洁来利系列工业清洁纸，大部分采用NBKP或纯无纺布，吸附力强，不伤物体表面，不掉毛，不产生静电，不污染环境，可满足各种工业要求，是提高工作效率、降低人工成本的最佳选择。",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "Rupert Pupkin, kidnapping king of comedy... was sentenced to six$ years imprisonment... at the government's minimum security facility... in Allenwood, Pennsylvania, for his part... in the abduction of talk show hostJerry Langford.": {
+      "序号": 59,
+      "source sentence": "Rupert Pupkin, kidnapping king of comedy... was sentenced to six$ years imprisonment... at the government's minimum security facility... in Allenwood, Pennsylvania, for his part... in the abduction of talk show hostJerry Langford.",
+      "reference": "处於宾夕法尼亚，阿伦活郡的政府监狱",
+      "translate_result": "绑架喜剧之王鲁珀特·普普金（Rupert Pupkin）……因绑架脱口秀主持人杰里·兰福德（Jerry Langford）而被判处六年监禁……在宾夕法尼亚州艾伦伍德的政府最低安全设施中……。",
+      "manual_1_result": 0,
+      "manual_2_result": 1,
+      "final_result": "futher check needed"
+   },
+   "(1). the name, sex, age, nationality, occupation, employer and address of the party, or the name, address and name and position of the legal representative or principal person in charge of the legal person or other organization;": {
+      "序号": 60,
+      "source sentence": "(1). the name, sex, age, nationality, occupation, employer and address of the party, or the name, address and name and position of the legal representative or principal person in charge of the legal person or other organization;",
+      "reference": "（一）当事人的姓名、性别、年龄、民族、职业、工作单位和住所，法人或者其他组织的名称、住所和法定代表人或者主要负责人的姓名、职务；",
+      "translate_result": "(1).当事人的姓名、性别、年龄、国籍、职业、工作单位、住所，或者法人或者其他组织的法定代表人或者主要负责人的姓名、地址、姓名和职务；",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "(a) in the case of a document to be served on a body corporate by delivering it to the secretary of the body at its registered or principal office or sending it by registered post or the recorded delivery service addressed to the secretary of that body at that office;": {
+      "序号": 61,
+      "source sentence": "(a) in the case of a document to be served on a body corporate by delivering it to the secretary of the body at its registered or principal office or sending it by registered post or the recorded delivery service addressed to the secretary of that body at that office;",
+      "reference": "(a) 如属须送达法人团体的文件，则交付法人团体的注册办事处或总办事处的秘书，或以挂号邮递或纪录派递服务的方式寄交，并以法人团体该办事处的秘书为收件人;",
+      "translate_result": "（a）如果文件需送达法人团体，则可将文件送交该法人团体的注册或主要办事处的秘书，或通过挂号信或记录派递服务将其寄送至该法人团体的秘书办事处；",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "The urban riverfront area is becoming more and more vigorous in China. The urban riverfront area also becomes the hot spot in the landscape plan and design.": {
+      "序号": 62,
+      "source sentence": "The urban riverfront area is becoming more and more vigorous in China. The urban riverfront area also becomes the hot spot in the landscape plan and design.",
+      "reference": "城市滨河区正成为中国城市中最具有活力的地区之一，滨河区也成为园林规划设计的热点。",
+      "translate_result": "城市滨河区在我国正变得越来越有活力，城市滨河区也成为景观规划设计的热点。",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "You might be waiting a while for one of these to pull up at the local bus stop.": {
+      "序号": 63,
+      "source sentence": "You might be waiting a while for one of these to pull up at the local bus stop.",
+      "reference": "或许你正在当地汽车站等待这么一辆车停下来。",
+      "translate_result": "您可能需要等待一段时间才能等到其中一辆巴士在当地的公交车站停靠。",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "Study on the flow conditions at the entrance area of shiplock approach channel in hydro-power station": {
+      "序号": 64,
+      "source sentence": "Study on the flow conditions at the entrance area of shiplock approach channel in hydro-power station",
+      "reference": "新政电航枢纽船闸引航道口门区通航条件研究",
+      "translate_result": "水电站船闸引航道口门区水流条件研究",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "It is also the strongest typhoon to hit Hainan since 2005, said Cai Qinbo, head of the provincial weather station.": {
+      "序号": 65,
+      "source sentence": "It is also the strongest typhoon to hit Hainan since 2005, said Cai Qinbo, head of the provincial weather station.",
+      "reference": "省气象站的负责人曹启波表示，这也是海南省自2005年以来遭遇的最强台风。",
+      "translate_result": "省气象台台长蔡钦波说，这也是2005年以来袭击海南的最强台风。",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "(e) any hospital or nursing home, or any home for convalescents or for elderly or disabled persons, or any other premises used for the provision of sleeping accommodation to any class of persons under authority given by or with the recognition of the Secretary for Health and Welfare.": {
+      "序号": 66,
+      "source sentence": "(e) any hospital or nursing home, or any home for convalescents or for elderly or disabled persons, or any other premises used for the provision of sleeping accommodation to any class of persons under authority given by or with the recognition of the Secretary for Health and Welfare.",
+      "reference": "(e) 医院﹑护理院﹑疗养院﹑安老院﹑残障人士收容所，或在生福利司授权或认可下用以为任何类别的人提供住宿地方的任何其他处所。",
+      "translate_result": "(e) 任何医院或护养院，或任何疗养院、安老院或残疾人士院，或任何其他根据卫生福利局局长的授权或认可而用作向任何类别人士提供宿舍的处所。",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "Article 8 The time limit for institution of legal proceedings pertaining to disputes over the right to inheritance is two years, counting from the day the successor became or should have become aware of the violation of his right to inheritance.": {
+      "序号": 67,
+      "source sentence": "Article 8 The time limit for institution of legal proceedings pertaining to disputes over the right to inheritance is two years, counting from the day the successor became or should have become aware of the violation of his right to inheritance.",
+      "reference": "第八条继承权纠纷提起诉讼的期限为二年，自继承人知道或者应当知道其权利被侵犯之日起计算。",
+      "translate_result": "第八条 继承权纠纷提起诉讼的期限为二年，自继承人知道或者应当知道继承权受到侵犯之日起计算。",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "As a case in point of alcohol wastewater treatment MIC reactor, the digested sludge of municipal sewage factory was used to start-up MIC reactor. The process was divided into three stages: the sludge taming, the granular sludge forming and its maturing.": {
+      "序号": 68,
+      "source sentence": "As a case in point of alcohol wastewater treatment MIC reactor, the digested sludge of municipal sewage factory was used to start-up MIC reactor. The process was divided into three stages: the sludge taming, the granular sludge forming and its maturing.",
+      "reference": "以MIC厌氧反应器处理高浓度酒精废水为例,采用城市污水厂的消化污泥启动MIC反应器,其培养过程分为3个阶段:驯化启动期、颗粒污泥出现期和颗粒污泥成熟期。",
+      "translate_result": "以酒精废水处理MIC反应器为例，利用城市污水厂消化污泥启动MIC反应器。整个过程分为污泥驯化、颗粒污泥形成和熟化三个阶段。",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "People hope it can meet the financial demands of the state-run business, shoulder the great financial risks of the state-run bank as well as allocate the resources properly and promote the transfer of enterprises' operating system.": {
+      "序号": 69,
+      "source sentence": "People hope it can meet the financial demands of the state-run business, shoulder the great financial risks of the state-run bank as well as allocate the resources properly and promote the transfer of enterprises' operating system.",
+      "reference": "它一开始就被赋予了过于沉重的负担，既要解决国企的融资需求，分担部分国有银行的金融风险，又要在提高资源配置效率和促进国企经营机制转换中发挥作用。",
+      "translate_result": "人们希望它能够满足国有企业的金融需求，分担国有银行的巨大金融风险，合理配置资源，促进企业经营体制的转变。",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Late systolic murmurs begin in midsystole and extend to or through S2. They may be heard in mitral valve prolapse (frequently accompanied by midsystolic clicks) or coarctation of the aorta.": {
+      "序号": 70,
+      "source sentence": "Late systolic murmurs begin in midsystole and extend to or through S2. They may be heard in mitral valve prolapse (frequently accompanied by midsystolic clicks) or coarctation of the aorta.",
+      "reference": "收缩期晚期杂音始于收缩期中期，延至或贯穿S2。可在二尖瓣脱垂（通常伴有收缩中期喀喇音）或主动脉瓣缩缝时听到。",
+      "translate_result": "收缩晚期杂音始于收缩中期，延伸至或穿过 S2。在二尖瓣脱垂（经常伴有收缩中期喀喇音）或主动脉缩窄时可听到。",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "(4) An application made by a person authorized by a body corporate not possessing a common seal shall include a declaration by that person that the body concerned does not possess a common seal.": {
+      "序号": 71,
+      "source sentence": "(4) An application made by a person authorized by a body corporate not possessing a common seal shall include a declaration by that person that the body concerned does not possess a common seal.",
+      "reference": "(4) 由并无法团印章的法人团体所授权的人提出的申请，须包括一份由该人所作的声明书，声明该法人团体并无法团印章。",
+      "translate_result": "(4) 由不具备法人印章的法人团体授权的人提出的申请，应当包括该人关于该法人团体不拥有法人印章的声明。",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "A synchronous and diachronous overview of the Olympic ideal was made from the point of view of philosophy, sociolo-gy, and history on the original idea of the revival of modern Olympic Games and the development of modern Olympicmovement,the Eastern and Western culture,the history of human activities,and the requirement of future society.": {
+      "序号": 72,
+      "source sentence": "A synchronous and diachronous overview of the Olympic ideal was made from the point of view of philosophy, sociolo-gy, and history on the original idea of the revival of modern Olympic Games and the development of modern Olympicmovement,the Eastern and Western culture,the history of human activities,and the requirement of future society.",
+      "reference": "本文从哲学、社会学和历史学的角度,就复兴奥运会的初衷以及奥林匹克运动发展、东西方文化发展、人类活动发展的历史和未来社会的需求,对奥林匹克理想作纵横的整体审察,揭示其本质意义。",
+      "translate_result": "从哲学、社会学、历史学的角度，对现代奥林匹克运动复兴的初衷和现代奥林匹克运动的发展、东西方文化、现代奥林匹克运动的发展等进行了同步、历时的概述。人类活动的历史和未来社会的要求。",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "The Government of the special administrative region of Macau(SARM) has 8 percent of the company's capital, China Power International Holding Ltd has 6 percent and the remaining 2 percent are in the hands of 800 local shareholders.": {
+      "序号": 73,
+      "source sentence": "The Government of the special administrative region of Macau(SARM) has 8 percent of the company's capital, China Power International Holding Ltd has 6 percent and the remaining 2 percent are in the hands of 800 local shareholders.",
+      "reference": "澳门特区政府控股8%，中国电力国际有限公司控股6%，800当地股东共控股2%。",
+      "translate_result": "澳门特别行政区政府拥有该公司8％的资本，中国电力国际集团有限公司拥有6％，其余2％由800名当地股东持有。",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Laws listed in Annex III to this Law shall be confined to those relating to defense and foreign affairs as well as other matters outside the limits of the autonomy of the Region as specified by this Law.": {
+      "序号": 74,
+      "source sentence": "Laws listed in Annex III to this Law shall be confined to those relating to defense and foreign affairs as well as other matters outside the limits of the autonomy of the Region as specified by this Law.",
+      "reference": "列入附件三的法律应限于有关国防、外交和其他依照本法规定不属于澳门特别行政区自治范围的法律。",
+      "translate_result": "本法附件三所列法律，仅限于有关国防、外交以及本法规定的香港特别行政区自治范围以外的其他事项的法律。",
+      "manual_1_result": 1,
+      "manual_2_result": 0,
+      "final_result": "futher check needed"
+   },
+   "No alteration shall be made during the franchise period to the memorandum or articles of association of a grantee without the approval of the Governor.": {
+      "序号": 75,
+      "source sentence": "No alteration shall be made during the franchise period to the memorandum or articles of association of a grantee without the approval of the Governor.",
+      "reference": "在专营期内，未得总督批准，不得更改专营公司的组织章程大纲或组织章程细则。",
+      "translate_result": "在特许经营期间，未经总督批准，不得对受让人的组织大纲或章程进行任何修改。",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "In any of the following situations, the presiding hearer may decide to postpone the hearing: A party concerned is unable to be present due to causes of force majeure;": {
+      "序号": 76,
+      "source sentence": "In any of the following situations, the presiding hearer may decide to postpone the hearing: A party concerned is unable to be present due to causes of force majeure;",
+      "reference": "有下列情形之一的,主持人可以决定延期举行听证:当事人因不可抗拒的事由无法到场的;",
+      "translate_result": "有下列情形之一的，听证主持人可以决定延期审理： 当事人因不可抗力原因不能到场的；",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "（3）to get people to keep under control the place where the accident of occupational disease hazards has occurred.": {
+      "序号": 77,
+      "source sentence": "（3）to get people to keep under control the place where the accident of occupational disease hazards has occurred.",
+      "reference": "（三）组织控制职业病危害事故现场。",
+      "translate_result": "（三）组织人员控制职业病危害事故发生场所。",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "①Arteriosclerotic indexes in the hypertension accompanied by coronary heart disease and/or cerebrovascular disease group and diabetes accompanied by hypertension group were significantly higher than those in the normal control group(P < 0.01).": {
+      "序号": 78,
+      "source sentence": "①Arteriosclerotic indexes in the hypertension accompanied by coronary heart disease and/or cerebrovascular disease group and diabetes accompanied by hypertension group were significantly higher than those in the normal control group(P < 0.01).",
+      "reference": "①高血压伴冠心病和/或脑血管病组和糖尿病伴高血压组患者的动脉硬化指数明显高于健康对照组(P<0.01)。",
+      "translate_result": "①高血压伴冠心病和（或）脑血管病组、糖尿病伴高血压组动脉硬化指标均显著高于正常对照组（P &lt; 0.01）。",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "(1A) Only a professional accountant, who shall on the day of the annual general meeting of the Society be ordinarily resident in Hong Kong, shall become a candidate for election as an elected member of the Council. (L.N. 359 of 1996)": {
+      "序号": 79,
+      "source sentence": "(1A) Only a professional accountant, who shall on the day of the annual general meeting of the Society be ordinarily resident in Hong Kong, shall become a candidate for election as an elected member of the Council. (L.N. 359 of 1996)",
+      "reference": "(1A) 只有在公会周年大会当日通常居於香港的专业会计师，方可成为理事会当选理事选举的候选人。(1996年第359号法律公告)",
+      "translate_result": "(1A) 只有在公会周年大会当日通常居住于香港的专业会计师，方可成为理事会民选理事的候选人。(1996年第359号法律公告)",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "The group has become increasingly entrenched in North Africa, especially in northern Mali, which fell earlier this year to Islamist militants allied with al-Qaida.": {
+      "序号": 80,
+      "source sentence": "The group has become increasingly entrenched in North Africa, especially in northern Mali, which fell earlier this year to Islamist militants allied with al-Qaida.",
+      "reference": "这个组织不断巩固了在北非尤其是在马里北部的势力。今年早些时候，马里北部被与基地组织结盟的伊斯兰激进分子控制。",
+      "translate_result": "该组织在北非的势力日益强大，尤其是在马里北部。今年早些时候，该地区被与基地组织结盟的伊斯兰激进分子占领。",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "\"traffic sign\" (交通标志) means a sign, object or device for conveying to persons using a road any warning, information, direction, requirement, restriction or prohibition;": {
+      "序号": 81,
+      "source sentence": "\"traffic sign\" (交通标志) means a sign, object or device for conveying to persons using a road any warning, information, direction, requirement, restriction or prohibition;",
+      "reference": "“道路标记”(road marking) 指放置或嵌装於路面的条、字、标记或设备，以向道路使用者传达警告、资料、规定、限制、禁制或指示;",
+      "translate_result": "“交通标志”（traffic sign） 指向使用道路的人传达任何警告、资料、指示、要求、限制或禁止的标志、物体或设备；",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "Based on these, a data collection module is developed with friendly user interface aimed at the measure device, the structure of the calibration calculation module is designed and the input, calculation and output functions of calibration data are realized automatically.": {
+      "序号": 82,
+      "source sentence": "Based on these, a data collection module is developed with friendly user interface aimed at the measure device, the structure of the calibration calculation module is designed and the input, calculation and output functions of calibration data are realized automatically.",
+      "reference": "然后从机器人标定功能角度出发，提出了一种标定模块的总体结构，并针对现有的测量设备进行了标定数据采集模块的开发，搭建了标定模块的整体框架，实现了其中的标定测量数据的自动接收、标定数据的自动处理以及标定结果的输出等功能",
+      "translate_result": "在此基础上，开发了针对测量装置、具有友好用户界面的数据采集模块，设计了校准计算模块的结构，实现了校准数据的自动输入、计算和输出功能。",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "(2) The order bill of lading may be transferred after full endorsement or blank endorsement;": {
+      "序号": 83,
+      "source sentence": "(2) The order bill of lading may be transferred after full endorsement or blank endorsement;",
+      "reference": "（二）指示提单：经过记名背书或者空白背书转让；",
+      "translate_result": "（2）指示提单可以在全背书或空白背书后转让；",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "Efforts to export anti- blasphemy laws to an international level, Hanford said, will exert “a chilling effect ” on the ability to discuss religion openly.": {
+      "序号": 84,
+      "source sentence": "Efforts to export anti- blasphemy laws to an international level, Hanford said, will exert “a chilling effect ” on the ability to discuss religion openly.",
+      "reference": "汉福德说，将反亵渎的法律推向国际的做法，将给公开讨论宗教带来令人不寒而栗的影响。",
+      "translate_result": "汉福德表示，将反亵渎法输出到国际层面的努力将对公开讨论宗教的能力产生“寒蝉效应”。",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "promotion of family planning to control the population size and improve the health of the people": {
+      "序号": 85,
+      "source sentence": "promotion of family planning to control the population size and improve the health of the people",
+      "reference": "实行计划生育,控制人口数量,提高人口素质",
+      "translate_result": "推进计划生育，控制人口规模，提高人民健康水平",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "The famous nerve scientists Gerald M. Edelman and Giulio Tononi make a new analysis and generalization to the problem of consciousness that is noted as a world enigma. They develop the enigma into a subject that is not only fit for philosophical exploration but also for scientific research.": {
+      "序号": 86,
+      "source sentence": "The famous nerve scientists Gerald M. Edelman and Giulio Tononi make a new analysis and generalization to the problem of consciousness that is noted as a world enigma. They develop the enigma into a subject that is not only fit for philosophical exploration but also for scientific research.",
+      "reference": "著名神经科学家埃德尔曼和托诺尼对以“世界之结”著称的意识问题作出了新的分析和梳理,从而使“谜团”转化成了既适合于哲学探讨,又有可能从科学上加以研究的清晰问题。",
+      "translate_result": "著名神经科学家杰拉德·埃德尔曼和朱利奥·托诺尼对被誉为世界之谜的意识问题进行了新的分析和概括，并将这一谜题发展成为一门不仅适合哲学探索而且适合科学研究的课题。",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "if it fails to make corrections within the specified time limit, a request shall be made to the relevant people's government to shut it down within the limits of authority vested by the State Council;": {
+      "序号": 87,
+      "source sentence": "if it fails to make corrections within the specified time limit, a request shall be made to the relevant people's government to shut it down within the limits of authority vested by the State Council;",
+      "reference": "逾期不改正的，提请有关人民政府按照国务院规定的权限予以关闭；",
+      "translate_result": "逾期不改正的，提请有关人民政府按照国务院规定的权限予以关闭；",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "Study on a Method and Application of Wetness Measurement on Line for Steam Turbine": {
+      "序号": 88,
+      "source sentence": "Study on a Method and Application of Wetness Measurement on Line for Steam Turbine",
+      "reference": "汽轮机排汽湿度在线监测方法及应用研究",
+      "translate_result": "汽轮机湿度在线测量方法及应用研究",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "rape a woman or have sexual relations with a girl and when the circumstances are odious": {
+      "序号": 89,
+      "source sentence": "rape a woman or have sexual relations with a girl and when the circumstances are odious",
+      "reference": "强奸妇女,奸淫幼女情节恶劣的",
+      "translate_result": "强奸妇女或与女孩发生性关系，且情况恶劣",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "(1) For the purposes of holding, dealing with and enforcing copyright, and in connection with all legal proceedings relating to copyright, the Legislative Council is to be treated as having the legal capacities of a body corporate, which is not affected by a dissolution of the Legislative Council.": {
+      "序号": 90,
+      "source sentence": "(1) For the purposes of holding, dealing with and enforcing copyright, and in connection with all legal proceedings relating to copyright, the Legislative Council is to be treated as having the legal capacities of a body corporate, which is not affected by a dissolution of the Legislative Council.",
+      "reference": "(1) 就版权的持有、进行交易和强制执行而言，以及就与版权有关的所有法律程序而言，立法局须当作具有法人团体的法律行为能力，而该行为能力并不受立法局的解散影响。",
+      "translate_result": "（1）为持有、处理和执行版权的目的，以及在所有与版权有关的法律程序中，立法会被视为具有法人团体的法律行为能力，不受立法会解散的影响。",
+      "manual_1_result": 1,
+      "manual_2_result": 0,
+      "final_result": "futher check needed"
+   },
+   "Article 30 A company which changes its form shall, in accordance with the establishment requirements of the company form of the company to which the company intends to change, apply for registration of change with the company registration authority in the fixed time limit and submit the relevant documents.": {
+      "序号": 91,
+      "source sentence": "Article 30 A company which changes its form shall, in accordance with the establishment requirements of the company form of the company to which the company intends to change, apply for registration of change with the company registration authority in the fixed time limit and submit the relevant documents.",
+      "reference": "第三十条公司变更类型的，应当按照拟变更的公司类型的设立条件，在规定的期限内向公司登记机关申请变更登记，并提交有关文件。",
+      "translate_result": "第三十条 公司变更形式，应当按照拟变更公司形式的设立要求，在规定的期限内向公司登记机关申请变更登记，并提交有关资料。文件。",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "(a) permit any owner, at any reasonable time, to inspect the books or records of account and any income and expenditure account or balance sheet; and": {
+      "序号": 92,
+      "source sentence": "(a) permit any owner, at any reasonable time, to inspect the books or records of account and any income and expenditure account or balance sheet; and",
+      "reference": "(a) 准许业主在任何合理时间查阅帐簿或帐项纪录及任何收支表或资产负债表;及",
+      "translate_result": "(a) 允许任何业主在任何合理时间检查账簿或会计记录以及任何收支账户或资产负债表；并且",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "The applicant entity of territory-transit animals or territory-transit genetically modified products shall be an entity with independent legal person status and is able to directly conclude trade contracts or agreements with others or an agent of such an entity.": {
+      "序号": 93,
+      "source sentence": "The applicant entity of territory-transit animals or territory-transit genetically modified products shall be an entity with independent legal person status and is able to directly conclude trade contracts or agreements with others or an agent of such an entity.",
+      "reference": "过境动物和过境转基因产品的申请单位应当是具有独立法人资格并直接对外签订贸易合同或者协议的单位或者其代理人。",
+      "translate_result": "过境动物、过境转基因产品申请单位应当是具有独立法人资格的单位，并能直接与他人或者其代理人签订贸易合同或协议。",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Because a state may dispense with a jury trial, it does not follow that it may substitute trial by ordeal.": {
+      "序号": 94,
+      "source sentence": "Because a state may dispense with a jury trial, it does not follow that it may substitute trial by ordeal.",
+      "reference": "虽然一个州可以不采用陪审团审判，但这不意味着可以用折磨取代审判。",
+      "translate_result": "虽然一个州可以免除陪审团审判，但这并不意味着它可以用严酷审判来代替。",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "the plaintiff must be a citizen, a legal person or any other organization that considers a specific administrative act to have infringed upon his or its lawful rights and interests": {
+      "序号": 95,
+      "source sentence": "the plaintiff must be a citizen, a legal person or any other organization that considers a specific administrative act to have infringed upon his or its lawful rights and interests",
+      "reference": "原告是认为具体行政行为侵犯其合法权益的公民,法人或者其他组织",
+      "translate_result": "原告必须是认为具体行政行为侵犯其合法权益的公民、法人或者其他组织",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "“There is now a substantial difference deriving from the lower oil price and the natural consequences of that fact for the Angolan economy, although the latter's dependence on the price of this raw material is increasingly less, ”due to ongoing diversification of the economy, the study asserts.": {
+      "序号": 96,
+      "source sentence": "“There is now a substantial difference deriving from the lower oil price and the natural consequences of that fact for the Angolan economy, although the latter's dependence on the price of this raw material is increasingly less, ”due to ongoing diversification of the economy, the study asserts.",
+      "reference": "报告断言，“现在出现了很大的变化，主要是因为石油价格偏低，安哥拉经济受到了影响，但是安哥拉经济对石油价格的依赖程度越来越低，”因为安哥拉正在追求经济多样化的目标。",
+      "translate_result": "研究称，“目前，油价下跌及其对安哥拉经济的自然影响产生了巨大差异，尽管由于经济的持续多样化，安哥拉经济对这种原材料价格的依赖越来越小。”",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "It has also left many diners suffering from anaphylactic shock - a severe allergic reaction that can cause swelling, rashes and difficulty breathing.": {
+      "序号": 97,
+      "source sentence": "It has also left many diners suffering from anaphylactic shock - a severe allergic reaction that can cause swelling, rashes and difficulty breathing.",
+      "reference": "大量顾客吃了热辣汉堡后过敏性休克，这种严重的过敏反应会导致肿胀、发疹和呼吸困难。",
+      "translate_result": "许多食客还患上了过敏性休克——这是一种严重的过敏反应，会引起肿胀、皮疹和呼吸困难。",
+      "manual_1_result": 0,
+      "manual_2_result": 1,
+      "final_result": "futher check needed"
+   },
+   "But the achievement in scientific research in ski tourism is very poor.": {
+      "序号": 98,
+      "source sentence": "But the achievement in scientific research in ski tourism is very poor.",
+      "reference": "然而有关滑雪旅游方面的研究工作及其成果却相当贫乏。",
+      "translate_result": "但滑雪旅游方面的科研成果却很贫乏。",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "One part, space tourism, is a luxury service that is, in any case, unlikely to go beyond low-Earth orbit at best (the cost of getting even as far as the moon would reduce the number of potential clients to a handful).": {
+      "序号": 99,
+      "source sentence": "One part, space tourism, is a luxury service that is, in any case, unlikely to go beyond low-Earth orbit at best (the cost of getting even as far as the moon would reduce the number of potential clients to a handful).",
+      "reference": "一方面，太空旅行是一项奢侈的服务，不像冲出地球低轨道那么容易（这些如同与月球距离一般可观的巨额花费使潜在客人的数字减少到几个）。",
+      "translate_result": "其中一部分，太空旅游，是一项奢侈服务，无论如何，也不太可能超越近地轨道（即使去月球的成本也会使潜在客户的数量减少到屈指可数）。",
+      "manual_1_result": 0,
+      "manual_2_result": 1,
+      "final_result": "futher check needed"
+   }
+}

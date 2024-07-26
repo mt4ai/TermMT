@@ -1,0 +1,114 @@
+{
+   "Shenzhen, China, 31 Oct–The Angolan ambassador to the People's Republic of China, Jo ão Manuel Bernardo, said Monday in Shenzhen that there was a possibility that an air route between Beijing and Luanda would be opened up.": {
+      "序号": 0,
+      "原句": "Shenzhen, China, 31 Oct–The Angolan ambassador to the People's Republic of China, Jo ão Manuel Bernardo, said Monday in Shenzhen that there was a possibility that an air route between Beijing and Luanda would be opened up.",
+      "术语": "People's Republic of China",
+      "参考翻译": "['中华人民共和国']",
+      "原句翻译": "中国深圳10月31日电—安哥拉驻华大使若昂·曼努埃尔·贝尔纳多周一在深圳称，有可能开通北京与罗安达之间的航线。",
+      "原句术语翻译": [
+         "驻华大使"
+      ],
+      "insert变异": "Shenzhen, China, 31 Oct–The Angolan ambassador to the People's Republic of China (the official name of China, sometimes contrasted to the Republic of China (Taiwan)), Jo ão Manuel Bernardo, said Monday in Shenzhen that there was a possibility that an air route between Beijing and Luanda would be opened up.",
+      "insert变异翻译": "中国深圳 10 月 31 日电－安哥拉驻中华人民共和国（中国的正式名称，有时与中华民国（台湾）相对）大使若昂·曼努埃尔·贝尔纳多周一在深圳称，有可能开通北京与罗安达之间的航线。",
+      "insert术语翻译": "['中华人民共和国']",
+      "manual_1_result": 0,
+      "manual_2_result": 1,
+      "final_result": "futher check needed"
+   },
+   "According to the plan of the Ministry of Finance of the People's Republic of China, Shaanxi province began the concentration payment reform of local finance from Nov. 200and produced a marked effect.": {
+      "序号": 1,
+      "原句": "According to the plan of the Ministry of Finance of the People's Republic of China, Shaanxi province began the concentration payment reform of local finance from Nov. 200and produced a marked effect.",
+      "术语": "People's Republic of China",
+      "参考翻译": "['中华人民共和国']",
+      "原句翻译": "根据财政部的部署，陕西省从200年11月起开始地方财政集中支付改革，并取得了明显成效。",
+      "原句术语翻译": [
+         "，"
+      ],
+      "insert变异": "According to the plan of the Ministry of Finance of the People's Republic of China (the official name of China, sometimes contrasted to the Republic of China (Taiwan)), Shaanxi province began the concentration payment reform of local finance from Nov. 200and produced a marked effect.",
+      "insert变异翻译": "根据中华人民共和国财政部（中国的正式名称，有时与中华民国（台湾）相对照）的计划，陕西省从200年11月起开始地方财政集中支付改革，并制定了效果显着。",
+      "insert术语翻译": "['中华人民共和国财政部，']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "A fed batch culture of E. coli HMS174(pJMC2)was conduct in a 5L automatically controlled fermentor, the final dry cell weight, P(3HB co 3HV)content, and th 3HV proportion were 45g/L, 70% and 9% respectively.": {
+      "序号": 2,
+      "原句": "A fed batch culture of E. coli HMS174(pJMC2)was conduct in a 5L automatically controlled fermentor, the final dry cell weight, P(3HB co 3HV)content, and th 3HV proportion were 45g/L, 70% and 9% respectively.",
+      "术语": "dry cell",
+      "参考翻译": "['干电池']",
+      "原句翻译": "大肠杆菌HMS174(pJMC2)在5L自动控制发酵罐中进行补料分批培养，最终细胞干重、P(3HB co 3HV)含量和3HV比例分别为45g/L、70%和9% 。",
+      "原句术语翻译": [
+         "细胞干重"
+      ],
+      "insert变异": "A fed batch culture of E. coli HMS174(pJMC2)was conduct in a 5L automatically controlled fermentor, the final dry cell (any electrochemical cell whose electrolyte is a solid or stiff paste) weight, P(3HB co 3HV)content, and th 3HV proportion were 45g/L, 70% and 9% respectively.",
+      "insert变异翻译": "大肠杆菌 HMS174(pJMC2) 的补料分批培养在 5L 自动控制发酵罐中进行，最终干电池（电解质为固体或硬糊状的任何电化学电池）重量、P(3HB co 3HV) 含量和3HV比例分别为45g/L、70%和9%。",
+      "insert术语翻译": "['干电池']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "(a) that there are reasonable grounds for suspecting that a specified person has carried on or has benefited from drug trafficking; and": {
+      "序号": 3,
+      "原句": "(a) that there are reasonable grounds for suspecting that a specified person has carried on or has benefited from drug trafficking; and",
+      "术语": "drug trafficking",
+      "参考翻译": "['贩毒', '运毒']",
+      "原句翻译": "(a) 有合理理由怀疑指明的人曾进行贩毒或从贩毒中获利；及",
+      "原句术语翻译": [
+         "贩毒；"
+      ],
+      "insert变异": "(a) that there are reasonable grounds for suspecting that a specified person has carried on or has benefited from drug trafficking (the process of smuggling, distributing and selling illegal drugs); and",
+      "insert变异翻译": "(a) 有合理理由怀疑指明的人从事贩毒（走私、分销和贩卖非法药物的过程）或从中受益；并且",
+      "insert术语翻译": "['；']",
+      "manual_1_result": 0,
+      "manual_2_result": 0,
+      "final_result": 0
+   },
+   "(1) Where any Ordinance empowers the Director to audit, examine or inquire into the accounts of any person, body corporate or other body, the Director-": {
+      "序号": 4,
+      "原句": "(1) Where any Ordinance empowers the Director to audit, examine or inquire into the accounts of any person, body corporate or other body, the Director-",
+      "术语": "body corporate",
+      "参考翻译": "['业主法团']",
+      "原句翻译": "(c) 任何根据本条例获授权的人，可就该人所获授权的事宜，向处长提出申请，要求处长批准该人所获授权的事宜。",
+      "原句术语翻译": [
+         ""
+      ],
+      "insert变异": "(1) Where any Ordinance empowers the Director to audit, examine or inquire into the accounts of any person, body corporate (a legal person) or other body, the Director-",
+      "insert变异翻译": "(c) 任何根据本条例获授权的人，可向处长或任何获授权代表该人行事的任何人，或任何获授权代表该人行事的人，或任何获授权代表该人行事的人，",
+      "insert术语翻译": "['人行事']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "Since I had promised to focus on the economy like a laser beam, I began with that.": {
+      "序号": 5,
+      "原句": "Since I had promised to focus on the economy like a laser beam, I began with that.",
+      "术语": "laser beam",
+      "参考翻译": "['激光束']",
+      "原句翻译": "由于我已承诺将全力关注经济，因此我从经济开始。",
+      "原句术语翻译": [
+         "，"
+      ],
+      "insert变异": "Since I had promised to focus on the economy like a laser beam (the light emitted by a laser), I began with that.",
+      "insert变异翻译": "由于我曾承诺要像激光束（激光发出的光）一样关注经济，所以我从此开始。",
+      "insert术语翻译": "['激光束，']",
+      "manual_1_result": 1,
+      "manual_2_result": 1,
+      "final_result": 1
+   },
+   "(3)the people's governments of the provinces or autonomous regions or municipalities directly under the Central Government and the leading members of such governments.": {
+      "序号": 6,
+      "原句": "(3)the people's governments of the provinces or autonomous regions or municipalities directly under the Central Government and the leading members of such governments.",
+      "术语": "central government",
+      "参考翻译": "['中央政府']",
+      "原句翻译": "（三）省、自治区、直辖市人民政府及其领导成员。",
+      "原句术语翻译": [
+         "人民政府"
+      ],
+      "insert变异": "(3)the people's governments of the provinces or autonomous regions or municipalities directly under the Central Government (the highest level of government in a unitary state) and the leading members of such governments.",
+      "insert变异翻译": "（三）省、自治区、直辖市的人民政府（单一制国家中为最高政府）及其领导成员。",
+      "insert术语翻译": "['']",
+      "manual_1_result": 0,
+      "manual_2_result": 1,
+      "final_result": "futher check needed"
+   }
+}

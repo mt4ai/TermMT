@@ -1,0 +1,3 @@
+info_term_google: 4/7
+info_sentence_google: 4/5
+bert_replace_google: 41/88
