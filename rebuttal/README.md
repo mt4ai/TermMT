@@ -28,7 +28,7 @@ Get the number of errors
 ```bash
 python static_error.py
 ```
-Get the precision (After finished the questionaire, we provide our manual results in the `r3q1/results`)
+Get the precision (You need to finish the questionaire first. We provide our manual results in the `r3q1/results`)
 
 ```bash
 python precision_static.py
