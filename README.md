@@ -76,6 +76,18 @@ bash gpt_ask.sh
 # under python 3.7
 bash detect_filter.sh
 ```
+If you're interested in how we use prompts for error filtering, navigate to the `scripts/translate` folder and check the following files: `llm_judge_bert.py`, `llm_gpt_alignterm.py`, and `llm_judge_mean_corr.py`. Our prompt templates are as follows:
+```bash
+# checks if the inserted meaning aligns with the context
+prompt1 = f"You are an English-Chinese Translation Expert, specifically to assess the consistency of a term's interpreted meaning with its contextual usage in a given sentence. Be strict. \n        Provide response only in following format:  <YES, NO or Not Sure>. Do not include anything else in response. \n        Is the meaning <{meaning}> of the term <{term}> consistent with its meaning in the sentence <{sentence}>?  \n        Response:"
+
+# aligns and extracts term translations
+prompt2 = f"You are an English-Chinese Alignment Expert, expert in aligning phrases in English with their corresponding translations in Chinese. \n        Provide response only in following format: <中文> \n        Given the English sentence <{sentence_en}> and Chinese translated sentence of it <{sentence_zh}>, give the alignment of the phrase <{term}>. \n        Response:"
+
+# determines if the original term and its mutant phrase translate to the same Chinese term
+prompt3 = f"You are an English-Chinese Translation Expert, expert in checking whether two phrase terms should have the same translation in sentences. If not, please give the different translation of them.\n        Provide response only in following format:  <YES, NO or Not Sure>. Be as lenient as possible in judging. If you give \"NO\", give the different translations of them in following format: Different translations: <term1: translation1, term2: translation2>. Do not include anything else in response. \n        Can these two phrases <{term1}> and <{term2}> have the same Chinese translation: <{translation}> in the sentences <{sentence1}> and <{sentence2}>? \n        Response:"
+
+```
 
 
 ## Research Questions
@@ -164,13 +176,13 @@ python para_search.py
 ```
 
 ## Discussions
-Discussion 2:
+Discussion **Overlaps between MRs and Studied Models**:
 ```bash
 cd overlap
 python get_overlap.py
 ```
 
-Discussion 3:
+Discussion **How TermMT works on LLMs?**:
 First, select the sample, and then perform error detection. The error detection step is similar to the previous: 
 ```bash
 python sample_mutants.py
@@ -184,5 +196,5 @@ bash gpt_judge_filter.sh
 ```
 Our manual result is in folder `gpt-test/results/our_manual_result` 
 
-Discussion 4:
+Discussion **Translation Errors Reported by TermMT**:
 See the folder `cases` for screenshots of the errors.
