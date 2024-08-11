@@ -76,7 +76,7 @@ bash gpt_ask.sh
 # under python 3.7
 bash detect_filter.sh
 ```
-If you're interested in how we use prompts for error filtering, navigate to the `scripts/translate` folder and check the following files: `llm_judge_bert.py`, `llm_gpt_alignterm.py`, and `llm_judge_mean_corr.py`. Our prompt templates are as follows:
+If you're interested in how we use prompts for error filtering, navigate to the `scripts/translate` folder and check the following files: `llm_judge_mean_corr.py`, `llm_gpt_alignterm.py`, and `llm_judge_bert.py`. Our prompt templates are as follows:
 ```bash
 # checks if the inserted meaning aligns with the context
 prompt1 = f"You are an English-Chinese Translation Expert, specifically to assess the consistency of a term's interpreted meaning with its contextual usage in a given sentence. Be strict. \n        Provide response only in following format:  <YES, NO or Not Sure>. Do not include anything else in response. \n        Is the meaning <{meaning}> of the term <{term}> consistent with its meaning in the sentence <{sentence}>?  \n        Response:"
